@@ -1,0 +1,48 @@
+name:                jsem
+version:             0.1.1
+# synopsis:            Short description of your package
+description:         Please see the README on Github at <https://github.com/DaisukeBekki/JSeM#readme>
+author:              Daisuke Bekki
+maintainer:          bekki@is.ocha.ac.jp
+copyright:           Daisuke Bekki
+license:             GPL
+github:              DaisukeBekki/JSeM
+ghc-options:         -Wall
+extra-source-files:
+  - README.md
+  - ChangeLog.md
+  - parseTSV.sh
+  - data/jsem.xsl
+  - data/jsem.dtd
+dependencies:
+  - base >= 4.7 && < 5
+  - text >= 1.2
+  - containers >= 0.4
+  - xml-conduit >= 1.3
+library:
+  source-dirs: src
+  default-extensions: OverloadedStrings
+  exposed-modules:
+    - JSeM
+  other-modules: []
+executables:
+  # main:
+  #  main:         Main.hs
+  #  source-dirs:  app
+  #  ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
+  #  dependencies: jsem
+  jsem2text:
+    main:         jsem2text.hs
+    source-dirs:  app
+    ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
+    dependencies: jsem
+  tsv2xml:
+    main:         tsv2xml.hs
+    source-dirs:  app
+    ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
+    dependencies: jsem
+  show-stat:
+    main:         jsemStat.hs
+    source-dirs:  app
+    ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
+    dependencies: jsem
