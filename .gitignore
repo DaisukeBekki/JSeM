@@ -4,5 +4,6 @@ jsem.cabal
 *.bak
 data/2015
 data/2016
+data/JSeM_beta
 log/
 ToDo.txt

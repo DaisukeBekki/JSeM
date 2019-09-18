@@ -1,16 +1,26 @@
-module JSeM (
-  tsvline2XMLnode
+{-# LANGUAGE OverloadedStrings #-}
+
+{-|
+Module      : JSeM.TSV2XML
+Copyright   : (c) Daisuke Bekki, 2019
+Licence     : All right reserved
+Maintainer  : Daisuke Bekki <bekki@is.ocha.ac.jp>
+Stability   : beta
+-}
+
+module JSeM.TSV2XML (
+  tsv2XML
   ) where
 
 import qualified Data.Map as M        --container
-import qualified Data.Text.Lazy as T  --text
+import qualified Data.Text.Lazy as LazyT  --text
 import qualified Text.XML as X        --xml-conduit
 
 -- | tsv形式（タブ区切りテキスト）のJSeMデータを受け取り、
 -- | XML形式のJSeMデータを出力する。
-tsvline2XMLnode :: T.Text -> T.Text
-tsvline2XMLnode tsvlines  = 
-  let nodes = map (entry2Node . (T.split (=='\t'))) $ tail $ T.lines tsvlines
+tsv2XML :: LazyT.Text -> LazyT.Text
+tsv2XML tsvlines  = 
+  let nodes = map (tsvLine2xmlNode . (LazyT.split (=='\t'))) $ tail $ LazyT.lines tsvlines
       xmldoc = X.Document 
                 (X.Prologue [] Nothing []) 
                 (X.Element (myname "jsem-problems") (M.fromList []) nodes)
@@ -25,11 +35,11 @@ tsvline2XMLnode tsvlines  =
                            }
 -}
 
-myname :: T.Text -> X.Name
-myname t = X.Name (T.toStrict t) Nothing Nothing 
+myname :: LazyT.Text -> X.Name
+myname t = X.Name (LazyT.toStrict t) Nothing Nothing 
 
-entry2Node :: [T.Text] -> X.Node
-entry2Node entry = 
+tsvLine2xmlNode :: [LazyT.Text] -> X.Node
+tsvLine2xmlNode entry = 
   -- | entry!!0  1    
   -- | entry!!1  GQ間の関係：「ある」系-「すべて」系		
   -- | entry!!2  
@@ -43,11 +53,11 @@ entry2Node entry =
   X.NodeElement $ X.Element 
                     (myname "problem")
                     (M.fromList 
-                       [("jsem_id",T.toStrict (entry!!0)),
-                        ("answer",T.toStrict (entry!!3)),
+                       [("jsem_id",LazyT.toStrict (entry!!0)),
+                        ("answer",LazyT.toStrict (entry!!3)),
                         ("language","ja"),
-                        ("phenomena",T.toStrict (entry!!4)),
-                        ("inference_type",T.toStrict (entry!!5))
+                        ("phenomena",LazyT.toStrict (entry!!4)),
+                        ("inference_type",LazyT.toStrict (entry!!5))
                        ])
                     ([X.NodeElement $ X.Element 
                         (myname "link")
@@ -64,10 +74,10 @@ entry2Node entry =
                         [X.NodeElement $ X.Element
                            (myname "script")
                            (M.fromList [])
-                           [X.NodeContent (T.toStrict (entry!!6))]                        
+                           [X.NodeContent (LazyT.toStrict (entry!!6))]                        
                         ]
                       ] ++  
-                      (if entry!!7 /= T.empty
+                      (if entry!!7 /= LazyT.empty
                        then 
                          [X.NodeElement $ X.Element
                            (myname "p")
@@ -75,7 +85,7 @@ entry2Node entry =
                            [X.NodeElement $ X.Element
                              (myname "script")
                              (M.fromList [])
-                             [X.NodeContent (T.toStrict (entry!!7))]
+                             [X.NodeContent (LazyT.toStrict (entry!!7))]
                            ]
                          ]  
                        else [])
@@ -86,10 +96,10 @@ entry2Node entry =
                         [X.NodeElement $ X.Element
                            (myname "script")
                            (M.fromList [])
-                           [X.NodeContent (T.toStrict (entry!!8))]
+                           [X.NodeContent (LazyT.toStrict (entry!!8))]
                         ],
                       X.NodeElement $ X.Element
                         (myname "note")
                         (M.fromList [])
-                        [X.NodeContent (T.toStrict (entry!!9))]
+                        [X.NodeContent (LazyT.toStrict (entry!!9))]
                       ])

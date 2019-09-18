@@ -1,36 +1,40 @@
 name:                jsem
-version:             0.1.1
-# synopsis:            Short description of your package
+version:             0.1.2
+synopsis:            Japanese (FraCaS-style) semantic test suit and Haskell tools
 description:         Please see the README on Github at <https://github.com/DaisukeBekki/JSeM#readme>
-author:              Daisuke Bekki
+author:              Daisuke Bekki and Ai Kawazoe
 maintainer:          bekki@is.ocha.ac.jp
-copyright:           Daisuke Bekki
-license:             GPL
+copyright:           Daisuke Bekki and Ai Kawazoe
+license:             AllRightsReserved
 github:              DaisukeBekki/JSeM
 ghc-options:         -Wall
 extra-source-files:
   - README.md
   - ChangeLog.md
-  - parseTSV.sh
+  - tsv2xml.sh
   - data/jsem.xsl
   - data/jsem.dtd
 dependencies:
   - base >= 4.7 && < 5
   - text >= 1.2
+  - bytestring >= 0.10
+  - filepath >= 1.4
   - containers >= 0.4
   - xml-conduit >= 1.3
 library:
   source-dirs: src
   default-extensions: OverloadedStrings
   exposed-modules:
-    - JSeM
+    - JSeM.TSV2XML
+    - JSeM.XML2JSeMData
+    - JSeM.Dataset
   other-modules: []
 executables:
-  # main:
-  #  main:         Main.hs
-  #  source-dirs:  app
-  #  ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
-  #  dependencies: jsem
+  main:
+    main:         Main.hs
+    source-dirs:  app
+    ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
+    dependencies: jsem
   jsem2text:
     main:         jsem2text.hs
     source-dirs:  app
@@ -42,7 +46,7 @@ executables:
     ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
     dependencies: jsem
   show-stat:
-    main:         jsemStat.hs
+    main:         showStat.hs
     source-dirs:  app
     ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
     dependencies: jsem
