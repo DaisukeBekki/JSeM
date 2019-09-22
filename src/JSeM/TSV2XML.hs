@@ -74,14 +74,24 @@ tsvLine2xmlNode entry =
   -- | entry!!6  P1 ある社員が異動を希望している。	
   -- | entty!!7  P2 （空欄の場合はは<p idx="2">タグはなし）
   -- | entry!!8  Hすべての社員が異動を希望している。				      
-  -- | entry!!9  note  
+  -- | entry!!9  note
+  let entry4 = entry!!4 -- JSeMのphenomena名はexcelのtsv変換で前後にダブルクオーテーションが付くので外す。
+      phenomena = if entry4 == ""
+                    then ""
+                    else let entry4_1 = if LazyT.head entry4 == '\"'
+                                          then LazyT.tail entry4
+                                          else entry4
+                             entry4_2 = if LazyT.last entry4_1 == '\"'
+                                          then LazyT.init entry4_1
+                                          else entry4_1 in
+                         LazyT.replace ", " "," entry4_2 in
   X.NodeElement $ X.Element 
                     (myname "problem")
                     (M.fromList 
                        [("jsem_id",LazyT.toStrict (entry!!0)),
                         ("answer",LazyT.toStrict (entry!!3)),
                         ("language","ja"),
-                        ("phenomena",LazyT.toStrict (entry!!4)),
+                        ("phenomena",LazyT.toStrict phenomena),
                         ("inference_type",LazyT.toStrict (entry!!5))
                        ])
                     ([X.NodeElement $ X.Element 
