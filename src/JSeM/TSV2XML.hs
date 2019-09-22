@@ -9,24 +9,51 @@ Stability   : beta
 -}
 
 module JSeM.TSV2XML (
-  tsv2XML
+  tsv2XML,
+  tsvFile2XML,
+  checkTsvFile
   ) where
 
-import qualified Data.Map as M        --container
-import qualified Data.Text.Lazy as LazyT  --text
-import qualified Text.XML as X        --xml-conduit
+import qualified Data.Map as M                   --container
+import qualified Data.Text as StrictT            --text
+import qualified Data.Text.Lazy as LazyT         --text
+import qualified Text.XML as X                   --xml-conduit
+import qualified Shelly as S                     --shelly
 
--- | tsv形式（タブ区切りテキスト）のJSeMデータを受け取り、
+-- | tsv形式のJSeMデータをTextとして受け取り、
 -- | XML形式のJSeMデータを出力する。
 tsv2XML :: LazyT.Text -> LazyT.Text
 tsv2XML tsvlines  = 
-  let nodes = map (tsvLine2xmlNode . (LazyT.split (=='\t'))) $ tail $ LazyT.lines tsvlines
-      xmldoc = X.Document 
-                (X.Prologue [] Nothing []) 
-                (X.Element (myname "jsem-problems") (M.fromList []) nodes)
-                []
-  in X.renderText X.def xmldoc
-{-  
+  nodes2XML "jsem-problems" $ map (tsvLine2xmlNode . (LazyT.split (=='\t'))) $ tail $ LazyT.lines tsvlines
+
+nkf :: FilePath -> IO(StrictT.Text)
+nkf filepath = S.shelly $ S.silently $ S.escaping False $ S.cmd $ S.fromText $ StrictT.concat ["cat '", StrictT.pack filepath, "'| nkf -w -Lu"]
+-- | tsv形式のJSeMデータのファイル名を受け取り、開いてutf8形式のテキストにデコードする
+--decodeFile :: FilePath -> IO(LazyT.Text)
+--decodeFile file = E.decodeUtf8 <$> nkf file
+
+-- | tsv形式のJSeMデータのファイル名を受け取り、XML形式のJSeMデータを出力する。
+tsvFile2XML :: FilePath -> IO(LazyT.Text)
+tsvFile2XML tsvFile = tsv2XML <$> LazyT.fromStrict <$> nkf tsvFile 
+
+-- | tsv形式のJSeMデータのファイル名を受け取り、形式をチェックする。
+checkTsvFile :: FilePath -> IO()
+checkTsvFile tsvFile = do
+  txt <- nkf tsvFile
+  mapM_ (putStrLn . show . length . LazyT.split (=='\t')) $ LazyT.lines $ LazyT.fromStrict txt
+  
+-- | タグ名をXMLタグ名に
+myname :: LazyT.Text -> X.Name
+myname t = X.Name (LazyT.toStrict t) Nothing Nothing
+
+-- | タグ名、ノードのリストを受け取り、XML形式のテキストに変換。
+nodes2XML :: LazyT.Text -> [X.Node] -> LazyT.Text
+nodes2XML tagname nodes =
+  X.renderText X.def $ X.Document 
+                         (X.Prologue [] Nothing []) 
+                         (X.Element (myname tagname) (M.fromList []) nodes)
+                         []
+{-
   where myRenderSetting = RenderSettings 
                            { isPretty = True
                            , rsNamespaces = []             
@@ -35,9 +62,7 @@ tsv2XML tsvlines  =
                            }
 -}
 
-myname :: LazyT.Text -> X.Name
-myname t = X.Name (LazyT.toStrict t) Nothing Nothing 
-
+-- | TSV形式のJSeMテキストをJSeM式のXMLノードに変換
 tsvLine2xmlNode :: [LazyT.Text] -> X.Node
 tsvLine2xmlNode entry = 
   -- | entry!!0  1    
@@ -103,3 +128,4 @@ tsvLine2xmlNode entry =
                         (M.fromList [])
                         [X.NodeContent (LazyT.toStrict (entry!!9))]
                       ])
+
