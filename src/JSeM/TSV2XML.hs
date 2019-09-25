@@ -14,6 +14,7 @@ module JSeM.TSV2XML (
   checkTsvFile
   ) where
 
+import Control.Monad (when)              --base
 import qualified Data.Map as M           --container
 import qualified Data.Text as StrictT    --text
 import qualified Data.Text.IO as StrictT    --text
@@ -26,9 +27,9 @@ import Text.Parsec.Text as P             --parsec
 
 -- | tsv形式のJSeMデータをTextとして受け取り、
 -- | XML形式のJSeMデータを出力する。
-tsv2XML :: LazyT.Text -> LazyT.Text
+tsv2XML :: LazyT.Text -> IO(LazyT.Text)
 tsv2XML tsvlines  = 
-  nodes2XML "jsem-problems" $ map (tsvLine2xmlNode . (StrictT.split (=='\t')) . LazyT.toStrict) $ tail $ LazyT.lines tsvlines
+  nodes2XML "jsem-problems" <$> (mapM (tsvLine2xmlNode . (StrictT.split (=='\t')) . LazyT.toStrict) $ tail $ LazyT.lines tsvlines)
 
 nkf :: FilePath -> IO(StrictT.Text)
 nkf filepath = S.shelly $ S.silently $ S.escaping False $ S.cmd $ S.fromText $ StrictT.concat ["cat '", StrictT.pack filepath, "'| nkf -w -Lu"]
@@ -38,7 +39,7 @@ nkf filepath = S.shelly $ S.silently $ S.escaping False $ S.cmd $ S.fromText $ S
 
 -- | tsv形式のJSeMデータのファイル名を受け取り、XML形式のJSeMデータを出力する。
 tsvFile2XML :: FilePath -> IO(LazyT.Text)
-tsvFile2XML tsvFile = tsv2XML <$> LazyT.fromStrict <$> nkf tsvFile 
+tsvFile2XML tsvFile = tsv2XML =<< LazyT.fromStrict <$> nkf tsvFile 
 
 -- | tsv形式のJSeMデータのファイル名を受け取り、形式をチェックする。
 checkTsvFile :: FilePath -> IO()
@@ -67,8 +68,8 @@ nodes2XML tagname nodes =
 -}
 
 -- | TSV形式のJSeMテキストをJSeM式のXMLノードに変換
-tsvLine2xmlNode :: [StrictT.Text] -> X.Node
-tsvLine2xmlNode entry = 
+tsvLine2xmlNode :: [StrictT.Text] -> IO(X.Node)
+tsvLine2xmlNode entry = do
   -- | entry!!0  1    
   -- | entry!!1  GQ間の関係：「ある」系-「すべて」系		
   -- | entry!!2  
@@ -79,19 +80,25 @@ tsvLine2xmlNode entry =
   -- | entty!!7  P2 （空欄の場合はは<p idx="2">タグはなし）
   -- | entry!!8  Hすべての社員が異動を希望している。				      
   -- | entry!!9  note
-  -- JSeMのphenomena名はexcelのtsv変換で前後にダブルクオーテーションが付くので外す。
-  let phenomena = case entry!!4 of
-                    "" -> ""
-                    e -> case parse phenomenaParser "" (entry!!4) of
-                           Left _ -> StrictT.concat ["parse error: ", entry!!4]
-                           Right p -> StrictT.intercalate "," p
-  in X.NodeElement $ X.Element 
+  when (length entry < 11) $ do
+                             StrictT.putStrLn $ StrictT.concat [ StrictT.intercalate " " entry]
+                             fail "the above entry has less than 10 columns"
+  -- | JSeMのphenomena名はexcelのtsv変換で前後にダブルクオーテーションが付くので外す。
+  let entry4 = entry!!4
+  phenomena <- case entry4 of
+                    "" -> return ""
+                    _ -> case parse phenomenaParser "" entry4 of
+                           Left err -> do
+                                       StrictT.putStrLn entry4
+                                       fail $ show err
+                           Right p -> return $ StrictT.intercalate "," p
+  return $ X.NodeElement $ X.Element 
                     (myname "problem")
                     (M.fromList 
                        [("jsem_id",entry!!0),
                         ("answer",entry!!3),
                         ("language","ja"),
-                        ("phenomena",phenomena),
+                        ("phenomena", phenomena),
                         ("inference_type",entry!!5)
                        ])
                     ([X.NodeElement $ X.Element 

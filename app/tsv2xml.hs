@@ -7,5 +7,5 @@ import qualified JSeM.TSV2XML as J              --jsem
 -- |          XML形式のJSeMデータを出力する。
 -- | usage:   ./TSV2XML.sh GQ追加分....txt
 main :: IO()
-main = T.putStrLn =<< J.tsv2XML <$> T.getContents
+main = T.putStrLn =<< J.tsv2XML =<< T.getContents
 
