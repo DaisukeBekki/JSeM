@@ -32,7 +32,7 @@ library:
     - JSeM.Dataset
   other-modules: []
 executables:
-  jsem-update:
+  update:
     main:         jsem-update.hs
     source-dirs:  app
     ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
@@ -47,12 +47,12 @@ executables:
     source-dirs:  app
     ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
     dependencies: jsem
-  show-stat:
+  stat:
     main:         show-stat.hs
     source-dirs:  app
     ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
     dependencies: jsem
-  check-data:
+  check:
     main:         check-data.hs
     source-dirs:  app
     ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]

@@ -11,6 +11,7 @@ import qualified JSeM.TSV2XML as J      --jsem
 dataFolder :: FilePath
 dataFolder = "/home/bekki/program/jsem/data"
 
+-- | dataFolderにある拡張子.txtファイルのすべてについて、
 main :: IO()
 main = do
   tsvFiles <- filter (isExtensionOf "txt") <$> D.listDirectory dataFolder
