@@ -11,7 +11,6 @@ ghc-options:         -Wall
 extra-source-files:
   - README.md
   - ChangeLog.md
-  - tsv2xml.sh
   - data/jsem.xsl
   - data/jsem.dtd
 dependencies:

@@ -11,6 +11,7 @@ Stability   : beta
 module JSeM.TSV2XML (
   tsv2XML,
   tsvFile2XML,
+  printXML,
   checkTsvFile
   ) where
 
@@ -19,6 +20,7 @@ import qualified Data.Map as M           --container
 import qualified Data.Text as StrictT    --text
 import qualified Data.Text.IO as StrictT    --text
 import qualified Data.Text.Lazy as LazyT --text
+import qualified Data.Text.Lazy.IO as LazyT --text
 import qualified Text.XML as X           --xml-conduit
 import qualified Shelly as S             --shelly
 import Text.Parsec as P                  --parsec
@@ -31,28 +33,34 @@ tsv2XML :: LazyT.Text -> IO(LazyT.Text)
 tsv2XML tsvlines  = 
   nodes2XML "jsem-problems" <$> (mapM (tsvLine2xmlNode . (StrictT.split (=='\t')) . LazyT.toStrict) $ tail $ LazyT.lines tsvlines)
 
+-- | 任意の文字コードのテキストを受け取り、utf8形式に変換する
 nkf :: FilePath -> IO(StrictT.Text)
 nkf filepath = S.shelly $ S.silently $ S.escaping False $ S.cmd $ S.fromText $ StrictT.concat ["cat '", StrictT.pack filepath, "'| nkf -w -Lu"]
--- | tsv形式のJSeMデータのファイル名を受け取り、開いてutf8形式のテキストにデコードする
---decodeFile :: FilePath -> IO(LazyT.Text)
---decodeFile file = E.decodeUtf8 <$> nkf file
 
 -- | tsv形式のJSeMデータのファイル名を受け取り、XML形式のJSeMデータを出力する。
 tsvFile2XML :: FilePath -> IO(LazyT.Text)
 tsvFile2XML tsvFile = tsv2XML =<< LazyT.fromStrict <$> nkf tsvFile 
 
+-- | XMLテキストを出力
+printXML :: LazyT.Text -> IO()
+printXML xml = do
+  txt <- S.shelly $ do
+    S.setStdin $ LazyT.toStrict xml
+    S.silently $ S.escaping False $ S.cmd "tidy --tab-size 2 -xml -utf8 -indent -quiet"
+  StrictT.putStrLn txt
+
 -- | tsv形式のJSeMデータのファイル名を受け取り、形式をチェックする。
 checkTsvFile :: FilePath -> IO()
 checkTsvFile tsvFile = do
   txt <- nkf tsvFile
-  mapM_ (putStrLn . show . length . LazyT.split (=='\t')) $ LazyT.lines $ LazyT.fromStrict txt
+  mapM_ (putStrLn . show . length . StrictT.split (=='\t')) $ StrictT.lines txt
   
 -- | タグ名をXMLタグ名に
-myname :: LazyT.Text -> X.Name
-myname t = X.Name (LazyT.toStrict t) Nothing Nothing
+myname :: StrictT.Text -> X.Name
+myname tagname = X.Name tagname Nothing Nothing
 
 -- | タグ名、ノードのリストを受け取り、XML形式のテキストに変換。
-nodes2XML :: LazyT.Text -> [X.Node] -> LazyT.Text
+nodes2XML :: StrictT.Text -> [X.Node] -> LazyT.Text
 nodes2XML tagname nodes =
   X.renderText X.def $ X.Document 
                          (X.Prologue [] Nothing []) 
