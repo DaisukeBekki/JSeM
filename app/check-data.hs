@@ -10,6 +10,6 @@ dataFolder = "/home/bekki/program/jsem/data"
 
 main :: IO()
 main = do
-  tsvFiles <- filter (isExtensionOf "tsv") <$> D.listDirectory dataFolder
+  tsvFiles <- filter (isExtensionOf "txt") <$> D.listDirectory dataFolder
   xmls <- mapM (\filename -> J.tsvFile2XML $ dataFolder </> filename) tsvFiles
   mapM_ T.putStrLn xmls

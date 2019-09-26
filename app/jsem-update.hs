@@ -13,7 +13,7 @@ dataFolder = "/home/bekki/program/jsem/data"
 
 main :: IO()
 main = do
-  tsvFiles <- filter (isExtensionOf "tsv") <$> D.listDirectory dataFolder
+  tsvFiles <- filter (isExtensionOf "txt") <$> D.listDirectory dataFolder
   forM_ tsvFiles $ \tsvFile' -> do 
     let tsvFile = dataFolder </> tsvFile'
         xmlFile = dataFolder </> replaceExtensions tsvFile "xml"
