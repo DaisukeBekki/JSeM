@@ -7,12 +7,17 @@ Stability   : beta
 -}
 
 module JSeM.Cmd (
+  readFileUtf8,
   nkf,
   tidy
   ) where
 
 import qualified Data.Text as StrictT --text
 import qualified Shelly as S          --shelly
+
+readFileUtf8 :: FilePath -> IO(StrictT.Text)
+readFileUtf8 filepath =
+  S.shelly $ S.silently $ S.escaping False $ S.cmd $ S.fromText $ StrictT.concat ["cat ", StrictT.pack filepath, " | nkf -w -Lu"]
 
 -- | 任意の文字コードのテキストを受け取り、utf8形式に変換する
 nkf :: StrictT.Text -> IO(StrictT.Text)

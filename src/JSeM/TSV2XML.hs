@@ -24,36 +24,34 @@ import qualified JSeM.Cmd as J           --jsem
 
 -- | tsv形式のJSeMデータをTextとして受け取り、
 -- | XML形式のJSeMデータを出力する。
+-- | （ここではnkfやtidyを使わない。必要な場合はshellから呼ぶこと）
 tsv2XML :: StrictT.Text -> IO(LazyT.Text)
 tsv2XML tsv  = 
-  nodes2XML "jsem-problems"
-  <$> (mapM (tsvLine2xmlNode . (StrictT.split (=='\t')) ) $ tail $ StrictT.lines tsv)
+  nodes2XML "jsem-problems" <$> (mapM (tsvLine2xmlNode . (StrictT.split (=='\t')) ) $ tail $ StrictT.lines tsv)
 
 -- | tsv形式のJSeMデータのファイル名を受け取り、XML形式のJSeMデータを出力する。
 tsvFile2XML :: FilePath -> IO(LazyT.Text)
 tsvFile2XML tsvFile =
-  StrictT.readFile tsvFile
-  >>= J.nkf
+  J.readFileUtf8 tsvFile
   >>= tsv2XML
 
 -- | tsv形式のJSeMデータのファイル名を受け取り、形式をチェックする。
 checkTsvFile :: FilePath -> IO()
 checkTsvFile tsvFile = 
-  StrictT.readFile tsvFile
-  >>= J.nkf
+  J.readFileUtf8 tsvFile
   >>= (return . StrictT.lines)
   >>= mapM_ (putStrLn . show . length . StrictT.split (=='\t'))
   
 -- | タグ名をXMLタグ名に
-myname :: StrictT.Text -> X.Name
-myname tagname = X.Name tagname Nothing Nothing
+tag :: StrictT.Text -> X.Name
+tag tagname = X.Name tagname Nothing Nothing
 
 -- | タグ名、ノードのリストを受け取り、XML形式のテキストに変換。
 nodes2XML :: StrictT.Text -> [X.Node] -> LazyT.Text
-nodes2XML tagname nodes =
+nodes2XML name nodes =
   X.renderText X.def $ X.Document 
                          (X.Prologue [] Nothing []) 
-                         (X.Element (myname tagname) (M.fromList []) nodes)
+                         (X.Element (tag name) (M.fromList []) nodes)
                          []
 {-
   where myRenderSetting = RenderSettings 
@@ -89,7 +87,7 @@ tsvLine2xmlNode entry = do
                                        fail $ show err
                            Right p -> return $ StrictT.intercalate "," p
   return $ X.NodeElement $ X.Element 
-                    (myname "problem")
+                    (tag "problem")
                     (M.fromList 
                        [("jsem_id",entry!!0),
                         ("answer",entry!!3),
@@ -98,7 +96,7 @@ tsvLine2xmlNode entry = do
                         ("inference_type",entry!!5)
                        ])
                     ([X.NodeElement $ X.Element 
-                        (myname "link")
+                        (tag "link")
                         (M.fromList 
                            [("resource","fracas"),
                             ("link_id",""),
@@ -107,10 +105,10 @@ tsvLine2xmlNode entry = do
                            ])
                         [],
                      X.NodeElement $ X.Element
-                        (myname "p")
+                        (tag "p")
                         (M.fromList [("idx","1")])
                         [X.NodeElement $ X.Element
-                           (myname "script")
+                           (tag "script")
                            (M.fromList [])
                            [X.NodeContent (entry!!6)]                        
                         ]
@@ -118,10 +116,10 @@ tsvLine2xmlNode entry = do
                       (if entry!!7 /= StrictT.empty
                        then 
                          [X.NodeElement $ X.Element
-                           (myname "p")
+                           (tag "p")
                            (M.fromList [("idx","2")])
                            [X.NodeElement $ X.Element
-                             (myname "script")
+                             (tag "script")
                              (M.fromList [])
                              [X.NodeContent (entry!!7)]
                            ]
@@ -129,33 +127,32 @@ tsvLine2xmlNode entry = do
                        else [])
                       ++ [  
                       X.NodeElement $ X.Element
-                        (myname "h")
+                        (tag "h")
                         (M.fromList [])
                         [X.NodeElement $ X.Element
-                           (myname "script")
+                           (tag "script")
                            (M.fromList [])
                            [X.NodeContent (entry!!8)]
                         ],
                       X.NodeElement $ X.Element
-                        (myname "note")
+                        (tag "note")
                         (M.fromList [])
                         [X.NodeContent (entry!!9)]
                       ])
 
+-- | "phenomena"タグのための記述内容をパーズし、現象名のリストを得る。
 phenomenaParser :: Parser [StrictT.Text]
 phenomenaParser = do
-  char '\"'
+  _ <- char '\"'
   phenomena <- sepBy (many1 $ noneOf ",\"") (string "," <|> string ", ")
-  char '\"'  
+  _ <- char '\"'  
   return $ map StrictT.pack phenomena
 
--- test
-
-testp :: StrictT.Text
-testp = "\"Toritate, -sika (toritate particle), Negation\""
-  
+-- | Test用コード
 main :: IO()
-main = do
+main = 
   case parse phenomenaParser "" testp of
     Left _ -> putStrLn "parse error"
     Right p -> mapM_ StrictT.putStrLn p
+  where testp = "\"Toritate, -sika (toritate particle), Negation\""
+
