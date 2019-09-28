@@ -1,5 +1,3 @@
-{-# LANGUAGE OverloadedStrings #-}
-
 {-|
 Module      : JSeM.XML2JSemData
 Copyright   : (c) Daisuke Bekki, 2017
@@ -21,12 +19,12 @@ import qualified Text.XML.Cursor as X     --xml-conduit
 
 -- | A data type for each JSeM entry.
 data JSeMData = JSeMData {
-  jsem_id :: LazyT.Text,
+  jsem_id :: StrictT.Text,
   answer :: JSeMLabel,
-  phenomena :: [LazyT.Text],
-  inference_type :: [LazyT.Text],
-  premise :: [LazyT.Text],
-  hypothesis :: LazyT.Text
+  phenomena :: [StrictT.Text],
+  inference_type :: [StrictT.Text],
+  premise :: [StrictT.Text],
+  hypothesis :: StrictT.Text
   } deriving (Eq, Show)
 
 -- | Three answers: yes, no, unknown
@@ -35,8 +33,7 @@ data JSeMLabel = YES | NO | UNKNOWN | UNDEF deriving (Eq,Show)
 -- | takes a file path of a JSeM file (XML format) and returns a list of 'JSeMData'.
 xmlFile2JSeMData :: LazyT.Text -> IO([JSeMData])
 xmlFile2JSeMData filepath = 
-  let doc = X.parseText_ X.def filepath;
-      cursor = X.fromDocument doc;
+  let cursor = X.fromDocument $ X.parseText_ X.def filepath
       problemNodes = X.child cursor >>= X.element "problem" in
   mapM problem2JSeMData problemNodes
 
@@ -47,20 +44,20 @@ xmlFile2JSeMData filepath =
 problem2JSeMData :: X.Cursor -> IO(JSeMData)
 problem2JSeMData problem = do
   let children = [problem] >>= X.child
-      answertext = LazyT.fromStrict $ StrictT.concat $ [problem] >>= X.laxAttribute "answer"
-      idtext = LazyT.fromStrict $ StrictT.concat $ [problem] >>= X.laxAttribute "jsem_id"
+      answertext = StrictT.concat $ [problem] >>= X.laxAttribute "answer"
+      idtext = StrictT.concat $ [problem] >>= X.laxAttribute "jsem_id"
   ans <- case answertext of
            "yes" -> return YES
            "no" -> return NO
            "unknown" -> return UNKNOWN
            "undef" -> return UNDEF
-           _ -> ioError $ userError $ LazyT.unpack $ LazyT.concat ["#", idtext, " has an undefined answer: ", answertext]
+           _ -> ioError $ userError $ StrictT.unpack $ StrictT.concat ["#", idtext, " has an undefined answer: ", answertext]
   return JSeMData {
     jsem_id = idtext,
     answer = ans,
-    phenomena = map (LazyT.fromStrict . StrictT.strip) $ [problem] >>= X.laxAttribute "phenomena" >>= StrictT.split (==','),
-    inference_type = map (LazyT.fromStrict . StrictT.strip) $ [problem] >>= X.laxAttribute "inference_type" >>= StrictT.split (==','),
-    premise = map (LazyT.fromStrict . StrictT.strip . StrictT.replace "\r\n" "") $ children >>= X.element "p" >>= X.child >>= X.element "script" >>= X.child >>= X.content,
-    hypothesis = LazyT.fromStrict $ StrictT.concat $ map (StrictT.strip . StrictT.replace "\r\n" "") $ children >>= X.element "h" >>= X.child >>= X.element "script" >>= X.child >>= X.content
+    phenomena = map (StrictT.strip) $ [problem] >>= X.laxAttribute "phenomena" >>= StrictT.split (==','),
+    inference_type = map (StrictT.strip) $ [problem] >>= X.laxAttribute "inference_type" >>= StrictT.split (==','),
+    premise = map (StrictT.strip . StrictT.replace "\r\n" "") $ children >>= X.element "p" >>= X.child >>= X.element "script" >>= X.child >>= X.content,
+    hypothesis = StrictT.concat $ map (StrictT.strip . StrictT.replace "\r\n" "") $ children >>= X.element "h" >>= X.child >>= X.element "script" >>= X.child >>= X.content
     }
 

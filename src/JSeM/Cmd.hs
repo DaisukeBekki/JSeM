@@ -1,0 +1,30 @@
+{-|
+Module      : JSeM.Cmd
+Copyright   : (c) Daisuke Bekki, 2019
+Licence     : All right reserved
+Maintainer  : Daisuke Bekki <bekki@is.ocha.ac.jp>
+Stability   : beta
+-}
+
+module JSeM.Cmd (
+  nkf,
+  tidy
+  ) where
+
+import qualified Data.Text as StrictT --text
+import qualified Shelly as S          --shelly
+
+-- | 任意の文字コードのテキストを受け取り、utf8形式に変換する
+nkf :: StrictT.Text -> IO(StrictT.Text)
+nkf text = 
+  S.shelly $ do
+             S.setStdin text
+             S.silently $ S.escaping False $ S.cmd "nkf -w -Lu"
+
+-- | XMLテキストを整形
+tidy :: StrictT.Text -> IO(StrictT.Text)
+tidy xml = 
+  S.shelly $ do
+             S.setStdin xml
+             S.silently $ S.escaping False $ S.cmd "tidy --tab-size 2 -xml -utf8 -indent -quiet"
+
