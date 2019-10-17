@@ -1,8 +1,8 @@
 {-# LANGUAGE OverloadedStrings #-}
 
+import qualified Data.ByteString.Lazy as B  --bytestring
 import qualified Data.List as L             --base
 import qualified Data.Map as M              --container
-import qualified Data.Text.Lazy.IO as LazyT --text
 import qualified Data.Text as T             --text
 import qualified Data.Text.IO as T          --text
 import qualified Text.XML as X              --xml-conduit
@@ -15,8 +15,8 @@ import qualified Text.XML.Cursor as X       --xml-conduit
 -- | (3)<problem>要素内のphenomena属性の値のリストと出現数
 main :: IO()
 main = do
-  xml <- LazyT.getContents
-  let cursor = X.fromDocument $ X.parseText_ X.def xml
+  xml <- B.getContents
+  let cursor = X.fromDocument $ X.parseLBS_ X.def xml
       problemNodes = X.child cursor >>= X.element "problem"
       linkNodes = problemNodes >>= X.child >>= X.element "link"
       --unexpectedcomments = problemNodes >>= X.child >>= X.checkNode isComment

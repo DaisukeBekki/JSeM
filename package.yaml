@@ -38,16 +38,6 @@ executables:
     source-dirs:  app
     ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
     dependencies: jsem
-  tsv2xml:
-    main:         tsv2xml.hs
-    source-dirs:  app
-    ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
-    dependencies: jsem
-  xml2txt:
-    main:         xml2txt.hs
-    source-dirs:  app
-    ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
-    dependencies: jsem
   stat:
     main:         show-stat.hs
     source-dirs:  app
@@ -55,6 +45,16 @@ executables:
     dependencies: jsem
   check:
     main:         check-data.hs
+    source-dirs:  app
+    ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
+    dependencies: jsem
+  tsv2xml:
+    main:         tsv2xml.hs
+    source-dirs:  app
+    ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
+    dependencies: jsem
+  xml2txt:
+    main:         xml2txt.hs
     source-dirs:  app
     ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
     dependencies: jsem

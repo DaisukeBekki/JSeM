@@ -12,6 +12,9 @@ module JSeM.Dataset (
   jsemFiles
   ) where
 
+jsemDataFolder :: FilePath
+jsemDataFolder = "data"
+
 jsemFiles :: [FilePath]
 jsemFiles = []
 
