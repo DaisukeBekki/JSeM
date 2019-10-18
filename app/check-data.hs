@@ -9,7 +9,8 @@ import qualified Data.Text.IO as StrictT      --text
 --x1import qualified JSeM.TSV2XML as J            --jsem
 import qualified JSeM.Cmd as J                --jsem
 
--- | dataFolderにある拡張子.txtファイルのすべてについて、XMLに変換して標準出力に出力する。
+-- | 引数で与えたフォルダ（相対パス指定）にある拡張子.txtファイルのすべてについて、
+-- |   データ形式をチェックする（現在はコラム数が9以上であることを確認のみ）
 -- | Usage: stack exec check-data -- /data
 main :: IO()
 main = do
@@ -17,13 +18,13 @@ main = do
   _ <- D.doesDirectoryExist dataFolder
   tsvFileNames <- filter (isExtensionOf "txt") <$> D.listDirectory dataFolder
   forM_ tsvFileNames $ \tsvFileName -> do
-          putStr $ "Checking " ++ tsvFileName ++ "..."
+          putStr $ "Checking entries less than 9 columns in " ++ tsvFileName ++ "..."
           jsemTxt <- J.readFileUtf8 $ dataFolder </> tsvFileName
-          forM_ (tail $ StrictT.lines jsemTxt) $ \jsemLine -> do
+          forM_ (zip [1..] $ tail $ StrictT.lines jsemTxt) $ \(lineNum,jsemLine) -> do
             let entryNum = length $ StrictT.split (=='\t') jsemLine
             if (entryNum < 9)
               then do
+                putStr $ show (lineNum::Int) ++ ": "
                 StrictT.putStrLn jsemLine
-                putStrLn "the above entry has less than 9 columns"
               else return ()
-          putStrLn "ok"
+          putStrLn "done"
