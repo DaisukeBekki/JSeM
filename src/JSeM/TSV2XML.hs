@@ -71,14 +71,16 @@ tsvLine2xmlNode entry = do
   -- | entry!!3 :answer         例：unknown
   -- | entry!!4 :phenomena      例："Toritate, -nado (toritate particule)"
   -- | entry!!5 :inference_type 例： entailment
-  -- | entry!!6 :P1             例：ある社員が異動を希望している。	
-  -- | entty!!7 :P2             例：（空欄の場合はは<p idx="2">タグはなし）
-  -- | entry!!8 :H              例：すべての社員が異動を希望している。				      
-  -- | entry!!9 :note
-  when (length entry < 11) $ do
+  -- | entry!!6 :note
+  -- | entry!!7 :P1             例：ある社員が異動を希望している。	
+  -- | entty!!8 :P2             例：（空欄の場合はは<p idx="2">タグはなし）
+  -- | entry!!9 :H              例：すべての社員が異動を希望している。				      
+  when (length entry < 9) $ do
                              StrictT.putStrLn $ StrictT.concat [ StrictT.intercalate " " entry]
-                             fail "the above entry has less than 10 columns"
-  let entry4 = entry!!4
+                             fail "the above entry has less than 9 columns"
+  let (jsem_id:(_:(_:(answer:(entry4:(inference_type:(note:ph))))))) = entry
+      premises = init ph
+      hypothesis = last ph
   phenomena <- case entry4 of
                     "" -> return ""
                     _ -> case parse phenomenaParser "" entry4 of
@@ -89,11 +91,11 @@ tsvLine2xmlNode entry = do
   return $ X.NodeElement $ X.Element 
                     (tag "problem")
                     (M.fromList 
-                       [("jsem_id",entry!!0),
-                        ("answer",entry!!3),
+                       [("jsem_id",jsem_id),
+                        ("answer",answer),
                         ("language","ja"),
                         ("phenomena", phenomena),
-                        ("inference_type",entry!!5)
+                        ("inference_type",inference_type)
                        ])
                     ([X.NodeElement $ X.Element 
                         (tag "link")
@@ -103,41 +105,30 @@ tsvLine2xmlNode entry = do
                             ("translation",""),
                             ("same_phenomena","")
                            ])
-                        [],
-                     X.NodeElement $ X.Element
-                        (tag "p")
-                        (M.fromList [("idx","1")])
-                        [X.NodeElement $ X.Element
-                           (tag "script")
-                           (M.fromList [])
-                           [X.NodeContent (entry!!6)]                        
-                        ]
-                      ] ++  
-                      (if entry!!7 /= StrictT.empty
-                       then 
-                         [X.NodeElement $ X.Element
-                           (tag "p")
-                           (M.fromList [("idx","2")])
-                           [X.NodeElement $ X.Element
+                        []
+                     ] ++
+                     ((flip map) (zip premises [1..]) $ \(premise,i) ->  
+                       X.NodeElement $ X.Element
+                          (tag "p")
+                          (M.fromList [("idx",StrictT.pack $ show i)])
+                          [X.NodeElement $ X.Element
                              (tag "script")
                              (M.fromList [])
-                             [X.NodeContent (entry!!7)]
-                           ]
-                         ]  
-                       else [])
-                      ++ [  
-                      X.NodeElement $ X.Element
+                             [X.NodeContent premise]  
+                          ]
+                     ) ++  
+                     [X.NodeElement $ X.Element
                         (tag "h")
                         (M.fromList [])
                         [X.NodeElement $ X.Element
                            (tag "script")
                            (M.fromList [])
-                           [X.NodeContent (entry!!8)]
+                           [X.NodeContent hypothesis]
                         ],
                       X.NodeElement $ X.Element
                         (tag "note")
                         (M.fromList [])
-                        [X.NodeContent (entry!!9)]
+                        [X.NodeContent note]
                       ])
 
 -- | "phenomena"タグのための記述内容をパーズし、現象名のリストを得る。
