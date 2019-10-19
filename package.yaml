@@ -43,11 +43,6 @@ executables:
     source-dirs:  app
     ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
     dependencies: jsem
-  check-data:
-    main:         check-data.hs
-    source-dirs:  app
-    ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
-    dependencies: jsem
   tsv2xml:
     main:         tsv2xml.hs
     source-dirs:  app

@@ -15,10 +15,12 @@ main :: IO()
 main = do
   (dataFolder:_) <- getArgs
   _ <- D.doesDirectoryExist dataFolder 
-  tsvFiles <- filter (isExtensionOf "txt") <$> D.listDirectory dataFolder
-  forM_ tsvFiles $ \tsvFile' -> do 
-    let tsvFile = dataFolder </> tsvFile'
-        xmlFile = dataFolder </> replaceExtensions tsvFile "xml"
+  tsvFileNames <- filter (isExtensionOf "txt") <$> D.listDirectory dataFolder
+  let tsvFiles = map (dataFolder </>) tsvFileNames
+  -- | TSVデータの整合性をチェック。エラーがあれば終了する。
+  J.validateTsvFiles tsvFiles
+  forM_ tsvFiles $ \tsvFile -> do 
+    let xmlFile = dataFolder </> replaceExtensions tsvFile "xml"
     xmlFileExists <- D.doesFileExist xmlFile
     if (not xmlFileExists)
       then do

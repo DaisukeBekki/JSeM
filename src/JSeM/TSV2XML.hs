@@ -9,10 +9,10 @@ Stability   : beta
 module JSeM.TSV2XML (
   tsv2XML,
   tsvFile2XML,
-  checkTsvFile
+  validateTsvFiles
   ) where
 
-import Control.Monad (when)              --base
+import Control.Monad (when,forM,forM_)   --base
 import qualified Data.Map as M           --container
 import qualified Data.Text as StrictT    --text
 import qualified Data.Text.IO as StrictT --text
@@ -35,13 +35,15 @@ tsvFile2XML tsvFile =
   J.readFileUtf8 tsvFile
   >>= tsv2XML
 
+{-
 -- | tsv形式のJSeMデータのファイル名を受け取り、形式をチェックする。
 checkTsvFile :: FilePath -> IO()
 checkTsvFile tsvFile = 
   J.readFileUtf8 tsvFile
   >>= (return . StrictT.lines)
   >>= mapM_ (putStrLn . show . length . StrictT.split (=='\t'))
-  
+  -}
+
 -- | タグ名をXMLタグ名に
 tag :: StrictT.Text -> X.Name
 tag tagname = X.Name tagname Nothing Nothing
@@ -53,14 +55,23 @@ nodes2XML name nodes =
                          (X.Prologue [] Nothing []) 
                          (X.Element (tag name) (M.fromList []) nodes)
                          []
-{-
-  where myRenderSetting = RenderSettings 
-                           { isPretty = True
-                           , rsNamespaces = []             
-                           , rsAttrOrder = X.orderAttrs [("problem",["jsem_id","answer","language","phenomena","inference_type"]),("link",["resource","link_id","translation","same_phenomena"])]                 
-                           , rsUseCDATA = const False  
-                           }
--}
+
+-- | 与えたtsvファイルのすべてについて、データ形式をチェック（現在はコラム数が9以上であることを確認のみ）
+validateTsvFiles :: [FilePath] -> IO()
+validateTsvFiles tsvFiles = 
+  forM_ tsvFiles $ \tsvFile -> do
+          putStr $ "Checking " ++ tsvFile ++ "..."
+          jsemTxt <- J.readFileUtf8 tsvFile
+          flags <- forM (zip [1..] $ tail $ StrictT.lines jsemTxt) $ \(lineNum,jsemLine) -> 
+                          if (length $ StrictT.split (=='\t') jsemLine) < 9
+                            then do
+                                 putStr $ "\n" ++ show (lineNum::Int) ++ ": "
+                                 StrictT.putStr jsemLine
+                                 return True  -- Error found
+                            else return False -- Error not found
+          if or flags
+            then fail "\nAbove entries have less than 9 columns."
+            else putStrLn "done"
 
 -- | TSV形式のJSeMテキストをJSeM式のXMLノードに変換
 tsvLine2xmlNode :: [StrictT.Text] -> IO(X.Node)
@@ -110,7 +121,7 @@ tsvLine2xmlNode entry = do
                      ((flip map) (zip premises [1..]) $ \(premise,i) ->  
                        X.NodeElement $ X.Element
                           (tag "p")
-                          (M.fromList [("idx",StrictT.pack $ show i)])
+                          (M.fromList [("idx",StrictT.pack $ show (i::Int))])
                           [X.NodeElement $ X.Element
                              (tag "script")
                              (M.fromList [])
@@ -147,3 +158,12 @@ main =
     Right p -> mapM_ StrictT.putStrLn p
   where testp = "\"Toritate, -sika (toritate particle), Negation\""
 
+
+{-
+  where myRenderSetting = RenderSettings 
+                           { isPretty = True
+                           , rsNamespaces = []             
+                           , rsAttrOrder = X.orderAttrs [("problem",["jsem_id","answer","language","phenomena","inference_type"]),("link",["resource","link_id","translation","same_phenomena"])]                 
+                           , rsUseCDATA = const False  
+                           }
+-}
