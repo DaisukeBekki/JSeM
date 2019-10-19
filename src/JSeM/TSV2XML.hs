@@ -76,16 +76,17 @@ validateTsvFiles tsvFiles =
 -- | TSV形式のJSeMテキストをJSeM式のXMLノードに変換
 tsvLine2xmlNode :: [StrictT.Text] -> IO(X.Node)
 tsvLine2xmlNode entry = do
-  -- | entry!!0 :jsem_id        例：1    
-  -- | entry!!1 :?              例：GQ間の関係：「ある」系-「すべて」系		
-  -- | entry!!2 :?
-  -- | entry!!3 :answer         例：unknown
-  -- | entry!!4 :phenomena      例："Toritate, -nado (toritate particule)"
-  -- | entry!!5 :inference_type 例： entailment
-  -- | entry!!6 :note
-  -- | entry!!7 :P1             例：ある社員が異動を希望している。	
-  -- | entty!!8 :P2             例：（空欄の場合はは<p idx="2">タグはなし）
-  -- | entry!!9 :H              例：すべての社員が異動を希望している。				      
+  -- | entry!!0 :jsem_id        通し番号。      例：1    
+  -- | entry!!1 :?              テストの記述。   例：GQ間の関係「ある」系-「すべて」系		
+  -- | entry!!2 :?              dev/testの区別。
+  -- | entry!!3 :answer         出力の正解。     例：yes/no/unknown
+  -- | entry!!4 :phenomena      含まれる言語現象。例："Toritate, -nado (toritate particule)"
+  -- | entry!!5 :inference_type 推論の分類。     例： entailment
+  -- | entry!!6 :note           備考欄。
+  -- | entry!!7 :P1             前提文。        例：ある社員が異動を希望している。	
+  -- | entty!!8 :P2             前提文。        例：（空欄の場合はは<p idx="2">タグはなし）
+  -- | entry!!9 :H              帰結文。        例：すべての社員が異動を希望している。
+  -- | （entry7以降は前提文が任意個並び、最後の一つを帰結文とする仕様）
   when (length entry < 9) $ do
                              StrictT.putStrLn $ StrictT.concat [ StrictT.intercalate " " entry]
                              fail "the above entry has less than 9 columns"
