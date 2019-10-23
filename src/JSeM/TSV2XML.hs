@@ -155,9 +155,9 @@ tsvLine2xmlNode entry = do
 -- | "phenomena"タグのための記述内容をパーズし、現象名のリストを得る。
 phenomenaParser :: Parser [StrictT.Text]
 phenomenaParser = do
-  _ <- char '\"'
+  _ <- optional $ char '\"'
   phenomena <- sepBy (many1 $ noneOf ",\"") (string "," <|> string ", ")
-  _ <- char '\"'  
+  _ <- optional $ char '\"'  
   return $ map StrictT.pack phenomena
 
 -- | Test用コード

@@ -19,8 +19,9 @@ main = do
   let tsvFiles = map (dataFolder </>) tsvFileNames
   -- | TSVデータの整合性をチェック。エラーがあれば終了する。
   J.validateTsvFiles tsvFiles
+  -- | XMLデータへの変換
   forM_ tsvFiles $ \tsvFile -> do 
-    let xmlFile = dataFolder </> replaceExtensions tsvFile "xml"
+    let xmlFile = replaceExtensions tsvFile "xml"
     xmlFileExists <- D.doesFileExist xmlFile
     if (not xmlFileExists)
       then do
