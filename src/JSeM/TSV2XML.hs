@@ -27,22 +27,13 @@ import qualified JSeM.Cmd as J           --jsem
 -- | （ここではnkfやtidyを使わない。必要な場合はshellから呼ぶこと）
 tsv2XML :: StrictT.Text -> IO(LazyT.Text)
 tsv2XML tsv  = 
-  nodes2XML "jsem-problems" <$> (mapM (tsvLine2xmlNode . (StrictT.split (=='\t')) ) $ tail $ StrictT.lines tsv)
+  nodes2XML "jsem-problems" <$> (mapM (tsvLine2xmlNode . chop . (StrictT.split (=='\t')) ) $ tail $ StrictT.lines tsv)
 
 -- | tsv形式のJSeMデータのファイル名を受け取り、XML形式のJSeMデータを出力する。
 tsvFile2XML :: FilePath -> IO(LazyT.Text)
 tsvFile2XML tsvFile =
   J.readFileUtf8 tsvFile
   >>= tsv2XML
-
-{-
--- | tsv形式のJSeMデータのファイル名を受け取り、形式をチェックする。
-checkTsvFile :: FilePath -> IO()
-checkTsvFile tsvFile = 
-  J.readFileUtf8 tsvFile
-  >>= (return . StrictT.lines)
-  >>= mapM_ (putStrLn . show . length . StrictT.split (=='\t'))
-  -}
 
 -- | タグ名をXMLタグ名に
 tag :: StrictT.Text -> X.Name
@@ -72,7 +63,7 @@ validateTsvFiles tsvFiles =
           putStr $ "Checking " ++ tsvFile ++ "..."
           jsemTxt <- J.readFileUtf8 tsvFile
           flags <- forM (zip [1..] $ tail $ StrictT.lines jsemTxt) $ \(lineNum,jsemLine) -> 
-                          if (length $ StrictT.split (=='\t') jsemLine) < 9
+                          if (length $ chop $ StrictT.split (=='\t') jsemLine) < 9
                             then do
                                  putStr $ "\n" ++ show (lineNum::Int) ++ ": "
                                  StrictT.putStr jsemLine
@@ -81,6 +72,13 @@ validateTsvFiles tsvFiles =
           if or flags
             then fail "\nAbove entries have less than 9 columns."
             else putStrLn "done"
+
+-- | 末尾の空白データを削除する
+chop :: [StrictT.Text] -> [StrictT.Text]
+chop [] = []
+chop lst = if last lst == StrictT.empty
+             then chop $ init lst
+             else lst
 
 -- | TSV形式のJSeMテキストをJSeM式のXMLノードに変換
 tsvLine2xmlNode :: [StrictT.Text] -> IO(X.Node)
