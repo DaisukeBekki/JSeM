@@ -4,8 +4,12 @@
 
 このリポジトリには、以下のファイルが含まれています。
 
-- jsem_beta.xml
-　　日本語意味論テストセットβ版のデータです。
+- JSeM_Adjective.xml
+- JSeM_Coordination.xml
+- JSeM_NP.xml
+- JSeM_Question.xml
+- JSeM_Toritate.xml
+　　日本語意味論テストセットv1.0のデータです。   
 - jsem.dtd
 　　xmlの仕様を定めたdtdファイル
 - jsem.xsl
