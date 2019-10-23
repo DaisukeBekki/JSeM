@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE jsem-problems SYSTEM "jsem.dtd">
+<?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
+<jsem-problems>
+  <comment>  Japanese Semantics Test Suite (Beta version, last modified on May 30, 2015) created by Ai Kawazoe, Ribeka Tanaka, Koji Mineshima and Daisuke Bekki, 2015. </comment>
+  <comment> The format of this file is based on those of FraCaS textual inference problem set by Bill MacCartney and MutiFraCaS sets by Robin Cooper. </comment>
+  <comment> This Beta version contains textual inference tests involving plurals, which corresponds to Plurals section in FraCaS test suite (Cooper et al. 1996). Note that not all of the tests are literal translation of FraCaS. We created original Japanese data for some FraCas tests which cannot be translated into natural Japanese sentences. One or more tests are linked to a FraCaS entry when necessary. </comment>
+  <problem jsem_id="370" answer="yes" language="ja" phenomena="plural, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
+    <link resource="fracas" link_id="081" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	スミスとジョーンズとアンダーソンが契約書にサインした。
+  	</script>
+      <english>
+     Smith, Jones and Anderson signed the contract.
+	</english>
+    </p>
+    <h>
+      <script>
+	ジョーンズが契約書にサインした。
+	</script>
+      <english>
+     Jones signed the contract.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="371" answer="yes" language="ja" phenomena="plural, conjoined noun phrase, sosite (conjunctive particle)" inference_type="entailment">
+    <link resource="fracas" link_id="081" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	スミス、ジョーンズ、そしてアンダーソンが契約書にサインした。
+  	</script>
+      <english>
+     Smith, Jones and Anderson signed the contract.
+	</english>
+    </p>
+    <h>
+      <script>
+	ジョーンズが契約書にサインした。
+	</script>
+      <english>
+     Jones signed the contract.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="372" answer="yes" language="ja" phenomena="plural, conjoined noun phrase, -ni (conjunctive particle)" inference_type="entailment">
+    <link resource="fracas" link_id="081" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	スミスにジョーンズにアンダーソンが契約書にサインした。
+  	</script>
+      <english>
+     Smith, Jones and Anderson signed the contract.
+	</english>
+    </p>
+    <h>
+      <script>
+	ジョーンズが契約書にサインした。
+	</script>
+      <english>
+     Jones signed the contract.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="373" answer="yes" language="ja" phenomena="plural, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
+    <link resource="fracas" link_id="082" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	スミスとジョーンズと数人の弁護士が契約書にサインした。
+  	</script>
+      <english>
+     Smith, Jones and several lawyers signed the contract.
+    </english>
+    </p>
+    <h>
+      <script>
+	ジョーンズが契約書にサインした。
+	</script>
+      <english>
+     Jones signed the contract.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="374" answer="yes" language="ja" phenomena="plural, conjoined noun phrase, sosite (conjunctive particle)" inference_type="entailment">
+    <link resource="fracas" link_id="082" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	スミス、ジョーンズ、そして数人の弁護士が契約書にサインした。
+  	</script>
+      <english>
+     Smith, Jones and several lawyers signed the contract.
+    </english>
+    </p>
+    <h>
+      <script>
+	ジョーンズが契約書にサインした。
+	</script>
+      <english>
+     Jones signed the contract.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="375" answer="yes" language="ja" phenomena="plural, conjoined noun phrase, -ni (conjunctive particle)" inference_type="entailment">
+    <link resource="fracas" link_id="082" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	スミスにジョーンズに数人の弁護士が契約書にサインした。
+  	</script>
+      <english>
+     Smith, Jones and several lawyers signed the contract.
+    </english>
+    </p>
+    <h>
+      <script>
+	ジョーンズが契約書にサインした。
+	</script>
+      <english>
+     Jones signed the contract.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="376" answer="unknown" language="ja" phenomena="plural, conjoined noun phrase, -ka (disjunctive particle)" inference_type="entailment">
+    <link resource="fracas" link_id="083" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	スミスかジョーンズかアンダーソンが契約書にサインした。
+  	</script>
+      <english>
+     Either Smith, Jones or Anderson signed the contract.
+    </english>
+    </p>
+    <h>
+      <script>
+	ジョーンズが契約書にサインした。
+	</script>
+      <english>
+     Jones signed the contract.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="377" answer="yes" language="ja" phenomena="plural, conjoined noun phrase, -ka (disjunctive particle)" inference_type="entailment">
+    <link resource="fracas" link_id="084" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	スミスかジョーンズかアンダーソンが契約書にサインした。
+  	</script>
+      <english>
+     Either Smith, Jones or Anderson signed the contract.
+    </english>
+    </p>
+    <h>
+      <script>
+	もしスミスとジョーンズが契約書にサインしていないならば、アンダーソンは契約書にサインしている。
+	</script>
+      <english>
+     If Smith and Anderson did not sign the contract, Jones signed the contract.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="378" answer="no" language="ja" phenomena="plural, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
+    <link resource="fracas" link_id="085" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	ちょうど二人の弁護士と三人の会計士が契約書にサインした。
+  	</script>
+      <english>
+     Exactly two lawyers and three accountants signed the contract.
+    </english>
+    </p>
+    <h>
+      <script>
+	六人の弁護士が契約書にサインした。
+	</script>
+      <english>
+     Six lawyers signed the contract.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="379" answer="no" language="ja" phenomena="plural, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
+    <link resource="fracas" link_id="086" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	ちょうど二人の弁護士と三人の会計士が契約書にサインした。
+  	</script>
+      <english>
+     Exactly two lawyers and three accountants signed the contract.
+    </english>
+    </p>
+    <h>
+      <script>
+	六人の会計士が契約書にサインした。
+	</script>
+      <english>
+     Six accountants signed the contract.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="380" answer="yes" language="ja" phenomena="plural, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
+    <link resource="fracas" link_id="087" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	すべての代表者と依頼人が会議に出席していた。
+  	</script>
+      <english>
+     Every representative and client was at the meeting.
+    </english>
+    </p>
+    <h>
+      <script>
+	すべての代表者が会議に出席していた。
+	</script>
+      <english>
+     Every representative was at the meeting.
+    </english>
+    </h>
+    <note>AK: 「すべての代表者とすべての依頼人」という解釈および「すべての代表者と（一人あるいは何人かの）依頼人」という解釈があり、どちらにおいても上の推論は成り立つ。ちなみに、fracas-088に相当するN-bar conjunctionの解釈（代表者でかつ依頼人であるようなすべての人）は上のP1の文には無い。</note>
+  </problem>
+  <problem jsem_id="381" answer="undef" language="ja" phenomena="plural, conjoined noun phrase, -to (conjunctive particle)" inference_type="entailment">
+    <p idx="1">
+      <script>
+	すべての代表者と依頼人が会議に出席していた。
+  	</script>
+    </p>
+    <h>
+      <script>
+	すべての依頼人が会議に出席していた。
+	</script>
+    </h>
+    <note>AK: 「すべての代表者とすべての依頼人」という解釈ではyes。他方、「すべての代表者と一人あるいは何人かの依頼人」という解釈ではunknown。ちなみに、fracas-088に相当するN-bar conjunctionの解釈（代表者でかつ依頼人であるようなすべての人）は上の文には無い。</note>
+  </problem>
+  <problem jsem_id="382" answer="unknown" language="ja" phenomena="plural, conjoined noun phrase, -ka (disjunctive particle)" inference_type="entailment">
+    <link resource="fracas" link_id="089" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	すべての代表者か依頼人が会議に出席していた。
+  	</script>
+      <english>
+     Every representative or client was at the meeting.
+	</english>
+    </p>
+    <h>
+      <script>
+	すべての代表者とすべての依頼人が会議に出席していた。
+	</script>
+      <english>
+     Every representative and every client was at the meeting.
+	</english>
+    </h>
+    <note>AK: fracas作成者によれば、fracas-089のP1の解釈は「代表者あるいは依頼人であるようなすべての人」（すなわち、N-bar conjunction）という解釈のみ。よって、英語では上の推論が成り立つ。しかし日本語の上記のp1のような文では同様の解釈は不可能であるように思われる。可能な解釈は「すべての代表者かすべての依頼人」あるいは「すべての代表者か一人あるいは何人かの依頼人）」という解釈であり、いずれの解釈でも上の推論は成り立たない。</note>
+  </problem>
+  <problem jsem_id="383" answer="unknown" language="ja" phenomena="plural, conjoined noun phrase, -ya (conjunctive particle)" inference_type="entailment">
+    <p idx="1">
+      <script>
+	スミスやジョーンズやアンダーソンが契約書にサインした。
+  	</script>
+    </p>
+    <h>
+      <script>
+	ジョーンズが契約書にサインした。
+	</script>
+    </h>
+    <note>AK: NP conjunction with "-ya"</note>
+  </problem>
+  <problem jsem_id="384" answer="unknown" language="ja" phenomena="plural, conjoined noun phrase, -toka (conjunctive particle)" inference_type="entailment">
+    <p idx="1">
+      <script>
+	スミスとかジョーンズとかアンダーソンとかが契約書にサインした。
+  	</script>
+    </p>
+    <h>
+      <script>
+	ジョーンズが契約書にサインした。
+	</script>
+    </h>
+    <note>AK: NP conjunction with "toka"</note>
+  </problem>
+  <problem jsem_id="385" answer="unknown" language="ja" phenomena="plural, conjoined noun phrase, -mo (conjunctive particle)" inference_type="entailment">
+    <p idx="1">
+      <script>
+	スミスもジョーンズもアンダーソンも契約書にサインした。
+  	</script>
+    </p>
+    <h>
+      <script>
+	ジョーンズが契約書にサインした。
+	</script>
+    </h>
+    <note>AK: NP conjunction with "mo"</note>
+  </problem>
+  <problem jsem_id="386" answer="unknown" language="ja" phenomena="plural, definite plural, bare noun" inference_type="entailment">
+    <link resource="fracas" link_id="091" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	会議に出席していた人々は新しい議長に投票した。
+  	</script>
+      <english>
+     The people who were at the meeting voted for a new chairman.
+	</english>
+    </p>
+    <h>
+      <script>
+	会議に出席していたすべての人が新しい議長に投票した。
+	</script>
+      <english>
+     Everyone at the meeting voted for a new chairman.
+	</english>
+    </h>
+    <note>AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "会議に出席していた人々" in P1 with a topic marker "wa", not "ga."</note>
+  </problem>
+  <problem jsem_id="387" answer="yes" language="ja" phenomena="plural, definite plural" inference_type="entailment">
+    <link resource="fracas" link_id="092" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	会議に出席していた人々全員が新しい議長に投票した。
+  	</script>
+      <english>
+     All the people who were at the meeting voted for a new chairman.
+	</english>
+    </p>
+    <h>
+      <script>
+	会議に出席していたすべての人が新しい議長に投票した。
+	</script>
+      <english>
+     Everyone at the meeting voted for a new chairman.
+	</english>
+    </h>
+    <note>AK: all the peopleを「人々全員」と訳したバージョン</note>
+  </problem>
+  <problem jsem_id="388" answer="yes" language="ja" phenomena="plural, definite plural" inference_type="entailment">
+    <link resource="fracas" link_id="092" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	会議に出席していた人々の全員が新しい議長に投票した。
+  	</script>
+      <english>
+     All the people who were at the meeting voted for a new chairman.
+	</english>
+    </p>
+    <h>
+      <script>
+	会議に出席していたすべての人が新しい議長に投票した。
+	</script>
+      <english>
+     Everyone at the meeting voted for a new chairman.
+	</english>
+    </h>
+    <note>AK: all the peopleを「人々の全員」と訳したバージョン</note>
+  </problem>
+  <problem jsem_id="389" answer="yes" language="ja" phenomena="plural, definite plural, floating quantifier" inference_type="entailment">
+    <link resource="fracas" link_id="093" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	会議に出席していた人々は全員新しい議長に投票した。
+  	</script>
+      <english>
+     The people who were at the meeting all voted for a new chairman.
+	</english>
+    </p>
+    <h>
+      <script>
+	会議に出席していたすべての人が新しい議長に投票した。
+	</script>
+      <english>
+     Everyone at the meeting voted for a new chairman.
+	</english>
+    </h>
+    <note>AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "会議に出席していた人々" in P1 with a topic marker "wa", not "ga."</note>
+  </problem>
+  <problem jsem_id="390" answer="yes" language="ja" phenomena="plural, definite plural, floating quantifier" inference_type="entailment">
+    <link resource="fracas" link_id="093" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	会議に出席していた人々はみな新しい議長に投票した。
+  	</script>
+      <english>
+     The people who were at the meeting all voted for a new chairman.
+	</english>
+    </p>
+    <h>
+      <script>
+	会議に出席していたすべての人が新しい議長に投票した。
+	</script>
+      <english>
+     Everyone at the meeting voted for a new chairman.
+	</english>
+    </h>
+    <note>AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "会議に出席していた人々" in P1 with a topic marker "wa", not "ga."</note>
+  </problem>
+  <problem jsem_id="391" answer="unknown" language="ja" phenomena="plural, definite plural, bare noun" inference_type="entailment">
+    <link resource="fracas" link_id="094" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	ケンブリッジの住民は労働党の議員に投票した。
+  	</script>
+  	      <english>
+	The inhabitants of Cambridge voted for a Labour MP.
+		</english>
+    </p>
+    <h>
+      <script>
+	すべてのケンブリッジの住民が労働党の議員に投票した。
+	</script>
+	  	      <english>
+	Every inhabitant of Cambridge voted for a Labour MP.
+		</english>
+    </h>
+    <note>AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "ケンブリッジの住民" in P1 with a topic marker "wa", not "ga."</note>
+  </problem>
+  <problem jsem_id="392" answer="unknown" language="ja" phenomena="plural, definite plural, bare noun" inference_type="entailment">
+    <link resource="fracas" link_id="095" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	古代ギリシャ人は著名な哲学者だった。
+  	</script>
+      <english>
+     The Ancient Greeks were noted philosophers.
+	</english>
+    </p>
+    <h>
+      <script>
+	すべての古代ギリシャ人が著名な哲学者だった。
+	</script>
+      <english>
+     Every Ancient Greek was a noted philosopher.
+	</english>
+    </h>
+    <note>AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "古代ギリシャ人" in P1 with a topic marker "wa", not "ga."</note>
+  </problem>
+  <problem jsem_id="393" answer="yes" language="ja" phenomena="plural, definite plural, floating quantifier" inference_type="entailment">
+    <link resource="fracas" link_id="096" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	古代ギリシャ人はみな著名な哲学者だった。
+  	</script>
+      <english>
+     The Ancient Greeks were all noted philosophers.
+	</english>
+    </p>
+    <h>
+      <script>
+	すべての古代ギリシャ人が著名な哲学者だった。
+	</script>
+      <english>
+     Every Ancient Greek was a noted philosopher.
+	</english>
+    </h>
+    <note>AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "古代ギリシャ人" in P1 with a topic marker "wa", not "ga."</note>
+  </problem>
+  <problem jsem_id="394" answer="yes" language="ja" phenomena="plural, bare plural, bare noun" inference_type="entailment">
+    <link resource="fracas" link_id="097" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	ソフトウェア障害がシステムの故障の原因だった。
+  	</script>
+      <english>
+     Software faults were blamed for the system failure.
+	</english>
+    </p>
+    <h>
+      <script>
+	システムの故障の原因は一つ以上のソフトウェア障害だった。
+	</script>
+      <english>
+     The system failure was blamed on one or more software faults.
+	</english>
+    </h>
+    <note>comments in original FraCaS: existential bare plural</note>
+    <note>AK: Existential, plural interpretation of a bare noun.</note>
+  </problem>
+  <problem jsem_id="395" answer="unknown" language="ja" phenomena="plural, bare plural, bare noun" inference_type="entailment">
+    <link resource="fracas" link_id="098" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	ソフトウェア障害がシステムの故障の原因だった。
+  	</script>
+      <english>
+     Software faults were blamed for the system failure.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	32-985番のバグはよく知られたソフトウェア障害である。
+	</script>
+      <english>
+     Bug # 32-985 is a known software fault.
+	</english>
+    </p>
+    <h>
+      <script>
+	32-985番のバグがシステムの故障の原因だった。
+	</script>
+      <english>
+     Bug # 32-985 was blamed for the system failure.
+	</english>
+    </h>
+    <note>comments in original FraCaS: existential interpretation: not every software fault contributed to the failure.</note>
+    <note>AK: Existential, plural interpretation of a bare noun.</note>
+  </problem>
+  <problem jsem_id="396" answer="yes" language="ja" phenomena="plural, bare plural, bare noun, floating quantifier" inference_type="entailment">
+    <link resource="fracas" link_id="099" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	デモを見たクライアントはみなシステムのパフォーマンスに感心していた。
+  	</script>
+      <english>
+     Clients at the demonstration were all impressed by the system's performance.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	スミスはデモを見たクライアントである。
+  	</script>
+      <english>
+     Smith was a client at the demonstration.
+	</english>
+    </p>
+    <h>
+      <script>
+	スミスはシステムのパフォーマンスに感心していた。
+	</script>
+      <english>
+     Smith was impressed by the system's performance.
+	</english>
+    </h>
+    <note>comments in original FraCaS: (Quasi) universal bare plural</note>
+  </problem>
+  <problem jsem_id="397" answer="undef" language="ja" phenomena="plural, bare plural, bare noun" inference_type="entailment">
+    <link resource="fracas" link_id="100" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	デモを見たクライアントはシステムのパフォーマンスに感心していた。
+  	</script>
+      <english>
+     Clients at the demonstration were impressed by the system's performance.
+	</english>
+    </p>
+    <h>
+      <script>
+	デモを見たクライアントのほとんどがシステムのパフォーマンスに感心していた。
+	</script>
+      <english>
+     Clients at the demonstration were impressed by the system's performance.
+	</english>
+    </h>
+    <note>comments in original FraCaS: (Quasi) universal bare plural</note>
+    <note>AK: The answer is "yes" if the bare noun "デモを見たクライアント" is interpreted as universal or generic, "unknown" otherwise.</note>
+  </problem>
+  <problem jsem_id="398" answer="undef" language="ja" phenomena="plural, bare plural, bare noun" inference_type="entailment">
+    <link resource="fracas" link_id="101" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	大卒者は貧しい株式売買人になる。
+  	</script>
+      <english>
+     University graduates make poor stock-market traders.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	スミスは大卒者である。
+  	</script>
+      <english>
+     Smith is a university graduate.
+	</english>
+    </p>
+    <h>
+      <script>
+	スミスは貧しい株式売買人になりそうだ。
+	</script>
+      <english>
+     Smith is likely to make a poor stock market trader.
+    </english>
+    </h>
+    <note>comments in original FraCaS: Generic interpretation</note>
+    <note>AK: 「大卒者」をuniversalあるいはgenericに解釈すればyes。それ以外の場合はunknown。なお、fracas-102で示されているような現象（hをSmith WILL make a poor stock market trader.とすると、unknownになる）に相当する日本語の現象があるかは不明。</note>
+  </problem>
+  <problem jsem_id="399" answer="yes" language="ja" phenomena="plural, dependent plural, bare noun, floating quantifier" inference_type="entailment">
+    <link resource="fracas" link_id="103" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	APCOMの管理職はみな社用車を持っている。
+  	</script>
+      <english>
+     All APCOM managers have company cars.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+	ジョーンズはAPCOMの管理職である。
+  	</script>
+      <english>
+     Jones is an APCOM manager.
+    </english>
+    </p>
+    <h>
+      <script>
+	ジョーンズは社用車を持っている。
+	</script>
+      <english>
+     Jones has a company car.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="400" answer="unknown" language="ja" phenomena="plural, dependent plural, N-no QC" inference_type="entailment">
+    <link resource="fracas" link_id="104" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	APCOMの管理職の全員が社用車を持っている。
+  	</script>
+      <english>
+     All APCOM managers have company cars.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+	ジョーンズはAPCOMの管理職である。
+  	</script>
+      <english>
+     Jones is an APCOM manager.
+    </english>
+    </p>
+    <h>
+      <script>
+	ジョーンズは一台以上の社用車を持っている。
+	</script>
+      <english>
+     Jones has more than one company car.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="401" answer="no" language="ja" phenomena="plural, negated plural" inference_type="entailment">
+    <link resource="fracas" link_id="105" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	たった一人の会計士が会議に出席した。
+  	</script>
+      <english>
+     Just one accountant attended the meeting.
+    </english>
+    </p>
+    <h>
+      <script>
+	会計士たちは誰も会議に出席しなかった。
+	</script>
+      <english>
+     No accountants attended the meeting.
+    </english>
+    </h>
+    <note>AK: Hは、原文ではno accountants（複数形）。訳に「会計士たち」と反映したが、適切かどうか不明。</note>
+  </problem>
+  <problem jsem_id="402" answer="no" language="ja" phenomena="plural, negated plural, -dake (toritate particle), floating quantifier" inference_type="entailment">
+    <link resource="fracas" link_id="105" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	会計士が一人だけ会議に出席した。
+  	</script>
+      <english>
+     Just one accountant attended the meeting.
+    </english>
+    </p>
+    <h>
+      <script>
+	会計士たちは誰も会議に出席しなかった。
+	</script>
+      <english>
+     No accountants attended the meeting.
+    </english>
+    </h>
+    <note>AK: Hは、原文ではno accountants（複数形）。訳に「会計士たち」と反映したが、適切かどうか不明。</note>
+  </problem>
+  <problem jsem_id="403" answer="no" language="ja" phenomena="plural, negated plural" inference_type="entailment">
+    <link resource="fracas" link_id="106" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	たった一人の会計士が会議に出席した。
+  	</script>
+      <english>
+     Just one accountant attended the meeting.
+    </english>
+    </p>
+    <h>
+      <script>
+	会計士は誰も会議に出席しなかった。
+	</script>
+      <english>
+     No accountant attended the meeting.
+    </english>
+    </h>
+    <note>AK: Hは、原文ではno accountant（単数形）。単に「会計士」と訳した。</note>
+  </problem>
+  <problem jsem_id="404" answer="no" language="ja" phenomena="plural, negated plural, -dake (toritate particle), floating quantifier" inference_type="entailment">
+    <link resource="fracas" link_id="106" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	会計士が一人だけ会議に出席した。
+  	</script>
+      <english>
+     Just one accountant attended the meeting.
+    </english>
+    </p>
+    <h>
+      <script>
+	会計士は誰も会議に出席しなかった。
+	</script>
+      <english>
+     No accountant attended the meeting.
+    </english>
+    </h>
+    <note>AK: Hは、原文ではno accountant（単数形）。単に「会計士」と訳した。</note>
+  </problem>
+  <problem jsem_id="405" answer="yes" language="ja" phenomena="plural, negated plural" inference_type="entailment">
+    <link resource="fracas" link_id="108" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	たった一人の会計士が会議に出席した。
+  	</script>
+      <english>
+     Just one accountant attended the meeting.
+    </english>
+    </p>
+    <h>
+      <script>
+	会計士が誰か会議に出席した。
+	</script>
+      <english>
+     Some accountant attended the meeting.
+	</english>
+    </h>
+    <note>AK: Hは、原文ではno accountant（単数形）。単に「会計士」と訳した。</note>
+  </problem>
+  <problem jsem_id="406" answer="yes" language="ja" phenomena="plural, negated plural, -dake (toritate particle), floating quantifier" inference_type="entailment">
+    <link resource="fracas" link_id="108" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	会計士が一人だけ会議に出席した。
+  	</script>
+      <english>
+     Just one accountant attended the meeting.
+    </english>
+    </p>
+    <h>
+      <script>
+	会計士が誰か会議に出席した。
+	</script>
+      <english>
+     Some accountant attended the meeting.
+	</english>
+    </h>
+    <note>AK: Hは、原文ではno accountant（単数形）。単に「会計士」と訳した。</note>
+  </problem>
+  <problem jsem_id="407" answer="no" language="ja" phenomena="plural, negated plural" inference_type="entailment">
+    <link resource="fracas" link_id="109" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	たった一人の会計士が会議に出席した。
+  	</script>
+      <english>
+     Just one accountant attended the meeting.
+    </english>
+    </p>
+    <h>
+      <script>
+	何人かの会計士たちが会議に出席した。
+	</script>
+      <english>
+     Some accountants attended the meeting.
+	</english>
+    </h>
+    <note>AK: Hは、原文ではno accountants（複数形）。訳に「会計士たち」と反映した。fracas-107はpとhは上と同一だが、107ではなぜか推論の可否がyesになっている。理由は不明。ここではfracas-109に対応する例のみ示す。</note>
+  </problem>
+  <problem jsem_id="408" answer="no" language="ja" phenomena="plural, negated plural, -dake (toritate particle), floating quantifier" inference_type="entailment">
+    <link resource="fracas" link_id="109" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	会計士が一人だけ会議に出席した。
+  	</script>
+      <english>
+     Just one accountant attended the meeting.
+    </english>
+    </p>
+    <h>
+      <script>
+	何人かの会計士たちが会議に出席した。
+	</script>
+      <english>
+     Some accountants attended the meeting.
+	</english>
+    </h>
+    <note>AK: Hは、原文ではno accountants（複数形）。訳に「会計士たち」と反映した。fracas-107はpとhは上と同一だが、107ではなぜか推論の可否がyesになっている。理由は不明。ここではfracas-109に対応する例のみ示す。</note>
+  </problem>
+  <problem jsem_id="409" answer="yes" language="ja" phenomena="plural, negated plural" inference_type="entailment">
+    <link resource="fracas" link_id="110" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	たった一人の会計士が会議に出席した。
+  	</script>
+      <english>
+     Just one accountant attended the meeting.
+    </english>
+    </p>
+    <h>
+      <script>
+	会計士が誰か会議に出席した。
+	</script>
+      <english>
+     Some accountant attended the meeting.
+	</english>
+    </h>
+    <note>AK: Hは、原文ではno accountant（単数形）。単に「会計士」と反映したが、適切かどうか不明。</note>
+  </problem>
+  <problem jsem_id="410" answer="yes" language="ja" phenomena="plural, negated plural, -dake (toritate particle), floating quantifier" inference_type="entailment">
+    <link resource="fracas" link_id="110" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	会計士が一人だけ会議に出席した。
+  	</script>
+      <english>
+     Just one accountant attended the meeting.
+    </english>
+    </p>
+    <h>
+      <script>
+	会計士が誰か会議に出席した。
+	</script>
+      <english>
+     Some accountant attended the meeting.
+	</english>
+    </h>
+    <note>AK: Hは、原文ではno accountant（単数形）。単に「会計士」と反映したが、適切かどうか不明。</note>
+  </problem>
+  <problem jsem_id="411" answer="yes" language="ja" phenomena="plural, collective and distributive plural" inference_type="entailment">
+    <link resource="fracas" link_id="111" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	スミスが一枚の契約書に署名した。
+  	</script>
+      <english>
+     Smith signed one contract.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	ジョーンズはもう一枚の契約書に署名した。
+  	</script>
+      <english>
+     Jones signed another contract.
+	</english>
+    </p>
+    <h>
+      <script>
+	スミスとジョーンズが二枚の誓約書に署名した。
+	</script>
+      <english>
+     Smith and Jones signed two contracts.
+	</english>
+    </h>
+    <note>AK: 集合的あるいは累積的な解釈ではyes</note>
+  </problem>
+  <problem jsem_id="412" answer="yes" language="ja" phenomena="plural, collective and distributive plural" inference_type="entailment">
+    <link resource="fracas" link_id="112" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	スミスが二枚の契約書に署名した。
+  	</script>
+      <english>
+     Smith signed two contracts.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	ジョーンズが二枚の契約書に署名した。
+  	</script>
+      <english>
+     Jones signed two contracts.
+	</english>
+    </p>
+    <h>
+      <script>
+	スミスとジョーンズが二枚の誓約書に署名した。
+	</script>
+      <english>
+     Smith and Jones signed two contracts.
+	</english>
+    </h>
+    <note>AK: 「スミスとジョーンズ」を分配的に解釈すればyes。</note>
+  </problem>
+  <problem jsem_id="413" answer="yes" language="ja" phenomena="plural, collective and distributive plural" inference_type="entailment">
+    <link resource="fracas" link_id="113" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	スミスが二枚の契約書に署名した。
+  	</script>
+      <english>
+     Smith signed two contracts.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	ジョーンズもそれらに署名した。
+  	</script>
+      <english>
+     Jones also signed them.
+	</english>
+    </p>
+    <h>
+      <script>
+	スミスとジョーンズが二枚の誓約書に署名した。
+	</script>
+      <english>
+     Smith and Jones signed two contracts.
+	</english>
+    </h>
+  </problem>
+  
+    <!--
+[Bibliography]
+
+Abe, Jun (1997) The locality of zibun and logophoricity. Technical report 08CE1001,Kanda University of International Studies, Japan.
+
+Abe, Jun and Hiroto Hoshi (1997) Gapping and P-Stranding. Journal of East Asian Linguistics Vol. 6, No. 1 (Jan., 1997), pp. 101-136, Springer.
+
+Ackema, Peter (2010) Gapping is always forward. In: Zwart, C. Jan-Wouter and Mark de Vries (eds.), Structure Preserved: Studies in syntax for Jan Koster. 2010. xxiii, 395 pp. (pp. 13–20)
+
+Fukaya, Teruhiko and Hajime Hoji (1999) "Stripping and Sluicing in Japanese and Some Implications." WCCFL18: 145-158.
+
+Fukaya, Teruhiko (2003) Island (In)sensitivity in Japanese Sluicing and Stripping and Some Implications, WCCFL 22, 2003.
+
+Hankamer, Jorge and Ivan Sag.(1976). Deep and Surface Anaphora.Linguistic Inquiry 7. 391-428.
+
+Hayashishita, J.-R. 2007. Izyoo(ni)- and gurai-comparatives: Comparison of deviation in Japanese. 言語研究 132: 77-109.
+
+Hoji, Hajime. (1990). Theories of Anaphora and Aspects of Japanese Syntax. Ms., USC.
+
+Hoji, Hajime (1997) "Sloppy Identity and Formal Dependency," in Proceedings of the 15th West Coast Conference on Formal Linguistics, Center for the Study of Language and Information, Stanford. pp. 209-223.
+
+Hoji, Hajime (2003) "Surface and Deep anaphora, Sloppy Identity, and Experiments in Syntax, " in Anaphora: A Reference Guide: 172-235. Blackwell Publishing Ltd.
+Houser, Michael J. (2010). The syntax and semantics of do so anaphora. Doctoral
+dissertation, University of California, Berkeley.
+
+Jackendoff, Ray. (1971). Gapping and related rules. Linguistic Inquiry 2: 21: 35.
+
+Jayaseelan, Karattuparambil A. (1990). Incomplete VP deletion and gapping. Linguistic Analysis 20: 64-81.
+
+Kameyama, Megumi (1984) Subjective/logophoric bound anaphor zibun. CLS 20,
+228-238.
+
+Kamp, Hans. (1975), Two theories about adjectives, in E. Keenan (ed.), Formal Semantics of Natural Language, Cambridge University Press. 123–155.
+
+Karttunen, Lauri (1970) The Logic of English Predicate Complement Constructions. The Indiana University Linguistics Club. Bloomington, Indiana.
+
+Kennedy, Chris and Louise McNally. (2005). Scale structure, degree modification, and the semantics of gradable predicates. Language 81(2): 345–381.
+
+Kubota, Yusuke. 2012. The Presuppositional Nature of izyoo(-ni) and gurai Comparatives: A Note on Hayashishita (2007). 言語研究 141: 33–46.
+
+Kuno, Susumu. (1976). Gapping: A functional analysis. Linguistic Inquiry 7: 300-318.
+
+MacCartney, Bill(2010) FraCAS textual inference teest suite. http://www-nlp.stanford.edu/~wcmac/downloads/fracas.xml
+
+Mukai, Emi. (2003). On verbless conjunction in Japanese. In Proceedings of NELS 33, ed. Makoto Kadowaki and Shigeto Kawahara, 205-224. University of Massachusetts, Amherst: GLSA Publications.
+
+Oshima, David Y. (2004) "Zibun revisited: Empathy, logophoricity, and binding", In: Sylwia Tur and Susannah Levi (eds.) Proceedings of the 20th Northwest Linguistic Conference, vol.23 of University of Washington Working Papers in Linguistics. pp.175-190.
+
+Rotstein, Carmen and Yoad Winter. (2004). Total adjectives vs. partial adjectives: Scale structure and higher-order modifiers. Natural Language Semantics 12(3): 259–288.
+
+Saito, Mamoru. (1987). Three notes on syntactic movement in Japanese. In Issues in Japanese linguistics, ed.Takasi Imai and Mamoru Saito, 301-350. Dordrecht: Kluwer.
+
+Terazu-Imanishi, Noriko. (1989). Some Nominal Anaphora in English and Japanese. Text - Interdisciplinary Journal for the Study of Discourse. doi:10.1515/text.1.1989.9.3.275
+
+井上和子 (1976) 『変形文法と日本語（上）』, 大修館書店.
+
+久野暲 (1973) 『日本文法研究』, 大修館書店.
+
+久野暲 (1978) 『談話の文法』, 大修館書店.(Kuno, Susumu (1978) Danwa no bunpoo [grammar of discourse]. Tokyo: Taishukan.)
+
+西尾寅弥／国立国語研究所『形容詞の意味・用法の記述的研究』秀英出版、1972年
+
+-->
+</jsem-problems>

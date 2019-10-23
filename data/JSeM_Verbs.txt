@@ -1,0 +1,37 @@
+693			YES	"verb, aspectual class"	"entailment"		ITELは1993年にMTALKを作った。	ITELは1993年にMTALKを作り終えた。
+694			UNKNOWN	"verb, aspectual class"	"entailment"	P1のアスペクト表現「ていた」は進行と結果残存の意味で曖昧。 
+	ITELは1993年にMTALKを作っていた。	ITELは1993年にMTALKを作り終えた。
+695			UNKNOWN	"verb, aspectual class"	"entailment"		ITELは1993年にMTALKを作っている最中だった。	ITELは1993年にMTALKを作り終えた。
+696			YES	"verb, aspectual class, adverb"	"entailment"		ITELは1993年にAPCOMから契約を勝ち取った。	ITELは1993年に契約を勝ち取った。
+697			UNKNOWN	"verb, aspectual class"	"entailment"		ITELは1993年にAPCOMから契約を勝ち取りつつあった。	ITELは1993年に契約を勝ち取った。
+698			YES	"verb, aspectual class"	"entailment"		ITELは1988年から1992年までAPCOMを所有していた。	ITELは1990年にAPCOMを所有していた。
+699			YES	"verb, distributive predication"	"entailment"		スミスとジョーンズが打ち合わせを離れた。	スミスが打ち合わせを離れた。
+700			YES	"verb, distributive predication"	"entailment"		スミスとジョーンズが打ち合わせを離れた。	ジョーンズが打ち合わせを離れた。
+701			YES	"verb, collective predication"	"entailment"		スミスとアンダーソンとジョーンズが面会をした。	面会をしたグループがあった。
+702			YES	"verb, adverb"	"entailment"		花子が学校までゆっくり歩いた。	花子がゆっくり歩いた。
+703			YES	"verb, adverb"	"entailment"		花子が学校までゆっくり歩いた。	花子が学校まで歩いた。
+704			YES	"verb, adverb"	"entailment"		花子が学校までゆっくり歩いた。	花子が歩いた。
+705			YES	"verb, adverb"	"entailment"		花子が学校までゆっくり歩いた。	花子がゆっくり学校まで歩いた。
+706			YES	"verb, adverb"	"entailment"		花子がゆっくり学校まで歩いた。	花子が学校までゆっくり歩いた。
+707			YES	"verb, passive"	"entailment"		太郎が花子を叱った。	花子が叱られた。
+708			UNKNOWN	"verb, passive"	"entailment"		太郎が花子を叱った。	太郎が叱られた。
+709			YES	"verb, passive"	"entailment"		山田先生が青木さんを叱った。	青木さんが山田先生に叱られた。
+710			UNKNOWN	"verb, passive"	"entailment"		太郎が花子を叱った。	太郎が花子に叱られた。
+711			YES	"verb, passive"	"entailment"		青木さんが山田先生に叱られた。	山田先生が青木さんを叱った。
+712			UNKNOWN	"verb, passive"	"entailment"		花子が太郎に叱られた。	花子が太郎を叱った。
+713			YES	"verb, passive"	"entailment"		花子が自転車を盗まれた。	誰かが花子の自転車を盗んだ。
+714			YES	"verb, passive"	"entailment"		誰かが花子の自転車を盗んだ。	花子が自転車を盗まれた。
+715			YES	"verb, passive"	"entailment"		太郎が泥棒に財布を盗まれた。	泥棒が太郎の財布を盗んだ。
+716			YES	"verb, passive"	"entailment"		泥棒が太郎の財布を盗んだ。	太郎が泥棒に財布を盗まれた。
+717			YES	"verb, passive"	"entailment"		太郎は次郎から花子を紹介された。	次郎が花子を太郎に紹介した。
+718			YES	"verb, passive"	"entailment"		次郎が花子を太郎に紹介した。	太郎は次郎から花子を紹介された。
+719			UNKNOWN	"verb, passive"	"entailment"		太郎は次郎から花子を紹介された。	次郎が太郎を花子に紹介した。
+720			YES	"verb, passive"	"entailment"	間接受身	太郎が花子に泣かれた。	花子が泣いた。
+721			YES	"verb, passive"	"entailment"	間接受身	太郎が雨に降られた。	雨が降った。
+722			YES	"verb, causative"	"entailment"		太郎が花子に勉強をさせた。	花子が勉強をした。
+723			YES	"verb, causative"	"entailment"		監督は部員たちを走らせた。	部員たちが走った。
+724			YES	"verb, causative"	"entailment"	「許容」の意味	太郎は子供たちに好きなように遊ばせた。	子供たちが好きなように遊んだ。
+725			YES	"verb, benefactive"	"entailment"		太郎が花子に荷物を運んでもらった。	花子が荷物を運んだ。
+726			YES	"verb, benefactive"	"entailment"		太郎が教室で花子に歌を歌ってもらった。	花子が教室で歌を歌った。
+727			YES	"verb, ergative verb"	"entailment"		太郎が障子を破いた。	障子が破れた。
+728			YES	"verb, ergative verb"	"entailment"		太郎がドアをゆっくり閉めた。	ドアがゆっくり閉まった。

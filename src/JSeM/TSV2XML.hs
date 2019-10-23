@@ -45,16 +45,13 @@ nodes2XML name nodes =
   X.renderText X.def $ X.Document 
                          (X.Prologue
                             []
+                            -- | <!DOCTYPE jsem-problems SYSTEM "jsem.dtd">
                             (Just $ X.Doctype "jsem-problems SYSTEM \"jsem.dtd\"" Nothing)
+                            -- |<?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
                             [X.MiscInstruction $ X.Instruction "xml-stylesheet" "type=\"text/xsl\" href=\"jsem.xsl\"" ]
                             ) 
                          (X.Element (tag name) (M.fromList []) nodes)
                          []
-
-{- 以下を入れたい。 
-<!DOCTYPE jsem-problems SYSTEM "jsem.dtd">
-<?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
--}
 
 -- | 与えたtsvファイルのすべてについて、データ形式をチェック（現在はコラム数が9以上であることを確認のみ）
 validateTsvFiles :: [FilePath] -> IO()

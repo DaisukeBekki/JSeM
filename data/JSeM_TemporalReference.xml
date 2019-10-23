@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE jsem-problems SYSTEM "jsem.dtd">
+<?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
+<jsem-problems>
+  <comment>  Japanese Semantics Test Suite (Beta version, last modified on May 30, 2015) created by Ai Kawazoe, Ribeka Tanaka, Koji Mineshima and Daisuke Bekki, 2015. </comment>
+  <comment> The format of this file is based on those of FraCaS textual inference problem set by Bill MacCartney and MutiFraCaS sets by Robin Cooper. </comment>
+  <comment> This Beta version contains textual inference tests involving tense, which corresponds to Temporal Reference section in FraCaS test suite  (Cooper et al.1996). Note that not all of the tests are literal translation of FraCaS. We created original Japanese data for some FraCas tests which cannot be translated into natural Japanese sentences. One or more tests are linked to a FraCaS entry when necessary. </comment>
+
+  <problem jsem_id="644" answer="yes" language="jp" phenomena="temporal reference, standard use of tense" inference_type="entailment">
+    <link resource="fracas" link_id="251" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+    ITELはバーミンガムに工場を持っている。
+	</script>
+      <english>
+    ITEL has a factory in Birmingham.
+    </english>
+    </p>
+    <h>
+      <script>
+     ITELは現在バーミンガムに工場を持っている。
+	</script>
+      <english>
+    ITEL currently has a factory in Birmingham.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="645" answer="yes" language="jp" phenomena="temporal reference, standard use of tense" inference_type="entailment">
+    <link resource="fracas" link_id="252" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     1992年以来、ITELはバーミンガムにある。
+	</script>
+      <english>
+    Since 1992 ITEL has been in Birmingham.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+    現在、1996年である。
+	</script>
+      <english>
+    It is now 1996.
+    </english>
+    </p>
+    <h>
+      <script>
+     ITELは1993年にはバーミンガムにあった。
+	</script>
+      <english>
+    ITEL was in Birmingham in 1993.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="646" answer="unknown" language="jp" phenomena="temporal reference, standard use of tense" inference_type="entailment">
+    <link resource="fracas" link_id="253" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     ITELは1992年以来、新人編集者を育成してきた。
+	</script>
+      <english>
+    ITEL has developed a new editor since 1992.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     現在、1996年である。
+	</script>
+      <english>
+    It is now 1996.
+    </english>
+    </p>
+    <h>
+      <script>
+     ITELは1993年に新人編集者を育成した。
+	</script>
+      <english>
+    ITEL developed a new editor in 1993.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="647" answer="yes" language="jp" phenomena="temporal reference, standard use of tense" inference_type="entailment">
+    <link resource="fracas" link_id="254" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     ITELは1992年以来、事業を拡張している。
+	</script>
+      <english>
+    ITEL has expanded since 1992.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     現在、1996年である。
+	</script>
+      <english>
+    It is now 1996.
+    </english>
+    </p>
+    <h>
+      <script>
+     ITELは1993年に事業を拡張した。
+	</script>
+      <english>
+    ITEL expanded in 1993.
+    </english>
+    </h>
+    <note>DB: A(nswer) is reported as "don't know" in English and Chinese but I'm wondering if it is really true.  At least it should be "yes" in Japanese.</note>
+  </problem>
+  <problem jsem_id="648" answer="yes" language="jp" phenomena="temporal reference, standard use of tense" inference_type="entailment">
+    <link resource="fracas" link_id="255" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+    1992年以来、ITELは損失を出している。
+	</script>
+      <english>
+    Since 1992 ITEL has made a loss.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+    現在、1996年である。
+	</script>
+      <english>
+    It is now 1996.
+    </english>
+    </p>
+    <h>
+      <script>
+     ITELは1993年に損失を出した。
+	</script>
+      <english>
+    ITEL made a loss in 1993.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="649" answer="yes" language="jp" phenomena="temporal reference, standard use of tense" inference_type="entailment">
+    <link resource="fracas" link_id="257" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     ITELは1992年以来損失を出している。
+	</script>
+      <english>
+    ITEL has made a loss since 1992.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     現在、1996年である。 
+	</script>
+      <english>
+    It is now 1996.
+    </english>
+    </p>
+    <h>
+      <script>
+     ITELは1993年に損失を出した。
+	</script>
+      <english>
+    ITEL made a loss in 1993.
+    </english>
+    </h>
+    <note>AK:fracas-256の例はP1に曖昧性があるとされているが、日本語ではそのような曖昧性は見られない。 </note>
+  </problem>
+  <problem jsem_id="650" answer="no" language="jp" phenomena="temporal reference, standard use of tense" inference_type="entailment">
+    <link resource="fracas" link_id="258" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     1993年3月にAPCOMはITELを設立した。
+	</script>
+      <english>
+    In March 1993 APCOM founded ITEL.
+    </english>
+    </p>
+    <h>
+      <script>
+     ITELは1992年に存在した。
+	</script>
+      <english>
+    ITEL existed in 1992.
+    </english>
+    </h>
+    <note>DB: This test involves the lexical semantics of "seturitu-suru". </note>
+  </problem>
+  <problem jsem_id="651" answer="yes" language="jp" phenomena="temporal reference, indexical" inference_type="entailment">
+    <link resource="fracas" link_id="259" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     学会は1994年7月4日に始まった。
+	</script>
+      <english>
+    The conference started on July 4th, 1994.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     その学会は2日間にわたった。
+	</script>
+      <english>
+    It lasted 2 days.
+    </english>
+    </p>
+    <h>
+      <script>
+     学会は1994年7月8日には終了していた。
+	</script>
+      <english>
+    The conference was over on July 8th, 1994.
+    </english>
+    </h>
+    <note>AK:be overを「終了している」と結果残存のテイル形に対応させた。</note>
+  </problem>
+  <problem jsem_id="652" answer="yes" language="jp" phenomena="temporal reference, indexical" inference_type="entailment">
+    <link resource="fracas" link_id="260" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     昨日、APCOMは契約書に署名した。
+	</script>
+      <english>
+    Yesterday APCOM signed the contract.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     今日は7月14日土曜日だ。
+	</script>
+      <english>
+    Today is Saturday, July 14th.
+    </english>
+    </p>
+    <h>
+      <script>
+     APCOMは13日の金曜日に契約書に署名した。
+	</script>
+      <english>
+    APCOM signed the contract Friday, 13th.
+    </english>
+    </h>
+    <note>comments for FraCaS by Bill MacCartney: The odd punctuation in the question was in the original. </note>
+  </problem>
+  <problem jsem_id="653" answer="yes" language="jp" phenomena="temporal reference, before, after" inference_type="entailment">
+    <link resource="fracas" link_id="261" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスはジョーンズが去る前に去った。
+	</script>
+      <english>
+    Smith left before Jones left.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     ジョーンズはアンダーソンが去る前に去った。
+	</script>
+      <english>
+    Jones left before Anderson left.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスはアンダーソンが去る前に去った。
+	</script>
+      <english>
+    Smith left before Anderson left.
+    </english>
+    </h>
+    <note>comments for FraCaS by Bill MacCartney: Original is degenerate problem; this is my fabrication. </note>
+  </problem>
+  <problem jsem_id="654" answer="yes" language="jp" phenomena="temporal reference, before, after" inference_type="entailment">
+    <link resource="fracas" link_id="262" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスはジョーンズが去った後に去った。
+	</script>
+      <english>
+    Smith left after Jones left.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     ジョーンズはアンダーソンが去った後に去った。
+	</script>
+      <english>
+    Jones left after Anderson left.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスはアンダーソンが去った後に去った。
+	</script>
+      <english>
+    Smith left after Anderson left.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="655" answer="yes" language="jp" phenomena="temporal reference, before, after" inference_type="entailment">
+    <link resource="fracas" link_id="264" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスが去った。
+	</script>
+      <english>
+    Smith left.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     ジョーンズが去った。
+	</script>
+      <english>
+    Jones left.
+    </english>
+    </p>
+    <p idx="3">
+      <script>
+     スミスはジョーンズが去る前に去った。
+	</script>
+      <english>
+    Smith left before Jones left.
+    </english>
+    </p>
+    <h>
+      <script>
+     ジョーンズはスミスが去った後で去った。
+	</script>
+      <english>
+    Jones left after Smith left.
+    </english>
+    </h>
+    <note> DB: Are P1 and P2 necessary, given P3?</note>
+    <note> commeng for FraCaS by Bill MacCartney: Original is degenerate problem; this is my fabrication. </note>
+  </problem>
+  <problem jsem_id="656" answer="yes" language="jp" phenomena="temporal reference, before, after" inference_type="entailment">
+    <link resource="fracas" link_id="265" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスが去った。
+	</script>
+      <english>
+    Smith left.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     ジョーンズが去った。
+	</script>
+      <english>
+    Jones left.
+    </english>
+    </p>
+    <p idx="3">
+      <script>
+     スミスはジョーンズが去った後に去った。
+	</script>
+      <english>
+    Smith left after Jones left.
+    </english>
+    </p>
+    <h>
+      <script>
+     ジョーンズはスミスが去る前に去った。
+	</script>
+      <english>
+    Jones left before Smith left.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="657" answer="yes" language="jp" phenomena="temporal reference, before, after" inference_type="entailment">
+    <link resource="fracas" link_id="266" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスが去った。  
+	</script>
+      <english>
+    Smith left.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     ジョーンズが去った。  
+	</script>
+      <english>
+    Jones left.
+    </english>
+    </p>
+    <p idx="3">
+      <script>
+     ジョーンズはスミスが去る前に去った。
+	</script>
+      <english>
+    Jones left before Smith left.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスはジョーンズが去る前に去った。
+	</script>
+      <english>
+    Smith left after Jones left.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="658" answer="yes" language="jp" phenomena="temporal reference, before, after, comparative deletion" inference_type="entailment">
+    <link resource="fracas" link_id="267" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     ジョーンズが契約書を修正した。
+	</script>
+      <english>
+    Jones revised the contract.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     スミスが契約書を修正した。
+	</script>
+      <english>
+    Smith revised the contract.
+    </english>
+    </p>
+    <p idx="3">
+      <script>
+     ジョーンズがスミスより先に契約書を修正した。
+	</script>
+      <english>
+    Jones revised the contract before Smith did.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスはジョーンズより後に契約書を修正した。
+	</script>
+      <english>
+    Smith revised the contract after Jones did.
+    </english>
+    </h>
+    <note>AK: これはcomparative deletionの例でもある。</note>
+  </problem>
+  <problem jsem_id="659" answer="yes" language="jp" phenomena="temporal reference, before, after, comparative deletion" inference_type="entailment">
+    <link resource="fracas" link_id="268" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     ジョーンズが契約書を修正した。
+	</script>
+      <english>
+    Jones revised the contract.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     スミスが契約書を修正した。
+	</script>
+      <english>
+    Smith revised the contract.
+    </english>
+    </p>
+    <p idx="3">
+      <script>
+     ジョーンズがスミスより後に契約書を修正した。
+	</script>
+      <english>
+    Jones revised the contract after Smith did.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスはジョーンズより先に契約書を修正した。
+	</script>
+      <english>
+    Smith revised the contract before Jones did.
+    </english>
+    </h>
+    <note>DB: 「～より後に」は日本語では少々不自然。</note>
+    <note>AK: これはcomparative deletionの例でもある。</note>
+  </problem>
+  <problem jsem_id="660" answer="unknown" language="jp" phenomena="temporal reference, before, after" inference_type="entailment">
+    <link resource="fracas" link_id="269" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスが泳いだ。
+	</script>
+      <english>
+    Smith swam.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     ジョーンズが泳いだ。
+	</script>
+      <english>
+    Jones swam.
+    </english>
+    </p>
+    <p idx="3">
+      <script>
+     スミスはジョーンズが泳ぐ前に泳いだ。
+	</script>
+      <english>
+    Smith swam before Jones swam.
+    </english>
+    </p>
+    <h>
+      <script>
+     ジョーンズはスミスが泳いだ後に泳いだ。
+	</script>
+      <english>
+    Jones swam after Smith swam.
+    </english>
+    </h>
+    <note>AK: activity verbでは、achievement/accomplishment verbで成り立っていたような推論（X after Y iff Y before X）が必ずしも成り立たないという例。日本語の「前」「後」にも同様の現象がみられるように思われる。</note>
+  </problem>
+  <problem jsem_id="661" answer="yes" language="jp" phenomena="temporal reference, before, after" inference_type="entailment">
+    <link resource="fracas" link_id="270" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスが海岸まで泳いだ。
+	</script>
+      <english>
+    Smith swam to the shore.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     ジョーンズが海岸まで泳いだ。
+	</script>
+      <english>
+    Jones swam to the shore.
+    </english>
+    </p>
+    <p idx="3">
+      <script>
+     スミスはジョーンズが海岸まで泳ぐ前に、海岸まで泳いだ。
+	</script>
+      <english>
+    Smith swam to the shore before Jones swam to the shore.
+    </english>
+    </p>
+    <h>
+      <script>
+     ジョーンズはスミスが海岸まで泳いだ後に、海岸まで泳いだ。
+	</script>
+      <english>
+    Jones swam to the shore after Smith swam to the shore.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="662" answer="unknown" language="jp" phenomena="temporal reference, before, after" inference_type="entailment">
+    <link resource="fracas" link_id="275" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスは激怒する前に会議室から出た。
+	</script>
+      <english>
+    Smith left the meeting before he lost his temper.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスは激怒した。
+	</script>
+      <english>
+    Smith lost his temper.
+    </english>
+    </h>
+    <note>AK:「前に」のcounterfacturalな解釈</note>
+  </problem>
+  <problem jsem_id="663" answer="unknown" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="277" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスは1991年にバーミンガムに住んでいた。
+	</script>
+      <english>
+    Smith lived in Birmingham in 1991.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスは1992年にバーミンガムに住んでいた。   
+	</script>
+      <english>
+    Smith lived in Birmingham in 1992.
+    </english>
+    </h>
+    <note>comments in original FraCaS:  Stative </note>
+  </problem>
+  <problem jsem_id="664" answer="no" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="278" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスは1991年に最初の小説を書いた。
+	</script>
+      <english>
+    Smith wrote his first novel in 1991.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスは1992年に最初の小説を書いた。
+	</script>
+      <english>
+    Smith wrote his first novel in 1992.
+    </english>
+    </h>
+    <note>comments in original FraCaS:  (Unrepeatable) accomplishment </note>
+  </problem>
+  <problem jsem_id="665" answer="unknown" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="280" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスは1991年に小説を書いた。
+	</script>
+      <english>
+    Smith wrote a novel in 1991.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスは1992年に小説を書いた。
+	</script>
+      <english>
+    Smith wrote a novel in 1992.
+    </english>
+    </h>
+    <note>comments in original FraCaS:  (Repeatable) accomplishment </note>
+  </problem>
+  <problem jsem_id="666" answer="unknown" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="281" translation="no" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     山田は1991年に焼き肉店を経営していた。
+	</script>
+    </p>
+    <h>
+      <script>
+     山田は1992年にその店を経営していた。
+	</script>
+    </h>
+    <note>comments in original FraCaS:  Activity </note>
+  </problem>
+  <problem jsem_id="667" answer="no" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="282" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスが1991年に新種を発見した。
+	</script>
+      <english>
+    Smith discovered a new species in 1991.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスはそれを1992年に発見した。
+	</script>
+      <english>
+    Smith discovered it in 1992.
+    </english>
+    </h>
+    <note>comments in original FraCaS:  (Unrepeatable) achievement </note>
+  </problem>
+  <problem jsem_id="668" answer="unknown" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="283" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスが1991年に新種を発見した。
+	</script>
+      <english>
+    Smith discovered a new species in 1991.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスは1992年に新種を発見した。
+	</script>
+      <english>
+    Smith discovered a new species in 1992.
+    </english>
+    </h>
+    <note>comments in original FraCaS:  (Repeatable) achievement </note>
+  </problem>
+  <problem jsem_id="669" answer="yes" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="284" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスが2時間以内に報告書を書いた。
+	</script>
+      <english>
+    Smith wrote a report in two hours.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     スミスは午前8時にその報告書を書き始めた。
+	</script>
+      <english>
+    Smith started writing the report at 8 am.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスは午前11時までにその報告書を書き終えた。
+	</script>
+      <english>
+    Smith had finished writing the report by 11 am.
+    </english>
+    </h>
+    <note>comments in original FraCaS:  Accomplishment </note>
+  </problem>
+  <problem jsem_id="670" answer="unknown" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="285" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスが2時間以内に報告書を書いた。
+	</script>
+      <english>
+    Smith wrote a report in two hours.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスはその報告書を書くのに2時間を費やした。
+	</script>
+      <english>
+    Smith spent two hours writing the report.
+    </english>
+    </h>
+    <note>comments in original FraCaS: 
+    Smith may have written the report in less than two hours. It is unclear
+    whether there are two different readings for the premise: one where Smith
+    takes exactly two hours, and one where he does it within two hours.
+  </note>
+    <note>DB: the Japanese expression "2時間以内に" is not ambiguous in the sense of the above comment on "two different readings".</note>
+  </problem>
+  <problem jsem_id="671" answer="no" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="286" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスが2時間以内に報告書を書いた。  
+	</script>
+      <english>
+    Smith wrote a report in two hours.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスはその報告書を書くのに2時間以上費やした。
+	</script>
+      <english>
+    Smith spent more than two hours writing the report.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="672" answer="unknown" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="287" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスが2時間以内に報告書を書いた。  
+	</script>
+      <english>
+    Smith wrote a report in two hours.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスは1時間以内に報告書を書いた。
+	</script>
+      <english>
+    Smith wrote a report in one hour.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="673" answer="yes" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="288" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスが2時間以内に報告書を書いた。  
+	</script>
+      <english>
+    Smith wrote a report in two hours.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスは報告書を書いた。
+	</script>
+      <english>
+    Smith wrote a report.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="674" answer="yes" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="290" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスは2時間以内に新種を発見した。
+	</script>
+      <english>
+    Smith discovered a new species in two hours.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスは新種を発見した。
+	</script>
+      <english>
+    Smith discovered a new species.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="675" answer="unknown" jsem_nonstandard="true" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="291" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスは2時間以内に多くの新種を発見した。
+	</script>
+      <english>
+    Smith discovered many new species in two hours.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスは新種を発見するのに2時間を費やした。
+	</script>
+      <english>
+    Smith spent two hours discovering new species.
+    </english>
+    </h>
+    <note>comments in original FraCaS:  Repeated achievement can last two hours. </note>
+    <note>DB: 中国語版ではYES</note>
+  </problem>
+  <problem jsem_id="676" answer="yes" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="298" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスは2年間バーミンガムに住んだ。
+	</script>
+      <english>
+    Smith lived in Birmingham for two years.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスは1年間バーミンガムに住んだ。
+	</script>
+      <english>
+    Smith lived in Birmingham for a year.
+    </english>
+    </h>
+    <note>comments in original FraCaS:  State </note>
+  </problem>
+  <problem jsem_id="677" answer="no" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="299" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスは2年間バーミンガムに住んだ。
+	</script>
+      <english>
+    Smith lived in Birmingham for two years.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスはちょうど1年間バーミンガムに住んだ。
+	</script>
+      <english>
+    Smith lived in Birmingham for exactly a year.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="678" answer="yes" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="300" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスはバーミンガムに2年住んだ。
+	</script>
+      <english>
+    Smith lived in Birmingham for two years.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスはバーミンガムに住んだ。
+	</script>
+      <english>
+    Smith lived in Birmingham.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="679" answer="yes" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="301" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスは自分の事業を2年間営んだ。
+	</script>
+      <english>
+    Smith ran his own business for two years.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスは自分の事業を1年間営んだ。
+	</script>
+      <english>
+    Smith ran his own business for a year.
+    </english>
+    </h>
+    <note>comments in original FraCaS:  Activity </note>
+  </problem>
+  <problem jsem_id="680" answer="yes" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="302" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスは自分の事業を2年間営んだ。
+	</script>
+      <english>
+    Smith ran his own business for two years.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスは自分の事業を営んだ。
+	</script>
+      <english>
+    Smith ran his own business.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="681" answer="yes" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="303" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスは2時間報告書を書いた。
+	</script>
+      <english>
+    Smith wrote a report for two hours.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスは1時間報告書を書いた。
+	</script>
+      <english>
+    Smith wrote a report for an hour.
+    </english>
+    </h>
+    <note>comments in original FraCaS:  Accomplishment </note>
+  </problem>
+  <problem jsem_id="682" answer="yes" language="jp" phenomena="temporal reference, temporal adverb" inference_type="entailment">
+    <link resource="fracas" link_id="304" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスは2時間報告書を書いた。
+	</script>
+      <english>
+    Smith wrote a report for two hours.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスは報告書を書いた。
+	</script>
+      <english>
+    Smith wrote a report.
+    </english>
+    </h>
+    <note>comments in original FraCaS:  'wrote a report' is translated into a way that doesn't care if it is finished but if it is written. </note>
+  </problem>
+  <problem jsem_id="683" answer="yes" language="jp" phenomena="temporal reference, quantificational adverbial" inference_type="entailment">
+    <link resource="fracas" link_id="307" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     1994年、ITELは毎月進捗報告を送った。
+	</script>
+      <english>
+    In 1994 ITEL sent a progress report every month.
+    </english>
+    </p>
+    <h>
+      <script>
+     ITELは1994年7月に進捗報告を送った。
+	</script>
+      <english>
+    ITEL sent a progress report in July 1994.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="684" answer="undef" jsem_nonstandard="true" language="jp" phenomena="temporal reference, quantificational adverbial, scope ambiguity" inference_type="entailment">
+    <link resource="fracas" link_id="308" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスは毎週代議士に手紙を書いた。
+	</script>
+      <english>
+    Smith wrote to a representative every week.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスが毎週手紙を書いた代議士が存在する。
+	</script>
+      <english>
+    There is a representative that Smith wrote to every week.
+    </english>
+    </h>
+    <note>DB: 「代議士」の存在量化と「毎週」のスコープの問題。</note>
+    <note>AK: 毎週＞代議士と解釈すればunknown、代議士＞毎週と解釈すればyes。</note>
+  </problem>
+  <problem jsem_id="685" answer="yes" language="jp" phenomena="temporal reference, anaphoric dimension" inference_type="entailment">
+    <link resource="fracas" link_id="311" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスは5時15分に家を出た。
+	</script>
+      <english>
+    Smith had left the house at a quarter past five.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     それから、彼女はタクシーを拾って駅に向かった。
+	</script>
+      <english>
+    Then she took a taxi to the station.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスはタクシーを拾って駅に向かう前に、家を出た。
+	</script>
+      <english>
+    Smith left the house before she took a taxi to the station.
+    </english>
+    </h>
+    <note>
+  comments in original FraCaS: Rhetorical relations like narrative progression are defeasible
+  interpretation principles. They depend on a theory of action and
+  causation and general world knowledge (c.f. (309) and (310)).
+</note>
+    <note>DB: there is no direct translation of ``take a taxi to the station'' into Japanese.</note>
+  </problem>
+  <problem jsem_id="686" answer="yes" language="jp" phenomena="temporal reference, adverbs of quantification" inference_type="entailment">
+    <link resource="fracas" link_id="312" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     ITELはいつも報告書を遅れて提出する。
+	</script>
+      <english>
+    ITEL always delivers reports late.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     1993年にITELは報告書を提出した。
+	</script>
+      <english>
+    In 1993 ITEL delivered reports.
+    </english>
+    </p>
+    <h>
+      <script>
+     ITELは1993年に報告書を遅れて提出した。
+	</script>
+      <english>
+    ITEL delivered reports late in 1993.
+    </english>
+    </h>
+    <note> comments for FraCaS by Bill MacCartney: the original did have "delivered" in the question. </note>
+    <note>DB: 'always'のテストが目的なら、もっと自然な日本語訳がある述語を選びたい。</note>
+  </problem>
+  <problem jsem_id="687" answer="no" language="jp" phenomena="temporal reference, adverbs of quantification" inference_type="entailment">
+    <link resource="fracas" link_id="313" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     ITELは決して報告書を遅れて提出することはない。
+	</script>
+      <english>
+    ITEL never delivers reports late.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     1993年にITELは報告書を提出した。
+	</script>
+      <english>
+    In 1993 ITEL delivered reports.
+    </english>
+    </p>
+    <h>
+      <script>
+     ITELは1993年に報告書を遅れて提出した。
+	</script>
+      <english>
+    ITEL delivered reports late in 1993.
+    </english>
+    </h>
+    <note> comments for FraCaS by Bill MacCartney: the original did have "delivered" in the question. </note>
+    <note>DB: 否定はなお厳しい。</note>
+  </problem>
+  <problem jsem_id="688" answer="unknown" language="jp" phenomena="temporal reference, complex example" inference_type="entailment">
+    <link resource="fracas" link_id="314" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスは1995年5月5日にパリに到着した。
+	</script>
+      <english>
+    Smith arrived in Paris on the 5th of May, 1995.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     今日は1995年5月15日だ。
+	</script>
+      <english>
+    Today is the 15th of May, 1995.
+    </english>
+    </p>
+    <p idx="3">
+      <script>
+     彼女はまだパリに滞在している。
+	</script>
+      <english>
+    She is still in Paris.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスは1995年5月7日にパリにいた。
+	</script>
+      <english>
+    Smith was in Paris on the 7th of May, 1995.
+    </english>
+    </h>
+    <note>DB: the answers were yes in both English and Chinese, I don't know why.</note>
+  </problem>
+  <problem jsem_id="689" answer="yes" language="jp" phenomena="temporal reference, complex example" inference_type="entailment">
+    <link resource="fracas" link_id="315" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     スミスがカトマンズに到着した時、彼女は3日間旅をしていた。
+	</script>
+      <english>
+    When Smith arrived in Katmandu she had been travelling for three days.
+    </english>
+    </p>
+    <h>
+      <script>
+     スミスはカトマンズに到着した前日に旅をしていた。
+	</script>
+      <english>
+    Smith had been travelling the day before she arrived in Katmandu.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="690" answer="yes" language="jp" phenomena="temporal reference, complex example" inference_type="entailment">
+    <link resource="fracas" link_id="317" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     すべての代議士がこの報告書を読み終えている。
+	</script>
+      <english>
+    Every representative has read this report.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     どの二人の代議士も、それを同時に読んだことはない。
+	</script>
+      <english>
+    No two representatives have read it at the same time.
+    </english>
+    </p>
+    <p idx="3">
+      <script>
+     どの代議士もその報告書を読むのに半日以上を費やした。
+	</script>
+      <english>
+    No representative took less than half a day to read the report.
+    </english>
+    </p>
+    <p idx="4">
+      <script>
+     代議士は16人いる。
+	</script>
+      <english>
+    There are sixteen representatives.
+    </english>
+    </p>
+    <h>
+      <script>
+     代議士達は、その報告書を読むのに1週間以上費やした。
+	</script>
+      <english>
+    It took the representatives more than a week to read the report.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="691" answer="no" language="jp" phenomena="temporal reference, complex example" inference_type="entailment">
+    <link resource="fracas" link_id="318" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     ジョーンズがプログラムを更新している間、メアリーがやってきて彼に重役会の話を伝えた。
+	</script>
+      <english>
+    While Jones was updating the program, Mary came in and told him about the board meeting.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     彼女は、彼が更新する前に話を終えた。
+	</script>
+      <english>
+    She finished before he did.
+    </english>
+    </p>
+    <h>
+      <script>
+     メアリーの話は、ジョーンズのプログラムの更新と同じくらい続いた。
+	</script>
+      <english>
+    Mary's story lasted as long as Jones's updating the program.
+     </english>
+    </h>
+    <note>DB: The Japanese version of P2 does not use gapping, otherwise it would be unnatural.</note>
+  </problem>
+  <problem jsem_id="692" answer="yes" language="jp" phenomena="temporal reference, complex example" inference_type="entailment">
+    <link resource="fracas" link_id="319" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+     APCOMは現在の自社ビルを購入するまで、以前の自社ビルの借入金の利子を8年間支払っていた。
+	</script>
+      <english>
+    Before APCOM bought its present office building, it had been paying mortgage interest on the previous one for 8 years.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+     APCOMは現在の自社ビルを購入して以来、その借入金の利子を10年以上支払っている。
+	</script>
+      <english>
+    Since APCOM bought its present office building it has been paying mortgage interest on it for more than 10 years.
+    </english>
+    </p>
+    <h>
+      <script>
+     APCOMは合計15年以上にわたって借入金の利子を支払っている。
+	</script>
+      <english>
+    APCOM has been paying mortgage interest for a total of 15 years or more.
+    </english>
+    </h>
+  </problem>
+  <!--
+[Bibliography]
+
+Abe, Jun (1997) The locality of zibun and logophoricity. Technical report 08CE1001,Kanda University of International Studies, Japan.
+
+Abe, Jun and Hiroto Hoshi (1997) Gapping and P-Stranding. Journal of East Asian Linguistics Vol. 6, No. 1 (Jan., 1997), pp. 101-136, Springer.
+
+Ackema, Peter (2010) Gapping is always forward. In: Zwart, C. Jan-Wouter and Mark de Vries (eds.), Structure Preserved: Studies in syntax for Jan Koster. 2010. xxiii, 395 pp. (pp. 13–20)
+
+Fukaya, Teruhiko and Hajime Hoji (1999) "Stripping and Sluicing in Japanese and Some Implications." WCCFL18: 145-158.
+
+Fukaya, Teruhiko (2003) Island (In)sensitivity in Japanese Sluicing and Stripping and Some Implications, WCCFL 22, 2003.
+
+Hankamer, Jorge and Ivan Sag.(1976). Deep and Surface Anaphora.Linguistic Inquiry 7. 391-428.
+
+Hayashishita, J.-R. 2007. Izyoo(ni)- and gurai-comparatives: Comparison of deviation in Japanese. 言語研究 132: 77-109.
+
+Hoji, Hajime. (1990). Theories of Anaphora and Aspects of Japanese Syntax. Ms., USC.
+
+Hoji, Hajime (1997) "Sloppy Identity and Formal Dependency," in Proceedings of the 15th West Coast Conference on Formal Linguistics, Center for the Study of Language and Information, Stanford. pp. 209-223.
+
+Hoji, Hajime (2003) "Surface and Deep anaphora, Sloppy Identity, and Experiments in Syntax, " in Anaphora: A Reference Guide: 172-235. Blackwell Publishing Ltd.
+Houser, Michael J. (2010). The syntax and semantics of do so anaphora. Doctoral
+dissertation, University of California, Berkeley.
+
+Jackendoff, Ray. (1971). Gapping and related rules. Linguistic Inquiry 2: 21: 35.
+
+Jayaseelan, Karattuparambil A. (1990). Incomplete VP deletion and gapping. Linguistic Analysis 20: 64-81.
+
+Kameyama, Megumi (1984) Subjective/logophoric bound anaphor zibun. CLS 20,
+228-238.
+
+Kamp, Hans. (1975), Two theories about adjectives, in E. Keenan (ed.), Formal Semantics of Natural Language, Cambridge University Press. 123–155.
+
+Karttunen, Lauri (1970) The Logic of English Predicate Complement Constructions. The Indiana University Linguistics Club. Bloomington, Indiana.
+
+Kennedy, Chris and Louise McNally. (2005). Scale structure, degree modification, and the semantics of gradable predicates. Language 81(2): 345–381.
+
+Kubota, Yusuke. 2012. The Presuppositional Nature of izyoo(-ni) and gurai Comparatives: A Note on Hayashishita (2007). 言語研究 141: 33–46.
+
+Kuno, Susumu. (1976). Gapping: A functional analysis. Linguistic Inquiry 7: 300-318.
+
+MacCartney, Bill(2010) FraCAS textual inference teest suite. http://www-nlp.stanford.edu/~wcmac/downloads/fracas.xml
+
+Mukai, Emi. (2003). On verbless conjunction in Japanese. In Proceedings of NELS 33, ed. Makoto Kadowaki and Shigeto Kawahara, 205-224. University of Massachusetts, Amherst: GLSA Publications.
+
+Oshima, David Y. (2004) "Zibun revisited: Empathy, logophoricity, and binding", In: Sylwia Tur and Susannah Levi (eds.) Proceedings of the 20th Northwest Linguistic Conference, vol.23 of University of Washington Working Papers in Linguistics. pp.175-190.
+
+Rotstein, Carmen and Yoad Winter. (2004). Total adjectives vs. partial adjectives: Scale structure and higher-order modifiers. Natural Language Semantics 12(3): 259–288.
+
+Saito, Mamoru. (1987). Three notes on syntactic movement in Japanese. In Issues in Japanese linguistics, ed.Takasi Imai and Mamoru Saito, 301-350. Dordrecht: Kluwer.
+
+Terazu-Imanishi, Noriko. (1989). Some Nominal Anaphora in English and Japanese. Text - Interdisciplinary Journal for the Study of Discourse. doi:10.1515/text.1.1989.9.3.275
+
+井上和子 (1976) 『変形文法と日本語（上）』, 大修館書店.
+
+久野暲 (1973) 『日本文法研究』, 大修館書店.
+
+久野暲 (1978) 『談話の文法』, 大修館書店.(Kuno, Susumu (1978) Danwa no bunpoo [grammar of discourse]. Tokyo: Taishukan.)
+
+西尾寅弥／国立国語研究所『形容詞の意味・用法の記述的研究』秀英出版、1972年
+
+-->
+</jsem-problems>

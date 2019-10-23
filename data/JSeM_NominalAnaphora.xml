@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE jsem-problems SYSTEM "jsem.dtd">
+<?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
+<jsem-problems>
+  <comment>  Japanese Semantics Test Suite (Beta version, last modified on May 30, 2015) created by Ai Kawazoe, Ribeka Tanaka, Koji Mineshima and Daisuke Bekki, 2015. </comment>
+  <comment> The format of this file is based on those of FraCaS textual inference problem set by Bill MacCartney and MutiFraCaS sets by Robin Cooper. </comment>
+  <comment> This Beta version contains textual inference tests involving nominal anaphora, which corresponds to Nominal Anaphora section in FraCaS test suite (Cooper et al.1996). Note that not all of the tests are literal translation of FraCaS. We created original Japanese data for some FraCas tests which cannot be translated into natural Japanese sentences. One or more tests are linked to a FraCaS entry when necessary. </comment>
+  <problem jsem_id="414" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, kare/kanojo (pronoun)" inference_type="entailment">
+    <link resource="fracas" link_id="114" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	メアリーは彼女のワークステーションを使用した。
+  	</script>
+      <english>
+     Mary used her workstation.
+	</english>
+    </p>
+    <h>
+      <script>
+	メアリーのワークステーションは使用された。
+	</script>
+      <english>
+     Mary's workstation was used.
+	</english>
+    </h>
+  </problem>
+  <problem jsem_id="415" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, kare/kanojo (pronoun)" inference_type="presupposition">
+    <link resource="fracas" link_id="115" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	メアリーは彼女のワークステーションを使用した。
+  	</script>
+      <english>
+     Mary used her workstation.
+	</english>
+    </p>
+    <h>
+      <script>
+	メアリーはワークステーションを持っている。
+	</script>
+      <english>
+     Mary has a workstation.
+	</english>
+    </h>
+  </problem>
+  <problem jsem_id="416" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, kare/kanojo (pronoun)" inference_type="presupposition">
+    <link resource="fracas" link_id="116" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	メアリーは彼女のワークステーションを使用した。
+  	</script>
+      <english>
+     Mary used her workstation.
+	</english>
+    </p>
+    <h>
+      <script>
+	メアリーは女性である。
+	</script>
+      <english>
+     Mary is female.
+	</english>
+    </h>
+  </problem>
+  <problem jsem_id="417" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, zibun (reflexive), bound variable anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="117" translation="yes" same_phenomena="no" />
+    <p idx="1">
+      <script>
+	すべての学生が自分のワークステーションを使用した。
+  	</script>
+      <english>
+     Every student used her workstation.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	メアリーは学生である。
+  	</script>
+      <english>
+     Mary is a student.
+	</english>
+    </p>
+    <h>
+      <script>
+	メアリーは自分のワークステーションを使用した。
+	</script>
+      <english>
+     Mary used her workstation.
+	</english>
+    </h>
+    <note>AK: she/herの一般的な訳語は「彼女」であるが、「彼」「彼女」ではbound variable anaphoraの解釈が不可能あるいは非常に困難であることが指摘されている（Nakai 1976, 1977), Kitagawa(1981), Nakayama(1982), Saito and Hoji (1983), Hoji(1990)。よって、ここでは「自分」を使ったが、「自分」自体は厳密には英語のhe/sheなどの対応物ではない。よって、上記の例は現象レベルでは英語の例と一致していない。</note>
+  </problem>
+  <problem jsem_id="418" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, so-series demonstrative, bound variable anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="117" translation="no" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	すべての地方自治体がそこの農産物をアピールした。
+  	</script>
+    </p>
+    <p idx="2">
+      <script>
+	山口県は地方自治体である。
+  	</script>
+    </p>
+    <h>
+      <script>
+	山口県がそこの農産物をアピールした。
+	</script>
+    </h>
+    <note>AK: 「すべて」「そこ」によるbound variable anaphora</note>
+  </problem>
+  <problem jsem_id="419" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, zibun (reflexive), bound variable anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="117" translation="yes" same_phenomena="no" />
+    <p idx="1">
+      <script>
+	どの学生も自分のワークステーションを使用した。
+  	</script>
+    </p>
+    <p idx="2">
+      <script>
+	メアリーは学生である。
+  	</script>
+      <english>
+     Mary is a student.
+	</english>
+    </p>
+    <h>
+      <script>
+	メアリーは自分のワークステーションを使用した。
+	</script>
+      <english>
+     Mary used her workstation.
+	</english>
+    </h>
+    <note>AK: she/herの一般的な訳語は「彼女」であるが、「彼」「彼女」ではbound variable anaphoraの解釈が不可能あるいは非常に困難であることが指摘されている（Nakai 1976, 1977), Kitagawa(1981), Nakayama(1982), Saito and Hoji (1983), Hoji(1990)。よって、ここでは「自分」を使ったが、「自分」自体は厳密には英語のhe/sheなどの対応物ではない。よって、上記の例は現象レベルでは英語の例と一致していない。</note>
+  </problem>
+  <problem jsem_id="420" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, so-series demonstrative, bound variable anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="117" translation="no" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	どの地方自治体もそこの農産物をアピールした。
+  	</script>
+    </p>
+    <p idx="2">
+      <script>
+	山口県は地方自治体である。
+  	</script>
+    </p>
+    <h>
+      <script>
+	山口県がそこの農産物をアピールした。
+	</script>
+    </h>
+    <note>AK: 「どのNも」「そこ」によるbound variable anaphora</note>
+  </problem>
+  <problem jsem_id="421" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, zibun (reflexive), bound variable anaphora" inference_type="presupposition">
+    <link resource="fracas" link_id="118" translation="yes" same_phenomena="no" />
+    <p idx="1">
+      <script>
+	すべての学生が自分のワークステーションを使用した。
+  	</script>
+      <english>
+     Every student used her workstation.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	メアリーは学生である。
+  	</script>
+      <english>
+     Mary is a student.
+	</english>
+    </p>
+    <h>
+      <script>
+	メアリーはワークステーションを持っている。
+	</script>
+      <english>
+     Mary has a workstation.
+	</english>
+    </h>
+    <note>AK: she/herの一般的な訳語は「彼女」であるが、「彼」「彼女」ではbound variable anaphoraの解釈が不可能あるいは非常に困難であることが指摘されている（Nakai 1976, 1977), Kitagawa(1981), Nakayama(1982), Saito and Hoji (1983), Hoji(1990)。よって、ここでは「自分」を使ったが、「自分」自体は英語のhe/sheなどの代名詞と異なる振る舞いを見せるので、上記の例は現象レベルでは英語の例と一致していない。また、この推論は、同一の構文であっても語彙の影響によって推論の可否が変わる場合がある。（例えば、「すべての学生が自分のワークステーションを他人に譲った」だと、学生であるメアリーが現在ワークステーションを持っていることにはならない。</note>
+  </problem>
+  <problem jsem_id="422" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, zibun (reflexive), bound variable anaphora" inference_type="presupposition">
+    <link resource="fracas" link_id="118" translation="yes" same_phenomena="no" />
+    <p idx="1">
+      <script>
+	どの学生も自分のワークステーションを使用した。
+  	</script>
+      <english>
+     Every student used her workstation.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	メアリーは学生である。
+  	</script>
+      <english>
+     Mary is a student.
+	</english>
+    </p>
+    <h>
+      <script>
+	メアリーはワークステーションを持っている。
+	</script>
+      <english>
+     Mary has a workstation.
+	</english>
+    </h>
+    <note>AK: she/herの一般的な訳語は「彼女」であるが、「彼」「彼女」ではbound variable anaphoraの解釈が不可能あるいは非常に困難であることが指摘されている（Nakai 1976, 1977), Kitagawa(1981), Nakayama(1982), Saito and Hoji (1983), Hoji(1990)。よって、ここでは「自分」を使ったが、「自分」自体は英語のhe/sheなどの代名詞と異なる振る舞いを見せるので、上記の例は現象レベルでは英語の例と一致していない。また、この推論は、同一の構文であっても語彙の影響によって推論の可否が変わる場合がある。（例えば、p1が「どの学生も自分のワークステーションを他人に譲った」だと、学生であるメアリーが現在ワークステーションを持っていることにはならない。</note>
+  </problem>
+  <problem jsem_id="423" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, so-series demonstrative, bound variable anaphora" inference_type="presupposition">
+    <link resource="fracas" link_id="118" translation="no" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	すべての地方自治体がそこのイメージキャラクターを宣伝した。
+  	</script>
+    </p>
+    <p idx="2">
+      <script>
+	仙台市は地方自治体である。
+  	</script>
+    </p>
+    <h>
+      <script>
+	仙台市はイメージキャラクターを持っている。
+	</script>
+    </h>
+    <note>AK: この推論は、同一の構文であっても語彙の影響によって推論の可否が変わる場合がある。例えば、p1が「すべての地方自治体がそこのイメージキャラクターを廃止した」だと、地方自治体である仙台市が現在イメージキャラクターを持っていることにはならない。</note>
+  </problem>
+  <problem jsem_id="424" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, so-series demonstrative, bound variable anaphora" inference_type="presupposition">
+    <link resource="fracas" link_id="118" translation="no" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	どの地方自治体もそこのイメージキャラクターを宣伝した。
+  	</script>
+    </p>
+    <p idx="2">
+      <script>
+	仙台市は地方自治体である。
+  	</script>
+    </p>
+    <h>
+      <script>
+	仙台市はイメージキャラクターを持っている。
+	</script>
+    </h>
+    <note>AK: この推論は、同一の構文であっても語彙の影響によって推論の可否が変わる場合がある。例えば、p1が「どの地方自治体もそこのイメージキャラクターを廃止した」だと、地方自治体である仙台市が現在イメージキャラクターを持っていることにはならない。</note>
+  </problem>
+  <problem jsem_id="425" answer="yes" language="ja" phenomena="nominal anaphora, intra-sentential, zibun (reflexive), bound variable anaphora, negation" inference_type="entailment">
+    <link resource="fracas" link_id="119" translation="no" same_phenomena="no" />
+    <p idx="1">
+      <script>
+      どの学生も自分のワークステーションを使わなかった。
+	</script>
+      <english>
+     No student used her workstation.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+      メアリーは学生である。
+	</script>
+      <english>
+     Mary is a student.
+	</english>
+    </p>
+    <h>
+      <script>
+      メアリーは彼女のワークステーションを使用した。
+	</script>
+      <english>
+     Mary used a workstation.
+	</english>
+    </h>
+    <note>AK: she/herの一般的な訳語は「彼女」であるが、「彼」「彼女」ではbound variable anaphoraの解釈が不可能あるいは非常に困難であることが指摘されている（Nakai 1976, 1977), Kitagawa(1981), Nakayama(1982), Saito and Hoji (1983), Hoji(1990)。よって、ここでは「自分」を使ったが、「自分」自体は英語のhe/sheなどの代名詞と異なる振る舞いを見せるので、上記の例は現象レベルでは英語の例と一致していない。</note>
+  </problem>
+  <problem jsem_id="426" answer="yes" language="ja" phenomena="nominal anaphora, inter-sentential" inference_type="entailment">
+    <link resource="fracas" link_id="120" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	スミスが会議に出席した。
+  	</script>
+      <english>
+     Smith attended a meeting.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	彼女はそれの議長を務めた。
+  	</script>
+      <english>	
+     She chaired it.
+	</english>
+    </p>
+    <h>
+      <script>
+	スミスは会議の議長を務めた。
+	</script>
+      <english>
+     Smith chaired a meeting.
+	</english>
+    </h>
+    <note>
+    </note>
+  </problem>
+  <problem jsem_id="427" answer="yes" language="ja" phenomena="nominal anaphora, inter-sentential" inference_type="entailment">
+    <link resource="fracas" link_id="121" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	スミスがITELに報告書を届けた。
+  	</script>
+      <english>
+     Smith delivered a report to ITEL.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	彼女は彼らに送り状も届けた。
+  	</script>
+      <english>
+     She also delivered them an invoice.
+	</english>
+    </p>
+    <p idx="3">
+      <script>
+	また、彼女は彼らに事業計画書も届けた。
+  	</script>
+      <english>
+     And she delivered them a project proposal.
+	</english>
+    </p>
+    <h>
+      <script>
+	スミスはITELに報告書と送り状と事業計画書を届けた。
+	</script>
+      <english>
+     Smith delivered a report, an invoice and a project proposal to ITEL.
+	</english>
+    </h>
+  </problem>
+  <problem jsem_id="428" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="123" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	ITELはスミスが必要とする報告書のほとんどを送付した。
+  	</script>
+      <english>
+     ITEL has sent most of the reports Smith needs.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	それらは彼女のデスクの上にある。
+  	</script>
+      <english>
+     They are on her desk.
+	</english>
+    </p>
+    <h>
+      <script>
+	ITELからの報告書のいくつかがスミスのデスクの上にある。
+	</script>
+      <english>
+     There are some reports from ITEL on Smith's desk.
+	</english>
+    </h>
+  </problem>
+  <problem jsem_id="429" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="124" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	十台の機械のうち、二台が無くなっている。
+  	</script>
+      <english>
+     Two out of ten machines are missing.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	それらは撤去された。
+  	</script>
+      <english>
+     They have been removed.
+	</english>
+    </p>
+    <h>
+      <script>
+	二台の機会が撤去された。
+	</script>
+      <english>
+     Two machines have been removed.
+	</english>
+    </h>
+  </problem>
+  <problem jsem_id="430" answer="unknown" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="125" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	十台の機械のうち、二台が無くなっている。
+  	</script>
+      <english>
+     Two out of ten machines are missing.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	それらは撤去された。
+  	</script>
+      <english>
+     They have been removed.
+	</english>
+    </p>
+    <h>
+      <script>
+	八台の機械が撤去された。
+	</script>
+      <english>
+     Eight machines have been removed.
+	</english>
+    </h>
+    <note>comments in original FraCaS: set difference can't be used to construct plural antecedents</note>
+  </problem>
+  <problem jsem_id="431" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="126" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	十台の機械のうち、二台が無くなっている。
+  	</script>
+      <english>
+     Two out of ten machines are missing.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	それらはすべて、昨日ここにあった。
+  	</script>
+      <english>
+     They were all here yesterday.
+	</english>
+    </p>
+    <h>
+      <script>
+	十台の機械が昨日ここにあった。
+	</script>
+      <english>
+     Ten machines were here yesterday.
+	</english>
+    </h>
+  </problem>
+  <problem jsem_id="432" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="127" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	スミスが火曜日に一台の機械を持っていき、ジョーンズが水曜日に一台の機械を持っていった。
+  	</script>
+      <english>
+     Smith took a machine on Tuesday, and Jones took a machine on Wednesday.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	彼らはそれらをロビーに置いた。
+  	</script>
+      <english>
+     They put them in the lobby.
+	</english>
+    </p>
+    <h>
+      <script>
+	スミスとジョーンズは二台の機械をロビーに置いた。
+	</script>
+      <english>
+     Smith and Jones put two machines in the lobby.
+	</english>
+    </h>
+    <note>comments in original FraCaS: construction of plural antecedents from separate constituents.</note>
+    <note>AK: Hを集合的に解釈すればyes。分配的に解釈すればunknown。</note>
+  </problem>
+  <problem jsem_id="433" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="128" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	ジョンと彼の同僚たちが会議に行った。
+  	</script>
+      <english>
+     John and his colleagues went to a meeting.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	彼らはそれに嫌気がさしていた。
+  	</script>
+      <english>
+     They hated it.
+	</english>
+    </p>
+    <h>
+      <script>
+	ジョンの同僚たちは会議に嫌気がさしていた。
+	</script>
+      <english>
+     John's colleagues hated the meeting.
+	</english>
+    </h>
+  </problem>
+  <problem jsem_id="434" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="128" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	ジョンとその同僚たちが会議に行った。
+  	</script>
+      <english>
+     John and his colleagues went to a meeting.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	彼らはそれに嫌気がさしていた。
+  	</script>
+      <english>
+     They hated it.
+	</english>
+    </p>
+    <h>
+      <script>
+	ジョンの同僚たちは会議に嫌気がさしていた。
+	</script>
+      <english>
+     John's colleagues hated the meeting.
+	</english>
+    </h>
+  </problem>
+  <problem jsem_id="435" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="129" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	ジョンと彼の同僚たちが会議に行った。
+  	</script>
+      <english>
+     John and his colleagues went to a meeting.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	彼らはそれに嫌気がさしていた。
+  	</script>
+      <english>
+     They hated it.
+	</english>
+    </p>
+    <h>
+      <script>
+	ジョンは会議に嫌気がさしていた。
+	</script>
+      <english>
+     John hated the meeting.
+	</english>
+    </h>
+    <note>AK: p2の「彼ら」が、ジョンとジョンの同僚を指すと解釈すればyes.</note>
+  </problem>
+  <problem jsem_id="436" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="129" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	ジョンとその同僚たちが会議に行った。
+  	</script>
+      <english>
+     John and his colleagues went to a meeting.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	彼らはそれに嫌気がさしていた。
+  	</script>
+      <english>
+     They hated it.
+	</english>
+    </p>
+    <h>
+      <script>
+	ジョンは会議に嫌気がさしていた。
+	</script>
+      <english>
+     John hated the meeting.
+	</english>
+    </h>
+    <note>AK: p2の「彼ら」が、ジョンとジョンの同僚を指すと解釈すればyes.</note>
+  </problem>
+  <problem jsem_id="437" answer="unknown" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="130" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	ジョンと彼の同僚たちが会議に行った。
+  	</script>
+      <english>
+     John and his colleagues went to a meeting.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	彼らはそれに嫌気がさしていた。
+  	</script>
+      <english>
+     They hated it.
+	</english>
+    </p>
+    <h>
+      <script>
+	ジョンは会議に嫌気がさしていた。
+	</script>
+      <english>
+     John hated the meeting.
+	</english>
+    </h>
+    <note>AK: p2の「彼ら」が、ジョンの同僚のみを指し、ジョンを指さないとすればunknown.</note>
+  </problem>
+  <problem jsem_id="438" answer="unknown" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="130" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	ジョンとその同僚たちが会議に行った。
+  	</script>
+      <english>
+     John and his colleagues went to a meeting.
+	</english>
+    </p>
+    <p idx="2">
+      <script>
+	彼らはそれに嫌気がさしていた。
+  	</script>
+      <english>
+     They hated it.
+	</english>
+    </p>
+    <h>
+      <script>
+	ジョンは会議に嫌気がさしていた。
+	</script>
+      <english>
+     John hated the meeting.
+	</english>
+    </h>
+    <note>AK: p2の「彼ら」が、ジョンの同僚のみを指し、ジョンを指さないとすればunknown.</note>
+  </problem>
+  <problem jsem_id="439" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="131" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	各々の部署は専用回線を持っている。
+  	</script>
+      <english>
+     Each department has a dedicated line.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+	それらはそれをBTから借りている。
+  	</script>
+      <english>
+     They rent them from BT.
+	</english>
+    </p>
+    <h>
+      <script>
+	すべての部署がBTから回線を借りている。
+	</script>
+      <english>
+     Every department rents a line from BT.
+	</english>
+    </h>
+    <note>Dependent plural anaphora</note>
+  </problem>
+  <problem jsem_id="440" answer="yes" language="ja" phenomena="nominal anaphora, plural anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="132" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	各々の部署は専用回線を持っている。
+  	</script>
+      <english>
+     Each department has a dedicated line.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+	営業部はそれをBTから借りている。
+  	</script>
+      <english>
+     The sales department rents it from BT.
+	</english>
+    </p>
+    <h>
+      <script>
+	営業部はBTから回線を借りている。
+	</script>
+      <english>
+     The sales department rents a line from BT.
+	</english>
+    </h>
+    <note>comments in original FraCaS (Cooper et al.1996): Paycheque pronoun</note>
+  </problem>
+  <problem jsem_id="441" answer="yes" language="ja" phenomena="nominal anaphora, E-type anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="133" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	GFIは数台のコンピュータを所有している。
+  	</script>
+      <english>
+     GFI owns several computers.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+	ITELがそれらを保守整備している。
+  	</script>
+      <english>
+     ITEL maintains them.
+    </english>
+    </p>
+    <h>
+      <script>
+	ITELはGFIが所有しているコンピュータを全部保守整備している。
+	</script>
+      <english>
+     ITEL maintains all the computers that GFI owns.
+    </english>
+    </h>
+    <note>comments in original FraCaS (Cooper et al.1996): E-type anaphora</note>
+  </problem>
+  <problem jsem_id="442" answer="yes" language="ja" phenomena="nominal anaphora, E-type anaphora, donkey anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="134" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	コンピュータを所有しているすべての顧客はそれに対するサービス契約を交わしている。
+  	</script>
+      <english>
+     Every customer who owns a computer has a service contract for it.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+	MFIはちょうど一台のコンピュータを所有している顧客である。
+  	</script>
+      <english>
+     MFI is a customer that owns exactly one computer.
+    </english>
+    </p>
+    <h>
+      <script>
+	MFIはそれが所有するコンピュータ全部に対するサービス契約を交わしている。
+	</script>
+      <english>
+     MFI has a service contract for all its computers.
+    </english>
+    </h>
+    <note>comments in original FraCaS (Cooper et al.1996): Donkey sentence</note>
+  </problem>
+  <problem jsem_id="443" answer="unknown" language="ja" phenomena="nominal anaphora, E-type anaphora, donkey anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="135" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	コンピュータを所有しているすべての顧客はそれに対するサービス契約を交わしている。
+  	</script>
+      <english>
+     Every customer who owns a computer has a service contract for it.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+	MFIは数台のコンピュータを所有している顧客である。
+  	</script>
+      <english>
+     MFI is a customer that owns several computers.
+    </english>
+    </p>
+    <h>
+      <script>
+	MFIはそれが所有するコンピュータ全部に対するサービス契約を交わしている。
+	</script>
+      <english>
+     MFI has a service contract for all its computers.
+    </english>
+    </h>
+    <note>comments in original FraCaS: This pattern of inference, unlike (124), tends to some theory dependence. Although the inference seems correct in this example, compare with (136).</note>
+  </problem>
+  <problem jsem_id="444" answer="unknown" language="ja" phenomena="nominal anaphora, E-type anaphora, donkey anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="136" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	ラップトップコンピュータを持っているすべての重役は、会議でメモを取るためにそれを持っていく。
+  	</script>
+      <english>
+     Every executive who had a laptop computer brought it to take notes at the meeting.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+	スミスは五台の異なるラップトップコンピュータを所有する重役である。
+  	</script>
+      <english>
+     Smith is a executive who owns five different laptop computers.
+    </english>
+    </p>
+    <h>
+      <script>
+	スミスはミーティングに五台のラップトップコンピュータを持っていく。
+	</script>
+      <english>
+     Smith took five laptop computers to the meeting.
+    </english>
+    </h>
+    <note>comments in original FraCaS: Similar to (135), except for tense and pragmatic plausibility.</note>
+  </problem>
+  <problem jsem_id="445" answer="yes" language="ja" phenomena="nominal anaphora, E-type anaphora, donkey anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="137" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	100社の企業が存在する。
+  	</script>
+      <english>
+     There are 100 companies.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+	ICMはそれらの企業の一社であり、150台のコンピュータを所有している。
+  	</script>
+      <english>
+     ICM is one of the companies and owns 150 computers.
+    </english>
+    </p>
+    <p idx="3">
+      <script>
+	その会社は、所有しているコンピュータのどれに対してもサービス契約を交わしていない。
+  	</script>
+      <english>
+     It does not have service contracts for any of its computers.
+    </english>
+    </p>
+    <p idx="4">
+      <script>
+	その他の99社のそれぞれが一台のコンピュータを所有している。
+  	</script>
+      <english>
+     Each of the other 99 companies owns one computer.
+    </english>
+    </p>
+    <p idx="5">
+      <script>
+	それらは、それらに対するサービス契約を交わしている。
+  	</script>
+      <english>
+     They have service contracts for them.
+    </english>
+    </p>
+    <h>
+      <script>
+	コンピュータを所有するほとんどの会社は、それに対するサービス契約を交わしている。
+	</script>
+      <english>
+     Most companies that own a computer have a service contract for it.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="446" answer="yes" language="ja" phenomena="nominal anaphora, functional and subsectional anaphora" inference_type="entailment">
+    <link resource="fracas" link_id="138" translation="yes" same_phenomena="unknown" />
+    <p idx="1">
+      <script>
+	すべての報告書には表紙が付いている。
+  	</script>
+      <english>
+     Every report has a cover page.
+    </english>
+    </p>
+    <p idx="2">
+      <script>
+	R-95-103は報告書である。
+  	</script>
+      <english>
+     R-95-103 is a report.
+    </english>
+    </p>
+    <p idx="3">
+      <script>
+	スミスが表紙に署名した。
+  	</script>
+      <english>
+     Smith signed the cover page.
+    </english>
+    </p>
+    <h>
+      <script>
+	スミスがR-95-103の表紙に署名した。
+	</script>
+      <english>
+     Smith signed the cover page of R-95-103.
+    </english>
+    </h>
+  </problem>
+  <problem jsem_id="447" answer="yes" language="ja" phenomena="nominal anaphora, simple reflexive, zibun (reflexive)" inference_type="entailment">
+    <link resource="fracas" link_id="139" translation="no" same_phenomena="no" />
+    <p idx="1">
+      <script>
+	ある有名人が匿名掲示板で自分を褒め称えた。
+  	</script>
+    </p>
+    <h>
+      <script>
+	ある有名人が匿名掲示板で誰かを褒め称え、なおかつ誰かに褒め称えられた。
+	</script>
+    </h>
+    <note>AK: FraCaSのhimselfを含む例の対応物として上の例を作成したが、よく知られているように「自分」は長距離照応を許すなど、英語のhimselfとは異なる振る舞いを示す(久野1978他)。よって、上の例は、現象レベルでは厳密には英語の例と対応していない。</note>
+  </problem>
+  <problem jsem_id="448" answer="yes" language="ja" phenomena="nominal anaphora, simple reflexive, zibun (reflexive)" inference_type="entailment">
+    <link resource="fracas" link_id="140" translation="yes" same_phenomena="no" />
+    <p idx="1">
+      <script>
+	ジョンは、ビルが自分を傷つけたと言った。
+  	</script>
+      <english>
+     John said Bill had hurt himself.
+    </english>
+    </p>
+    <h>
+      <script>
+	ジョンは、ビルが傷つけられたと言った。
+	</script>
+      <english>
+     John said Bill had been hurt.
+    </english>
+    </h>
+    <note>AK: よく知られているように「自分」は長距離照応を許すなど、英語のhimselfとは異なる振る舞いを示す(久野1978他)。よって、上の例は、現象レベルでは厳密には英語の例と対応していない。</note>
+  </problem>
+  <problem jsem_id="449" answer="yes" language="ja" phenomena="nominal anaphora, simple reflexive, zibun (reflexive)" inference_type="entailment">
+    <link resource="fracas" link_id="141" translation="yes" same_phenomena="no" />
+    <p idx="1">
+      <script>
+	ジョンは、ビルが自分を傷つけたと言った。
+  	</script>
+      <english>
+     John said Bill had hurt himself.
+    </english>
+    </p>
+    <h>
+      <script>
+	誰かが、ジョンが傷つけられたと言った。
+	</script>
+      <english>
+     Someone said John had been hurt.
+    </english>
+    </h>
+    <note>AK: よく知られているように「自分」は長距離照応を許すなど、英語のhimselfとは異なる振る舞いを示す(久野1978他)。よって、上の例は、現象レベルでは厳密には英語の例と対応していない。そしてこの例は明らかに、英語の例と異なり、「ジョン＝自分」の解釈が可能である。</note>
+  </problem>
+
+  <!--
+[Bibliography]
+
+Abe, Jun (1997) The locality of zibun and logophoricity. Technical report 08CE1001,Kanda University of International Studies, Japan.
+
+Abe, Jun and Hiroto Hoshi (1997) Gapping and P-Stranding. Journal of East Asian Linguistics Vol. 6, No. 1 (Jan., 1997), pp. 101-136, Springer.
+
+Ackema, Peter (2010) Gapping is always forward. In: Zwart, C. Jan-Wouter and Mark de Vries (eds.), Structure Preserved: Studies in syntax for Jan Koster. 2010. xxiii, 395 pp. (pp. 13–20)
+
+Fukaya, Teruhiko and Hajime Hoji (1999) "Stripping and Sluicing in Japanese and Some Implications." WCCFL18: 145-158.
+
+Fukaya, Teruhiko (2003) Island (In)sensitivity in Japanese Sluicing and Stripping and Some Implications, WCCFL 22, 2003.
+
+Hankamer, Jorge and Ivan Sag.(1976). Deep and Surface Anaphora.Linguistic Inquiry 7. 391-428.
+
+Hayashishita, J.-R. 2007. Izyoo(ni)- and gurai-comparatives: Comparison of deviation in Japanese. 言語研究 132: 77-109.
+
+Hoji, Hajime. (1990). Theories of Anaphora and Aspects of Japanese Syntax. Ms., USC.
+
+Hoji, Hajime (1997) "Sloppy Identity and Formal Dependency," in Proceedings of the 15th West Coast Conference on Formal Linguistics, Center for the Study of Language and Information, Stanford. pp. 209-223.
+
+Hoji, Hajime (2003) "Surface and Deep anaphora, Sloppy Identity, and Experiments in Syntax, " in Anaphora: A Reference Guide: 172-235. Blackwell Publishing Ltd.
+Houser, Michael J. (2010). The syntax and semantics of do so anaphora. Doctoral
+dissertation, University of California, Berkeley.
+
+Jackendoff, Ray. (1971). Gapping and related rules. Linguistic Inquiry 2: 21: 35.
+
+Jayaseelan, Karattuparambil A. (1990). Incomplete VP deletion and gapping. Linguistic Analysis 20: 64-81.
+
+Kameyama, Megumi (1984) Subjective/logophoric bound anaphor zibun. CLS 20,
+228-238.
+
+Kamp, Hans. (1975), Two theories about adjectives, in E. Keenan (ed.), Formal Semantics of Natural Language, Cambridge University Press. 123–155.
+
+Karttunen, Lauri (1970) The Logic of English Predicate Complement Constructions. The Indiana University Linguistics Club. Bloomington, Indiana.
+
+Kennedy, Chris and Louise McNally. (2005). Scale structure, degree modification, and the semantics of gradable predicates. Language 81(2): 345–381.
+
+Kubota, Yusuke. 2012. The Presuppositional Nature of izyoo(-ni) and gurai Comparatives: A Note on Hayashishita (2007). 言語研究 141: 33–46.
+
+Kuno, Susumu. (1976). Gapping: A functional analysis. Linguistic Inquiry 7: 300-318.
+
+MacCartney, Bill(2010) FraCAS textual inference teest suite. http://www-nlp.stanford.edu/~wcmac/downloads/fracas.xml
+
+Mukai, Emi. (2003). On verbless conjunction in Japanese. In Proceedings of NELS 33, ed. Makoto Kadowaki and Shigeto Kawahara, 205-224. University of Massachusetts, Amherst: GLSA Publications.
+
+Oshima, David Y. (2004) "Zibun revisited: Empathy, logophoricity, and binding", In: Sylwia Tur and Susannah Levi (eds.) Proceedings of the 20th Northwest Linguistic Conference, vol.23 of University of Washington Working Papers in Linguistics. pp.175-190.
+
+Rotstein, Carmen and Yoad Winter. (2004). Total adjectives vs. partial adjectives: Scale structure and higher-order modifiers. Natural Language Semantics 12(3): 259–288.
+
+Saito, Mamoru. (1987). Three notes on syntactic movement in Japanese. In Issues in Japanese linguistics, ed.Takasi Imai and Mamoru Saito, 301-350. Dordrecht: Kluwer.
+
+Terazu-Imanishi, Noriko. (1989). Some Nominal Anaphora in English and Japanese. Text - Interdisciplinary Journal for the Study of Discourse. doi:10.1515/text.1.1989.9.3.275
+
+井上和子 (1976) 『変形文法と日本語（上）』, 大修館書店.
+
+久野暲 (1973) 『日本文法研究』, 大修館書店.
+
+久野暲 (1978) 『談話の文法』, 大修館書店.(Kuno, Susumu (1978) Danwa no bunpoo [grammar of discourse]. Tokyo: Taishukan.)
+
+西尾寅弥／国立国語研究所『形容詞の意味・用法の記述的研究』秀英出版、1972年
+
+-->
+</jsem-problems>
