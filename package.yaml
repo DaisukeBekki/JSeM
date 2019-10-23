@@ -29,7 +29,7 @@ library:
   exposed-modules:
     - JSeM.TSV2XML
     - JSeM.Cmd
-    - JSeM.XML2JSeMData
+    - JSeM.XML
     - JSeM.Dataset
   other-modules: []
 executables:
@@ -45,6 +45,11 @@ executables:
     dependencies: jsem
   tsv2xml:
     main:         tsv2xml.hs
+    source-dirs:  app
+    ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
+    dependencies: jsem
+  xml2tsv:
+    main:         xml2tsv.hs
     source-dirs:  app
     ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
     dependencies: jsem
