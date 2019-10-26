@@ -112,6 +112,7 @@ R. Cooper, D. Crouch, J. van Eijck, C. Fox, J. van Genabith, J. Jan, H. Kamp, D.
 ```
 ```
 B. MacCartney and C. D. Manning.2008. ``Modeling semantic containment and exclusion in natural language inference.'' The 22nd International Conference on Computational Linguistics (Coling-08), Manchester, UK, August.
+```
 
 ## 謝辞
 
