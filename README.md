@@ -1,20 +1,29 @@
 # JSeM: Japanese semantic test suite (FraCaS counterpart and extensions)
 
+## 概要
+
+文間の含意関係は、言語学においては意味論の中心的な説明対象の一つです。また自然言語処理においては、含意関係の認識が近年の意味処理タスクの中核となっています。当グループでは、日本語の意味理論および含意関係認識システムの評価に資することを目的として「日本語意味論テストセット」(Japansese Semantics test suite）を構築しています。これは、日本語の意味的な現象に基づく含意関係のデータセットで、主に以下の三つの部分からなるテストを集めたものです。
+
+(1) 前提となる文（複数可）
+(2) (1)から推論可能かどうかが問われる文（仮説）
+(3) (1)と(2)の間に含意関係があるかどうかについての母語話者の判断（yes, no, unknownあるいはundef）
+
+このテストセットでは、FraCaS test suite（Cooper et al.1996で公開されたオリジナルのテストセット, およびBill MacCartneyによる同セットのXML版）の方針にならい、言語現象ごとに含意関係のテストをまとめています。FraCaSで扱われている現象については、FraCaSのテスト項目へのリンクの付いたデータを作成しています（下記のβ版を参照）。今後は、FraCaSで扱われていない現象や、日本語独自の現象の関わるテストも多く構築していく予定です。FraCaS対応部分で直接の対訳になっているものは、将来MultiFraCaS フォーマットでも提供する予定です。
+
 ## 内容
 
 このリポジトリには、以下のファイルが含まれています。
 
-- JSeM_Adjective.xml
-- JSeM_Coordination.xml
-- JSeM_NP.xml
-- JSeM_Question.xml
-- JSeM_Toritate.xml
+- data/JSeM_Adjective.xml
+- data/JSeM_Coordination.xml
+- data/JSeM_NP.xml
+- data/JSeM_Question.xml
+- data/JSeM_Toritate.xml
 　　日本語意味論テストセットv1.0のデータです。   
-- jsem.dtd
+- data/jsem.dtd
 　　xmlの仕様を定めたdtdファイル
-- jsem.xsl
+- data/jsem.xsl
 　　MultiFraCaSに似た形式でデータを表示するためのxslファイル
-
 
 ## データの概要
 
@@ -69,23 +78,42 @@ script：日本語文
 english：対応するFraCaS原文（FraCaSの対訳でない文に関しては指定なし）
 note ： コメント
 ```
+
+## 関連リンク
+- FraCaS textual infefence test suite
+  ダウンロード：http://www-nlp.stanford.edu/~wcmac/downloads/
+  利用には、Bill MacCartney氏へのクレジット必要
+
+- MultiFraCaS HP
+  http://www.ling.gu.se/~cooper/multifracas/
+
+## 参考文献
+```
+川添愛、田中リベカ、峯島宏次、戸次大介 (2016) 「機能語の意味を表現する推論テストセット－JSeMとりたて助詞テストの構築－」言語処理学会第22回年次大会, B5-3, 東北大学, 2016/3/7-11.
+```
+```
+Kawazoe,Ai; Tanaka,Ribeka; Mineshima,Koji; Bekki,Daisuke; (2015)
+"A Framework for Constructing Multilingual Inference Problem," In Proceedings of 1st International Workshop on the Use of Multilingual Language Resources in Knowledge Representation Systems (MLKRep2015), 08-10 July 2015, Vienna, Austria.
+```
+```
+Ai Kawazoe, Ribeka Tanaka, Koji Mineshima, Daisuke Bekki (2015) "An Inference Problem Set for Evaluating Semantic Theories and Semantic Processing Systems for Japanese," In Proceedings of the Twelfth International Workshop on Logic and Engineering of Natural Language Semantics (LENLS12), pp.67-73, Tokyo-Yokohama, Japan.
+```
+```
+Ai Kawazoe, Ribeka Tanaka, Koji Mineshima, Daisuke Bekki (2015) "A Framework for Constructing Multilingual Inference Problem," In Proceedings of 1st International Workshop on the Use of Multilingual Language Resources in Knowledge Representation Systems (MLKRep2015). 
+```
+```
+川添愛、田中リベカ、峯島宏次、戸次大介（2015)「形式意味論に基づく含意関係テストセット構築の方法論」第29回人工知能学会全国大会論文集
+```
+```
+川添愛、田中リベカ、峯島宏次、戸次大介 (2015) 「日本語意味論テストセットの構築」言語処理学会第21会年次大会
+```
+```
+R. Cooper, D. Crouch, J. van Eijck, C. Fox, J. van Genabith, J. Jan, H. Kamp, D. Milward, M. Pinkal, M. Poesio, S. Pulman,T. Briscoe, H. Maier, and K. Konrad. 1996. ``Using the framework.'' Technical report,FraCaS: A Framework for Computational Semantics. FraCaS deliverable D16.
+```
+```
+B. MacCartney and C. D. Manning.2008. ``Modeling semantic containment and exclusion in natural language inference.'' The 22nd International Conference on Computational Linguistics (Coling-08), Manchester, UK, August.
+
 ## 謝辞
 
 本研究の一部は、JST CREST「ビッグデータ統合利活用のための次世代基盤技術の創出・体系化」領域「知識に基づく構造的言語処理の確立と知識インフラの構築」プロジェクト(JPMJCR1301)，およびJSPS科学研究費補助金基盤研究(B)「日本語CCG統語解析器lightblueの開発」プロジェクト(JP18H03284)の助成によるものです。
 
-## 参考文献
-```
-機能語の意味を表現する推論テストセット－JSeMとりたて助詞テストの構築－
-川添愛, 田中リベカ, 峯島宏次, 戸次大介, (2016).
-言語処理学会第22回年次大会発表論文集, B5-3, 東北大学, 2016/3/7-11.
-```
-```
-An Inference Problem Set for Evaluating Semantic Theories and Semantic Processing Systems for Japanese
-Kawazoe,Ai; Tanaka,Ribeka; Mineshima,Koji; Bekki,Daisuke; (2015).
-In Proceedings of the Twelfth International Workshop on Logic and Engineering of Natural Language Semantics (LENLS12), JSAI International Symposia on AI 2015, pp.67-73, Tokyo-Yokohama, Japan.
-```
-```
-A Framework for Constructing Multilingual Inference Problem
-Kawazoe,Ai; Tanaka,Ribeka; Mineshima,Koji; Bekki,Daisuke; (2015).
-In Proceedings of 1st International Workshop on the Use of Multilingual Language Resources in Knowledge Representation Systems (MLKRep2015), 08-10 July 2015, Vienna, Austria.
-```
