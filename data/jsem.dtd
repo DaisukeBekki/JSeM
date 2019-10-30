@@ -5,34 +5,37 @@
 <!-- miscellaneous comment, not necessarily on a specific problem -->
 <!ELEMENT comment (#PCDATA)>
 
-<!ELEMENT problem (link?,p+,q?,h,a?,why?,note?)>
+<!ELEMENT problem (link?,p+,q?,h,a?,note*)>
 
 <!-- problem -->
 <!ATTLIST problem
-          jsem_id CDATA #REQUIRED
-          answer (yes|no|unknown|undef) #IMPLIED
-          jsem_nonstandard (true) #IMPLIED
-	  language (fa|de|zh|ja) #IMPLIED
-	  phenomena (#PCDATA) #IMPLIED
-	  inference_type (entailment|presupposition|CI|GCI|PCI) #IMPLIED>
+  jsem_id CDATA #REQUIRED
+  answer (yes|no|unknown|undef) #IMPLIED
+  jsem_nonstandard (true) #IMPLIED
+  language (fa|de|zh|ja|jp) #IMPLIED
+  phenomena CDATA #IMPLIED
+  inference_type (entailment|presupposition|CI|GCI|PCI) #IMPLIED
+  >
 
 <!-- link element shows the information of corresponding FraCaS entry -->
-<!ELEMENT link>
-<!ATTLIST resource (#PCDATA) #REUIRED
-	  link_id id CDATA #REQUIRED
-	  translation (yes|no|unknown) #IMPLIED
-	  same_phenomena (yes|no|unknown) #IMPLIED>
+<!ELEMENT link (#PCDATA)>
+<!ATTLIST link
+  resource CDATA #REQUIRED
+  link_id CDATA #REQUIRED
+  translation (yes|no|unknown) #IMPLIED
+  same_phenomena (yes|no|unknown) #IMPLIED
+  >
 	  
 <!-- premise elements, possibly more than one -->
-<!ELEMENT p (#PCDATA)>
+<!ELEMENT p (script,english*)>
 <!ATTLIST p
           idx (1|2|3|4|5) #REQUIRED>
 
 <!-- question element, optional -->
-<!ELEMENT q (#PCDATA)>
+<!ELEMENT q (script,english*)>
 
 <!-- hypothesis element -->
-<!ELEMENT h (#PCDATA)>
+<!ELEMENT h (script,english*)>
 
 <!-- miscellaneous note or comment about problem -->
 <!ELEMENT note (#PCDATA)>
@@ -40,11 +43,11 @@
 <!-- translation in the target language script -->
 <!ELEMENT script (#PCDATA)>
 
-<!-- <!-- transliteration of the target language translation -->
-<!ELEMENT translit (#PCDATA)> -->
+<!-- transliteration of the target language translation -->
+<!ELEMENT translit (#PCDATA)>
 
-<!-- <!-- morphological representation of the target language -->
-<!ELEMENT morph (#PCDATA)> -->
+<!--morphological representation of the target language -->
+<!ELEMENT morph (#PCDATA)>
 
 <!-- original English sentence in FraCaS test suite -->
 <!ELEMENT english (#PCDATA)>
