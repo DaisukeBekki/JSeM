@@ -1471,7 +1471,6 @@
      There are great tenors who are Italian.
     </english>
     </h>
-    <answer />
   </problem>
   <problem jsem_id="80" answer="yes" language="ja" phenomena="generalized quantifier, conservativity, Q-no NC" inference_type="entailment">
     <link resource="fracas" link_id="010" translation="yes" same_phenomena="unknown" />
