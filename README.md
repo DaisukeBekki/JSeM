@@ -1,14 +1,14 @@
-# JSeM: Japanese semantic test suite (FraCaS counterpart and extensions)
+# JSeM: Japanese semantic test suite (Japanese FraCaS and extensions)
 
 ## 概要
 
-文間の含意関係は、言語学においては意味論の中心的な説明対象の一つです。また自然言語処理においては、含意関係の認識が近年の意味処理タスクの中核となっています。当グループでは、日本語の意味理論および含意関係認識システムの評価に資することを目的として「日本語意味論テストセット」(Japansese Semantics test suite）を構築しています。これは、日本語の意味的な現象に基づく含意関係のデータセットで、主に以下の三つの部分からなるテストを集めたものです。
+文間の含意関係は、言語学においては意味論の中心的な説明対象の一つです。また自然言語処理においては、含意関係の認識が近年の意味処理タスクの中核となっています。当グループでは、日本語の意味理論および自然言語理解技術の評価に資することを目的として「日本語意味論テストセット」(Japansese Semantics test suite）を構築しています。これは、日本語の意味的な現象に基づく含意関係のデータセットで、主に以下の三つの部分からなるテストを集めたものです。
 
 (1) 前提となる文（複数可）
 (2) (1)から推論可能かどうかが問われる文（仮説）
 (3) (1)と(2)の間に含意関係があるかどうかについての母語話者の判断（yes, no, unknownあるいはundef）
 
-このテストセットでは、FraCaS test suite（Cooper et al.1996で公開されたオリジナルのテストセット, およびBill MacCartneyによる同セットのXML版）の方針にならい、言語現象ごとに含意関係のテストをまとめています。FraCaSで扱われている現象については、FraCaSのテスト項目へのリンクの付いたデータを作成しています（下記のβ版を参照）。今後は、FraCaSで扱われていない現象や、日本語独自の現象の関わるテストも多く構築していく予定です。FraCaS対応部分で直接の対訳になっているものは、将来MultiFraCaS フォーマットでも提供する予定です。
+このテストセットでは、FraCaS test suite（Cooper et al.(1996)で公開されたオリジナルのテストセット, およびBill MacCartney氏による同セットのXML版）の方針にならい、言語現象ごとに含意関係のテストをまとめています。FraCaSで扱われている現象については、FraCaSのテスト項目へのリンクの付いたデータを作成しています（下記のβ版を参照）。また、FraCaSで扱われていない現象や、日本語独自の現象の関わるテストも多く構築しており、今後も追加予定です。
 
 ## 内容
 
@@ -40,7 +40,7 @@ FraCaS test suite（Cooper et al.1996）で扱われている以下の各現象�
 - 命題的態度
 
 FraCaSの対訳となっているテストが中心ですが、自然な対訳を作れない項目の一部に関しては、同様の現象を含む日本語例を独自に作成しています。また、日本語独自の関連現象も一部扱っています。
-FraCaSの項目の対訳ではあるが本質的に異なる現象も存在するため、ここではlink要素のtranslation属性とsame_phenomena属性により、「（リンク先の項目と）対訳レベルで同一視できるか」と「現象レベルで同一視できるか」とを明示的に区別しています。
+FraCaSの項目の対訳であっても本質的に異なる現象も存在するため、ここではlink要素のtranslation属性とsame_phenomena属性により、「（リンク先の項目と）対訳レベルで同一視できるか」と「現象レベルで同一視できるか」とを明示的に区別しています。
 また、FraCaSのテスト項目の中でも、日本語に対応する現象がないもの、またどのような日本語現象を対応させるかについて議論を要するものは含めていません。
 
 ## データ構造
@@ -88,31 +88,26 @@ note ： コメント
   http://www.ling.gu.se/~cooper/multifracas/
 
 ## 参考文献
-```
-川添愛、田中リベカ、峯島宏次、戸次大介 (2016) 「機能語の意味を表現する推論テストセット－JSeMとりたて助詞テストの構築－」言語処理学会第22回年次大会, B5-3, 東北大学, 2016/3/7-11.
-```
-```
-Kawazoe,Ai; Tanaka,Ribeka; Mineshima,Koji; Bekki,Daisuke; (2015)
-"A Framework for Constructing Multilingual Inference Problem," In Proceedings of 1st International Workshop on the Use of Multilingual Language Resources in Knowledge Representation Systems (MLKRep2015), 08-10 July 2015, Vienna, Austria.
-```
-```
-Ai Kawazoe, Ribeka Tanaka, Koji Mineshima, Daisuke Bekki (2015) "An Inference Problem Set for Evaluating Semantic Theories and Semantic Processing Systems for Japanese," In Proceedings of the Twelfth International Workshop on Logic and Engineering of Natural Language Semantics (LENLS12), pp.67-73, Tokyo-Yokohama, Japan.
-```
-```
-Ai Kawazoe, Ribeka Tanaka, Koji Mineshima, Daisuke Bekki (2015) "A Framework for Constructing Multilingual Inference Problem," In Proceedings of 1st International Workshop on the Use of Multilingual Language Resources in Knowledge Representation Systems (MLKRep2015). 
-```
-```
-川添愛、田中リベカ、峯島宏次、戸次大介（2015)「形式意味論に基づく含意関係テストセット構築の方法論」第29回人工知能学会全国大会論文集
-```
-```
-川添愛、田中リベカ、峯島宏次、戸次大介 (2015) 「日本語意味論テストセットの構築」言語処理学会第21会年次大会
-```
-```
-R. Cooper, D. Crouch, J. van Eijck, C. Fox, J. van Genabith, J. Jan, H. Kamp, D. Milward, M. Pinkal, M. Poesio, S. Pulman,T. Briscoe, H. Maier, and K. Konrad. 1996. ``Using the framework.'' Technical report,FraCaS: A Framework for Computational Semantics. FraCaS deliverable D16.
-```
-```
-B. MacCartney and C. D. Manning.2008. ``Modeling semantic containment and exclusion in natural language inference.'' The 22nd International Conference on Computational Linguistics (Coling-08), Manchester, UK, August.
-```
+- 川添愛，田中リベカ，峯島宏次，戸次大介 (2016) 
+「機能語の意味を表現する推論テストセット－JSeMとりたて助詞テストの構築－」
+言語処理学会第22回年次大会, B5-3, 東北大学, 2016/3/7-11.
+- Ai Kawazoe, Ribeka Tanaka, Koji Mineshima, Daisuke Bekki (2015) 
+"An Inference Problem Set for Evaluating Semantic Theories and Semantic Processing Systems for Japanese" 
+In Proceedings of the Twelfth International Workshop on Logic and Engineering of Natural Language Semantics (LENLS12), pp.67-73, Tokyo-Yokohama, Japan.
+- Ai Kawazoe, Ribeka Tanaka, Koji Mineshima, Daisuke Bekki (2015) 
+"A Framework for Constructing Multilingual Inference Problem"
+In Proceedings of 1st International Workshop on the Use of Multilingual Language Resources in Knowledge Representation Systems (MLKRep2015), 08-10 July 2015, Vienna, Austria. 
+- 川添愛，田中リベカ，峯島宏次，戸次大介（2015)
+「形式意味論に基づく含意関係テストセット構築の方法論」
+第29回人工知能学会全国大会論文集, はこだて未来大学, 2015/5/30-6/2.
+- 川添愛，田中リベカ，峯島宏次，戸次大介 (2015) 
+「日本語意味論テストセットの構築」言語処理学会第21会年次大会, E4-1, 京都大学.
+- R. Cooper, D. Crouch, J. van Eijck, C. Fox, J. van Genabith, J. Jan, H. Kamp, D. Milward, M. Pinkal, M. Poesio, S. Pulman,T. Briscoe, H. Maier, and K. Konrad. (1996) 
+"Using the framework." 
+Technical report,FraCaS: A Framework for Computational Semantics. FraCaS deliverable D16.
+- B. MacCartney and C. D. Manning. (2008) 
+"Modeling semantic containment and exclusion in natural language inference." 
+The 22nd International Conference on Computational Linguistics (Coling-08), Manchester, UK, August.
 
 ## 謝辞
 
