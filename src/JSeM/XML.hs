@@ -48,7 +48,7 @@ jsemData2Tsv jsemdata =
       StrictT.pack $ show $ answer j,
       if phenomena j == [] then "" else StrictT.concat ["\"", StrictT.intercalate ", " $ phenomena j, "\""],
       if inference_type j == [] then "" else StrictT.concat ["\"", StrictT.intercalate ", " $ inference_type j, "\""],
-      note j
+      StrictT.replace "\n" "" $ note j
       ] ++ (premises j) ++ [hypothesis j]
       )) jsemdata)
 

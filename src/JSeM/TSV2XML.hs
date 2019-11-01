@@ -34,6 +34,9 @@ tsvFile2XML :: FilePath -> IO(LazyT.Text)
 tsvFile2XML tsvFile =
   J.readFileUtf8 tsvFile
   >>= tsv2XML
+  >>= return . LazyT.toStrict
+  >>= J.tidy
+  >>= return . LazyT.fromStrict
 
 -- | タグ名をXMLタグ名に
 tag :: StrictT.Text -> X.Name
