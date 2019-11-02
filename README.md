@@ -1,50 +1,46 @@
 # JSeM: Japanese semantic test suite (Japanese FraCaS and extensions)
 
 ## 概要
+叙述文間の含意関係は、言語学においては意味論の中心的な説明対象の一つであるとともに、理論を検証するためのベンチマークとして用いられています。また近年の自然言語処理においては、含意関係認識(Recognizing Textual Entailment: RTE)が意味処理タスクの中核となっています。当研究グループでは、日本語の意味理論および自然言語理解技術の評価に資することを目的として「日本語意味論テストセット」(Japansese Semantics test suite）を構築しています。これは、日本語の意味的な現象に基づく含意関係のデータセットで、主に以下の三つの部分からなるテストを集めたものです。
 
-文間の含意関係は、言語学においては意味論の中心的な説明対象の一つです。また自然言語処理においては、含意関係の認識が近年の意味処理タスクの中核となっています。当グループでは、日本語の意味理論および自然言語理解技術の評価に資することを目的として「日本語意味論テストセット」(Japansese Semantics test suite）を構築しています。これは、日本語の意味的な現象に基づく含意関係のデータセットで、主に以下の三つの部分からなるテストを集めたものです。
+(1) 前提(premise)：一つ以上の文
+(2) 仮説(hypothesis)：一つの文
+(3) 判定(answer)：(1)と(2)の間に含意関係があるかどうかについての母語話者の判断（yes, no, unknownあるいはundef）
 
-(1) 前提となる文（複数可）
-(2) (1)から推論可能かどうかが問われる文（仮説）
-(3) (1)と(2)の間に含意関係があるかどうかについての母語話者の判断（yes, no, unknownあるいはundef）
+このテストセットでは、FraCaS test suite（Cooper et al.(1996)で公開されたオリジナルのテストセット, およびBill MacCartney氏による同セットのXML版）の方針にならい、言語現象ごとに含意関係のテストをまとめています。FraCaSで扱われている現象については、FraCaSのテスト項目へのリンクの付いたデータを作成しています（下記のβ版を参照）。また、FraCaSで扱われていない現象や、日本語独自の現象の関わるテストも多く構築しており、今後も追加する予定です。
 
-このテストセットでは、FraCaS test suite（Cooper et al.(1996)で公開されたオリジナルのテストセット, およびBill MacCartney氏による同セットのXML版）の方針にならい、言語現象ごとに含意関係のテストをまとめています。FraCaSで扱われている現象については、FraCaSのテスト項目へのリンクの付いたデータを作成しています（下記のβ版を参照）。また、FraCaSで扱われていない現象や、日本語独自の現象の関わるテストも多く構築しており、今後も追加予定です。
+## 日本語意味論テストセットv1.0の内容
+このリポジトリのdata/v1.0フォルダには、以下のファイルが含まれています。
 
-## 内容
+### FraCaS test suite日本語版
+- GeneralizedQuantifier.xml（一般量化子）
+- Plurals.xml（複数性）
+- NominalAnaphora.xml（照応）
+- Ellipsis.xml（省略）
+- Adjectives.xml（形容詞）
+- Comparatives.xml（比較）
+- TemporalReference.xml（テンス）
+- Verbs.xml（動詞）
+- Attitudes.xml（命題的態度）
 
-このリポジトリには、以下のファイルが含まれています。
+扱われている各現象に対応する日本語のテストFraCaSの対訳となっているテストが中心ですが、自然な対訳を作れない項目の一部に関しては、同様の現象を含む日本語例を独自に作成しています。FraCaSの項目の対訳であっても本質的に異なる現象も存在するため、ここではlink要素のtranslation属性とsame_phenomena属性により、「（リンク先の項目と）対訳レベルで同一視できるか」と「現象レベルで同一視できるか」とを明示的に区別しています。また、FraCaSのテスト項目の中でも、日本語に対応する現象がないもの、またどのような日本語現象を対応させるかについて議論を要するものは含めていません。
 
-- data/JSeM_Adjective.xml
-- data/JSeM_Coordination.xml
-- data/JSeM_NP.xml
-- data/JSeM_Question.xml
-- data/JSeM_Toritate.xml
-　　日本語意味論テストセットv1.0のデータです。   
-- data/jsem.dtd
-　　xmlの仕様を定めたdtdファイル
-- data/jsem.xsl
-　　MultiFraCaSに似た形式でデータを表示するためのxslファイル
+### JSeM拡張データセット
+- Adverb.xml（副詞）
+- Coordination.xml（等位接続）
+- Modality.xml（モダリティ）
+- NP.xml（名詞句）
+- NewAdjective.xml（形容詞）
+- Question.xml（疑問文）
+- Toritate.xml（取り立て詞）
 
-## データの概要
+FraCaSには対応項目のない言語現象についての、JSeM独自の含意関係データセットです。日本語独自の現象も含まれます。
 
-FraCaS test suite（Cooper et al.1996）で扱われている以下の各現象について、対応する日本語のテストを作成し、集めたものを中心に構成したものです。
+### その他
+- jsem.dtd：xmlの仕様を定めたdtdファイル
+- jsem.xsl：MultiFraCaSに即した形式でxmlデータを表示するためのxslファイル
 
-- 一般量化子
-- 複数性
-- 照応
-- 省略
-- 形容詞
-- 比較
-- テンス
-- 動詞
-- 命題的態度
-
-FraCaSの対訳となっているテストが中心ですが、自然な対訳を作れない項目の一部に関しては、同様の現象を含む日本語例を独自に作成しています。また、日本語独自の関連現象も一部扱っています。
-FraCaSの項目の対訳であっても本質的に異なる現象も存在するため、ここではlink要素のtranslation属性とsame_phenomena属性により、「（リンク先の項目と）対訳レベルで同一視できるか」と「現象レベルで同一視できるか」とを明示的に区別しています。
-また、FraCaSのテスト項目の中でも、日本語に対応する現象がないもの、またどのような日本語現象を対応させるかについて議論を要するものは含めていません。
-
-## データ構造
-
+## xmlデータの仕様
 テストセット内のXML要素および属性の説明は以下の通りです。@が付いたものは属性、その下にあるのは属性値の説明です。
 
 ```
@@ -81,8 +77,8 @@ note ： コメント
 
 ## 関連リンク
 - FraCaS textual infefence test suite
-  ダウンロード：http://www-nlp.stanford.edu/~wcmac/downloads/
-  利用には、Bill MacCartney氏へのクレジット必要
+  http://www-nlp.stanford.edu/~wcmac/downloads/
+　（利用には、Bill MacCartney氏へのクレジット必要）
 
 - MultiFraCaS HP
   http://www.ling.gu.se/~cooper/multifracas/
@@ -110,6 +106,5 @@ Technical report,FraCaS: A Framework for Computational Semantics. FraCaS deliver
 The 22nd International Conference on Computational Linguistics (Coling-08), Manchester, UK, August.
 
 ## 謝辞
-
 本研究の一部は、JST CREST「ビッグデータ統合利活用のための次世代基盤技術の創出・体系化」領域「知識に基づく構造的言語処理の確立と知識インフラの構築」プロジェクト(JPMJCR1301)，およびJSPS科学研究費補助金基盤研究(B)「日本語CCG統語解析器lightblueの開発」プロジェクト(JP18H03284)の助成によるものです。
 
