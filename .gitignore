@@ -3,6 +3,6 @@ jsem.cabal
 *~
 *.bak
 data/JSeM_beta
-data/JSeM2016extensions
+data/2016extensions
 log/
 ToDo.txt
