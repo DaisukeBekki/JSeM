@@ -112,7 +112,7 @@ tsvLine2xmlNode entry = do
                     (M.fromList 
                        [("jsem_id",jsem_id),
                         ("answer",answer),
-                        ("language","ja"),
+                        ("language","jp"),
                         ("phenomena", phenomena),
                         ("inference_type",inference_type)
                        ])
@@ -120,9 +120,9 @@ tsvLine2xmlNode entry = do
                         (tag "link")
                         (M.fromList 
                            [("resource","fracas"),
-                            ("link_id",""),
-                            ("translation",""),
-                            ("same_phenomena","")
+                            ("link_id","") --,
+                            --("translation",""),
+                            --("same_phenomena","")
                            ])
                         []
                      ] ++
