@@ -11,8 +11,8 @@ ghc-options:         -Wall
 extra-source-files:
   - README.md
   - ChangeLog.md
-  - data/jsem.xsl
-  - data/jsem.dtd
+  - data/v1.0/jsem.xsl
+  - data/v1.0/jsem.dtd
 dependencies:
   - base >= 4.7 && < 5
   - text >= 1.2

@@ -12,7 +12,7 @@
   jsem_id CDATA #REQUIRED
   answer (yes|no|unknown|undef) #IMPLIED
   jsem_nonstandard (true) #IMPLIED
-  language (fa|de|zh|ja|jp) #IMPLIED
+  language (fa|de|zh|jp) #IMPLIED
   phenomena CDATA #IMPLIED
   inference_type CDATA #IMPLIED
   >
