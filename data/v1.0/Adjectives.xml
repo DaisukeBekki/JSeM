@@ -1,1320 +1,942 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE jsem-problems SYSTEM "jsem.dtd">
 <?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
 <jsem-problems>
-  <comment>  Japanese Semantics Test Suite (Beta version, last modified on May 30, 2015) created by Ai Kawazoe, Ribeka Tanaka, Koji Mineshima and Daisuke Bekki, 2015. </comment>
-  <comment> The format of this file is based on those of FraCaS textual inference problem set by Bill MacCartney and MutiFraCaS sets by Robin Cooper. </comment>
-  <comment> This Beta version contains textual inference tests involving adjectives, which corresponds to Adjectives section in FraCaS test suite (Cooper et al.1996). Note that not all of the tests are literal translation of FraCaS. We created original Japanese data for some FraCas tests which cannot be translated into natural Japanese sentences. One or more tests are linked to a FraCaS entry when necessary. </comment>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="499" language="jp"
+  phenomena="adjective, non-affirmative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>ジョンは偽物のダイアモンドを持っている。</script>
+    </p>
+    <h>
+      <script>ジョンはダイアモンドを持っている。</script>
+    </h>
+    <note>Kamp (1975). Non-affirmative adjectives. Adj N は N
+    を含意しない</note>
+  </problem>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="500" language="jp"
+  phenomena="adjective, affirmative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>これは本物のダイアモンドだ。</script>
+    </p>
+    <h>
+      <script>これはダイアモンドだ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="NO" inference_type="&quot;entailment&quot;"
+  jsem_id="501" language="jp"
+  phenomena="adjective, non-affirmative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>これは偽物のダイアモンドだ。</script>
+    </p>
+    <h>
+      <script>これはダイアモンドだ。</script>
+    </h>
+    <note>Non-affirmative: Adj N は N を含意しない (この場合、Adj N は non-N
+    を含意する)</note>
+  </problem>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="502" language="jp"
+  phenomena="adjective, non-affirmative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>これは偽物の日本製の時計だ。</script>
+    </p>
+    <h>
+      <script>これは偽物の時計だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="503" language="jp"
+  phenomena="adjective, non-affirmative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>これは偽物の日本製の時計だ。</script>
+    </p>
+    <h>
+      <script>これは日本製だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="504" language="jp"
+  phenomena="adjective, non-affirmative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>これは偽物の日本製の時計だ。</script>
+    </p>
+    <h>
+      <script>これは時計だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="505" language="jp"
+  phenomena="adjective, non-affirmative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>ジョンは自称ニューヨーク出身のピアニストだ。</script>
+    </p>
+    <h>
+      <script>ジョンは自称ニューヨーク出身だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="506" language="jp"
+  phenomena="adjective, non-affirmative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>ジョンは自称ニューヨーク出身のピアニストだ。</script>
+    </p>
+    <h>
+      <script>ジョンはニューヨーク出身だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="507" language="jp"
+  phenomena="adjective, non-affirmative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>ジョンは自称ニューヨーク出身のピアニストだ。</script>
+    </p>
+    <h>
+      <script>ジョンはピアニストだ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="NO" inference_type="&quot;entailment&quot;"
+  jsem_id="508" language="jp"
+  phenomena="adjective, non-affirmative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>ジョンはかつての大学生だ。</script>
+    </p>
+    <h>
+      <script>ジョンは大学生だ。</script>
+    </h>
+    <note>
+    「かつての」はやや不自然。formerに自然に対応する形容詞がない。ジョンが再び大学生になったという可能性を考慮するとunknown。
+    Comment in fracas: Non-affirmative. Adj N does not entail N.
+    (Opinions differ about whether "Adj N entails non-N")</note>
+  </problem>
+  <problem answer="NO" inference_type="&quot;entailment&quot;"
+  jsem_id="509" language="jp"
+  phenomena="adjective, non-affirmative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>ジョンは元大学生だ。</script>
+    </p>
+    <h>
+      <script>ジョンは大学生だ。</script>
+    </h>
+    <note>「元」は接頭辞。ジョンが再び大学生になったという可能性を考慮するとunknown。 Comment in
+    fracas: Non-affirmative. Adj N does not entail N. (Opinions
+    differ about whether "Adj N entails non-N")</note>
+  </problem>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="510" language="jp"
+  phenomena="adjective, non-affirmative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>ジョンは成功している元大学生だ。</script>
+    </p>
+    <h>
+      <script>ジョンは成功している。</script>
+    </h>
+    <note>Comment in fracas: Yes (for a former university student).
+    Ordering between affirmative and non-affirmative adjectives
+    affects which adjectival predications are and aren't
+    affirmed.</note>
+  </problem>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="511" language="jp"
+  phenomena="adjective, affirmative adjective, no comparison class">
 
-  <problem jsem_id="498" answer="yes" language="jp" phenomena="adjective, affirmative adjective" inference_type="entailment">
-    <link resource="fracas" link_id="197" translation="yes" same_phenomena="unknown">
-    </link>
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      ジョンは本物のダイアモンドを持っている。
-     </script>
-      <english>
-      John has a genuine diamond.
-     </english>
+      <script>すべての哺乳類は動物だ。</script>
     </p>
     <h>
-      <script>
-      ジョンはダイアモンドを持っている。
-     </script>
-      <english>
-      John has a diamond.
-     </english>
+      <script>すべての四本足の哺乳類は四本足の動物だ。</script>
     </h>
-    <note> Kamp (1975). Affirmative adjectives. Adj N は N を含意する</note>
+    <note>Comment in fracas: [N1 entails N2] entails [Adj(N1)
+    entails Adj(N2)]</note>
   </problem>
-  <problem jsem_id="499" answer="unknown" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="512" language="jp"
+  phenomena="adjective, affirmative adjective, no comparison class">
+
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      ジョンは偽物のダイアモンドを持っている。
-     </script>
+      <script>ダンボは四本足の動物だ。</script>
     </p>
     <h>
-      <script>
-      ジョンはダイアモンドを持っている。
-     </script>
+      <script>ダンボは四本足だ。</script>
     </h>
-    <note> Kamp (1975). Non-affirmative adjectives. Adj N は N を含意しない</note>
+    <note>Comment in fracas: Adj(N)(x) entails Adj(x)</note>
   </problem>
-  <problem jsem_id="500" answer="yes" language="jp" phenomena="adjective, affirmative adjective" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="513" language="jp"
+  phenomena="adjective, affirmative adjective, no comparison class">
+
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      これは本物のダイアモンドだ。
-     </script>
+      <script>ジョンはアメリカ人の外科医だ。</script>
     </p>
     <h>
-      <script>
-      これはダイアモンドだ。
-     </script>
+      <script>ジョンは外科医だ。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="501" answer="no" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="514" language="jp"
+  phenomena="adjective, affirmative adjective, no comparison class">
+
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      これは偽物のダイアモンドだ。
-     </script>
+      <script>ジョンはアメリカ人の外科医だ。</script>
     </p>
     <h>
-      <script>
-      これはダイアモンドだ。
-     </script>
+      <script>ジョンはアメリカ人だ。</script>
     </h>
-    <note> Non-affirmative: Adj N は N を含意しない
-      (この場合、Adj N は non-N を含意する) </note>
+    <note></note>
   </problem>
-  <problem jsem_id="502" answer="unknown" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="515" language="jp"
+  phenomena="adjective, affirmative adjective, no comparison class">
+
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      これは偽物の日本製の時計だ。
-     </script>
-    </p>
-    <h>
-      <script>
-      これは偽物の時計だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="503" answer="unknown" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
-    <p idx="1">
-      <script>
-      これは偽物の日本製の時計だ。
-     </script>
-    </p>
-    <h>
-      <script>
-      これは日本製だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="504" answer="unknown" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
-    <p idx="1">
-      <script>
-      これは偽物の日本製の時計だ。
-     </script>
-    </p>
-    <h>
-      <script>
-      これは時計だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="505" answer="yes" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
-    <p idx="1">
-      <script>
-      ジョンは自称ニューヨーク出身のピアニストだ。
-     </script>
-    </p>
-    <h>
-      <script>
-      ジョンは自称ニューヨーク出身だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="506" answer="unknown" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
-    <p idx="1">
-      <script>
-      ジョンは自称ニューヨーク出身のピアニストだ。
-     </script>
-    </p>
-    <h>
-      <script>
-      ジョンはニューヨーク出身だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="507" answer="unknown" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
-    <p idx="1">
-      <script>
-      ジョンは自称ニューヨーク出身のピアニストだ。
-     </script>
-    </p>
-    <h>
-      <script>
-      ジョンはピアニストだ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="508" answer="no" jsem_nonstandard="true" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
-    <link resource="fracas" link_id="198" translation="yes" same_phenomena="unknown">
-    </link>
-    <p idx="1">
-      <script>
-      ジョンはかつての大学生だ。
-     </script>
-      <english>
-      John is a former university student.
-     </english>
-    </p>
-    <h>
-      <script>
-      ジョンは大学生だ。
-     </script>
-      <english>
-      John is a university student.
-     </english>
-    </h>
-    <note>
- 「かつての」はやや不自然。formerに自然に対応する形容詞がない。ジョンが再び大学生になったという可能性を考慮するとunknown。
-  Comment in fracas: Non-affirmative. Adj N does not entail N. (Opinions differ about whether "Adj N entails non-N")
-</note>
-  </problem>
-  <problem jsem_id="509" answer="no" jsem_nonstandard="true" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
-    <link resource="fracas" link_id="198" translation="yes" same_phenomena="unknown">
-    </link>
-    <p idx="1">
-      <script>
-      ジョンは元大学生だ。
-     </script>
-      <english>
-      John is a former university student.
-     </english>
-    </p>
-    <h>
-      <script>
-      ジョンは大学生だ。
-     </script>
-      <english>
-      John is a university student.
-     </english>
-    </h>
-    <note>
-   「元」は接頭辞。ジョンが再び大学生になったという可能性を考慮するとunknown。
-   Comment in fracas:
-   Non-affirmative. Adj N does not entail N.
-   (Opinions differ about whether "Adj N entails non-N")
-  </note>
-  </problem>
-  <problem jsem_id="510" answer="yes" jsem_nonstandard="true" language="jp" phenomena="adjective, non-affirmative adjective" inference_type="entailment">
-    <link resource="fracas" link_id="199" translation="yes" same_phenomena="unknown">
-    </link>
-    <p idx="1">
-      <script>
-      ジョンは成功している元大学生だ。
-     </script>
-      <english>
-      John is a successful former university student.
-     </english>
-    </p>
-    <h>
-      <script>
-      ジョンは成功している。
-     </script>
-      <english>
-      John is successful.
-     </english>
-    </h>
-    <note>
-    Comment in fracas: Yes (for a former university student).
-    Ordering between affirmative and non-affirmative adjectives affects which
-    adjectival predications are and aren't affirmed.
-  </note>
-  </problem>
-  <problem jsem_id="511" answer="yes" language="jp" phenomena="adjective, affirmative adjective, no comparison class" inference_type="entailment">
-    <link resource="fracas" link_id="202" translation="yes" same_phenomena="yes">
-    </link>
-    <p idx="1">
-      <script>
-      すべての哺乳類は動物だ。
-     </script>
-      <english>
-      Every mammal is an animal.
-     </english>
-    </p>
-    <h>
-      <script>
-      すべての四本足の哺乳類は四本足の動物だ。
-     </script>
-      <english>
-      Every four-legged mammal is a four-legged animal.
-     </english>
-    </h>
-    <note> Comment in fracas: [N1 entails N2] entails [Adj(N1) entails Adj(N2)] </note>
-  </problem>
-  <problem jsem_id="512" answer="yes" language="jp" phenomena="adjective, affirmative adjective, no comparison class" inference_type="entailment">
-    <link resource="fracas" link_id="203" translation="yes" same_phenomena="yes">
-    </link>
-    <p idx="1">
-      <script>
-      ダンボは四本足の動物だ。
-     </script>
-      <english>
-      Dumbo is a four-legged animal.
-     </english>
-    </p>
-    <h>
-      <script>
-      ダンボは四本足だ。
-     </script>
-      <english>
-      Dumbo is four-legged.
-     </english>
-    </h>
-    <note> Comment in fracas: Adj(N)(x) entails Adj(x) </note>
-  </problem>
-  <problem jsem_id="513" answer="yes" language="jp" phenomena="adjective, affirmative adjective, no comparison class" inference_type="entailment">
-    <p idx="1">
-      <script>
-      ジョンはアメリカ人の外科医だ。
-     </script>
-    </p>
-    <h>
-      <script>
-      ジョンは外科医だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="514" answer="yes" language="jp" phenomena="adjective, affirmative adjective, no comparison class" inference_type="entailment">
-    <p idx="1">
-      <script>
-      ジョンはアメリカ人の外科医だ。
-     </script>
-    </p>
-    <h>
-      <script>
-      ジョンはアメリカ人だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="515" answer="yes" language="jp" phenomena="adjective, affirmative adjective, no comparison class" inference_type="entailment">
-    <p idx="1">
-      <script>
-      ジョンはアメリカ人だ。
-     </script>
-    </p>
-    <p idx="1">
-      <script>
-      ジョンは外科医だ。
-     </script>
-    </p>
-    <h>
-      <script>
-      ジョンはアメリカ人の外科医だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="516" answer="yes" language="jp" phenomena="adjective, affirmative adjective, no comparison class" inference_type="entailment">
-    <p idx="1">
-      <script>
-      ジョンはアメリカ人の外科医だ。
-     </script>
-    </p>
-    <h>
-      <script>
-      ジョンは外科医のアメリカ人だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="517" answer="unknown" language="jp" phenomena="adjective, affirmative adjective, no comparison class, modal" inference_type="entailment">
-    <p idx="1">
-      <script>
-      ジョンはアメリカ人の外科医かもしれない。
-     </script>
-    </p>
-    <h>
-      <script>
-      ジョンはアメリカ人だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="518" answer="unknown" language="jp" phenomena="adjective, affirmative adjective, no comparison class, modal" inference_type="entailment">
-    <p idx="1">
-      <script>
-      ジョンはアメリカ人の外科医かもしれない。
-     </script>
-    </p>
-    <h>
-      <script>
-      ジョンは外科医だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="519" answer="no" language="jp" phenomena="adjective, opposite, relative adjective" inference_type="entailment">
-    <link resource="fracas" link_id="204" translation="yes" same_phenomena="yes">
-    </link>
-    <p idx="1">
-      <script>
-      ミッキーは小さな動物だ。
-     </script>
-      <english>
-      Mickey is a small animal.
-     </english>
-    </p>
-    <h>
-      <script>
-      ミッキーは大きな動物だ。
-     </script>
-      <english>
-      Mickey is a large animal.
-     </english>
-    </h>
-    <note> Relative adjectives (Kennedy and McNally 2005).
-Comment in fracas: Small(N) entails !Large(N)
-</note>
-  </problem>
-  <problem jsem_id="520" answer="no" language="jp" phenomena="adjective, opposite, relative adjective" inference_type="entailment">
-    <link resource="fracas" link_id="205" translation="yes" same_phenomena="yes">
-    </link>
-    <p idx="1">
-      <script>
-      ダンボは大きな動物だ。
-     </script>
-      <english>
-      Dumbo is a large animal.
-     </english>
-    </p>
-    <h>
-      <script>
-      ダンボは小さな動物だ。
-     </script>
-      <english>
-      Dumbo is a small animal.
-     </english>
-    </h>
-    <note> Relative adjectives (Kennedy and McNally 2005). Comment in fracas: Large(N) entails !Small(N)
-</note>
-  </problem>
-  <problem jsem_id="521" answer="unknown" language="jp" phenomena="adjective, opposite, relative adjective" inference_type="entailment">
-    <link resource="fracas" link_id="206" translation="yes" same_phenomena="yes">
-    </link>
-    <p idx="1">
-      <script>
-      ファイドは小さな動物ではない。
-     </script>
-      <english>
-      Fido is not a small animal.
-     </english>
-    </p>
-    <h>
-      <script>
-      ファイドは大きな動物だ。
-     </script>
-      <english>
-      Fido is a large animal.
-     </english>
-    </h>
-    <note> Relative adjectives (Kennedy and McNally 2005). Comment in fracas: !Small(N) =/=&gt; Large(N)
-</note>
-  </problem>
-  <problem jsem_id="522" answer="unknown" language="jp" phenomena="adjective, opposite, relative adjective" inference_type="entailment">
-    <link resource="fracas" link_id="207" translation="yes" same_phenomena="yes">
-    </link>
-    <p idx="1">
-      <script>
-      ファイドは大きな動物ではない。
-     </script>
-      <english>
-      Fido is not a large animal.
-     </english>
-    </p>
-    <h>
-      <script>
-      ファイドは小さな動物だ。
-     </script>
-      <english>
-      Fido is a small animal.
-     </english>
-    </h>
-    <note> Relative adjectives (Kennedy and McNally 2005). Comment in fracas: !Large(N) =/=&gt; Small(N)
-</note>
-  </problem>
-  <problem jsem_id="523" answer="no" language="jp" phenomena="adjective, opposite, absolute adjective" inference_type="entailment">
-    <p idx="1">
-      <script>
-      あの窓は開いている。
-     </script>
-      <english>
-      The window is open.
-     </english>
-    </p>
-    <h>
-      <script>
-      あの窓は閉まっている。
-     </script>
-      <english>
-      The window is closed.
-     </english>
-    </h>
-    <note> 
-PとHの「あの窓」は同一の個体を指示する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
-</note>
-  </problem>
-  <problem jsem_id="524" answer="no" language="jp" phenomena="adjective, opposite, absolute adjective" inference_type="entailment">
-    <p idx="1">
-      <script>
-      あの窓は閉まっている。
-     </script>
-      <english>
-      The window is closed.
-     </english>
-    </p>
-    <h>
-      <script>
-      あの窓は開いている。
-     </script>
-      <english>
-      The window is open.
-     </english>
-    </h>
-    <note> 
-PとHの「あの窓」は同一の個体を指示する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
-</note>
-  </problem>
-  <problem jsem_id="525" answer="yes" language="jp" phenomena="adjective, opposite, absolute adjective" inference_type="entailment">
-    <p idx="1">
-      <script>
-      あの窓は開いていない。
-     </script>
-      <english>
-      The window is not open.
-     </english>
-    </p>
-    <h>
-      <script>
-      あの窓は閉まっている。
-     </script>
-      <english>
-      The window is closed.
-     </english>
-    </h>
-    <note> 
-PとHの「あの窓」は同一の個体を指示する。not-Open(N) は Closed(N) を含意する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
-</note>
-  </problem>
-  <problem jsem_id="526" answer="yes" language="jp" phenomena="adjective, opposite, absolute adjective" inference_type="entailment">
-    <p idx="1">
-      <script>
-      あの窓は閉まっていない。
-     </script>
-      <english>
-      The window is not closed.
-     </english>
-    </p>
-    <h>
-      <script>
-      あの窓は開いている。
-     </script>
-      <english>
-      The window is open.
-     </english>
-    </h>
-    <note> 
-PとHの「あの窓」は同一の個体を指示する。not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)
-</note>
-  </problem>
-  <problem jsem_id="527" answer="no" language="jp" phenomena="adjective, opposite, relative adjective" inference_type="entailment">
-    <p idx="1">
-      <script>
-      この料理はおいしい。
-     </script>
-    </p>
-    <h>
-      <script>
-      この料理はまずい。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="528" answer="no" language="jp" phenomena="adjective, opposite, relative adjective" inference_type="entailment">
-    <p idx="1">
-      <script>
-      この料理はまずい。
-     </script>
-    </p>
-    <h>
-      <script>
-      この料理はおいしい。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="529" answer="yes" language="jp" phenomena="adjective, opposite, relative adjective" inference_type="entailment">
-    <p idx="1">
-      <script>
-      この料理はおいしくない。
-     </script>
-    </p>
-    <h>
-      <script>
-      この料理はまずい。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="530" answer="unknown" language="jp" phenomena="adjective, opposite, relative adjective" inference_type="entailment">
-    <p idx="1">
-      <script>
-      この料理はまずくない。
-     </script>
-    </p>
-    <h>
-      <script>
-      この料理はおいしい。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="531" answer="yes" language="jp" phenomena="adjective, opposite, comparative" inference_type="entailment">
-    <link resource="fracas" link_id="208" translation="yes" same_phenomena="yes">
-    </link>
-    <p idx="1">
-      <script>
-      ミッキーは小さな動物だ。
-     </script>
-      <english>
-      Mickey is a small animal.
-     </english>
+      <script>ジョンはアメリカ人だ。</script>
     </p>
     <p idx="2">
-      <script>
-      ダンボは大きな動物だ。
-     </script>
-      <english>
-      Dumbo is a large animal.
-     </english>
+      <script>ジョンは外科医だ。</script>
     </p>
     <h>
-      <script>
-      ミッキーはダンボより小さい。
-     </script>
-      <english>
-      Mickey is smaller than Dumbo.
-     </english>
+      <script>ジョンはアメリカ人の外科医だ。</script>
     </h>
-    <note>
-   Comment in fracas: "Small" and "large" are related via the comparative "smaller"
-  </note>
+    <note></note>
   </problem>
-  <problem jsem_id="532" answer="no" language="jp" phenomena="adjective, opposite, comparative" inference_type="entailment">
-    <link resource="fracas" link_id="209" translation="yes" same_phenomena="yes">
-    </link>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="516" language="jp"
+  phenomena="adjective, affirmative adjective, no comparison class">
+
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      ミッキーは小さな動物だ。
-     </script>
-      <english>
-      Mickey is a small animal.
-     </english>
-    </p>
-    <p idx="2">
-      <script>
-      ダンボは大きな動物だ。
-     </script>
-      <english>
-      Dumbo is a large animal.
-     </english>
+      <script>ジョンはアメリカ人の外科医だ。</script>
     </p>
     <h>
-      <script>
-      ミッキーはダンボより大きい。
-     </script>
-      <english>
-      Mickey is larger than Dumbo.
-     </english>
+      <script>ジョンは外科医のアメリカ人だ。</script>
     </h>
-    <note>
-   Comment in fracas: "Small" and "large" are related via the comparative "larger"
-  </note>
+    <note></note>
   </problem>
-  <problem jsem_id="533" answer="no" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
-    <link resource="fracas" link_id="210" translation="yes" same_phenomena="yes">
-    </link>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="517" language="jp"
+  phenomena="adjective, affirmative adjective, no comparison class, modal">
+
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      すべてのネズミは小さな動物だ。
-     </script>
-      <english>
-      All mice are small animals.
-     </english>
-    </p>
-    <p idx="2">
-      <script>
-      ミッキーは大きなネズミだ。
-     </script>
-      <english>
-      Mickey is a large mouse.
-     </english>
+      <script>ジョンはアメリカ人の外科医かもしれない。</script>
     </p>
     <h>
-      <script>
-      ミッキーは大きな動物だ。
-     </script>
-      <english>
-      Mickey is a large animal.
-     </english>
+      <script>ジョンはアメリカ人だ。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="534" answer="no" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
-    <link resource="fracas" link_id="211" translation="yes" same_phenomena="yes">
-    </link>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="518" language="jp"
+  phenomena="adjective, affirmative adjective, no comparison class, modal">
+
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      すべての象は大きな動物だ。
-     </script>
-      <english>
-      All elephants are large animals.
-     </english>
-    </p>
-    <p idx="2">
-      <script>
-      ダンボは小さな象だ。
-     </script>
-      <english>
-      Dumbo is a small elephant.
-     </english>
+      <script>ジョンはアメリカ人の外科医かもしれない。</script>
     </p>
     <h>
-      <script>
-      ダンボは小さな動物だ。
-     </script>
-      <english>
-      Dumbo is a small animal.
-     </english>
+      <script>ジョンは外科医だ。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="535" answer="yes" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
-    <link resource="fracas" link_id="212" translation="yes" same_phenomena="yes">
-    </link>
+  <problem answer="NO" inference_type="&quot;entailment&quot;"
+  jsem_id="519" language="jp"
+  phenomena="adjective, opposite, relative adjective">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      すべてのネズミは小さな動物だ。
-     </script>
-      <english>
-      All mice are small animals.
-     </english>
+      <script>ミッキーは小さな動物だ。</script>
+    </p>
+    <h>
+      <script>ミッキーは大きな動物だ。</script>
+    </h>
+    <note>Relative adjectives (Kennedy and McNally 2005).Comment in
+    fracas: Small(N) entails !Large(N)</note>
+  </problem>
+  <problem answer="NO" inference_type="&quot;entailment&quot;"
+  jsem_id="520" language="jp"
+  phenomena="adjective, opposite, relative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>ダンボは大きな動物だ。</script>
+    </p>
+    <h>
+      <script>ダンボは小さな動物だ。</script>
+    </h>
+    <note>Relative adjectives (Kennedy and McNally 2005). Comment
+    in fracas: Large(N) entails !Small(N)</note>
+  </problem>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="521" language="jp"
+  phenomena="adjective, opposite, relative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>ファイドは小さな動物ではない。</script>
+    </p>
+    <h>
+      <script>ファイドは大きな動物だ。</script>
+    </h>
+    <note>Relative adjectives (Kennedy and McNally 2005). Comment
+    in fracas: !Small(N) =/=&gt; Large(N)</note>
+  </problem>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="522" language="jp"
+  phenomena="adjective, opposite, relative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>ファイドは大きな動物ではない。</script>
+    </p>
+    <h>
+      <script>ファイドは小さな動物だ。</script>
+    </h>
+    <note>Relative adjectives (Kennedy and McNally 2005). Comment
+    in fracas: !Large(N) =/=&gt; Small(N)</note>
+  </problem>
+  <problem answer="NO" inference_type="&quot;entailment&quot;"
+  jsem_id="523" language="jp"
+  phenomena="adjective, opposite, absolute adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>あの窓は開いている。</script>
+    </p>
+    <h>
+      <script>あの窓は閉まっている。</script>
+    </h>
+    <note>PとHの「あの窓」は同一の個体を指示する。Absolute adjective (Rotstein and
+    Winter 2004; Kennedy and McNally 2005)</note>
+  </problem>
+  <problem answer="NO" inference_type="&quot;entailment&quot;"
+  jsem_id="524" language="jp"
+  phenomena="adjective, opposite, absolute adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>あの窓は閉まっている。</script>
+    </p>
+    <h>
+      <script>あの窓は開いている。</script>
+    </h>
+    <note>PとHの「あの窓」は同一の個体を指示する。Absolute adjective (Rotstein and
+    Winter 2004; Kennedy and McNally 2005)</note>
+  </problem>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="525" language="jp"
+  phenomena="adjective, opposite, absolute adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>あの窓は開いていない。</script>
+    </p>
+    <h>
+      <script>あの窓は閉まっている。</script>
+    </h>
+    <note>PとHの「あの窓」は同一の個体を指示する。not-Open(N) は Closed(N)
+    を含意する。Absolute adjective (Rotstein and Winter 2004; Kennedy and
+    McNally 2005)</note>
+  </problem>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="526" language="jp"
+  phenomena="adjective, opposite, absolute adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>あの窓は閉まっていない。</script>
+    </p>
+    <h>
+      <script>あの窓は開いている。</script>
+    </h>
+    <note>PとHの「あの窓」は同一の個体を指示する。not-Closed(N) は Open(N)
+    を含意する。Absolute adjective (Rotstein and Winter 2004; Kennedy and
+    McNally 2005)</note>
+  </problem>
+  <problem answer="NO" inference_type="&quot;entailment&quot;"
+  jsem_id="527" language="jp"
+  phenomena="adjective, opposite, relative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>この料理はおいしい。</script>
+    </p>
+    <h>
+      <script>この料理はまずい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="NO" inference_type="&quot;entailment&quot;"
+  jsem_id="528" language="jp"
+  phenomena="adjective, opposite, relative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>この料理はまずい。</script>
+    </p>
+    <h>
+      <script>この料理はおいしい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="529" language="jp"
+  phenomena="adjective, opposite, relative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>この料理はおいしくない。</script>
+    </p>
+    <h>
+      <script>この料理はまずい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="530" language="jp"
+  phenomena="adjective, opposite, relative adjective">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>この料理はまずくない。</script>
+    </p>
+    <h>
+      <script>この料理はおいしい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="531" language="jp"
+  phenomena="adjective, opposite, comparative">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>ミッキーは小さな動物だ。</script>
     </p>
     <p idx="2">
-      <script>
-      すべての象は大きな動物だ。
-     </script>
-      <english>
-      All elephants are large animals.
-     </english>
+      <script>ダンボは大きな動物だ。</script>
+    </p>
+    <h>
+      <script>ミッキーはダンボより小さい。</script>
+    </h>
+    <note>Comment in fracas: "Small" and "large" are related via
+    the comparative "smaller"</note>
+  </problem>
+  <problem answer="NO" inference_type="&quot;entailment&quot;"
+  jsem_id="532" language="jp"
+  phenomena="adjective, opposite, comparative">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>ミッキーは小さな動物だ。</script>
+    </p>
+    <p idx="2">
+      <script>ダンボは大きな動物だ。</script>
+    </p>
+    <h>
+      <script>ミッキーはダンボより大きい。</script>
+    </h>
+    <note>Comment in fracas: "Small" and "large" are related via
+    the comparative "larger"</note>
+  </problem>
+  <problem answer="NO" inference_type="&quot;entailment&quot;"
+  jsem_id="533" language="jp"
+  phenomena="adjective, extensional comparison class">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>すべてのネズミは小さな動物だ。</script>
+    </p>
+    <p idx="2">
+      <script>ミッキーは大きなネズミだ。</script>
+    </p>
+    <h>
+      <script>ミッキーは大きな動物だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="NO" inference_type="&quot;entailment&quot;"
+  jsem_id="534" language="jp"
+  phenomena="adjective, extensional comparison class">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>すべての象は大きな動物だ。</script>
+    </p>
+    <p idx="2">
+      <script>ダンボは小さな象だ。</script>
+    </p>
+    <h>
+      <script>ダンボは小さな動物だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="535" language="jp"
+  phenomena="adjective, extensional comparison class">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>すべてのネズミは小さな動物だ。</script>
+    </p>
+    <p idx="2">
+      <script>すべての象は大きな動物だ。</script>
     </p>
     <p idx="3">
-      <script>
-      ミッキーは大きなネズミだ。
-     </script>
-      <english>
-      Mickey is a large mouse.
-     </english>
+      <script>ミッキーは大きなネズミだ。</script>
     </p>
     <p idx="4">
-      <script>
-      ダンボは小さな象だ。
-     </script>
-      <english>
-      Dumbo is a small elephant.
-     </english>
+      <script>ダンボは小さな象だ。</script>
     </p>
     <h>
-      <script>
-      ダンボはミッキーより大きい。
-     </script>
-      <english>
-      Dumbo is larger than Mickey.
-     </english>
+      <script>ダンボはミッキーより大きい。</script>
     </h>
-    <note> Comment in fracas: Assume comparative relations exemplified in (208) and (209)
-</note>
+    <note>Comment in fracas: Assume comparative relations
+    exemplified in (208) and (209)</note>
   </problem>
-  <problem jsem_id="536" answer="undef" jsem_nonstandard="true" language="jp" phenomena="adjective, opposite" inference_type="entailment">
-    <link resource="fracas" link_id="213" translation="yes" same_phenomena="yes">
-    </link>
+  <problem answer="UNDEF" inference_type="&quot;entailment&quot;"
+  jsem_id="536" language="jp" phenomena="adjective, opposite">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      すべてのネズミは小さな動物だ。
-     </script>
-      <english>
-      All mice are small animals.
-     </english>
+      <script>すべてのネズミは小さな動物だ。</script>
     </p>
     <p idx="2">
-      <script>
-      ミッキーは大きな動物だ。
-     </script>
-      <english>
-      Mickey is a large mouse.
-     </english>
+      <script>ミッキーは大きな動物だ。</script>
     </p>
     <h>
-      <script>
-      ミッキーは小さい。
-     </script>
-      <english>
-      Mickey is small.
-     </english>
+      <script>ミッキーは小さい。</script>
     </h>
-    <note>
-    Comment in fracas:
-    No, for a mouse; Yes, for an animal.
-    Adjectives requiring a comparison class cannot usually be predicated in
-    the absence of a common noun, unless some comparison class is clear from
-    the wider context.
-</note>
+    <note>Comment in fracas: No, for a mouse; Yes, for an animal.
+    Adjectives requiring a comparison class cannot usually be
+    predicated in the absence of a common noun, unless some
+    comparison class is clear from the wider context.</note>
   </problem>
-  <problem jsem_id="537" answer="unknown" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="537" language="jp"
+  phenomena="adjective, extensional comparison class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      太郎は大きな家に住んでいる。
-     </script>
+      <script>太郎は大きな家に住んでいる。</script>
     </p>
     <h>
-      <script>
-      太郎は大きな建物に住んでいる。
-     </script>
+      <script>太郎は大きな建物に住んでいる。</script>
     </h>
     <note>西尾(1972, p.167)</note>
   </problem>
-  <problem jsem_id="538" answer="yes" language="jp" phenomena="adjective, extensional comparison class" inference_type="presupposition">
+  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  jsem_id="538" language="jp"
+  phenomena="adjective, extensional comparison class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      山田氏は政治家にしては若い。
-     </script>
+      <script>山田氏は政治家にしては若い。</script>
     </p>
     <h>
-      <script>
-      山田氏は政治家だ。
-     </script>
+      <script>山田氏は政治家だ。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="539" answer="no" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
+  <problem answer="NO" inference_type="&quot;entailment&quot;"
+  jsem_id="539" language="jp"
+  phenomena="adjective, extensional comparison class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      山田氏は政治家にしては若い。
-     </script>
+      <script>山田氏は政治家にしては若い。</script>
     </p>
     <h>
-      <script>
-      山田氏は若い。
-     </script>
-    </h>
-    <note>結論Hはdefault comparison classで解釈する</note>
-  </problem>
-  <problem jsem_id="540" answer="unknown" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
-    <p idx="1">
-      <script>
-      山田氏はこの党の政治家にしては若い。
-     </script>
-    </p>
-    <p idx="2">
-      <script>
-      この党の政治家はみな弁護士でもある。
-     </script>
-    </p>
-    <h>
-      <script>
-      山田氏は弁護士にしては若い。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="541" answer="yes" language="jp" phenomena="adjective, extensional comparison class" inference_type="presupposition">
-    <p idx="1">
-      <script>
-      山田氏は政治家の中では若い。
-     </script>
-    </p>
-    <h>
-      <script>
-      山田氏は政治家だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="542" answer="unknown" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
-    <p idx="1">
-      <script>
-      山田氏は政治家の中では若い方だ。
-     </script>
-    </p>
-    <p idx="2">
-      <script>
-      山田氏は弁護士でもある。
-     </script>
-    </p>
-    <h>
-      <script>
-      山田氏は弁護士の中では若い方だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="543" answer="unknown" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
-    <p idx="1">
-      <script>
-      山田氏は今回の選挙に立候補した政治家の中では若い方だ。
-     </script>
-    </p>
-    <p idx="2">
-      <script>
-      今回の選挙に立候補した政治家はみな弁護士だ。
-     </script>
-    </p>
-    <h>
-      <script>
-      山田氏は弁護士の中では若い方だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="544" answer="yes" language="jp" phenomena="adjective, extensional comparison class" inference_type="presupposition">
-    <p idx="1">
-      <script>
-      山田氏は政治家の割には若い。
-     </script>
-    </p>
-    <h>
-      <script>
-      山田氏は政治家だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="545" answer="no" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
-    <p idx="1">
-      <script>
-      山田氏は政治家の割には若い。
-     </script>
-    </p>
-    <h>
-      <script>
-      山田氏は若い。
-     </script>
+      <script>山田氏は若い。</script>
     </h>
     <note>結論Hはdefault comparison classで解釈する</note>
   </problem>
-  <problem jsem_id="546" answer="unknown" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="540" language="jp"
+  phenomena="adjective, extensional comparison class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      ジョンは有名なピアニストだ。
-     </script>
+      <script>山田氏はこの党の政治家にしては若い。</script>
     </p>
     <p idx="2">
-      <script>
-      ジョンは外科医だ。
-     </script>
+      <script>この党の政治家はみな弁護士でもある。</script>
     </p>
     <h>
-      <script>
-      ジョンは有名な外科医だ。
-     </script>
+      <script>山田氏は弁護士にしては若い。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="547" answer="unknown" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  jsem_id="541" language="jp"
+  phenomena="adjective, extensional comparison class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      ジョンは最高のピアニストだ。
-     </script>
+      <script>山田氏は政治家の中では若い。</script>
+    </p>
+    <h>
+      <script>山田氏は政治家だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="542" language="jp"
+  phenomena="adjective, extensional comparison class">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>山田氏は政治家の中では若い方だ。</script>
     </p>
     <p idx="2">
-      <script>
-      すべてのピアニストは音楽家だ。
-     </script>
+      <script>山田氏は弁護士でもある。</script>
     </p>
     <h>
-      <script>
-      ジョンは最高の音楽家だ。
-     </script>
+      <script>山田氏は弁護士の中では若い方だ。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="548" answer="yes" language="jp" phenomena="adjective, no comparison class" inference_type="entailment">
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="543" language="jp"
+  phenomena="adjective, extensional comparison class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      ジョンは左利きのピアニストだ。
-     </script>
+      <script>山田氏は今回の選挙に立候補した政治家の中では若い方だ。</script>
     </p>
     <p idx="2">
-      <script>
-      すべてのピアニストは音楽家だ。
-     </script>
+      <script>今回の選挙に立候補した政治家はみな弁護士だ。</script>
     </p>
     <h>
-      <script>
-      ジョンは左利きの音楽家だ。
-     </script>
+      <script>山田氏は弁護士の中では若い方だ。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="549" answer="unknown" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  jsem_id="544" language="jp"
+  phenomena="adjective, extensional comparison class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      ジョンは一流の指揮者だ。
-     </script>
+      <script>山田氏は政治家の割には若い。</script>
+    </p>
+    <h>
+      <script>山田氏は政治家だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="NO" inference_type="&quot;entailment&quot;"
+  jsem_id="545" language="jp"
+  phenomena="adjective, extensional comparison class">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>山田氏は政治家の割には若い。</script>
+    </p>
+    <h>
+      <script>山田氏は若い。</script>
+    </h>
+    <note>結論Hはdefault comparison classで解釈する</note>
+  </problem>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="546" language="jp"
+  phenomena="adjective, intensional comparison class">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>ジョンは有名なピアニストだ。</script>
     </p>
     <p idx="2">
-      <script>
-      ジョンはピアニストだ。
-     </script>
+      <script>ジョンは外科医だ。</script>
     </p>
     <h>
-      <script>
-      ジョンは一流のピアニストだ。
-     </script>
+      <script>ジョンは有名な外科医だ。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="550" answer="yes" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="547" language="jp"
+  phenomena="adjective, intensional comparison class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      ジョンは一流の指揮者だ。
-     </script>
-    </p>
-    <h>
-      <script>
-      ジョンは指揮者として一流だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="551" answer="yes" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
-    <p idx="1">
-      <script>
-      ジョンは指揮者として一流だ。
-     </script>
-    </p>
-    <h>
-      <script>
-      ジョンは一流の指揮者だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="552" answer="yes" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
-    <p idx="1">
-      <script>
-      ジョンは一流の指揮者だ。
-     </script>
-    </p>
-    <h>
-      <script>
-      ジョンは指揮者だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="553" answer="yes" language="jp" phenomena="adjective, intensional comparison class" inference_type="presupposition">
-    <p idx="1">
-      <script>
-      ジョンは指揮者として一流だ。
-     </script>
-    </p>
-    <h>
-      <script>
-      ジョンは指揮者だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="554" answer="yes" language="jp" phenomena="adjective, intensional comparison class" inference_type="presupposition">
-    <p idx="1">
-      <script>
-      ジョンは指揮者としては一流でない。
-     </script>
-    </p>
-    <h>
-      <script>
-      ジョンは指揮者だ。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="555" answer="unknown" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
-    <p idx="1">
-      <script>
-      ジョンは指揮者として一流だ。
-     </script>
+      <script>ジョンは最高のピアニストだ。</script>
     </p>
     <p idx="2">
-      <script>
-      ジョンはピアニストだ。
-     </script>
+      <script>すべてのピアニストは音楽家だ。</script>
     </p>
     <h>
-      <script>
-      ジョンはピアニストとして一流だ。
-     </script>
+      <script>ジョンは最高の音楽家だ。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="556" answer="yes" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
-    <link resource="fracas" link_id="214" translation="yes" same_phenomena="unknown">
-    </link>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="548" language="jp"
+  phenomena="adjective, no comparison class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      すべての法律の権威は法律学の講師だ。
-     </script>
-      <english>
-      All legal authorities are law lecturers.
-     </english>
+      <script>ジョンは左利きのピアニストだ。</script>
     </p>
     <p idx="2">
-      <script>
-      すべての法律学の講師は法律の権威だ。
-     </script>
-      <english>
-      All law lecturers are legal authorities.
-     </english>
+      <script>すべてのピアニストは音楽家だ。</script>
     </p>
     <h>
-      <script>
-      すべての太った法律の権威は太った法律学の講師だ。
-     </script>
-      <english>
-      All fat legal authorities are fat law lecturers.
-     </english>
+      <script>ジョンは左利きの音楽家だ。</script>
     </h>
-    <note> Kamp (1975). Comment in fracas: Extensional comparison class </note>
+    <note></note>
   </problem>
-  <problem jsem_id="557" answer="unknown" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
-    <link resource="fracas" link_id="215" translation="yes" same_phenomena="unknown">
-    </link>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="549" language="jp"
+  phenomena="adjective, intensional comparison class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      すべての法律の権威は法律学の講師だ。
-     </script>
-      <english>
-      All legal authorities are law lecturers.
-     </english>
+      <script>ジョンは一流の指揮者だ。</script>
     </p>
     <p idx="2">
-      <script>
-      すべての法律学の講師は法律の権威だ。
-     </script>
-      <english>
-      All law lecturers are legal authorities.
-     </english>
+      <script>ジョンはピアニストだ。</script>
     </p>
     <h>
-      <script>
-      すべての有能な法律の権威は有能な法律学の講師だ。
-     </script>
-      <english>
-      All competent legal authorities are competent law lecturers.
-     </english>
+      <script>ジョンは一流のピアニストだ。</script>
     </h>
-    <note> Kamp (1975). Comment in fracas: Intensional comparison class </note>
+    <note></note>
   </problem>
-  <problem jsem_id="558" answer="yes" language="jp" phenomena="adjective, extensional comparison class" inference_type="entailment">
-    <link resource="fracas" link_id="216" translation="yes" same_phenomena="unknown">
-    </link>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="550" language="jp"
+  phenomena="adjective, intensional comparison class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      ジョンはビルより太った政治家だ。
-     </script>
-      <english>
-      John is a fatter politician than Bill.
-     </english>
+      <script>ジョンは一流の指揮者だ。</script>
     </p>
     <h>
-      <script>
-      ジョンはビルより太っている。
-     </script>
-      <english>
-      John is fatter than Bill.
-     </english>
+      <script>ジョンは指揮者として一流だ。</script>
     </h>
-    <note> Comment in fracas: Extensional </note>
+    <note></note>
   </problem>
-  <problem jsem_id="559" answer="unknown" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
-    <link resource="fracas" link_id="217" translation="yes" same_phenomena="unknown">
-    </link>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="551" language="jp"
+  phenomena="adjective, intensional comparison class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      ジョンはビルより有能な政治家だ。
-     </script>
-      <english>
-      John is a cleverer politician than Bill.
-     </english>
+      <script>ジョンは指揮者として一流だ。</script>
     </p>
     <h>
-      <script>
-      ジョンはビルより有能だ。
-     </script>
-      <english>
-      John is cleverer than Bill.
-     </english>
+      <script>ジョンは一流の指揮者だ。</script>
     </h>
-    <note> Comment in fracas: Intensional </note>
+    <note></note>
   </problem>
-  <problem jsem_id="560" answer="unknown" language="jp" phenomena="adjective, intensional comparison class" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="552" language="jp"
+  phenomena="adjective, intensional comparison class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      ジョンはビルより政治家としては有能だ。
-     </script>
+      <script>ジョンは一流の指揮者だ。</script>
     </p>
     <h>
-      <script>
-      ジョンはビルより有能だ。
-     </script>
+      <script>ジョンは指揮者だ。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="561" answer="yes" language="jp" phenomena="adjective, default comparison class" inference_type="entailment">
-    <link resource="fracas" link_id="218" translation="yes" same_phenomena="unknown">
-    </link>
+  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  jsem_id="553" language="jp"
+  phenomena="adjective, intensional comparison class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      キムは有能な人だ。
-     </script>
-      <english>
-      Kim is a clever person.
-     </english>
+      <script>ジョンは指揮者として一流だ。</script>
     </p>
     <h>
-      <script>
-      キムは有能だ。
-     </script>
-      <english>
-      Kim is clever.
-     </english>
+      <script>ジョンは指揮者だ。</script>
     </h>
-    <comment> Comment in fracas: Comparison class adjectives can sometimes pick up a default comparison class from the subject NP. For example, knowing that Kim is a person provides a default scale for assessing cleverness in people. If Kim were known to be a dog, the assessment scale would be different. </comment>
+    <note></note>
   </problem>
-  <problem jsem_id="562" answer="unknown" language="jp" phenomena="adjective, default comparison class" inference_type="entailment">
-    <link resource="fracas" link_id="219" translation="yes" same_phenomena="unknown">
-    </link>
+  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  jsem_id="554" language="jp"
+  phenomena="adjective, intensional comparison class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      キムは有能な政治家だ。
-     </script>
-      <english>
-      Kim is a clever politician.
-     </english>
+      <script>ジョンは指揮者としては一流でない。</script>
     </p>
     <h>
-      <script>
-      キムは有能だ。
-     </script>
-      <english>
-      Kim is clever.
-     </english>
+      <script>ジョンは指揮者だ。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="563" answer="yes" language="jp" phenomena="adjective, degree modifier, partial predicate" inference_type="entailment">
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="555" language="jp"
+  phenomena="adjective, intensional comparison class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      このタオルは少しぬれている。
-     </script>
+      <script>ジョンは指揮者として一流だ。</script>
+    </p>
+    <p idx="2">
+      <script>ジョンはピアニストだ。</script>
     </p>
     <h>
-      <script>
-      このタオルはぬれている。
-     </script>
+      <script>ジョンはピアニストとして一流だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="556" language="jp"
+  phenomena="adjective, extensional comparison class">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>すべての法律の権威は法律学の講師だ。</script>
+    </p>
+    <p idx="2">
+      <script>すべての法律学の講師は法律の権威だ。</script>
+    </p>
+    <h>
+      <script>すべての太った法律の権威は太った法律学の講師だ。</script>
+    </h>
+    <note>Kamp (1975). Comment in fracas: Extensional comparison
+    class</note>
+  </problem>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="557" language="jp"
+  phenomena="adjective, intensional comparison class">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>すべての法律の権威は法律学の講師だ。</script>
+    </p>
+    <p idx="2">
+      <script>すべての法律学の講師は法律の権威だ。</script>
+    </p>
+    <h>
+      <script>すべての有能な法律の権威は有能な法律学の講師だ。</script>
+    </h>
+    <note>Kamp (1975). Comment in fracas: Intensional comparison
+    class</note>
+  </problem>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="558" language="jp"
+  phenomena="adjective, extensional comparison class">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>ジョンはビルより太った政治家だ。</script>
+    </p>
+    <h>
+      <script>ジョンはビルより太っている。</script>
+    </h>
+    <note>Comment in fracas: Extensional</note>
+  </problem>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="559" language="jp"
+  phenomena="adjective, intensional comparison class">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>ジョンはビルより有能な政治家だ。</script>
+    </p>
+    <h>
+      <script>ジョンはビルより有能だ。</script>
+    </h>
+    <note>Comment in fracas: Intensional</note>
+  </problem>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="560" language="jp"
+  phenomena="adjective, intensional comparison class">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>ジョンはビルより政治家としては有能だ。</script>
+    </p>
+    <h>
+      <script>ジョンはビルより有能だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="561" language="jp"
+  phenomena="adjective, default comparison class">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>キムは有能な人だ。</script>
+    </p>
+    <h>
+      <script>キムは有能だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="562" language="jp"
+  phenomena="adjective, default comparison class">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>キムは有能な政治家だ。</script>
+    </p>
+    <h>
+      <script>キムは有能だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="563" language="jp"
+  phenomena="adjective, degree modifier, partial predicate">
+    <link resource="fracas" />
+    <p idx="1">
+      <script>このタオルは少しぬれている。</script>
+    </p>
+    <h>
+      <script>このタオルはぬれている。</script>
     </h>
     <note>Yoon (1996), Rotstein and Winter (2004)</note>
   </problem>
-  <problem jsem_id="564" answer="no" language="jp" phenomena="adjective, degree modifier, total predicate" inference_type="entailment">
+  <problem answer="NO" inference_type="&quot;entailment&quot;"
+  jsem_id="564" language="jp"
+  phenomena="adjective, degree modifier, total predicate">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      このタオルはほぼ乾いている。
-     </script>
+      <script>このタオルはほぼ乾いている。</script>
     </p>
     <h>
-      <script>
-      このタオルは乾いている。
-     </script>
+      <script>このタオルは乾いている。</script>
     </h>
     <note>Yoon (1996), Rotstein and Winter (2004)</note>
   </problem>
-  <problem jsem_id="565" answer="yes" language="jp" phenomena="adjective, degree modifier, partial predicate" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="565" language="jp"
+  phenomena="adjective, degree modifier, partial predicate">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      あのドアは半分開いている。
-     </script>
+      <script>あのドアは半分開いている。</script>
     </p>
     <h>
-      <script>
-      あのドアは開いている。
-     </script>
+      <script>あのドアは開いている。</script>
     </h>
-    <note>PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter (2004)</note>
+    <note>PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter
+    (2004)</note>
   </problem>
-  <problem jsem_id="566" answer="no" language="jp" phenomena="adjective, degree modifier, total predicate" inference_type="entailment">
+  <problem answer="NO" inference_type="&quot;entailment&quot;"
+  jsem_id="566" language="jp"
+  phenomena="adjective, degree modifier, total predicate">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      あのドアは半分閉まっている。
-     </script>
+      <script>あのドアは半分閉まっている。</script>
     </p>
     <h>
-      <script>
-      あのドアは閉まっている。
-     </script>
+      <script>あのドアは閉まっている。</script>
     </h>
-    <note>PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter (2004)</note>
+    <note>PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter
+    (2004)</note>
   </problem>
-  <problem jsem_id="567" answer="yes" language="jp" phenomena="adjective, degree modifier, total predicate" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="567" language="jp"
+  phenomena="adjective, degree modifier, total predicate">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      あのドアは少し開いている。
-     </script>
+      <script>あのドアは少し開いている。</script>
     </p>
     <h>
-      <script>
-      あのドアは開いている。
-     </script>
+      <script>あのドアは開いている。</script>
     </h>
-    <note>PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter (2004)</note>
+    <note>PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter
+    (2004)</note>
   </problem>
-  <problem jsem_id="568" answer="no" language="jp" phenomena="adjective, degree modifier, total predicate" inference_type="entailment">
+  <problem answer="NO" inference_type="&quot;entailment&quot;"
+  jsem_id="568" language="jp"
+  phenomena="adjective, degree modifier, total predicate">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      あのドアはほぼ閉まっている。
-     </script>
+      <script>あのドアはほぼ閉まっている。</script>
     </p>
     <h>
-      <script>
-      あのドアは閉まっている。
-     </script>
+      <script>あのドアは閉まっている。</script>
     </h>
-    <note>PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter (2004)</note>
+    <note>PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter
+    (2004)</note>
   </problem>
-  <!--
-[Bibliography]
-
-Abe, Jun (1997) The locality of zibun and logophoricity. Technical report 08CE1001,Kanda University of International Studies, Japan.
-
-Abe, Jun and Hiroto Hoshi (1997) Gapping and P-Stranding. Journal of East Asian Linguistics Vol. 6, No. 1 (Jan., 1997), pp. 101-136, Springer.
-
-Ackema, Peter (2010) Gapping is always forward. In: Zwart, C. Jan-Wouter and Mark de Vries (eds.), Structure Preserved: Studies in syntax for Jan Koster. 2010. xxiii, 395 pp. (pp. 13–20)
-
-Fukaya, Teruhiko and Hajime Hoji (1999) "Stripping and Sluicing in Japanese and Some Implications." WCCFL18: 145-158.
-
-Fukaya, Teruhiko (2003) Island (In)sensitivity in Japanese Sluicing and Stripping and Some Implications, WCCFL 22, 2003.
-
-Hankamer, Jorge and Ivan Sag.(1976). Deep and Surface Anaphora.Linguistic Inquiry 7. 391-428.
-
-Hayashishita, J.-R. 2007. Izyoo(ni)- and gurai-comparatives: Comparison of deviation in Japanese. 言語研究 132: 77-109.
-
-Hoji, Hajime. (1990). Theories of Anaphora and Aspects of Japanese Syntax. Ms., USC.
-
-Hoji, Hajime (1997) "Sloppy Identity and Formal Dependency," in Proceedings of the 15th West Coast Conference on Formal Linguistics, Center for the Study of Language and Information, Stanford. pp. 209-223.
-
-Hoji, Hajime (2003) "Surface and Deep anaphora, Sloppy Identity, and Experiments in Syntax, " in Anaphora: A Reference Guide: 172-235. Blackwell Publishing Ltd.
-Houser, Michael J. (2010). The syntax and semantics of do so anaphora. Doctoral
-dissertation, University of California, Berkeley.
-
-Jackendoff, Ray. (1971). Gapping and related rules. Linguistic Inquiry 2: 21: 35.
-
-Jayaseelan, Karattuparambil A. (1990). Incomplete VP deletion and gapping. Linguistic Analysis 20: 64-81.
-
-Kameyama, Megumi (1984) Subjective/logophoric bound anaphor zibun. CLS 20,
-228-238.
-
-Kamp, Hans. (1975), Two theories about adjectives, in E. Keenan (ed.), Formal Semantics of Natural Language, Cambridge University Press. 123–155.
-
-Karttunen, Lauri (1970) The Logic of English Predicate Complement Constructions. The Indiana University Linguistics Club. Bloomington, Indiana.
-
-Kennedy, Chris and Louise McNally. (2005). Scale structure, degree modification, and the semantics of gradable predicates. Language 81(2): 345–381.
-
-Kubota, Yusuke. 2012. The Presuppositional Nature of izyoo(-ni) and gurai Comparatives: A Note on Hayashishita (2007). 言語研究 141: 33–46.
-
-Kuno, Susumu. (1976). Gapping: A functional analysis. Linguistic Inquiry 7: 300-318.
-
-MacCartney, Bill(2010) FraCAS textual inference teest suite. http://www-nlp.stanford.edu/~wcmac/downloads/fracas.xml
-
-Mukai, Emi. (2003). On verbless conjunction in Japanese. In Proceedings of NELS 33, ed. Makoto Kadowaki and Shigeto Kawahara, 205-224. University of Massachusetts, Amherst: GLSA Publications.
-
-Oshima, David Y. (2004) "Zibun revisited: Empathy, logophoricity, and binding", In: Sylwia Tur and Susannah Levi (eds.) Proceedings of the 20th Northwest Linguistic Conference, vol.23 of University of Washington Working Papers in Linguistics. pp.175-190.
-
-Rotstein, Carmen and Yoad Winter. (2004). Total adjectives vs. partial adjectives: Scale structure and higher-order modifiers. Natural Language Semantics 12(3): 259–288.
-
-Saito, Mamoru. (1987). Three notes on syntactic movement in Japanese. In Issues in Japanese linguistics, ed.Takasi Imai and Mamoru Saito, 301-350. Dordrecht: Kluwer.
-
-Terazu-Imanishi, Noriko. (1989). Some Nominal Anaphora in English and Japanese. Text - Interdisciplinary Journal for the Study of Discourse. doi:10.1515/text.1.1989.9.3.275
-
-井上和子 (1976) 『変形文法と日本語（上）』, 大修館書店.
-
-久野暲 (1973) 『日本文法研究』, 大修館書店.
-
-久野暲 (1978) 『談話の文法』, 大修館書店.(Kuno, Susumu (1978) Danwa no bunpoo [grammar of discourse]. Tokyo: Taishukan.)
-
-西尾寅弥／国立国語研究所『形容詞の意味・用法の記述的研究』秀英出版、1972年
-
--->
 </jsem-problems>

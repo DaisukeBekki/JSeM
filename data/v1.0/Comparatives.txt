@@ -1,75 +1,75 @@
-569			YES	"comparative"	"entailment"		PC-6082はITEL-XZより速い。	ITEL-XZは速い。	PC-6082は速い。
-570			UNKNOWN	"comparative"	"entailment"		PC-6082はITEL-XZより速い。	PC-6082は速い。
-571			UNKNOWN	"comparative"	"entailment"		PC-6082はITEL-XZより速い。	PC-6082は速い。	ITEL-XZは速い。
-572			NO	"comparative"	"entailment"		PC-6082はITEL-XZより速い。	PC-6082は遅い。	ITEL-XZは速い。
-573			YES	"comparative"	"entailment"	「AはBと同じくらい速い」だと「A(B)は速い」という含意が生じる。	PC-6082はITEL-XZと同じくらいの速さだ。	ITEL-XZは速い。	PC-6082は速い。
-574			UNKNOWN	"comparative"	"entailment"		PC-6082はITEL-XZと同じくらいの速さだ。	PC-6082は速い。
-575			UNKNOWN	"comparative"	"entailment"	「PC-6082の速さはITEL-XZと同じかそれ以上」という解釈を可能にするためには「少なくとも」が必要	PC-6082はITEL-XZと少なくとも同じくらいの速さだ。	PC-6082は速い。	ITEL-XZは速い。
-576			NO	"comparative"	"entailment"		PC-6082はITEL-XZと同じくらいの速さだ。	PC-6082は遅い。	ITEL-XZは速い。
-577			UNKNOWN	"comparative"	"entailment"		PC-6082はITEL-XZと同じくらいの速さだ。	PC-6082はITEL-XZより速い。
-578			NO	"comparative"	"entailment"	「PC-6082の速さはITEL-XZと同じかそれ以上」という解釈を可能にするためには「少なくとも」が必要	PC-6082はITEL-XZと少なくとも同じくらいの速さだ。	PC-6082はITEL-XZより遅い。
-579			YES	"comparative, quantifier"	"entailment"	やや不自然。「APCOMより」とするとfracas-233と同一になる。	ITELはAPCOMが獲得したより多くの注文を獲得した。	ITELは何件かの注文を獲得した。
-580			YES	"comparative, quantifier"	"entailment"	形式名詞「の」を挿入	ITELはAPCOMが獲得したのより多くの注文を獲得した。	ITELは何件かの注文を獲得した。
-581			UNKNOWN	"comparative, quantifier"	"entailment"		ITELはAPCOMが獲得したより多くの注文を獲得した。	APCOMは何件かの注文を獲得した。
-582			UNKNOWN	"comparative, quantifier"	"entailment"	形式名詞「の」を挿入	ITELはAPCOMが獲得したのより多くの注文を獲得した。	APCOMは何件かの注文を獲得した。
-583			YES	"comparative, quantifier"	"entailment"		ITELはAPCOMより多くの注文を獲得した。	APCOMは10件の注文を獲得した。	ITELは少なくとも11件の注文を獲得した。
-584			YES	"comparative, quantifier"	"entailment"		ITELはAPCOMが獲得したより多くの注文を獲得した。	APCOMは10件の注文を獲得した。	ITELは少なくとも11件の注文を獲得した。
-585			YES	"comparative, quantifier"	"entailment"	形式名詞「の」を挿入	ITELはAPCOMが獲得したのより多くの注文を獲得した。	APCOMは10件の注文を獲得した。	ITELは少なくとも11件の注文を獲得した。
-586			YES	"comparative, quantifier"	"entailment"		ITELはAPCOMより多くの注文を獲得した。	ITELは何件かの注文を獲得した。
-587			UNKNOWN	"comparative, quantifier"	"entailment"		ITELはAPCOMより多くの注文を獲得した。	APCOMは何件かの注文を獲得した。
-588			YES	"comparative, quantifier"	"entailment"		ITELはAPCOMより多くの注文を獲得した。	APCOMは10件の注文を獲得した。	ITELは少なくとも11件の注文を獲得した。
-589			YES	"comparative"	"entailment"	「APCOMの契約」は曖昧。  Comment in fracas:  Inferences (233)-(235) are similar to (230)-(232). Note however, that if  "APCOM" can be interpreted as referring to a particular order (e.g. "the APCOM  contract"), as it can in (233), the sentence ITEL won more orders than APCOM  is ambiguous between a reading like that in (230)-(232), and one where ITEL  won more than just the APCOM order ... see (236)	ITELはAPCOMの契約より多くの注文を獲得した。	ITELはAPCOMの契約を獲得した。
-590			YES	"comparative, quantifier"	"entailment"		ITELはAPCOMの2倍の注文を獲得した。	APCOMは10件の注文を獲得した。	ITELは20件の注文を獲得した。
-591			YES	"comparative, quantifier"	"entailment"		ITELはAPCOMが失ったよりも多くの注文を獲得した。	ITELは何件かの注文を獲得した。
-592			YES	"comparative, quantifier"	"entailment"		ITELはAPCOMが失った件数よりも多くの注文を獲得した。	ITELは何件かの注文を獲得した。
-593			YES	"comparative, quantifier"	"entailment"		ITELはAPCOMが失ったよりも多くの注文を獲得した。	APCOMは10件の注文を失った。	ITELは少なくとも11件の注文を獲得した。
-594			YES	"comparative, quantifier"	"entailment"		ITELはAPCOMが失った件数よりも多くの注文を獲得した。	APCOMは10件の注文を失った。	ITELは少なくとも11件の注文を獲得した。
-595			YES	"comparative, measure phrase"	"entailment"		PC-6082は500MIPSより速い。	ITEL-ZXは500MIPSより遅い。	PC-6082はITEL-ZXより速い。
-596			YES	"comparative, differential comparative, quantifier"	"entailment"		ITELはAPCOMより3000台多くのコンピュータを売った。	APCOMはちょうど2500台のコンピュータを売った。	ITELは5500台のコンピュータを売った。
-597			YES	"comparative, differential comparative, temporal adverb"	"entailment"		太郎は花子より30分早く帰宅した。	花子は6時ちょうどに帰宅した。	太郎は5時半に帰宅した。
-598			YES	"comparative, differential comparative, temporal adverb"	"entailment"		太郎は花子より1時間以上早く帰宅した。	花子は6時に帰宅した。	太郎は5時前に帰宅した。
-599			YES	"comparative, attributive comparative"	"entailment"	   P1は曖昧。Comment in fracas: Yes, on one reading of the premise. Note ungrammaticality of question in original source: subject/verb agreement.  	APCOMはITELより重要な顧客をかかえている。	APCOMはITELがかかえているより重要な顧客をかかえている。
-600			YES	"comparative, quantifier"	"entailment"		PC-6082はITELのすべてのコンピュータよりも速い。	ITEL-ZXはITELのコンピュータだ。	PC-6082はITEL-ZXより速い。
-601			UNKNOWN	"comparative, quantifier"	"entailment"		PC-6082はITELのあるコンピュータより速い。	ITEL-ZXはITELのコンピュータだ。	PC-6082はITEL-ZXより速い。
-602			YES	"comparative, quantifier"	"entailment"		PC-6082はITELのどのコンピュータよりも速い。	ITEL-ZXはITELのコンピュータだ。	PC-6082はITEL-ZXより速い。
-603			YES	"comparative, quantifier"	"entailment"		PC-6082はITEL-ZXとITEL-ZYより速い。	PC-6082はITEL-ZXより速い。
-604			UNKNOWN	"comparative, quantifier"	"entailment"	この文脈では「か」とorの用法は異なる。FraCaSでのanswerはyes。	PC-6082はITEL-ZXかITEL-ZYより速い。	PC-6082はITEL-ZXより速い。
-605			YES	"comparative, quantifier"	"entailment"		PC-6082はITEL-ZXやITEL-ZYより速い。	PC-6082はITEL-ZXより速い。
-606			YES	"comparative, absolute adjective"	"entailment"	Kennedy and MacNally (2005)	この棒はあの棒より曲がっている。	この棒は曲がっている。
-607			YES	"comparative, absolute adjective"	"entailment"	Kennedy and MacNally (2005)	この棒はあの棒より曲がっている。	あの棒は曲がっている。
-608			UNKNOWN	"comparative, absolute adjective"	"entailment"	Kennedy and MacNally (2005)	この棒はあの棒よりまっすぐだ。	この棒はまっすぐだ。
-609			NO	"comparative, absolute adjective"	"entailment"	Kennedy and MacNally (2005)	この棒はあの棒よりまっすぐだ。	あの棒はまっすぐだ。
-610			YES	"comparative"	"entailment"		太郎は花子より早起きだ。	花子は次郎より早起きだ。	太郎は次郎より早起きだ。
-611			NO	"comparative"	"entailment"		太郎は花子より早起きだ。	花子は次郎より早起きだ。	次郎は太郎より早起きだ。
-612			UNKNOWN	"comparative"	"entailment"		太郎は花子より早起きだ。	次郎は花子より早起きだ。	太郎は次郎より早起きだ。
-613			UNKNOWN	"comparative"	"entailment"		太郎は花子より早起きだ。	次郎は花子より早起きだ。	次郎は太郎より早起きだ。
-614			UNKNOWN	"comparative"	"entailment"		太郎は花子より早起きだ。	太郎は次郎より早起きだ。	花子は次郎より早起きだ。
-615			UNKNOWN	"comparative"	"entailment"		太郎は花子より早起きだ。	太郎は次郎より早起きだ。	次郎は花子より早起きだ。
-616			NO	"comparative"	"entailment"		太郎は花子より早起きだ。	花子は太郎より早起きだ。
-617			YES	"comparative"	"entailment"		太郎は花子より背が高い。	次郎は花子より背が低い。	太郎は次郎より背が高い。
-618			NO	"comparative"	"entailment"		太郎は花子と同じくらい背が高い。	次郎は太郎より背が高い。	三郎は花子より背が低い。	次郎は三郎より背が低い。
-619			YES	"comparative"	"entailment, presupposition"	Hayashishita (2007), Kubota (2012).「花子は早起きだ」というpresuppositionと「太郎は花子より早起きだ」というentailmentを組み合わせて生じる推論	太郎は花子以上に早起きだ。	太郎は早起きだ。
-620			YES	"comparative"	"presupposition"	Hayashishita (2007), Kubota (2012). 	太郎は花子以上に早起きだ。	花子は早起きだ。
-621			YES	"comparative, modal"	"presupposition"	 Kubota (2012). 	太郎は花子以上に早起きかもしれない。	花子は早起きだ。
-622			UNKNOWN	"comparative, modal"	"entailment"	 Kubota (2012)	太郎は花子以上に早起きかもしれない。	太郎は早起きだ。
-623			YES	"comparative"	"entailment"		太郎は花子以上に早起きだ。	太郎は花子より早起きだ。
-624			NO	"comparative, negation"	"entailment"		太郎は花子ほど裕福でない。	太郎は花子より裕福だ。
-625			YES	"comparative, negation"	"entailment"		太郎は花子ほど裕福でない。	花子は太郎より裕福だ。
-626			UNKNOWN	"comparative, negation"	"entailment"		太郎は花子ほどまじめな学生ではない。	太郎はまじめな学生だ。
-627			YES	"comparative, negation"	"presupposition"		太郎は花子ほどまじめな学生ではない。	花子はまじめな学生だ。
-628			UNKNOWN	"comparative, modal, negation"	"entailment"		太郎は花子ほどまじめな学生でないかもしれない。	太郎はまじめな学生だ。
-629			YES	"comparative, modal, negation"	"presupposition"		太郎は花子ほどまじめな学生でないかもしれない。	花子はまじめな学生だ。
-630			YES	"comparative"	"entailment, presupposition"	 Hayashishita (2007), Kubota (2012). PresuppositionとEntailmentによる推論	太郎は花子ぐらい背が高い。	太郎は背が高い。
-631			YES	"comparative"	"presupposition"	 Hayashishita (2007), Kubota (2012). 	太郎は花子ぐらい背が高い。	花子は背が高い。
-632			YES	"comparative, modal"	"presupposition"		太郎は花子ぐらい背が高いかもしれない。	花子は背が高い。
-633			UNKNOWN	"comparative, modal"	"entailment"		太郎は花子ぐらい背が高いかもしれない。	太郎は背が高い。
-634			UNKNOWN	"comparative"	"entailment"		太郎は花子に比べると背が高い。	太郎は背が高い。
-635			UNKNOWN	"comparative"	"entailment"		太郎は花子に比べると背が高い。	花子は背が高い。
-636			YES	"comparative"	"entailment"		太郎は花子が買った以上に高価な車を買った。	太郎は高価な車を買った。
-637			YES	"comparative"	"presupposition"		太郎は花子が買った以上に高価な車を買った。	花子は高価な車を買った。
-638			UNKNOWN	"comparative, modal"	"entailment"		太郎は花子が買った以上に高価な車を買ったかもしれない。	太郎は高価な車を買った。
-639			YES	"comparative, modal"	"presupposition"		太郎は花子が買った以上に高価な車を買ったかもしれない。	花子は高価な車を買った。
-640			YES	"comparative, superlative, quantifier"	"entailment"		太郎はこのクラスの他のどの学生よりも背が高い。	太郎はこのクラスの学生の中で一番背が高い。
-641			YES	"comparative, superlative, quantifier"	"entailment"		太郎はこのクラスの学生の中で一番背が高い。	太郎はこのクラスの他のどの学生よりも背が高い。
-642			YES	"comparative, superlative, quantifier, negation"	"entailment"		太郎はこのクラスの学生の中で一番背が高い。	このクラスに太郎ほど背が高い学生はいない。
-643			YES	"comparative, superlative, quantifier, negation"	"entailment"		このクラスに太郎ほど背が高い学生はいない。	太郎はこのクラスの学生の中で一番背が高い。
+569			YES	"comparative"	"entailment"		      PC-6082はITEL-XZより速い。     	      ITEL-XZは速い。     	      PC-6082は速い。     
+570			UNKNOWN	"comparative"	"entailment"		      PC-6082はITEL-XZより速い。     	      PC-6082は速い。     
+571			UNKNOWN	"comparative"	"entailment"		      PC-6082はITEL-XZより速い。     	      PC-6082は速い。     	      ITEL-XZは速い。     
+572			NO	"comparative"	"entailment"		      PC-6082はITEL-XZより速い。     	      PC-6082は遅い。     	      ITEL-XZは速い。     
+573			YES	"comparative"	"entailment"	「AはBと同じくらい速い」だと「A(B)は速い」という含意が生じる。	      PC-6082はITEL-XZと同じくらいの速さだ。     	      ITEL-XZは速い。     	      PC-6082は速い。     
+574			UNKNOWN	"comparative"	"entailment"		      PC-6082はITEL-XZと同じくらいの速さだ。     	      PC-6082は速い。     
+575			UNKNOWN	"comparative"	"entailment"	「PC-6082の速さはITEL-XZと同じかそれ以上」という解釈を可能にするためには「少なくとも」が必要	      PC-6082はITEL-XZと少なくとも同じくらいの速さだ。     	      PC-6082は速い。     	      ITEL-XZは速い。     
+576			NO	"comparative"	"entailment"		      PC-6082はITEL-XZと同じくらいの速さだ。     	      PC-6082は遅い。     	      ITEL-XZは速い。     
+577			UNKNOWN	"comparative"	"entailment"		      PC-6082はITEL-XZと同じくらいの速さだ。     	      PC-6082はITEL-XZより速い。     
+578			NO	"comparative"	"entailment"	「PC-6082の速さはITEL-XZと同じかそれ以上」という解釈を可能にするためには「少なくとも」が必要	      PC-6082はITEL-XZと少なくとも同じくらいの速さだ。     	      PC-6082はITEL-XZより遅い。     
+579			YES	"comparative, quantifier"	"entailment"	やや不自然。「APCOMより」とするとfracas-233と同一になる。	      ITELはAPCOMが獲得したより多くの注文を獲得した。     	      ITELは何件かの注文を獲得した。     
+580			YES	"comparative, quantifier"	"entailment"	形式名詞「の」を挿入	      ITELはAPCOMが獲得したのより多くの注文を獲得した。     	      ITELは何件かの注文を獲得した。     
+581			UNKNOWN	"comparative, quantifier"	"entailment"		      ITELはAPCOMが獲得したより多くの注文を獲得した。     	      APCOMは何件かの注文を獲得した。     
+582			UNKNOWN	"comparative, quantifier"	"entailment"	形式名詞「の」を挿入	      ITELはAPCOMが獲得したのより多くの注文を獲得した。     	      APCOMは何件かの注文を獲得した。     
+583			YES	"comparative, quantifier"	"entailment"		      ITELはAPCOMより多くの注文を獲得した。     	      APCOMは10件の注文を獲得した。     	      ITELは少なくとも11件の注文を獲得した。     
+584			YES	"comparative, quantifier"	"entailment"		      ITELはAPCOMが獲得したより多くの注文を獲得した。     	      APCOMは10件の注文を獲得した。     	      ITELは少なくとも11件の注文を獲得した。     
+585			YES	"comparative, quantifier"	"entailment"	形式名詞「の」を挿入	      ITELはAPCOMが獲得したのより多くの注文を獲得した。     	      APCOMは10件の注文を獲得した。     	      ITELは少なくとも11件の注文を獲得した。     
+586			YES	"comparative, quantifier"	"entailment"		      ITELはAPCOMより多くの注文を獲得した。     	      ITELは何件かの注文を獲得した。     
+587			UNKNOWN	"comparative, quantifier"	"entailment"		      ITELはAPCOMより多くの注文を獲得した。     	      APCOMは何件かの注文を獲得した。     
+588			YES	"comparative, quantifier"	"entailment"		      ITELはAPCOMより多くの注文を獲得した。     	      APCOMは10件の注文を獲得した。     	      ITELは少なくとも11件の注文を獲得した。     
+589			YES	"comparative"	"entailment"	「APCOMの契約」は曖昧。  Comment in fracas:  Inferences (233)-(235) are similar to (230)-(232). Note however, that if  "APCOM" can be interpreted as referring to a particular order (e.g. "the APCOM  contract"), as it can in (233), the sentence ITEL won more orders than APCOM  is ambiguous between a reading like that in (230)-(232), and one where ITEL  won more than just the APCOM order ... see (236)	      ITELはAPCOMの契約より多くの注文を獲得した。     	      ITELはAPCOMの契約を獲得した。     
+590			YES	"comparative, quantifier"	"entailment"		      ITELはAPCOMの2倍の注文を獲得した。     	      APCOMは10件の注文を獲得した。     	      ITELは20件の注文を獲得した。     
+591			YES	"comparative, quantifier"	"entailment"		      ITELはAPCOMが失ったよりも多くの注文を獲得した。     	      ITELは何件かの注文を獲得した。     
+592			YES	"comparative, quantifier"	"entailment"		      ITELはAPCOMが失った件数よりも多くの注文を獲得した。     	      ITELは何件かの注文を獲得した。     
+593			YES	"comparative, quantifier"	"entailment"		      ITELはAPCOMが失ったよりも多くの注文を獲得した。     	      APCOMは10件の注文を失った。     	      ITELは少なくとも11件の注文を獲得した。     
+594			YES	"comparative, quantifier"	"entailment"		      ITELはAPCOMが失った件数よりも多くの注文を獲得した。     	      APCOMは10件の注文を失った。     	      ITELは少なくとも11件の注文を獲得した。     
+595			YES	"comparative, measure phrase"	"entailment"		      PC-6082は500MIPSより速い。     	      ITEL-ZXは500MIPSより遅い。     	      PC-6082はITEL-ZXより速い。     
+596			YES	"comparative, differential comparative, quantifier"	"entailment"		      ITELはAPCOMより3000台多くのコンピュータを売った。     	      APCOMはちょうど2500台のコンピュータを売った。     	      ITELは5500台のコンピュータを売った。     
+597			YES	"comparative, differential comparative, temporal adverb"	"entailment"		      太郎は花子より30分早く帰宅した。     	      花子は6時ちょうどに帰宅した。     	      太郎は5時半に帰宅した。     
+598			YES	"comparative, differential comparative, temporal adverb"	"entailment"		      太郎は花子より1時間以上早く帰宅した。     	      花子は6時に帰宅した。     	      太郎は5時前に帰宅した。     
+599			YES	"comparative, attributive comparative"	"entailment"	   P1は曖昧。Comment in fracas: Yes, on one reading of the premise. Note ungrammaticality of question in original source: subject/verb agreement.  	      APCOMはITELより重要な顧客をかかえている。     	      APCOMはITELがかかえているより重要な顧客をかかえている。     
+600			YES	"comparative, quantifier"	"entailment"		      PC-6082はITELのすべてのコンピュータよりも速い。     	      ITEL-ZXはITELのコンピュータだ。     	      PC-6082はITEL-ZXより速い。     
+601			UNKNOWN	"comparative, quantifier"	"entailment"		      PC-6082はITELのあるコンピュータより速い。     	      ITEL-ZXはITELのコンピュータだ。     	      PC-6082はITEL-ZXより速い。     
+602			YES	"comparative, quantifier"	"entailment"		      PC-6082はITELのどのコンピュータよりも速い。     	      ITEL-ZXはITELのコンピュータだ。     	      PC-6082はITEL-ZXより速い。     
+603			YES	"comparative, quantifier"	"entailment"		      PC-6082はITEL-ZXとITEL-ZYより速い。     	      PC-6082はITEL-ZXより速い。     
+604			UNKNOWN	"comparative, quantifier"	"entailment"	この文脈では「か」とorの用法は異なる。FraCaSでのanswerはyes。	      PC-6082はITEL-ZXかITEL-ZYより速い。     	      PC-6082はITEL-ZXより速い。     
+605			YES	"comparative, quantifier"	"entailment"		      PC-6082はITEL-ZXやITEL-ZYより速い。     	      PC-6082はITEL-ZXより速い。     
+606			YES	"comparative, absolute adjective"	"entailment"	Kennedy and MacNally (2005)	      この棒はあの棒より曲がっている。     	      この棒は曲がっている。     
+607			YES	"comparative, absolute adjective"	"entailment"	Kennedy and MacNally (2005)	      この棒はあの棒より曲がっている。     	      あの棒は曲がっている。     
+608			UNKNOWN	"comparative, absolute adjective"	"entailment"	Kennedy and MacNally (2005)	      この棒はあの棒よりまっすぐだ。     	      この棒はまっすぐだ。     
+609			NO	"comparative, absolute adjective"	"entailment"	Kennedy and MacNally (2005)	      この棒はあの棒よりまっすぐだ。     	      あの棒はまっすぐだ。     
+610			YES	"comparative"	"entailment"		      太郎は花子より早起きだ。     	      花子は次郎より早起きだ。     	      太郎は次郎より早起きだ。     
+611			NO	"comparative"	"entailment"		      太郎は花子より早起きだ。     	      花子は次郎より早起きだ。     	      次郎は太郎より早起きだ。     
+612			UNKNOWN	"comparative"	"entailment"		      太郎は花子より早起きだ。     	      次郎は花子より早起きだ。     	      太郎は次郎より早起きだ。     
+613			UNKNOWN	"comparative"	"entailment"		      太郎は花子より早起きだ。     	      次郎は花子より早起きだ。     	      次郎は太郎より早起きだ。     
+614			UNKNOWN	"comparative"	"entailment"		      太郎は花子より早起きだ。     	      太郎は次郎より早起きだ。     	      花子は次郎より早起きだ。     
+615			UNKNOWN	"comparative"	"entailment"		      太郎は花子より早起きだ。     	      太郎は次郎より早起きだ。     	      次郎は花子より早起きだ。     
+616			NO	"comparative"	"entailment"		      太郎は花子より早起きだ。     	      花子は太郎より早起きだ。     
+617			YES	"comparative"	"entailment"		      太郎は花子より背が高い。     	      次郎は花子より背が低い。     	      太郎は次郎より背が高い。     
+618			NO	"comparative"	"entailment"		      太郎は花子と同じくらい背が高い。     	      次郎は太郎より背が高い。     	      三郎は花子より背が低い。     	      次郎は三郎より背が低い。     
+619			YES	"comparative"	"entailment, presupposition"	Hayashishita (2007), Kubota (2012).「花子は早起きだ」というpresuppositionと「太郎は花子より早起きだ」というentailmentを組み合わせて生じる推論	      太郎は花子以上に早起きだ。     	      太郎は早起きだ。     
+620			YES	"comparative"	"presupposition"	Hayashishita (2007), Kubota (2012). 	      太郎は花子以上に早起きだ。     	      花子は早起きだ。     
+621			YES	"comparative, modal"	"presupposition"	 Kubota (2012). 	      太郎は花子以上に早起きかもしれない。     	      花子は早起きだ。     
+622			UNKNOWN	"comparative, modal"	"entailment"	 Kubota (2012)	      太郎は花子以上に早起きかもしれない。     	      太郎は早起きだ。     
+623			YES	"comparative"	"entailment"		      太郎は花子以上に早起きだ。     	      太郎は花子より早起きだ。     
+624			NO	"comparative, negation"	"entailment"		      太郎は花子ほど裕福でない。     	      太郎は花子より裕福だ。     
+625			YES	"comparative, negation"	"entailment"		      太郎は花子ほど裕福でない。     	      花子は太郎より裕福だ。     
+626			UNKNOWN	"comparative, negation"	"entailment"		      太郎は花子ほどまじめな学生ではない。     	      太郎はまじめな学生だ。     
+627			YES	"comparative, negation"	"presupposition"		      太郎は花子ほどまじめな学生ではない。     	      花子はまじめな学生だ。     
+628			UNKNOWN	"comparative, modal, negation"	"entailment"		      太郎は花子ほどまじめな学生でないかもしれない。     	      太郎はまじめな学生だ。     
+629			YES	"comparative, modal, negation"	"presupposition"		      太郎は花子ほどまじめな学生でないかもしれない。     	      花子はまじめな学生だ。     
+630			YES	"comparative"	"entailment, presupposition"	 Hayashishita (2007), Kubota (2012). PresuppositionとEntailmentによる推論	      太郎は花子ぐらい背が高い。     	      太郎は背が高い。     
+631			YES	"comparative"	"presupposition"	 Hayashishita (2007), Kubota (2012). 	      太郎は花子ぐらい背が高い。     	      花子は背が高い。     
+632			YES	"comparative, modal"	"presupposition"		      太郎は花子ぐらい背が高いかもしれない。     	      花子は背が高い。     
+633			UNKNOWN	"comparative, modal"	"entailment"		      太郎は花子ぐらい背が高いかもしれない。     	      太郎は背が高い。     
+634			UNKNOWN	"comparative"	"entailment"		      太郎は花子に比べると背が高い。     	      太郎は背が高い。     
+635			UNKNOWN	"comparative"	"entailment"		      太郎は花子に比べると背が高い。     	      花子は背が高い。     
+636			YES	"comparative"	"entailment"		      太郎は花子が買った以上に高価な車を買った。     	      太郎は高価な車を買った。     
+637			YES	"comparative"	"presupposition"		      太郎は花子が買った以上に高価な車を買った。     	      花子は高価な車を買った。     
+638			UNKNOWN	"comparative, modal"	"entailment"		      太郎は花子が買った以上に高価な車を買ったかもしれない。     	      太郎は高価な車を買った。     
+639			YES	"comparative, modal"	"presupposition"		      太郎は花子が買った以上に高価な車を買ったかもしれない。     	      花子は高価な車を買った。     
+640			YES	"comparative, superlative, quantifier"	"entailment"		      太郎はこのクラスの他のどの学生よりも背が高い。     	      太郎はこのクラスの学生の中で一番背が高い。     
+641			YES	"comparative, superlative, quantifier"	"entailment"		      太郎はこのクラスの学生の中で一番背が高い。     	      太郎はこのクラスの他のどの学生よりも背が高い。     
+642			YES	"comparative, superlative, quantifier, negation"	"entailment"		      太郎はこのクラスの学生の中で一番背が高い。     	      このクラスに太郎ほど背が高い学生はいない。     
+643			YES	"comparative, superlative, quantifier, negation"	"entailment"		      このクラスに太郎ほど背が高い学生はいない。     	      太郎はこのクラスの学生の中で一番背が高い。     

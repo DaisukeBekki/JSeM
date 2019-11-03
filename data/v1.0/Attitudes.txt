@@ -1,60 +1,60 @@
-729			YES	"attitude, factive"	"presupposition"		スミスはITELが1992年に契約を結んだことを知っていた。	ITELは1992年に契約を結んだ。
-730			YES	"attitude, factive"	"presupposition"		スミスはITELが1992年に契約を結んだことを知らなかった。	ITELは1992年に契約を結んだ。
-731			YES	"attitude, factive"	"presupposition"		スミスはITELが1992年に契約を結んだのを知っていた。	ITELは1992年に契約を結んだ。
-732			YES	"attitude, factive"	"presupposition"		スミスはITELが1992年に契約を結んだのを知らなかった。	ITELは1992年に契約を結んだ。
-733			UNKNOWN	"attitude, factive"	"entailment"		スミスはITELが1992年に契約を結んだかどうかを知っていた。	ITELは1992年に契約を結んだ。
-734			YES	"attitude, factive, -to (complementizer)"	"presupposition"		スミスはITELが1992年に契約を結んだと知っていた。	ITELは1992年に契約を結んだ。
-735			YES	"attitude, factive, -toiukoto (complementizer)"	"presupposition"		スミスはITELが1992年に契約を結んだということを知っていた。	ITELは1992年に契約を結んだ。
-736			YES	"attitude, factive, -toiuno (complementizer)"	"presupposition"		スミスはITELが1992年に契約を結んだというのを知っていた。	ITELは1992年に契約を結んだ。
-737			YES	"attitude, factive, -koto (complementizer)"	"presupposition"		太郎は花子が高校を卒業したことを嬉しく思った。	花子は高校を卒業した。
-738			UNKNOWN	"attitude, non-factive"	"entailment"		スミスはITELが1992年に契約を結んだと信じていた。	ITELは1992年に契約を結んだ。
-739			UNKNOWN	"attitude, -toiukoto (complementizer)"	"entailment"		太郎は花子が犯人であるということを否定した。	花子は犯人である。
-740			UNKNOWN	"attitude, non-factive"	"entailment"	久野(1973) p.138, 井上(1976) p.254。「ト」しかとらない。	太郎は花子が一人っ子だと思った。	花子は一人っ子だ。
-741			YES	"attitude, factive, -koto (complementizer)"	"presupposition"	井上(1976) p.254。	太郎は花子が一人っ子であることを忘れていた。	花子は一人っ子である。
-742			YES	"attitude, factive, -no (complementizer)"	"presupposition"	井上(1976) p.254	太郎は花子が一人っ子であるのを忘れていた。	花子は一人っ子である。
-743			YES	"attitude, factive, -toiukoto (complementizer)"	"presupposition"		太郎は花子が一人っ子であるということを忘れていた。	花子は一人っ子である。
-744			YES	"attitude, factive, -koto (complementizer)"	"presupposition"	井上(1976) p.254。「水をやる」の主語が「太郎」であるとき成立。	太郎は花壇の花に水をやったことを忘れていた。	太郎は花壇の花に水をやった。
-745			YES	"attitude, factive, -no (complementizer)"	"presupposition"	井上(1976) p.254。「水をやる」の主語が「太郎」であるとき成立。	太郎は花壇の花に水をやったのを忘れていた。	太郎は花壇の花に水をやった。
-746			UNKNOWN	"attitude, -no (complementizer)"	"entailment"	「忘れる」は未完了時制をとると叙実述語ではなくなる。(井上(1976) p.254)	太郎は花壇の花に水をやるのを忘れていた。	太郎は花壇の花に水をやった。
-747			UNKNOWN	"attitude, non-factive, -to (complementizer)"	"entailment"	久野(1973) p.138, 井上(1976) p.254。「コト」をとると叙実述語、「ト」をとると非叙実述語になる。	太郎は花子ががさつであると嘆いた。	花子はがさつである。
-748			UNKNOWN	"attitude, non-factive, -toiukoto (complementizer)"	"entailment"	久野(1973) p.138, 井上(1976) p.254。「コト」をとると叙実述語、「ト」をとると非叙実述語になる。	太郎は花子ががさつであるということを嘆いた。	花子はがさつである。
-749			YES	"attitude, factive, -koto (complementizer)"	"presupposition"	久野(1973) p.138, 井上(1976) p.254。「コト」をとると叙実述語、「ト」をとると非叙実述語になる。	太郎は花子ががさつであることを嘆いた。	花子はがさつである。
-750			YES	"attitude, factive, -no (complementizer)"	"presupposition"	久野(1973) p.138, 井上(1976) p.254。「コト」をとると叙実述語、「ト」をとると非叙実述語になる。	太郎は花子ががさつであるのを嘆いた。	花子はがさつである。
-751			NO	"attitude, counter-factive"	"presupposition"	井上(1976) p.254。「ト」しかとらない。	学生達は試験が延期になったと思い違いした。	試験は延期になった。
-752			YES	"attitude, adverb"	"entailment"	元の現象はimplicative verbだが、対応する動詞なし。	ITELは1992年に契約をどうにか結んだ。	ITELは1992年に契約を結んだ。
-753			YES	"attitude, implicative verb"	"entailment"		山田氏はトマトから有効成分を抽出することに成功した。	山田氏はトマトから有効成分を抽出した。
-754			NO	"attitude, negative implicative"	"entailment"	fail toの和訳。	太郎は7時の電車に乗り損ねた。	太郎は7時の電車に乗った。
-755			YES	"attitude, negative implicative"	"entailment"	fail toの和訳。	太郎は今日は7時の電車に乗り損ねなかった。	太郎は今日は7時の電車に乗った。
-756			UNKNOWN	"attitude, non-factive"	"entailment"		ITELは1992年に契約を結ぼうと試みた。	ITELは1992年に契約を結んだ。
-757			YES	"attitude, implicative verb"	"entailment"		ITELが1992年に契約を結んだということは本当だ。	ITELは1992年に契約を結んだ。
-758			NO	"attitude, implicative verb"	"entailment"		ITELが1992年に契約を結んだということは嘘だ。	ITELは1992年に契約を結んだ。
-759			UNKNOWN	"attitude, perception verb"	"entailment"	P2が不自然。	スミスはジョーンズが契約書にサインするのを見た。	もしジョーンズが契約書にサインしたなら、彼の心臓は脈打っていた。	スミスはジョーンズの心臓が脈打つのを見た。
-760			UNKNOWN	"attitude, perception verb"	"entailment"		スミスはジョーンズが契約書にサインするのを見た。	ジョーンズが契約書にサインしたとき、彼の心臓は脈打っていた。	スミスはジョーンズの心臓が脈打つのを見た。
-761			YES	"attitude, perception verb, veridicality"	"entailment"		スミスはジョーンズが契約書にサインするのを見た。	ジョーンズは契約書にサインした。
-762			YES	"attitude, perception verb"	"entailment"	絶対テンス。	スミスはジョーンズが契約書にサインしたのを見た。	ジョーンズは契約書にサインした。
-763			YES	"attitude, perception verb, substitution"	"entailment"	       P2がequationになるかは議論がわかれるところだが、いずれにせよextensionalityを観察することは可能。    	スミスはジョーンズが契約書にサインするのを見た。	ジョーンズはITELの会長である。	スミスはITELの会長が契約書にサインするのを見た。
-764			YES	"attitude, perception verb, existential instantiation"	"entailment"		ヘレンは学科長が電話に出るのを見た。	学科長は人間である。	電話に出るのをヘレンが見た人間がいる。
-765			YES	"attitude, perception verb, existential instantiation"	"entailment"		ヘレンは学科長が電話に出るところを見た。	学科長は人間である。	電話に出るところをヘレンが見た人間がいる。
-766			YES	"attitude, perception verb, existential instantiation"	"entailment"		ヘレンは学科長が電話に出るところを見た。	学科長は人間である。	電話に出るところをヘレンに見られた人間がいる。
-767			YES	"attitude, perception verb, conjunction distribution"	"entailment"		スミスはジョーンズが契約書にサインし彼の秘書がコピーを作成するのを見た。	スミスはジョーンズが契約書にサインするのを見た。
-768			YES	"attitude, perception verb, disjunction distribution"	"entailment"		スミスはジョーンズが契約書にサインするか重大な条項を削除するのを見た。	スミスはジョーンズが契約書にサインするのを見たか、またはジョーンズが重大な条項を削除するのを見た。
-769			YES	"attitude, perception verb, -no (complementizer)"	"entailment"	久野(1973) p.140 	私は太郎がコンクールでピアノを弾くのを聞いた。	太郎はコンクールでピアノを弾いた。
-770			UNKNOWN	"attitude, -koto (complementizer)"	"entailment"	久野(1973) p.140	私は太郎がコンクールでピアノを弾くことを聞いた。	太郎はコンクールでピアノを弾いた。
-771			UNKNOWN	"attitude, -to (complementizer)"			私は太郎がコンクールでピアノを弾くと聞いた。	太郎はコンクールでピアノを弾いた。
-772			UNKNOWN	"attitude, -toiukoto (complementizer)"	"entailment"		私は太郎がコンクールでピアノを弾くということを聞いた。	太郎はコンクールでピアノを弾いた。
-773			UNKNOWN	"attitude, -toiuno (complementizer)"	"entailment"	P1がやや不自然。	私は太郎がコンクールでピアノを弾くというのを聞いた。	太郎はコンクールでピアノを弾いた。
-774			UNKNOWN	"attitude, -koto (complementizer)"	"entailment"	久野(1973) p.140, 井上(1976) p.255。内容節をとるが叙実性と無関係。	花子は太郎が次郎の結婚式に来ることを期待していた。	太郎は次郎の結婚式に来た。
-775			UNKNOWN	"attitude, -no (complementizer)"	"entailment"	久野(1973) p.140, 井上(1976) p.255。内容節をとるが叙実性と無関係。	太郎は花子が次郎の結婚式に来るのを期待していた。	太郎は次郎の結婚式に来た。
-776			UNKNOWN	"attitude, -to (complementizer)"	"entailment"	久野(1973) p.140, 井上(1976) p.255。内容節をとるが叙実性と無関係。	花子は太郎が次郎の結婚式に来ると期待していた。	太郎は次郎の結婚式に来た。
-777			YES	"attitude, -to (complementizer)"	"entailment"		太郎は花子が犯人であると疑っている。	太郎は花子が犯人であると思っている。
-778			YES	"attitude, -to (complementizer)"	"entailment"		太郎は花子が犯人ではないかと疑っている。	太郎は花子が犯人であると思っている。
-779			UNKNOWN	"attitude, -to (complementizer)"	"entailment"		太郎は花子が犯人であると疑っている。	花子は犯人である。
-780			YES	"attitude, -koto (complementizer)"	"entailment"		太郎は花子が犯人であることを疑っている。	太郎は花子が犯人でないと思っている。
-781			YES	"attitude, if-predicate, -koto (complementizer)"	"entailment"	井上(1976) p.253	太郎が昨日花子に会ったことはたしかだ。	太郎は昨日花子に会った。
-782			YES	"attitude, if-predicate, -no (complementizer)"	"entailment"	井上(1976) p.253	太郎が昨日花子に会ったのはたしかだ。	太郎は昨日花子に会った。
-783			YES	"attitude, if-predicate, -toiukoto (complementizer)"	"entailment"		太郎が昨日花子に会ったということはたしかだ。	太郎は昨日花子に会った。
-784			YES	"attitude, if-predicate, -toiuno (complementizer)"	"entailment"		太郎が昨日花子に会ったというのはたしかだ。	太郎は昨日花子に会った。
-785			NO	"attitude, only-if-predicate, -koto (complementizer)"	"entailment"	井上(1976) p.253	太郎が犯人であることは有り得ない。	太郎は犯人である。
-786			NO	"attitude, only-if-predicate, -toiukoto (complementizer)"	"entailment"		太郎が犯人であるということは有り得ない。	太郎は犯人である。
-787			UNKNOWN	"attitude, only-if-predicate"	"entailment"	井上(1976) p.253	太郎が犯人であることが有り得る。	太郎は犯人である。
-788			UNKNOWN	"attitude, only-if-predicate, -toiukoto (complementizer)"	"entailment"		太郎が犯人であるということが有り得る。	太郎は犯人である。
+729			YES	"attitude, factive"	"presupposition"			スミスはITELが1992年に契約を結んだことを知っていた。      		ITELは1992年に契約を結んだ。      
+730			YES	"attitude, factive"	"presupposition"		      スミスはITELが1992年に契約を結んだことを知らなかった。    	      ITELは1992年に契約を結んだ。    
+731			YES	"attitude, factive"	"presupposition"		      スミスはITELが1992年に契約を結んだのを知っていた。    	      ITELは1992年に契約を結んだ。    
+732			YES	"attitude, factive"	"presupposition"			スミスはITELが1992年に契約を結んだのを知らなかった。      		ITELは1992年に契約を結んだ。      
+733			UNKNOWN	"attitude, factive"	"entailment"			スミスはITELが1992年に契約を結んだかどうかを知っていた。      		ITELは1992年に契約を結んだ。      
+734			YES	"attitude, factive, -to (complementizer)"	"presupposition"			スミスはITELが1992年に契約を結んだと知っていた。      	        ITELは1992年に契約を結んだ。      
+735			YES	"attitude, factive, -toiukoto (complementizer)"	"presupposition"		        スミスはITELが1992年に契約を結んだということを知っていた。      		ITELは1992年に契約を結んだ。      
+736			YES	"attitude, factive, -toiuno (complementizer)"	"presupposition"		        スミスはITELが1992年に契約を結んだというのを知っていた。    	       ITELは1992年に契約を結んだ。    
+737			YES	"attitude, factive, -koto (complementizer)"	"presupposition"		       太郎は花子が高校を卒業したことを嬉しく思った。    	        花子は高校を卒業した。    
+738			UNKNOWN	"attitude, non-factive"	"entailment"			スミスはITELが1992年に契約を結んだと信じていた。      		ITELは1992年に契約を結んだ。      
+739			UNKNOWN	"attitude, -toiukoto (complementizer)"	"entailment"		       太郎は花子が犯人であるということを否定した。    	      花子は犯人である。    
+740			UNKNOWN	"attitude, non-factive"	"entailment"	久野(1973) p.138, 井上(1976) p.254。「ト」しかとらない。	       太郎は花子が一人っ子だと思った。    	       花子は一人っ子だ。    
+741			YES	"attitude, factive, -koto (complementizer)"	"presupposition"	井上(1976) p.254。	       太郎は花子が一人っ子であることを忘れていた。    	       花子は一人っ子である。    
+742			YES	"attitude, factive, -no (complementizer)"	"presupposition"	井上(1976) p.254	       太郎は花子が一人っ子であるのを忘れていた。    	       花子は一人っ子である。    
+743			YES	"attitude, factive, -toiukoto (complementizer)"	"presupposition"		      太郎は花子が一人っ子であるということを忘れていた。    	       花子は一人っ子である。    
+744			YES	"attitude, factive, -koto (complementizer)"	"presupposition"	井上(1976) p.254。「水をやる」の主語が「太郎」であるとき成立。	       太郎は花壇の花に水をやったことを忘れていた。    	       太郎は花壇の花に水をやった。    
+745			YES	"attitude, factive, -no (complementizer)"	"presupposition"	井上(1976) p.254。「水をやる」の主語が「太郎」であるとき成立。	       太郎は花壇の花に水をやったのを忘れていた。    	       太郎は花壇の花に水をやった。    
+746			UNKNOWN	"attitude, -no (complementizer)"	"entailment"	「忘れる」は未完了時制をとると叙実述語ではなくなる。(井上(1976) p.254)	      太郎は花壇の花に水をやるのを忘れていた。    	      太郎は花壇の花に水をやった。    
+747			UNKNOWN	"attitude, non-factive, -to (complementizer)"	"entailment"	久野(1973) p.138, 井上(1976) p.254。「コト」をとると叙実述語、「ト」をとると非叙実述語になる。	      太郎は花子ががさつであると嘆いた。    	      花子はがさつである。    
+748			UNKNOWN	"attitude, non-factive, -toiukoto (complementizer)"	"entailment"	久野(1973) p.138, 井上(1976) p.254。「コト」をとると叙実述語、「ト」をとると非叙実述語になる。	      太郎は花子ががさつであるということを嘆いた。    	      花子はがさつである。    
+749			YES	"attitude, factive, -koto (complementizer)"	"presupposition"	久野(1973) p.138, 井上(1976) p.254。「コト」をとると叙実述語、「ト」をとると非叙実述語になる。	      太郎は花子ががさつであることを嘆いた。    	       花子はがさつである。    
+750			YES	"attitude, factive, -no (complementizer)"	"presupposition"	久野(1973) p.138, 井上(1976) p.254。「コト」をとると叙実述語、「ト」をとると非叙実述語になる。	       太郎は花子ががさつであるのを嘆いた。    	       花子はがさつである。    
+751			NO	"attitude, counter-factive"	"presupposition"	井上(1976) p.254。「ト」しかとらない。	       学生達は試験が延期になったと思い違いした。    	      試験は延期になった。    
+752			YES	"attitude, adverb"	"entailment"	元の現象はimplicative verbだが、対応する動詞なし。		ITELは1992年に契約をどうにか結んだ。      		ITELは1992年に契約を結んだ。      
+753			YES	"attitude, implicative verb"	"entailment"		      山田氏はトマトから有効成分を抽出することに成功した。    	      山田氏はトマトから有効成分を抽出した。    
+754			NO	"attitude, negative implicative"	"entailment"	fail toの和訳。	      太郎は7時の電車に乗り損ねた。    	      太郎は7時の電車に乗った。    
+755			YES	"attitude, negative implicative"	"entailment"	fail toの和訳。	      太郎は今日は7時の電車に乗り損ねなかった。    	      太郎は今日は7時の電車に乗った。    
+756			UNKNOWN	"attitude, non-factive"	"entailment"			ITELは1992年に契約を結ぼうと試みた。      		ITELは1992年に契約を結んだ。      
+757			YES	"attitude, implicative verb"	"entailment"			ITELが1992年に契約を結んだということは本当だ。      		ITELは1992年に契約を結んだ。      
+758			NO	"attitude, implicative verb"	"entailment"			ITELが1992年に契約を結んだということは嘘だ。      		ITELは1992年に契約を結んだ。      
+759			UNKNOWN	"attitude, perception verb"	"entailment"	P2が不自然。		スミスはジョーンズが契約書にサインするのを見た。      		もしジョーンズが契約書にサインしたなら、彼の心臓は脈打っていた。      		スミスはジョーンズの心臓が脈打つのを見た。      
+760			UNKNOWN	"attitude, perception verb"	"entailment"			スミスはジョーンズが契約書にサインするのを見た。      			ジョーンズが契約書にサインしたとき、彼の心臓は脈打っていた。      			スミスはジョーンズの心臓が脈打つのを見た。      
+761			YES	"attitude, perception verb, veridicality"	"entailment"				スミスはジョーンズが契約書にサインするのを見た。      			ジョーンズは契約書にサインした。      
+762			YES	"attitude, perception verb"	"entailment"	絶対テンス。	            スミスはジョーンズが契約書にサインしたのを見た。    	            ジョーンズは契約書にサインした。    
+763			YES	"attitude, perception verb, substitution"	"entailment"	       P2がequationになるかは議論がわかれるところだが、いずれにせよextensionalityを観察することは可能。    		スミスはジョーンズが契約書にサインするのを見た。      		ジョーンズはITELの会長である。      		スミスはITELの会長が契約書にサインするのを見た。      
+764			YES	"attitude, perception verb, existential instantiation"	"entailment"			ヘレンは学科長が電話に出るのを見た。      			学科長は人間である。      			電話に出るのをヘレンが見た人間がいる。      
+765			YES	"attitude, perception verb, existential instantiation"	"entailment"				ヘレンは学科長が電話に出るところを見た。      			学科長は人間である。      			電話に出るところをヘレンが見た人間がいる。      
+766			YES	"attitude, perception verb, existential instantiation"	"entailment"				ヘレンは学科長が電話に出るところを見た。      			学科長は人間である。      			電話に出るところをヘレンに見られた人間がいる。      
+767			YES	"attitude, perception verb, conjunction distribution"	"entailment"				スミスはジョーンズが契約書にサインし彼の秘書がコピーを作成するのを見た。      			スミスはジョーンズが契約書にサインするのを見た。      
+768			YES	"attitude, perception verb, disjunction distribution"	"entailment"				スミスはジョーンズが契約書にサインするか重大な条項を削除するのを見た。      			スミスはジョーンズが契約書にサインするのを見たか、またはジョーンズが重大な条項を削除するのを見た。      
+769			YES	"attitude, perception verb, -no (complementizer)"	"entailment"	久野(1973) p.140 	            私は太郎がコンクールでピアノを弾くのを聞いた。    	            太郎はコンクールでピアノを弾いた。    
+770			UNKNOWN	"attitude, -koto (complementizer)"	"entailment"	久野(1973) p.140	            私は太郎がコンクールでピアノを弾くことを聞いた。    	            太郎はコンクールでピアノを弾いた。    
+771			UNKNOWN	"attitude, -to (complementizer)"			            私は太郎がコンクールでピアノを弾くと聞いた。    	            太郎はコンクールでピアノを弾いた。    
+772			UNKNOWN	"attitude, -toiukoto (complementizer)"	"entailment"		            私は太郎がコンクールでピアノを弾くということを聞いた。    	            太郎はコンクールでピアノを弾いた。    
+773			UNKNOWN	"attitude, -toiuno (complementizer)"	"entailment"	P1がやや不自然。	            私は太郎がコンクールでピアノを弾くというのを聞いた。    	            太郎はコンクールでピアノを弾いた。    
+774			UNKNOWN	"attitude, -koto (complementizer)"	"entailment"	久野(1973) p.140, 井上(1976) p.255。内容節をとるが叙実性と無関係。	            花子は太郎が次郎の結婚式に来ることを期待していた。    	            太郎は次郎の結婚式に来た。    
+775			UNKNOWN	"attitude, -no (complementizer)"	"entailment"	久野(1973) p.140, 井上(1976) p.255。内容節をとるが叙実性と無関係。	            太郎は花子が次郎の結婚式に来るのを期待していた。    	            太郎は次郎の結婚式に来た。    
+776			UNKNOWN	"attitude, -to (complementizer)"	"entailment"	久野(1973) p.140, 井上(1976) p.255。内容節をとるが叙実性と無関係。	            花子は太郎が次郎の結婚式に来ると期待していた。    	            太郎は次郎の結婚式に来た。    
+777			YES	"attitude, -to (complementizer)"	"entailment"		            太郎は花子が犯人であると疑っている。    	      太郎は花子が犯人であると思っている。    
+778			YES	"attitude, -to (complementizer)"	"entailment"		      太郎は花子が犯人ではないかと疑っている。    	      太郎は花子が犯人であると思っている。    
+779			UNKNOWN	"attitude, -to (complementizer)"	"entailment"		      太郎は花子が犯人であると疑っている。    	      花子は犯人である。    
+780			YES	"attitude, -koto (complementizer)"	"entailment"		      太郎は花子が犯人であることを疑っている。    	      太郎は花子が犯人でないと思っている。    
+781			YES	"attitude, if-predicate, -koto (complementizer)"	"entailment"	井上(1976) p.253	      太郎が昨日花子に会ったことはたしかだ。    	      太郎は昨日花子に会った。    
+782			YES	"attitude, if-predicate, -no (complementizer)"	"entailment"	井上(1976) p.253	      太郎が昨日花子に会ったのはたしかだ。    	      太郎は昨日花子に会った。    
+783			YES	"attitude, if-predicate, -toiukoto (complementizer)"	"entailment"		      太郎が昨日花子に会ったということはたしかだ。    	      太郎は昨日花子に会った。    
+784			YES	"attitude, if-predicate, -toiuno (complementizer)"	"entailment"		      太郎が昨日花子に会ったというのはたしかだ。    	      太郎は昨日花子に会った。    
+785			NO	"attitude, only-if-predicate, -koto (complementizer)"	"entailment"	井上(1976) p.253	      太郎が犯人であることは有り得ない。    	      太郎は犯人である。    
+786			NO	"attitude, only-if-predicate, -toiukoto (complementizer)"	"entailment"		      太郎が犯人であるということは有り得ない。    	      太郎は犯人である。    
+787			UNKNOWN	"attitude, only-if-predicate"	"entailment"	井上(1976) p.253	      太郎が犯人であることが有り得る。    	      太郎は犯人である。    
+788			UNKNOWN	"attitude, only-if-predicate, -toiukoto (complementizer)"	"entailment"		            太郎が犯人であるということが有り得る。    	            太郎は犯人である。    

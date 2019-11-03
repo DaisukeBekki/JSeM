@@ -1,580 +1,394 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE jsem-problems SYSTEM "jsem.dtd">
 <?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
 <jsem-problems>
-  <comment>  Japanese Semantics Test Suite (Beta version, last modified on May 30, 2015) created by Ai Kawazoe, Ribeka Tanaka, Koji Mineshima and Daisuke Bekki, 2015. </comment>
-  <comment> The format of this file is based on those of FraCaS textual inference problem set by Bill MacCartney and MutiFraCaS sets by Robin Cooper. </comment>
-  <comment> This Beta version contains textual inference tests involving verbs, which corresponds to the Verb section in FraCaS test suite (Cooper et al.1996). Note that not all of the tests are literal translation of FraCaS. We created original Japanese data for some FraCas tests which cannot be translated into natural Japanese sentences. One or more tests are linked to a FraCaS entry when necessary. </comment>
-  <problem jsem_id="693" answer="yes" language="jp" phenomena="verb, aspectual class" inference_type="entailment">
-    <link resource="fracas" link_id="326" translation="no" same_phenomena="unknown">
-    </link>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="694" language="jp" phenomena="verb, aspectual class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      ITELは1993年にMTALKを作った。
-     </script>
-      <english>
-      ITEL built MTALK in 1993.
-     </english>
+      <script>ITELは1993年にMTALKを作っていた。</script>
     </p>
     <h>
-      <script>
-      ITELは1993年にMTALKを作り終えた。
-     </script>
-      <english>
-      ITEL finished MTALK in 1993.
-     </english>
+      <script>ITELは1993年にMTALKを作り終えた。</script>
     </h>
+    <note>P1のアスペクト表現「ていた」は進行と結果残存の意味で曖昧。</note>
   </problem>
-  <problem jsem_id="694" answer="unknown" language="jp" phenomena="verb, aspectual class" inference_type="entailment">
-    <link resource="fracas" link_id="327" translation="no" same_phenomena="unknown">
-    </link>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="695" language="jp" phenomena="verb, aspectual class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      ITELは1993年にMTALKを作っていた。
-     </script>
-      <english>
-      ITEL was building MTALK in 1993.
-     </english>
+      <script>ITELは1993年にMTALKを作っている最中だった。</script>
     </p>
     <h>
-      <script>
-      ITELは1993年にMTALKを作り終えた。
-     </script>
-      <english>
-      ITEL finished MTALK in 1993.
-     </english>
+      <script>ITELは1993年にMTALKを作り終えた。</script>
     </h>
-    <note>P1のアスペクト表現「ていた」は進行と結果残存の意味で曖昧。 
-</note>
+    <note></note>
   </problem>
-  <problem jsem_id="695" answer="unknown" language="jp" phenomena="verb, aspectual class" inference_type="entailment">
-    <link resource="fracas" link_id="327" translation="yes" same_phenomena="unknown">
-    </link>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="696" language="jp"
+  phenomena="verb, aspectual class, adverb">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      ITELは1993年にMTALKを作っている最中だった。
-     </script>
-      <english>
-      ITEL was building MTALK in 1993.
-     </english>
+      <script>ITELは1993年にAPCOMから契約を勝ち取った。</script>
     </p>
     <h>
-      <script>
-      ITELは1993年にMTALKを作り終えた。
-     </script>
-      <english>
-      ITEL finished MTALK in 1993.
-     </english>
+      <script>ITELは1993年に契約を勝ち取った。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="696" answer="yes" language="jp" phenomena="verb, aspectual class, adverb" inference_type="entailment">
-    <link resource="fracas" link_id="328" translation="yes" same_phenomena="yes">
-    </link>
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="697" language="jp" phenomena="verb, aspectual class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      ITELは1993年にAPCOMから契約を勝ち取った。
-     </script>
-      <english>
-      ITEL won the contract from APCOM in 1993.
-     </english>
+      <script>ITELは1993年にAPCOMから契約を勝ち取りつつあった。</script>
     </p>
     <h>
-      <script>
-      ITELは1993年に契約を勝ち取った。
-     </script>
-      <english>
-      ITEL won a contract in 1993.
-     </english>
+      <script>ITELは1993年に契約を勝ち取った。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="697" answer="unknown" language="jp" phenomena="verb, aspectual class" inference_type="entailment">
-    <link resource="fracas" link_id="329" translation="yes" same_phenomena="unknown">
-    </link>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="698" language="jp" phenomena="verb, aspectual class">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      ITELは1993年にAPCOMから契約を勝ち取りつつあった。
-     </script>
-      <english>
-      ITEL was winning the contract from APCOM in 1993.
-     </english>
+      <script>ITELは1988年から1992年までAPCOMを所有していた。</script>
     </p>
     <h>
-      <script>
-      ITELは1993年に契約を勝ち取った。
-     </script>
-      <english>
-      ITEL won a contract in 1993.
-     </english>
+      <script>ITELは1990年にAPCOMを所有していた。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="698" answer="yes" language="jp" phenomena="verb, aspectual class" inference_type="entailment">
-    <link resource="fracas" link_id="330" translation="yes" same_phenomena="yes">
-    </link>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="699" language="jp"
+  phenomena="verb, distributive predication">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      ITELは1988年から1992年までAPCOMを所有していた。
-     </script>
-      <english>
-      ITEL owned APCOM from 1988 to 1992.
-     </english>
+      <script>スミスとジョーンズが打ち合わせを離れた。</script>
     </p>
     <h>
-      <script>
-      ITELは1990年にAPCOMを所有していた。
-     </script>
-      <english>
-      ITEL owned APCOM in 1990.
-     </english>
+      <script>スミスが打ち合わせを離れた。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="699" answer="yes" language="jp" phenomena="verb, distributive predication" inference_type="entailment">
-    <link resource="fracas" link_id="331" translation="yes" same_phenomena="yes">
-    </link>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="700" language="jp"
+  phenomena="verb, distributive predication">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      スミスとジョーンズが打ち合わせを離れた。
-     </script>
-      <english>
-      Smith and Jones left the meeting.
-     </english>
+      <script>スミスとジョーンズが打ち合わせを離れた。</script>
     </p>
     <h>
-      <script>
-      スミスが打ち合わせを離れた。
-     </script>
-      <english>
-      Smith left the meeting.
-     </english>
+      <script>ジョーンズが打ち合わせを離れた。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="700" answer="yes" language="jp" phenomena="verb, distributive predication" inference_type="entailment">
-    <link resource="fracas" link_id="332" translation="yes" same_phenomena="yes">
-    </link>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="701" language="jp"
+  phenomena="verb, collective predication">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      スミスとジョーンズが打ち合わせを離れた。
-     </script>
-      <english>
-      Smith and Jones left the meeting.
-     </english>
+      <script>スミスとアンダーソンとジョーンズが面会をした。</script>
     </p>
     <h>
-      <script>
-      ジョーンズが打ち合わせを離れた。
-     </script>
-      <english>
-      Jones left the meeting.
-     </english>
+      <script>面会をしたグループがあった。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="701" answer="yes" language="jp" phenomena="verb, collective predication" inference_type="entailment">
-    <link resource="fracas" link_id="333" translation="yes" same_phenomena="yes">
-    </link>
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="702" language="jp" phenomena="verb, adverb">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      スミスとアンダーソンとジョーンズが面会をした。
-     </script>
-      <english>
-      Smith, Anderson and Jones met.
-     </english>
+      <script>花子が学校までゆっくり歩いた。</script>
     </p>
     <h>
-      <script>
-      面会をしたグループがあった。
-     </script>
-      <english>
-      There was a group of people that met.
-     </english>
+      <script>花子がゆっくり歩いた。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="702" answer="yes" language="jp" phenomena="verb, adverb" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="703" language="jp" phenomena="verb, adverb">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      花子が学校までゆっくり歩いた。
-     </script>
+      <script>花子が学校までゆっくり歩いた。</script>
     </p>
     <h>
-      <script>
-      花子がゆっくり歩いた。
-     </script>
+      <script>花子が学校まで歩いた。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="703" answer="yes" language="jp" phenomena="verb, adverb" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="704" language="jp" phenomena="verb, adverb">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      花子が学校までゆっくり歩いた。
-     </script>
+      <script>花子が学校までゆっくり歩いた。</script>
     </p>
     <h>
-      <script>
-      花子が学校まで歩いた。
-     </script>
+      <script>花子が歩いた。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="704" answer="yes" language="jp" phenomena="verb, adverb" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="705" language="jp" phenomena="verb, adverb">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      花子が学校までゆっくり歩いた。
-     </script>
+      <script>花子が学校までゆっくり歩いた。</script>
     </p>
     <h>
-      <script>
-      花子が歩いた。
-     </script>
+      <script>花子がゆっくり学校まで歩いた。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="705" answer="yes" language="jp" phenomena="verb, adverb" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="706" language="jp" phenomena="verb, adverb">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      花子が学校までゆっくり歩いた。
-     </script>
+      <script>花子がゆっくり学校まで歩いた。</script>
     </p>
     <h>
-      <script>
-      花子がゆっくり学校まで歩いた。
-     </script>
+      <script>花子が学校までゆっくり歩いた。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="706" answer="yes" language="jp" phenomena="verb, adverb" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="707" language="jp" phenomena="verb, passive">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      花子がゆっくり学校まで歩いた。
-     </script>
+      <script>太郎が花子を叱った。</script>
     </p>
     <h>
-      <script>
-      花子が学校までゆっくり歩いた。
-     </script>
+      <script>花子が叱られた。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="707" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="708" language="jp" phenomena="verb, passive">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      太郎が花子を叱った。
-     </script>
+      <script>太郎が花子を叱った。</script>
     </p>
     <h>
-      <script>
-      花子が叱られた。
-     </script>
+      <script>太郎が叱られた。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="708" answer="unknown" language="jp" phenomena="verb, passive" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="709" language="jp" phenomena="verb, passive">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      太郎が花子を叱った。
-     </script>
+      <script>山田先生が青木さんを叱った。</script>
     </p>
     <h>
-      <script>
-      太郎が叱られた。
-     </script>
+      <script>青木さんが山田先生に叱られた。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="709" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="710" language="jp" phenomena="verb, passive">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      山田先生が青木さんを叱った。
-     </script>
+      <script>太郎が花子を叱った。</script>
     </p>
     <h>
-      <script>
-      青木さんが山田先生に叱られた。
-     </script>
+      <script>太郎が花子に叱られた。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="710" answer="unknown" language="jp" phenomena="verb, passive" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="711" language="jp" phenomena="verb, passive">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      太郎が花子を叱った。
-     </script>
+      <script>青木さんが山田先生に叱られた。</script>
     </p>
     <h>
-      <script>
-      太郎が花子に叱られた。
-     </script>
+      <script>山田先生が青木さんを叱った。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="711" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="712" language="jp" phenomena="verb, passive">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      青木さんが山田先生に叱られた。
-     </script>
+      <script>花子が太郎に叱られた。</script>
     </p>
     <h>
-      <script>
-      山田先生が青木さんを叱った。
-     </script>
+      <script>花子が太郎を叱った。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="712" answer="unknown" language="jp" phenomena="verb, passive" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="713" language="jp" phenomena="verb, passive">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      花子が太郎に叱られた。
-     </script>
+      <script>花子が自転車を盗まれた。</script>
     </p>
     <h>
-      <script>
-      花子が太郎を叱った。
-     </script>
+      <script>誰かが花子の自転車を盗んだ。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="713" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="714" language="jp" phenomena="verb, passive">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      花子が自転車を盗まれた。
-     </script>
+      <script>誰かが花子の自転車を盗んだ。</script>
     </p>
     <h>
-      <script>
-      誰かが花子の自転車を盗んだ。
-     </script>
+      <script>花子が自転車を盗まれた。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="714" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="715" language="jp" phenomena="verb, passive">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      誰かが花子の自転車を盗んだ。
-     </script>
+      <script>太郎が泥棒に財布を盗まれた。</script>
     </p>
     <h>
-      <script>
-      花子が自転車を盗まれた。
-     </script>
+      <script>泥棒が太郎の財布を盗んだ。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="715" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="716" language="jp" phenomena="verb, passive">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      太郎が泥棒に財布を盗まれた。
-     </script>
+      <script>泥棒が太郎の財布を盗んだ。</script>
     </p>
     <h>
-      <script>
-      泥棒が太郎の財布を盗んだ。
-     </script>
+      <script>太郎が泥棒に財布を盗まれた。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="716" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="717" language="jp" phenomena="verb, passive">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      泥棒が太郎の財布を盗んだ。
-     </script>
+      <script>太郎は次郎から花子を紹介された。</script>
     </p>
     <h>
-      <script>
-      太郎が泥棒に財布を盗まれた。
-     </script>
+      <script>次郎が花子を太郎に紹介した。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="717" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="718" language="jp" phenomena="verb, passive">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      太郎は次郎から花子を紹介された。
-     </script>
+      <script>次郎が花子を太郎に紹介した。</script>
     </p>
     <h>
-      <script>
-      次郎が花子を太郎に紹介した。
-     </script>
+      <script>太郎は次郎から花子を紹介された。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="718" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
+  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  jsem_id="719" language="jp" phenomena="verb, passive">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      次郎が花子を太郎に紹介した。
-     </script>
+      <script>太郎は次郎から花子を紹介された。</script>
     </p>
     <h>
-      <script>
-      太郎は次郎から花子を紹介された。
-     </script>
+      <script>次郎が太郎を花子に紹介した。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="719" answer="unknown" language="jp" phenomena="verb, passive" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="720" language="jp" phenomena="verb, passive">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      太郎は次郎から花子を紹介された。
-     </script>
+      <script>太郎が花子に泣かれた。</script>
     </p>
     <h>
-      <script>
-      次郎が太郎を花子に紹介した。
-     </script>
-    </h>
-  </problem>
-  <problem jsem_id="720" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
-    <p idx="1">
-      <script>
-      太郎が花子に泣かれた。
-     </script>
-    </p>
-    <h>
-      <script>
-      花子が泣いた。
-     </script>
+      <script>花子が泣いた。</script>
     </h>
     <note>間接受身</note>
   </problem>
-  <problem jsem_id="721" answer="yes" language="jp" phenomena="verb, passive" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="721" language="jp" phenomena="verb, passive">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      太郎が雨に降られた。
-     </script>
+      <script>太郎が雨に降られた。</script>
     </p>
     <h>
-      <script>
-      雨が降った。
-     </script>
+      <script>雨が降った。</script>
     </h>
     <note>間接受身</note>
   </problem>
-  <problem jsem_id="722" answer="yes" language="jp" phenomena="verb, causative" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="722" language="jp" phenomena="verb, causative">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      太郎が花子に勉強をさせた。
-     </script>
+      <script>太郎が花子に勉強をさせた。</script>
     </p>
     <h>
-      <script>
-      花子が勉強をした。
-     </script>
+      <script>花子が勉強をした。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="723" answer="yes" language="jp" phenomena="verb, causative" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="723" language="jp" phenomena="verb, causative">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      監督は部員たちを走らせた。
-     </script>
+      <script>監督は部員たちを走らせた。</script>
     </p>
     <h>
-      <script>
-      部員たちが走った。
-     </script>
+      <script>部員たちが走った。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="724" answer="yes" language="jp" phenomena="verb, causative" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="724" language="jp" phenomena="verb, causative">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      太郎は子供たちに好きなように遊ばせた。
-     </script>
+      <script>太郎は子供たちに好きなように遊ばせた。</script>
     </p>
     <h>
-      <script>
-      子供たちが好きなように遊んだ。
-     </script>
+      <script>子供たちが好きなように遊んだ。</script>
     </h>
     <note>「許容」の意味</note>
   </problem>
-  <problem jsem_id="725" answer="yes" language="jp" phenomena="verb, benefactive" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="725" language="jp" phenomena="verb, benefactive">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      太郎が花子に荷物を運んでもらった。
-     </script>
+      <script>太郎が花子に荷物を運んでもらった。</script>
     </p>
     <h>
-      <script>
-      花子が荷物を運んだ。
-     </script>
+      <script>花子が荷物を運んだ。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="726" answer="yes" language="jp" phenomena="verb, benefactive" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="726" language="jp" phenomena="verb, benefactive">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      太郎が教室で花子に歌を歌ってもらった。
-     </script>
+      <script>太郎が教室で花子に歌を歌ってもらった。</script>
     </p>
     <h>
-      <script>
-      花子が教室で歌を歌った。
-     </script>
+      <script>花子が教室で歌を歌った。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="727" answer="yes" language="jp" phenomena="verb, ergative verb" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="727" language="jp" phenomena="verb, ergative verb">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      太郎が障子を破いた。
-     </script>
+      <script>太郎が障子を破いた。</script>
     </p>
     <h>
-      <script>
-      障子が破れた。
-     </script>
+      <script>障子が破れた。</script>
     </h>
+    <note></note>
   </problem>
-  <problem jsem_id="728" answer="yes" language="jp" phenomena="verb, ergative verb" inference_type="entailment">
+  <problem answer="YES" inference_type="&quot;entailment&quot;"
+  jsem_id="728" language="jp" phenomena="verb, ergative verb">
+    <link resource="fracas" />
     <p idx="1">
-      <script>
-      太郎がドアをゆっくり閉めた。
-     </script>
+      <script>太郎がドアをゆっくり閉めた。</script>
     </p>
     <h>
-      <script>
-      ドアがゆっくり閉まった。
-     </script>
+      <script>ドアがゆっくり閉まった。</script>
     </h>
+    <note></note>
   </problem>
-  <!--
-[Bibliography]
-
-Abe, Jun (1997) The locality of zibun and logophoricity. Technical report 08CE1001,Kanda University of International Studies, Japan.
-
-Abe, Jun and Hiroto Hoshi (1997) Gapping and P-Stranding. Journal of East Asian Linguistics Vol. 6, No. 1 (Jan., 1997), pp. 101-136, Springer.
-
-Ackema, Peter (2010) Gapping is always forward. In: Zwart, C. Jan-Wouter and Mark de Vries (eds.), Structure Preserved: Studies in syntax for Jan Koster. 2010. xxiii, 395 pp. (pp. 13–20)
-
-Fukaya, Teruhiko and Hajime Hoji (1999) "Stripping and Sluicing in Japanese and Some Implications." WCCFL18: 145-158.
-
-Fukaya, Teruhiko (2003) Island (In)sensitivity in Japanese Sluicing and Stripping and Some Implications, WCCFL 22, 2003.
-
-Hankamer, Jorge and Ivan Sag.(1976). Deep and Surface Anaphora.Linguistic Inquiry 7. 391-428.
-
-Hayashishita, J.-R. 2007. Izyoo(ni)- and gurai-comparatives: Comparison of deviation in Japanese. 言語研究 132: 77-109.
-
-Hoji, Hajime. (1990). Theories of Anaphora and Aspects of Japanese Syntax. Ms., USC.
-
-Hoji, Hajime (1997) "Sloppy Identity and Formal Dependency," in Proceedings of the 15th West Coast Conference on Formal Linguistics, Center for the Study of Language and Information, Stanford. pp. 209-223.
-
-Hoji, Hajime (2003) "Surface and Deep anaphora, Sloppy Identity, and Experiments in Syntax, " in Anaphora: A Reference Guide: 172-235. Blackwell Publishing Ltd.
-Houser, Michael J. (2010). The syntax and semantics of do so anaphora. Doctoral
-dissertation, University of California, Berkeley.
-
-Jackendoff, Ray. (1971). Gapping and related rules. Linguistic Inquiry 2: 21: 35.
-
-Jayaseelan, Karattuparambil A. (1990). Incomplete VP deletion and gapping. Linguistic Analysis 20: 64-81.
-
-Kameyama, Megumi (1984) Subjective/logophoric bound anaphor zibun. CLS 20,
-228-238.
-
-Kamp, Hans. (1975), Two theories about adjectives, in E. Keenan (ed.), Formal Semantics of Natural Language, Cambridge University Press. 123–155.
-
-Karttunen, Lauri (1970) The Logic of English Predicate Complement Constructions. The Indiana University Linguistics Club. Bloomington, Indiana.
-
-Kennedy, Chris and Louise McNally. (2005). Scale structure, degree modification, and the semantics of gradable predicates. Language 81(2): 345–381.
-
-Kubota, Yusuke. 2012. The Presuppositional Nature of izyoo(-ni) and gurai Comparatives: A Note on Hayashishita (2007). 言語研究 141: 33–46.
-
-Kuno, Susumu. (1976). Gapping: A functional analysis. Linguistic Inquiry 7: 300-318.
-
-MacCartney, Bill(2010) FraCAS textual inference teest suite. http://www-nlp.stanford.edu/~wcmac/downloads/fracas.xml
-
-Mukai, Emi. (2003). On verbless conjunction in Japanese. In Proceedings of NELS 33, ed. Makoto Kadowaki and Shigeto Kawahara, 205-224. University of Massachusetts, Amherst: GLSA Publications.
-
-Oshima, David Y. (2004) "Zibun revisited: Empathy, logophoricity, and binding", In: Sylwia Tur and Susannah Levi (eds.) Proceedings of the 20th Northwest Linguistic Conference, vol.23 of University of Washington Working Papers in Linguistics. pp.175-190.
-
-Rotstein, Carmen and Yoad Winter. (2004). Total adjectives vs. partial adjectives: Scale structure and higher-order modifiers. Natural Language Semantics 12(3): 259–288.
-
-Saito, Mamoru. (1987). Three notes on syntactic movement in Japanese. In Issues in Japanese linguistics, ed.Takasi Imai and Mamoru Saito, 301-350. Dordrecht: Kluwer.
-
-Terazu-Imanishi, Noriko. (1989). Some Nominal Anaphora in English and Japanese. Text - Interdisciplinary Journal for the Study of Discourse. doi:10.1515/text.1.1989.9.3.275
-
-井上和子 (1976) 『変形文法と日本語（上）』, 大修館書店.
-
-久野暲 (1973) 『日本文法研究』, 大修館書店.
-
-久野暲 (1978) 『談話の文法』, 大修館書店.(Kuno, Susumu (1978) Danwa no bunpoo [grammar of discourse]. Tokyo: Taishukan.)
-
-西尾寅弥／国立国語研究所『形容詞の意味・用法の記述的研究』秀英出版、1972年
-
--->
 </jsem-problems>

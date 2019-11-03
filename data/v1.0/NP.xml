@@ -4,7 +4,7 @@
 <jsem-problems>
   <problem answer="*" inference_type="" jsem_id="NP2" language="jp"
   phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>隣の家の音がうるさい。</script>
     </p>
@@ -15,7 +15,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP3" language="jp"
   phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>北海道の山田さんからジャガイモが大量に届いた。</script>
     </p>
@@ -26,7 +26,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP4" language="jp"
   phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子は東京大学の一年生である。</script>
     </p>
@@ -37,7 +37,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP5" language="jp"
   phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>三時はおやつの時間だ。</script>
     </p>
@@ -48,7 +48,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP6"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>大学生の甥が訪ねてきた。</script>
     </p>
@@ -59,7 +59,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP7"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>病気の親友をお見舞いに行った。</script>
     </p>
@@ -70,7 +70,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP8"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>ピアニストの山田氏を招いて演奏してもらった。</script>
     </p>
@@ -81,7 +81,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP9"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子は、怠け者の太郎に文句を言った。</script>
     </p>
@@ -92,7 +92,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP10"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>その問題は、天才の花子でも解けなかった。</script>
     </p>
@@ -103,7 +103,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP11"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>小学生の頃の私は、プラモデル作りに没頭していた。</script>
     </p>
@@ -114,7 +114,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP12"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>明治時代の日本では、妖怪が頻繁に目撃されていた。</script>
     </p>
@@ -125,7 +125,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP13"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>昨日の花子は、なんとなく話しかけづらかった。</script>
     </p>
@@ -136,7 +136,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP14"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>昼間のお父さんは、一生懸命働いている。</script>
     </p>
@@ -147,7 +147,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP15"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>家にいるときの息子は、ゲームしかしていない。</script>
     </p>
@@ -158,7 +158,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP16"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>この芝居の主役は太郎だ。</script>
     </p>
@@ -169,7 +169,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP17"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>この前の試合の優勝者は花子だ。</script>
     </p>
@@ -180,7 +180,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP18"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>この病院の院長は田中先生だ。</script>
     </p>
@@ -191,7 +191,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP19"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎の専門は言語学だ。</script>
     </p>
@@ -202,7 +202,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP20"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>源氏物語の作者は紫式部である。</script>
     </p>
@@ -213,7 +213,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP21"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>この芝居の主役は太郎だ。</script>
     </p>
@@ -224,7 +224,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP22"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>この前の試合の優勝者は、昨年留学から戻ってきた。</script>
     </p>
@@ -235,7 +235,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP23"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>この病院の院長は心臓病の専門家だ。</script>
     </p>
@@ -246,7 +246,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP24"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎の専門は言語学だ。</script>
     </p>
@@ -257,7 +257,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP25"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>源氏物語の作者は紫式部である。</script>
     </p>
@@ -268,7 +268,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP26"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>物理学の勉強は楽しい。</script>
     </p>
@@ -279,7 +279,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP27"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎は、花子の到着を喜んでいた。</script>
     </p>
@@ -290,7 +290,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP28"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子は、犯人の逮捕に協力した。</script>
     </p>
@@ -301,7 +301,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP29"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎の結婚は、花子にショックを与えた。</script>
     </p>
@@ -312,7 +312,7 @@
   </problem>
   <problem answer="*" inference_type="" jsem_id="NP30"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>この鉄柵は、不審者の侵入を防ぎます。</script>
     </p>
@@ -323,7 +323,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP31"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>物理学の勉強は楽しい。</script>
     </p>
@@ -334,7 +334,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP32"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎は、花子の到着を喜んでいた。</script>
     </p>
@@ -345,7 +345,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP33"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子は、犯人の逮捕に協力した。</script>
     </p>
@@ -356,7 +356,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP34"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎の結婚は、花子にショックを与えた。</script>
     </p>
@@ -367,7 +367,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP35"
   language="jp" phenomena="NP modification">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>この鉄柵は、不審者の侵入を防ぎます。</script>
     </p>
@@ -378,7 +378,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP36"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎は花子と結婚した。</script>
     </p>
@@ -392,7 +392,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP37"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子はロマネ・コンティを注文した。</script>
     </p>
@@ -406,7 +406,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP38"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子はA社から内定をもらった。</script>
     </p>
@@ -420,7 +420,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP39"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎は次郎に喧嘩を売った。</script>
     </p>
@@ -434,7 +434,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP40"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>古代人は明けの明星を女神になぞらえた。</script>
     </p>
@@ -448,7 +448,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="NP41"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎の母は、太郎が花子と結婚したことを知っている。</script>
     </p>
@@ -462,7 +462,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="NP42"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎は、花子がロマネ・コンティを注文したことを知っている。</script>
     </p>
@@ -476,7 +476,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="NP43"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子の弟は、花子がA社から内定をもらったことを知っている。</script>
     </p>
@@ -490,7 +490,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="NP44"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎の友人は、太郎が次郎に喧嘩を売ったことを知っている。</script>
     </p>
@@ -504,7 +504,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="NP45"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>中世の知識人たちは、古代人が明けの明星を女神になぞらえたことを知っていた。</script>
     </p>
@@ -518,7 +518,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="NP46"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎は花子と結婚したがっている。</script>
     </p>
@@ -532,7 +532,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="NP47"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子はロマネ・コンティを飲みたがっている。</script>
     </p>
@@ -546,7 +546,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="NP48"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子はA社から内定をもらいたがっている。</script>
     </p>
@@ -560,7 +560,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="NP49"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎は次郎と喧嘩をしたがっている。</script>
     </p>
@@ -574,7 +574,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="NP50"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎は花子の身長を知っている。</script>
     </p>
@@ -588,7 +588,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="NP51"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎は次郎の家の値段を知っている。</script>
     </p>
@@ -602,7 +602,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="NP52"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎は、ジョンの兄弟の数を知っている。</script>
     </p>
@@ -616,7 +616,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="NP53"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子は東京スカイツリーの高さを知っている。</script>
     </p>
@@ -630,7 +630,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="NP54"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子は今日の最高気温を知っている。</script>
     </p>
@@ -644,7 +644,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP55"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎は天才だ。</script>
     </p>
@@ -655,7 +655,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP56"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>山田さんは女性だ。</script>
     </p>
@@ -666,7 +666,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP57"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>彼らは優秀な学生だ。</script>
     </p>
@@ -677,7 +677,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP58"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>あの人は体操選手だ。</script>
     </p>
@@ -688,7 +688,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP59"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>この本はロングセラーだ。</script>
     </p>
@@ -699,7 +699,7 @@
   </problem>
   <problem answer="yes" inference_type="" jsem_id="NP60"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子の指導教授はあの人だ。</script>
     </p>
@@ -710,7 +710,7 @@
   </problem>
   <problem answer="yes" inference_type="" jsem_id="NP61"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>今年のプロレス大賞最優秀タッグチームは諏訪魔選手と石川修司選手だ。</script>
     </p>
@@ -721,7 +721,7 @@
   </problem>
   <problem answer="yes" inference_type="" jsem_id="NP62"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎の好きなギタリストはイングヴェイ・マルムスティーンだ。</script>
     </p>
@@ -732,7 +732,7 @@
   </problem>
   <problem answer="yes" inference_type="" jsem_id="NP63"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>この病院の院長は田中先生だ。</script>
     </p>
@@ -743,7 +743,7 @@
   </problem>
   <problem answer="yes" inference_type="" jsem_id="NP64"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎が初めて出版した本はこれだ。</script>
     </p>
@@ -754,7 +754,7 @@
   </problem>
   <problem answer="yes" inference_type="" jsem_id="NP65"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>隣の部屋に、花子の好きなミュージシャンがいる。</script>
     </p>
@@ -768,7 +768,7 @@
   </problem>
   <problem answer="yes" inference_type="" jsem_id="NP66"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>すぐそこに、太郎を襲った犬が潜んでいる。</script>
     </p>
@@ -782,7 +782,7 @@
   </problem>
   <problem answer="yes" inference_type="" jsem_id="NP67"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>そのビルの中に、太郎が会いたがっている人がいる。</script>
     </p>
@@ -796,7 +796,7 @@
   </problem>
   <problem answer="yes" inference_type="" jsem_id="NP68"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎のカバンの中に、花子への誕生日プレゼントがある。</script>
     </p>
@@ -810,7 +810,7 @@
   </problem>
   <problem answer="yes" inference_type="" jsem_id="NP69"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>テーブルの上に、今日のおやつがある。</script>
     </p>
@@ -824,7 +824,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP70"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子の教えることのできない科目がある。</script>
     </p>
@@ -838,7 +838,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP71"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子には好きな人がいる。</script>
     </p>
@@ -852,7 +852,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP72"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>今日会場に来られない人がいる。</script>
     </p>
@@ -866,7 +866,7 @@
   </problem>
   <problem answer="no" inference_type="" jsem_id="NP73"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>今日の講義には欠席者がいる。</script>
     </p>
@@ -880,7 +880,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP74"
   language="jp" phenomena="referentiality in NP">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>約束の時間に遅れている人がいる。</script>
     </p>
@@ -894,7 +894,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP75"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子殺しの犯人はあの男だ。</script>
     </p>
@@ -905,7 +905,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP76"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>この本の著者は花子だ。</script>
     </p>
@@ -916,7 +916,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP77"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎の好きなギタリストはイングヴェイ・マルムスティーンだ。</script>
     </p>
@@ -927,7 +927,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP78"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>今年のプロレス大賞最優秀タッグチームは諏訪魔選手と石川修司選手だ。</script>
     </p>
@@ -938,7 +938,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP79"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子の踊りの師匠はあの人だ。</script>
     </p>
@@ -949,7 +949,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP80"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子殺しの犯人はあの男だ。</script>
     </p>
@@ -960,7 +960,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP81"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>この本の著者は花子だ。</script>
     </p>
@@ -971,7 +971,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP82"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎の好きなギタリストはイングヴェイ・マルムスティーンだ。</script>
     </p>
@@ -982,7 +982,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP83"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>今年のプロレス大賞最優秀タッグチームは諏訪魔選手と石川修司選手だ。</script>
     </p>
@@ -993,7 +993,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP84"
   language="jp" phenomena="referentiality in NP, copular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子の踊りの師匠はあの人だ。</script>
     </p>
@@ -1004,7 +1004,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP85"
   language="jp" phenomena="coplular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>広島が、カキ料理の本場だ。</script>
     </p>
@@ -1015,7 +1015,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP86"
   language="jp" phenomena="coplular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子が、この本の著者だ。</script>
     </p>
@@ -1026,7 +1026,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP87"
   language="jp" phenomena="coplular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>田中先生がこの病院の院長だ。</script>
     </p>
@@ -1037,7 +1037,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP88"
   language="jp" phenomena="coplular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎が今日のパーティの主賓だ。</script>
     </p>
@@ -1048,7 +1048,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="NP89"
   language="jp" phenomena="coplular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>あの男が、この事件の黒幕だ。</script>
     </p>
@@ -1059,7 +1059,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP90"
   language="jp" phenomena="coplular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>花子が、この病院の医師だ。</script>
     </p>
@@ -1070,7 +1070,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP91"
   language="jp" phenomena="coplular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>太郎が、あの会社の社員だ。</script>
     </p>
@@ -1081,7 +1081,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP92"
   language="jp" phenomena="coplular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>このフェラーリが、太郎の車だ。</script>
     </p>
@@ -1092,7 +1092,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP93"
   language="jp" phenomena="coplular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>あの女の子が、花子の姪だ。</script>
     </p>
@@ -1103,7 +1103,7 @@
   </problem>
   <problem answer="?" inference_type="" jsem_id="NP94"
   language="jp" phenomena="coplular sentence">
-    <link link_id="" resource="fracas" />
+    <link resource="fracas" />
     <p idx="1">
       <script>現場に残った足跡が、犯人の唯一の手掛かりだ。</script>
     </p>

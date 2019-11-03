@@ -1,0 +1,303 @@
+(1) The number of <problem> tags: 7098
+  which contains a <link> (to FraCaS dataset) tag with link_id: 0
+(2) The number of yes in translation attr.: 0
+(3) The number of occurrences of each phenomena:
+- : 6
+- -amari: 56
+- -bakari (toritate particle): 74
+- -dake (toritate particle): 147
+- -daroo: 8
+- -darooga: 8
+- -darooka: 2
+- -demo (toritate particle): 35
+- -dewanaika: 56
+- -hizyooni: 28
+- -hodo (toritate particle): 63
+- -ka (disjunctive particle): 3
+- -ka (parallel marker): 78
+- -ka (question particle): 130
+- -kadooka: 3
+- -kagiri: 8
+- -kagiri (toritate particle): 4
+- -koso (toritate particle): 18
+- -koto (complementizer): 9
+- -kurai (toritate particle): 53
+- -mada: 87
+- -made (toritate particle): 47
+- -madewa (toritate particle): 2
+- -masyooka: 29
+- -mattaku (adverb): 70
+- -mo (conjunctive particle): 1
+- -mo (toritate particle): 53
+- -moo: 74
+- -nado (toritate particle): 75
+- -nanka (toritate particle): 23
+- -nante (toritate particle): 57
+- -ni (conjunctive particle): 2
+- -no (complementizer): 7
+- -nodarooka: 11
+- -noka: 9
+- -nomi (toritate particle): 74
+- -sae (toritate particle): 42
+- -sika: 1
+- -sika (toritate particle): 72
+- -sura (toritate particle): 41
+- -teido: 16
+- -to (complementizer): 7
+- -to (conjunctive particle): 5
+- -to (parallel marker): 48
+- -toiukoto (complementizer): 8
+- -toiuno (complementizer): 3
+- -toka (conjunctive particle): 1
+- -toka (parallel marker): 5
+- -toka (toritate particle): 48
+- -totemo: 36
+- -wa (toritate particle: 47
+- -wa (toritate particle): 8
+- -ya (conjunctive particle): 1
+- -ya (parallel marker): 37
+- -yooka: 29
+- -zenzen (adverb): 65
+- Adjective: 112
+- Adverb: 2644
+- Attitude: 2
+- Cleft: 4
+- Coordination: 205
+- E-type anaphora: 5
+- Monotonicity: 4
+- N-no QC: 65
+- NP modification: 34
+- NQC: 20
+- Negation: 30
+- Q-no NC: 109
+- Question: 130
+- RNR: 71
+- Toritate: 806
+- Toritate particle: 2
+- VP ellipsis: 7
+- absolute adjective: 8
+- adjective: 70
+- adverb: 7
+- adverbs of quantification: 2
+- aete (adverb): 24
+- affirmative adjective: 9
+- after: 10
+- anagati (adverb): 10
+- anaphoric dimension: 1
+- arienai: 50
+- ariuru: 45
+- aspectual class: 5
+- attitude: 59
+- attributive comparative: 1
+- bare noun: 17
+- bare plural: 5
+- before: 10
+- bekida: 35
+- bekidewanai: 35
+- benefactive: 2
+- betu (adjective): 56
+- bound variable anaphora: 9
+- causative: 3
+- cleft: 13
+- collective and distributive plural: 3
+- collective predication: 1
+- comparative: 80
+- comparative deletion: 2
+- complex example: 5
+- conditional: 10
+- conjoined noun phrase: 15
+- conjunction distribution: 1
+- conservativity: 115
+- contrastive: 3
+- contrastive): 44
+- coplular sentence: 10
+- copular sentence: 20
+- counter-factive: 1
+- daibu (adverb): 30
+- dake: 1
+- daroo: 25
+- default comparison class: 2
+- definite plural: 8
+- degree modifier: 6
+- dependent plural: 2
+- dewanai: 5
+- differential comparative: 3
+- disjunction distribution: 1
+- distributive predication: 2
+- donkey anaphora: 4
+- doo (how): 6
+- ellipsis: 47
+- ellipsis and anaphora: 22
+- ellipsis and quantification: 1
+- ergative verb: 2
+- existential instantiation: 3
+- extensional comparison class: 14
+- factive: 15
+- floating quantifier: 117
+- functional and subsectional anaphora: 1
+- gapping: 5
+- generalized quantifier: 369
+- guuzen (adverb): 15
+- hazu: 44
+- hazuganai: 90
+- hissida: 25
+- hotondo (adverb): 35
+- hougayoi: 35
+- hyottositara (adverb): 50
+- if-predicate: 4
+- imani (adverb): 20
+- imanimo (adverb): 20
+- implicative verb: 3
+- inamenai: 50
+- indexical: 2
+- intensional comparison class: 12
+- inter-sentential: 2
+- intra-sentential: 11
+- itu (when): 7
+- itumo (adverb): 20
+- janai: 105
+- jibun: 12
+- kagiranai: 80
+- kamosirenai: 35
+- kanarazu (adverb): 65
+- kanarazusimo (adverb): 50
+- kanari (adverb): 40
+- kanenai: 35
+- kanzenni (adverb): 47
+- kare/kanojo (pronoun): 17
+- kekkoo (adverb): 30
+- kessite (adverb): 16
+- kitto (adoverb): 36
+- kotoda: 27
+- kotogaaru: 55
+- kotoganai: 20
+- kotowanai: 40
+- kousandaida: 5
+- kousangaookii: 35
+- mai: 60
+- marude (adverb): 80
+- masani (adverb): 60
+- matigainai: 36
+- measure phrase: 1
+- mettani (adverb): 30
+- mikomida: 60
+- mitai: 49
+- mitaini: 20
+- mitoosida: 60
+- mix reading: 2
+- modaity: 10
+- modal: 10
+- modality: 2312
+- monoda: 56
+- monodewanai: 75
+- monogaaru: 20
+- monotonicity (downwards on first argument): 57
+- monotonicity (downwards on second argument): 58
+- monotonicity (upwards on first argument): 59
+- monotonicity (upwards on second argument): 80
+- mosikasitara (adverb): 50
+- mosikasite (adverb): 20
+- motto: 24
+- moyouda: 60
+- nakanaka (adverb): 60
+- nakerebanaranai: 40
+- nakinisimoarazu: 40
+- nakutewanaranai: 40
+- nannaku (adverb): 15
+- naze (why): 7
+- negated plural: 10
+- negation: 474
+- negative implicative: 2
+- nidoto (adverb): 37
+- no anaphora: 6
+- no comparison class: 9
+- nominal anaphora: 47
+- non-affirmative adjective: 11
+- non-factive: 5
+- okasikunai: 45
+- onazi (adjective): 56
+- only-if-predicate: 4
+- opposite: 15
+- osoraku (adoverb): 32
+- partial predicate: 2
+- passive: 15
+- perception verb: 11
+- phrasal ellipsis: 5
+- plural: 43
+- plural anaphora: 13
+- poi: 45
+- quantificational adverbial: 2
+- quantificational morpheme: 14
+- quantifier: 26
+- rasii: 85
+- referentiality in NP: 49
+- relative adjective: 8
+- rokuni (adverb): 15
+- sakerarenai: 25
+- sappari (adverb): 74
+- scope ambiguity: 1
+- sibasiba (adverb): 25
+- simple reflexive: 3
+- sloppy identity: 7
+- sluicing: 1
+- so-series demonstrative: 5
+- sokosoko (adverb): 80
+- soo: 60
+- soo su anaphora: 20
+- sooda: 30
+- sooninai: 10
+- sootoo (adverb): 20
+- sorehodo (adverb): 43
+- sosite (conjunctive particle): 2
+- standard use of tense: 6
+- strict identity: 7
+- stripping: 10
+- stripping (with case marker): 3
+- substitution: 1
+- sukkari (adverb): 59
+- sukosi (adverb): 48
+- sukosimo: 10
+- superlative: 4
+- tabitabi (adverb): 25
+- tabun (adoverb): 32
+- taihen (adverb): 14
+- taisite (adverb): 25
+- tamani (adverb): 40
+- temoyoi: 35
+- temporal adverb: 22
+- temporal reference: 48
+- tewanaranai: 25
+- tigainai: 34
+- toiu: 30
+- toiukotoda: 60
+- toiukotowanai: 24
+- toiumonoda: 20
+- toiumonodewanai: 10
+- tonokotoda: 30
+- total predicate: 4
+- toutou (adverb): 70
+- tuini (adverb): 70
+- tuneni (adverb): 20
+- tyotto (adverb): 59
+- tyoudo (adverb): 70
+- utagainai: 45
+- utagaiyooganai: 5
+- verb: 35
+- veridicality: 1
+- wake: 60
+- warito (adverb): 30
+- wazato (adverb): 15
+- wazawaza (adverb): 18
+- yasuyasuto (adverb): 15
+- yatto (adverb): 45
+- yaya (adverb): 16
+- yohodo (adverb): 45
+- yoku (adverb): 184
+- you: 49
+- youni: 103
+- youyaku (adverb): 45
+- zenzen (adverb): 5
+- zettaini (adverb): 75
+- zibun (reflexive): 14
+- zuibun (adverb): 20
+- zutto (adverb): 30

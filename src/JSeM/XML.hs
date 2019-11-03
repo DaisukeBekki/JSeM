@@ -22,6 +22,7 @@ import qualified Data.Text.IO as StrictT  --text
 import qualified Data.Text.Lazy as LazyT  --text
 import qualified Text.XML as X            --xml-conduit
 import qualified Text.XML.Cursor as X     --xml-conduit
+import qualified JSeM.Cmd as J            --jsem
 
 -- | A data type for each JSeM entry.
 data JSeMData = JSeMData {
@@ -48,13 +49,13 @@ jsemData2Tsv jsemdata =
       StrictT.pack $ show $ answer j,
       if phenomena j == [] then "" else StrictT.concat ["\"", StrictT.intercalate ", " $ phenomena j, "\""],
       if inference_type j == [] then "" else StrictT.concat ["\"", StrictT.intercalate ", " $ inference_type j, "\""],
-      StrictT.replace "\n" "" $ note j
+      StrictT.concat $ StrictT.lines $ note j
       ] ++ (premises j) ++ [hypothesis j]
       )) jsemdata)
 
 xmlFile2problems :: FilePath -> IO([X.Cursor])
 xmlFile2problems xmlfile = do
-  cursor <- X.fromDocument <$> X.readFile X.def xmlfile
+  cursor <- X.fromDocument <$> X.parseText_ X.def <$> LazyT.fromStrict <$> J.readFileUtf8 xmlfile
   return $ X.child cursor >>= X.element "problem"
 
 -- | takes a file path of a JSeM file (XML format) and returns a list of 'JSeMData'.
@@ -71,8 +72,8 @@ problem2JSeMData problem = do
       phenomena = map (StrictT.strip) $ [problem] >>= X.laxAttribute "phenomena" >>= StrictT.split (==',')
       inference_type = map (StrictT.strip) $ [problem] >>= X.laxAttribute "inference_type" >>= StrictT.split (==',')
       note = StrictT.concat $ [problem] >>= X.child >>= X.element "note" >>= X.child >>= X.content
-      premises = map (StrictT.strip . StrictT.replace "\r\n" "") $ [problem] >>= X.child >>= X.element "p" >>= X.child >>= X.element "script" >>= X.child >>= X.content
-      hypothesis = StrictT.concat $ map (StrictT.strip . StrictT.replace "\r\n" "") $ [problem] >>= X.child >>= X.element "h" >>= X.child >>= X.element "script" >>= X.child >>= X.content
+      premises = map (StrictT.concat . StrictT.lines) $ [problem] >>= X.child >>= X.element "p" >>= X.child >>= X.element "script" >>= X.child >>= X.content
+      hypothesis = StrictT.concat $ map (StrictT.concat . StrictT.lines) $ [problem] >>= X.child >>= X.element "h" >>= X.child >>= X.element "script" >>= X.child >>= X.content
       answertext = StrictT.concat $ [problem] >>= X.laxAttribute "answer"
   answer <- case answertext of
               "yes" -> return YES
@@ -88,6 +89,7 @@ problems2stat problems =
   let linkNodes = problems >>= X.child >>= X.element "link"
       --unexpectedcomments = problems >>= X.child >>= X.checkNode isComment
       transYes = linkNodes >>= X.laxAttribute "translation"
+      linked = linkNodes >>= X.laxAttribute "link_id" 
       phenomena = problems >>= X.laxAttribute "phenomena" >>= StrictT.split (==',')
       phen2 = L.map StrictT.strip phenomena in
   --putStrLn "(0) Comments contained in <problem> tags:"
@@ -95,8 +97,8 @@ problems2stat problems =
   StrictT.append
     (StrictT.pack $ "(1) The number of <problem> tags: "
       ++ (show $ L.length $ problems)
-      ++ "\n  which contains a <link> (to FraCaS dataset) tag: "
-      ++ (show $ L.length $ linkNodes)
+      ++ "\n  which contains a <link> (to FraCaS dataset) tag with link_id: "
+      ++ (show $ L.length $ linked)
       ++ "\n(2) The number of yes in translation attr.: "
       ++ (show $ L.length $ L.filter (=="yes") transYes)
       ++ "\n(3) The number of occurrences of each phenomena:\n")

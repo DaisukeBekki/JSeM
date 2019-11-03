@@ -1,44 +1,44 @@
-370			YES	"plural, conjoined noun phrase, -to (conjunctive particle)"	"entailment"		スミスとジョーンズとアンダーソンが契約書にサインした。	ジョーンズが契約書にサインした。
-371			YES	"plural, conjoined noun phrase, sosite (conjunctive particle)"	"entailment"		スミス、ジョーンズ、そしてアンダーソンが契約書にサインした。	ジョーンズが契約書にサインした。
-372			YES	"plural, conjoined noun phrase, -ni (conjunctive particle)"	"entailment"		スミスにジョーンズにアンダーソンが契約書にサインした。	ジョーンズが契約書にサインした。
-373			YES	"plural, conjoined noun phrase, -to (conjunctive particle)"	"entailment"		スミスとジョーンズと数人の弁護士が契約書にサインした。	ジョーンズが契約書にサインした。
-374			YES	"plural, conjoined noun phrase, sosite (conjunctive particle)"	"entailment"		スミス、ジョーンズ、そして数人の弁護士が契約書にサインした。	ジョーンズが契約書にサインした。
-375			YES	"plural, conjoined noun phrase, -ni (conjunctive particle)"	"entailment"		スミスにジョーンズに数人の弁護士が契約書にサインした。	ジョーンズが契約書にサインした。
-376			UNKNOWN	"plural, conjoined noun phrase, -ka (disjunctive particle)"	"entailment"		スミスかジョーンズかアンダーソンが契約書にサインした。	ジョーンズが契約書にサインした。
-377			YES	"plural, conjoined noun phrase, -ka (disjunctive particle)"	"entailment"		スミスかジョーンズかアンダーソンが契約書にサインした。	もしスミスとジョーンズが契約書にサインしていないならば、アンダーソンは契約書にサインしている。
-378			NO	"plural, conjoined noun phrase, -to (conjunctive particle)"	"entailment"		ちょうど二人の弁護士と三人の会計士が契約書にサインした。	六人の弁護士が契約書にサインした。
-379			NO	"plural, conjoined noun phrase, -to (conjunctive particle)"	"entailment"		ちょうど二人の弁護士と三人の会計士が契約書にサインした。	六人の会計士が契約書にサインした。
-380			YES	"plural, conjoined noun phrase, -to (conjunctive particle)"	"entailment"	AK: 「すべての代表者とすべての依頼人」という解釈および「すべての代表者と（一人あるいは何人かの）依頼人」という解釈があり、どちらにおいても上の推論は成り立つ。ちなみに、fracas-088に相当するN-bar conjunctionの解釈（代表者でかつ依頼人であるようなすべての人）は上のP1の文には無い。	すべての代表者と依頼人が会議に出席していた。	すべての代表者が会議に出席していた。
-381			UNDEF	"plural, conjoined noun phrase, -to (conjunctive particle)"	"entailment"	AK: 「すべての代表者とすべての依頼人」という解釈ではyes。他方、「すべての代表者と一人あるいは何人かの依頼人」という解釈ではunknown。ちなみに、fracas-088に相当するN-bar conjunctionの解釈（代表者でかつ依頼人であるようなすべての人）は上の文には無い。	すべての代表者と依頼人が会議に出席していた。	すべての依頼人が会議に出席していた。
-382			UNKNOWN	"plural, conjoined noun phrase, -ka (disjunctive particle)"	"entailment"	AK: fracas作成者によれば、fracas-089のP1の解釈は「代表者あるいは依頼人であるようなすべての人」（すなわち、N-bar conjunction）という解釈のみ。よって、英語では上の推論が成り立つ。しかし日本語の上記のp1のような文では同様の解釈は不可能であるように思われる。可能な解釈は「すべての代表者かすべての依頼人」あるいは「すべての代表者か一人あるいは何人かの依頼人）」という解釈であり、いずれの解釈でも上の推論は成り立たない。	すべての代表者か依頼人が会議に出席していた。	すべての代表者とすべての依頼人が会議に出席していた。
-383			UNKNOWN	"plural, conjoined noun phrase, -ya (conjunctive particle)"	"entailment"	AK: NP conjunction with "-ya"	スミスやジョーンズやアンダーソンが契約書にサインした。	ジョーンズが契約書にサインした。
-384			UNKNOWN	"plural, conjoined noun phrase, -toka (conjunctive particle)"	"entailment"	AK: NP conjunction with "toka"	スミスとかジョーンズとかアンダーソンとかが契約書にサインした。	ジョーンズが契約書にサインした。
-385			UNKNOWN	"plural, conjoined noun phrase, -mo (conjunctive particle)"	"entailment"	AK: NP conjunction with "mo"	スミスもジョーンズもアンダーソンも契約書にサインした。	ジョーンズが契約書にサインした。
-386			UNKNOWN	"plural, definite plural, bare noun"	"entailment"	AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "会議に出席していた人々" in P1 with a topic marker "wa", not "ga."	会議に出席していた人々は新しい議長に投票した。	会議に出席していたすべての人が新しい議長に投票した。
-387			YES	"plural, definite plural"	"entailment"	AK: all the peopleを「人々全員」と訳したバージョン	会議に出席していた人々全員が新しい議長に投票した。	会議に出席していたすべての人が新しい議長に投票した。
-388			YES	"plural, definite plural"	"entailment"	AK: all the peopleを「人々の全員」と訳したバージョン	会議に出席していた人々の全員が新しい議長に投票した。	会議に出席していたすべての人が新しい議長に投票した。
-389			YES	"plural, definite plural, floating quantifier"	"entailment"	AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "会議に出席していた人々" in P1 with a topic marker "wa", not "ga."	会議に出席していた人々は全員新しい議長に投票した。	会議に出席していたすべての人が新しい議長に投票した。
-390			YES	"plural, definite plural, floating quantifier"	"entailment"	AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "会議に出席していた人々" in P1 with a topic marker "wa", not "ga."	会議に出席していた人々はみな新しい議長に投票した。	会議に出席していたすべての人が新しい議長に投票した。
-391			UNKNOWN	"plural, definite plural, bare noun"	"entailment"	AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "ケンブリッジの住民" in P1 with a topic marker "wa", not "ga."	ケンブリッジの住民は労働党の議員に投票した。	すべてのケンブリッジの住民が労働党の議員に投票した。
-392			UNKNOWN	"plural, definite plural, bare noun"	"entailment"	AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "古代ギリシャ人" in P1 with a topic marker "wa", not "ga."	古代ギリシャ人は著名な哲学者だった。	すべての古代ギリシャ人が著名な哲学者だった。
-393			YES	"plural, definite plural, floating quantifier"	"entailment"	AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "古代ギリシャ人" in P1 with a topic marker "wa", not "ga."	古代ギリシャ人はみな著名な哲学者だった。	すべての古代ギリシャ人が著名な哲学者だった。
-394			YES	"plural, bare plural, bare noun"	"entailment"	comments in original FraCaS: existential bare pluralAK: Existential, plural interpretation of a bare noun.	ソフトウェア障害がシステムの故障の原因だった。	システムの故障の原因は一つ以上のソフトウェア障害だった。
-395			UNKNOWN	"plural, bare plural, bare noun"	"entailment"	comments in original FraCaS: existential interpretation: not every software fault contributed to the failure.AK: Existential, plural interpretation of a bare noun.	ソフトウェア障害がシステムの故障の原因だった。	32-985番のバグはよく知られたソフトウェア障害である。	32-985番のバグがシステムの故障の原因だった。
-396			YES	"plural, bare plural, bare noun, floating quantifier"	"entailment"	comments in original FraCaS: (Quasi) universal bare plural	デモを見たクライアントはみなシステムのパフォーマンスに感心していた。	スミスはデモを見たクライアントである。	スミスはシステムのパフォーマンスに感心していた。
-397			UNDEF	"plural, bare plural, bare noun"	"entailment"	comments in original FraCaS: (Quasi) universal bare pluralAK: The answer is "yes" if the bare noun "デモを見たクライアント" is interpreted as universal or generic, "unknown" otherwise.	デモを見たクライアントはシステムのパフォーマンスに感心していた。	デモを見たクライアントのほとんどがシステムのパフォーマンスに感心していた。
-398			UNDEF	"plural, bare plural, bare noun"	"entailment"	comments in original FraCaS: Generic interpretationAK: 「大卒者」をuniversalあるいはgenericに解釈すればyes。それ以外の場合はunknown。なお、fracas-102で示されているような現象（hをSmith WILL make a poor stock market trader.とすると、unknownになる）に相当する日本語の現象があるかは不明。	大卒者は貧しい株式売買人になる。	スミスは大卒者である。	スミスは貧しい株式売買人になりそうだ。
-399			YES	"plural, dependent plural, bare noun, floating quantifier"	"entailment"		APCOMの管理職はみな社用車を持っている。	ジョーンズはAPCOMの管理職である。	ジョーンズは社用車を持っている。
-400			UNKNOWN	"plural, dependent plural, N-no QC"	"entailment"		APCOMの管理職の全員が社用車を持っている。	ジョーンズはAPCOMの管理職である。	ジョーンズは一台以上の社用車を持っている。
-401			NO	"plural, negated plural"	"entailment"	AK: Hは、原文ではno accountants（複数形）。訳に「会計士たち」と反映したが、適切かどうか不明。	たった一人の会計士が会議に出席した。	会計士たちは誰も会議に出席しなかった。
-402			NO	"plural, negated plural, -dake (toritate particle), floating quantifier"	"entailment"	AK: Hは、原文ではno accountants（複数形）。訳に「会計士たち」と反映したが、適切かどうか不明。	会計士が一人だけ会議に出席した。	会計士たちは誰も会議に出席しなかった。
-403			NO	"plural, negated plural"	"entailment"	AK: Hは、原文ではno accountant（単数形）。単に「会計士」と訳した。	たった一人の会計士が会議に出席した。	会計士は誰も会議に出席しなかった。
-404			NO	"plural, negated plural, -dake (toritate particle), floating quantifier"	"entailment"	AK: Hは、原文ではno accountant（単数形）。単に「会計士」と訳した。	会計士が一人だけ会議に出席した。	会計士は誰も会議に出席しなかった。
-405			YES	"plural, negated plural"	"entailment"	AK: Hは、原文ではno accountant（単数形）。単に「会計士」と訳した。	たった一人の会計士が会議に出席した。	会計士が誰か会議に出席した。
-406			YES	"plural, negated plural, -dake (toritate particle), floating quantifier"	"entailment"	AK: Hは、原文ではno accountant（単数形）。単に「会計士」と訳した。	会計士が一人だけ会議に出席した。	会計士が誰か会議に出席した。
-407			NO	"plural, negated plural"	"entailment"	AK: Hは、原文ではno accountants（複数形）。訳に「会計士たち」と反映した。fracas-107はpとhは上と同一だが、107ではなぜか推論の可否がyesになっている。理由は不明。ここではfracas-109に対応する例のみ示す。	たった一人の会計士が会議に出席した。	何人かの会計士たちが会議に出席した。
-408			NO	"plural, negated plural, -dake (toritate particle), floating quantifier"	"entailment"	AK: Hは、原文ではno accountants（複数形）。訳に「会計士たち」と反映した。fracas-107はpとhは上と同一だが、107ではなぜか推論の可否がyesになっている。理由は不明。ここではfracas-109に対応する例のみ示す。	会計士が一人だけ会議に出席した。	何人かの会計士たちが会議に出席した。
-409			YES	"plural, negated plural"	"entailment"	AK: Hは、原文ではno accountant（単数形）。単に「会計士」と反映したが、適切かどうか不明。	たった一人の会計士が会議に出席した。	会計士が誰か会議に出席した。
-410			YES	"plural, negated plural, -dake (toritate particle), floating quantifier"	"entailment"	AK: Hは、原文ではno accountant（単数形）。単に「会計士」と反映したが、適切かどうか不明。	会計士が一人だけ会議に出席した。	会計士が誰か会議に出席した。
-411			YES	"plural, collective and distributive plural"	"entailment"	AK: 集合的あるいは累積的な解釈ではyes	スミスが一枚の契約書に署名した。	ジョーンズはもう一枚の契約書に署名した。	スミスとジョーンズが二枚の誓約書に署名した。
-412			YES	"plural, collective and distributive plural"	"entailment"	AK: 「スミスとジョーンズ」を分配的に解釈すればyes。	スミスが二枚の契約書に署名した。	ジョーンズが二枚の契約書に署名した。	スミスとジョーンズが二枚の誓約書に署名した。
-413			YES	"plural, collective and distributive plural"	"entailment"		スミスが二枚の契約書に署名した。	ジョーンズもそれらに署名した。	スミスとジョーンズが二枚の誓約書に署名した。
+370			YES	"plural, conjoined noun phrase, -to (conjunctive particle)"	"entailment"			スミスとジョーンズとアンダーソンが契約書にサインした。  			ジョーンズが契約書にサインした。	
+371			YES	"plural, conjoined noun phrase, sosite (conjunctive particle)"	"entailment"			スミス、ジョーンズ、そしてアンダーソンが契約書にサインした。  			ジョーンズが契約書にサインした。	
+372			YES	"plural, conjoined noun phrase, -ni (conjunctive particle)"	"entailment"			スミスにジョーンズにアンダーソンが契約書にサインした。  			ジョーンズが契約書にサインした。	
+373			YES	"plural, conjoined noun phrase, -to (conjunctive particle)"	"entailment"			スミスとジョーンズと数人の弁護士が契約書にサインした。  			ジョーンズが契約書にサインした。	
+374			YES	"plural, conjoined noun phrase, sosite (conjunctive particle)"	"entailment"			スミス、ジョーンズ、そして数人の弁護士が契約書にサインした。  			ジョーンズが契約書にサインした。	
+375			YES	"plural, conjoined noun phrase, -ni (conjunctive particle)"	"entailment"			スミスにジョーンズに数人の弁護士が契約書にサインした。  			ジョーンズが契約書にサインした。	
+376			UNKNOWN	"plural, conjoined noun phrase, -ka (disjunctive particle)"	"entailment"			スミスかジョーンズかアンダーソンが契約書にサインした。  			ジョーンズが契約書にサインした。	
+377			YES	"plural, conjoined noun phrase, -ka (disjunctive particle)"	"entailment"			スミスかジョーンズかアンダーソンが契約書にサインした。  			もしスミスとジョーンズが契約書にサインしていないならば、アンダーソンは契約書にサインしている。	
+378			NO	"plural, conjoined noun phrase, -to (conjunctive particle)"	"entailment"			ちょうど二人の弁護士と三人の会計士が契約書にサインした。  			六人の弁護士が契約書にサインした。	
+379			NO	"plural, conjoined noun phrase, -to (conjunctive particle)"	"entailment"			ちょうど二人の弁護士と三人の会計士が契約書にサインした。  			六人の会計士が契約書にサインした。	
+380			YES	"plural, conjoined noun phrase, -to (conjunctive particle)"	"entailment"	AK: 「すべての代表者とすべての依頼人」という解釈および「すべての代表者と（一人あるいは何人かの）依頼人」という解釈があり、どちらにおいても上の推論は成り立つ。ちなみに、fracas-088に相当するN-bar conjunctionの解釈（代表者でかつ依頼人であるようなすべての人）は上のP1の文には無い。		すべての代表者と依頼人が会議に出席していた。  			すべての代表者が会議に出席していた。	
+381			UNDEF	"plural, conjoined noun phrase, -to (conjunctive particle)"	"entailment"	AK: 「すべての代表者とすべての依頼人」という解釈ではyes。他方、「すべての代表者と一人あるいは何人かの依頼人」という解釈ではunknown。ちなみに、fracas-088に相当するN-bar conjunctionの解釈（代表者でかつ依頼人であるようなすべての人）は上の文には無い。		すべての代表者と依頼人が会議に出席していた。  			すべての依頼人が会議に出席していた。	
+382			UNKNOWN	"plural, conjoined noun phrase, -ka (disjunctive particle)"	"entailment"	AK: fracas作成者によれば、fracas-089のP1の解釈は「代表者あるいは依頼人であるようなすべての人」（すなわち、N-bar conjunction）という解釈のみ。よって、英語では上の推論が成り立つ。しかし日本語の上記のp1のような文では同様の解釈は不可能であるように思われる。可能な解釈は「すべての代表者かすべての依頼人」あるいは「すべての代表者か一人あるいは何人かの依頼人）」という解釈であり、いずれの解釈でも上の推論は成り立たない。		すべての代表者か依頼人が会議に出席していた。  			すべての代表者とすべての依頼人が会議に出席していた。	
+383			UNKNOWN	"plural, conjoined noun phrase, -ya (conjunctive particle)"	"entailment"	AK: NP conjunction with "-ya"		スミスやジョーンズやアンダーソンが契約書にサインした。  			ジョーンズが契約書にサインした。	
+384			UNKNOWN	"plural, conjoined noun phrase, -toka (conjunctive particle)"	"entailment"	AK: NP conjunction with "toka"		スミスとかジョーンズとかアンダーソンとかが契約書にサインした。  			ジョーンズが契約書にサインした。	
+385			UNKNOWN	"plural, conjoined noun phrase, -mo (conjunctive particle)"	"entailment"	AK: NP conjunction with "mo"		スミスもジョーンズもアンダーソンも契約書にサインした。  			ジョーンズが契約書にサインした。	
+386			UNKNOWN	"plural, definite plural, bare noun"	"entailment"	AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "会議に出席していた人々" in P1 with a topic marker "wa", not "ga."		会議に出席していた人々は新しい議長に投票した。  			会議に出席していたすべての人が新しい議長に投票した。	
+387			YES	"plural, definite plural"	"entailment"	AK: all the peopleを「人々全員」と訳したバージョン		会議に出席していた人々全員が新しい議長に投票した。  			会議に出席していたすべての人が新しい議長に投票した。	
+388			YES	"plural, definite plural"	"entailment"	AK: all the peopleを「人々の全員」と訳したバージョン		会議に出席していた人々の全員が新しい議長に投票した。  			会議に出席していたすべての人が新しい議長に投票した。	
+389			YES	"plural, definite plural, floating quantifier"	"entailment"	AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "会議に出席していた人々" in P1 with a topic marker "wa", not "ga."		会議に出席していた人々は全員新しい議長に投票した。  			会議に出席していたすべての人が新しい議長に投票した。	
+390			YES	"plural, definite plural, floating quantifier"	"entailment"	AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "会議に出席していた人々" in P1 with a topic marker "wa", not "ga."		会議に出席していた人々はみな新しい議長に投票した。  			会議に出席していたすべての人が新しい議長に投票した。	
+391			UNKNOWN	"plural, definite plural, bare noun"	"entailment"	AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "ケンブリッジの住民" in P1 with a topic marker "wa", not "ga."		ケンブリッジの住民は労働党の議員に投票した。  			すべてのケンブリッジの住民が労働党の議員に投票した。	
+392			UNKNOWN	"plural, definite plural, bare noun"	"entailment"	AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "古代ギリシャ人" in P1 with a topic marker "wa", not "ga."		古代ギリシャ人は著名な哲学者だった。  			すべての古代ギリシャ人が著名な哲学者だった。	
+393			YES	"plural, definite plural, floating quantifier"	"entailment"	AK: Definite plural interpretation of a bare noun. To make this reading salient, I marked "古代ギリシャ人" in P1 with a topic marker "wa", not "ga."		古代ギリシャ人はみな著名な哲学者だった。  			すべての古代ギリシャ人が著名な哲学者だった。	
+394			YES	"plural, bare plural, bare noun"	"entailment"	comments in original FraCaS: existential bare pluralAK: Existential, plural interpretation of a bare noun.		ソフトウェア障害がシステムの故障の原因だった。  			システムの故障の原因は一つ以上のソフトウェア障害だった。	
+395			UNKNOWN	"plural, bare plural, bare noun"	"entailment"	comments in original FraCaS: existential interpretation: not every software fault contributed to the failure.AK: Existential, plural interpretation of a bare noun.		ソフトウェア障害がシステムの故障の原因だった。  			32-985番のバグはよく知られたソフトウェア障害である。			32-985番のバグがシステムの故障の原因だった。	
+396			YES	"plural, bare plural, bare noun, floating quantifier"	"entailment"	comments in original FraCaS: (Quasi) universal bare plural		デモを見たクライアントはみなシステムのパフォーマンスに感心していた。  			スミスはデモを見たクライアントである。  			スミスはシステムのパフォーマンスに感心していた。	
+397			UNDEF	"plural, bare plural, bare noun"	"entailment"	comments in original FraCaS: (Quasi) universal bare pluralAK: The answer is "yes" if the bare noun "デモを見たクライアント" is interpreted as universal or generic, "unknown" otherwise.		デモを見たクライアントはシステムのパフォーマンスに感心していた。  			デモを見たクライアントのほとんどがシステムのパフォーマンスに感心していた。	
+398			UNDEF	"plural, bare plural, bare noun"	"entailment"	comments in original FraCaS: Generic interpretationAK: 「大卒者」をuniversalあるいはgenericに解釈すればyes。それ以外の場合はunknown。なお、fracas-102で示されているような現象（hをSmith WILL make a poor stock market trader.とすると、unknownになる）に相当する日本語の現象があるかは不明。		大卒者は貧しい株式売買人になる。  			スミスは大卒者である。  			スミスは貧しい株式売買人になりそうだ。	
+399			YES	"plural, dependent plural, bare noun, floating quantifier"	"entailment"			APCOMの管理職はみな社用車を持っている。  			ジョーンズはAPCOMの管理職である。  			ジョーンズは社用車を持っている。	
+400			UNKNOWN	"plural, dependent plural, N-no QC"	"entailment"			APCOMの管理職の全員が社用車を持っている。  			ジョーンズはAPCOMの管理職である。  			ジョーンズは一台以上の社用車を持っている。	
+401			NO	"plural, negated plural"	"entailment"	AK: Hは、原文ではno accountants（複数形）。訳に「会計士たち」と反映したが、適切かどうか不明。		たった一人の会計士が会議に出席した。  			会計士たちは誰も会議に出席しなかった。	
+402			NO	"plural, negated plural, -dake (toritate particle), floating quantifier"	"entailment"	AK: Hは、原文ではno accountants（複数形）。訳に「会計士たち」と反映したが、適切かどうか不明。		会計士が一人だけ会議に出席した。  			会計士たちは誰も会議に出席しなかった。	
+403			NO	"plural, negated plural"	"entailment"	AK: Hは、原文ではno accountant（単数形）。単に「会計士」と訳した。		たった一人の会計士が会議に出席した。  			会計士は誰も会議に出席しなかった。	
+404			NO	"plural, negated plural, -dake (toritate particle), floating quantifier"	"entailment"	AK: Hは、原文ではno accountant（単数形）。単に「会計士」と訳した。		会計士が一人だけ会議に出席した。  			会計士は誰も会議に出席しなかった。	
+405			YES	"plural, negated plural"	"entailment"	AK: Hは、原文ではno accountant（単数形）。単に「会計士」と訳した。		たった一人の会計士が会議に出席した。  			会計士が誰か会議に出席した。	
+406			YES	"plural, negated plural, -dake (toritate particle), floating quantifier"	"entailment"	AK: Hは、原文ではno accountant（単数形）。単に「会計士」と訳した。		会計士が一人だけ会議に出席した。  			会計士が誰か会議に出席した。	
+407			NO	"plural, negated plural"	"entailment"	AK: Hは、原文ではno accountants（複数形）。訳に「会計士たち」と反映した。fracas-107はpとhは上と同一だが、107ではなぜか推論の可否がyesになっている。理由は不明。ここではfracas-109に対応する例のみ示す。		たった一人の会計士が会議に出席した。  			何人かの会計士たちが会議に出席した。	
+408			NO	"plural, negated plural, -dake (toritate particle), floating quantifier"	"entailment"	AK: Hは、原文ではno accountants（複数形）。訳に「会計士たち」と反映した。fracas-107はpとhは上と同一だが、107ではなぜか推論の可否がyesになっている。理由は不明。ここではfracas-109に対応する例のみ示す。		会計士が一人だけ会議に出席した。  			何人かの会計士たちが会議に出席した。	
+409			YES	"plural, negated plural"	"entailment"	AK: Hは、原文ではno accountant（単数形）。単に「会計士」と反映したが、適切かどうか不明。		たった一人の会計士が会議に出席した。  			会計士が誰か会議に出席した。	
+410			YES	"plural, negated plural, -dake (toritate particle), floating quantifier"	"entailment"	AK: Hは、原文ではno accountant（単数形）。単に「会計士」と反映したが、適切かどうか不明。		会計士が一人だけ会議に出席した。  			会計士が誰か会議に出席した。	
+411			YES	"plural, collective and distributive plural"	"entailment"	AK: 集合的あるいは累積的な解釈ではyes		スミスが一枚の契約書に署名した。  			ジョーンズはもう一枚の契約書に署名した。  			スミスとジョーンズが二枚の誓約書に署名した。	
+412			YES	"plural, collective and distributive plural"	"entailment"	AK: 「スミスとジョーンズ」を分配的に解釈すればyes。		スミスが二枚の契約書に署名した。  			ジョーンズが二枚の契約書に署名した。  			スミスとジョーンズが二枚の誓約書に署名した。	
+413			YES	"plural, collective and distributive plural"	"entailment"			スミスが二枚の契約書に署名した。  			ジョーンズもそれらに署名した。  			スミスとジョーンズが二枚の誓約書に署名した。	

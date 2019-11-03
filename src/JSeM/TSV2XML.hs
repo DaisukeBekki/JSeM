@@ -48,9 +48,9 @@ nodes2XML name nodes =
   X.renderText X.def $ X.Document 
                          (X.Prologue
                             []
-                            -- | <!DOCTYPE jsem-problems SYSTEM "jsem.dtd">
+                            -- <!DOCTYPE jsem-problems SYSTEM "jsem.dtd">
                             (Just $ X.Doctype "jsem-problems SYSTEM \"jsem.dtd\"" Nothing)
-                            -- |<?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
+                            -- <?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
                             [X.MiscInstruction $ X.Instruction "xml-stylesheet" "type=\"text/xsl\" href=\"jsem.xsl\"" ]
                             ) 
                          (X.Element (tag name) (M.fromList []) nodes)
@@ -119,8 +119,8 @@ tsvLine2xmlNode entry = do
                     ([X.NodeElement $ X.Element 
                         (tag "link")
                         (M.fromList 
-                           [("resource","fracas"),
-                            ("link_id","") --,
+                           [("resource","fracas")--,
+                            --("link_id",""),
                             --("translation",""),
                             --("same_phenomena","")
                            ])
