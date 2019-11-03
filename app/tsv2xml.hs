@@ -2,7 +2,7 @@
 
 import qualified Data.Text.IO as StrictT    --text
 import qualified Data.Text.Lazy.IO as LazyT --text
-import qualified JSeM.TSV2XML as J          --jsem
+import qualified JSeM.TSV as J              --jsem
 
 -- | tsv2xml  標準入力からtsv形式のJSeMデータを受け取り、
 -- |          XML形式に変換し、

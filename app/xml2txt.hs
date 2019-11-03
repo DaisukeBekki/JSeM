@@ -4,11 +4,8 @@ import Control.Monad (forM_)           --base
 import System.Environment (getArgs)    --base
 import qualified Data.Text as T        --text: this is required in order to substitute "Data.Text.Internal" in Text.XML(.Cursor)
 import qualified Data.Text.IO as T     --text
+import qualified JSeM as J             --jsem
 import qualified JSeM.XML as J         --jsem
---import qualified Data.ByteString.Lazy.Char8 as B --bytestring
---import qualified Text.XML as X         --xml-conduit
---import qualified Text.XML.Cursor as X  --xml-conduit
---import qualified Data.Char as C        --base
 
 -- | xml2txt  JSeMからのテキスト抜き出し：
 -- |          標準出力からJSeM XMLを受け取り、
@@ -25,8 +22,3 @@ main = do
     print $ J.answer j
     putChar '\n'
 
-  --xml <- B.getContents
-  --mapM_ (\dat -> do
-  --         T.putStrLn $ (T.filter (\c -> not (C.isSpace c))) dat
-  --         putChar '\n'
-  --         ) $ X.descendant (X.fromDocument $ X.parseLBS_ X.def xml) >>= X.element "script" >>= X.child >>= X.content

@@ -7,51 +7,20 @@ Stability   : beta
 -}
 
 module JSeM.XML (
-  JSeMData(..),
-  JSeMLabel(..),
   xmlFile2JSeMData,
   xmlFile2problems,
-  jsemData2Tsv,
   problems2stat
   ) where
 
 import qualified Data.List as L           --base
 import qualified Data.Map as M            --container
 import qualified Data.Text as StrictT     --text
-import qualified Data.Text.IO as StrictT  --text
+--import qualified Data.Text.IO as StrictT  --text
 import qualified Data.Text.Lazy as LazyT  --text
 import qualified Text.XML as X            --xml-conduit
 import qualified Text.XML.Cursor as X     --xml-conduit
+import JSeM as J                          --jsem
 import qualified JSeM.Cmd as J            --jsem
-
--- | A data type for each JSeM entry.
-data JSeMData = JSeMData {
-  jsem_id :: StrictT.Text,
-  answer :: JSeMLabel,
-  phenomena :: [StrictT.Text],
-  inference_type :: [StrictT.Text],
-  note :: StrictT.Text,
-  premises :: [StrictT.Text],
-  hypothesis :: StrictT.Text
-  } deriving (Eq, Show)
-
--- | Three answers: yes, no, unknown
-data JSeMLabel = YES | NO | UNKNOWN | UNDEF deriving (Eq,Show)
-
--- |
-jsemData2Tsv :: [JSeMData] -> StrictT.Text
-jsemData2Tsv jsemdata =
-  StrictT.intercalate "\n" (map (\j ->
-    StrictT.intercalate "\t" ([
-      jsem_id j,
-      "",
-      "",
-      StrictT.pack $ show $ answer j,
-      if phenomena j == [] then "" else StrictT.concat ["\"", StrictT.intercalate ", " $ phenomena j, "\""],
-      if inference_type j == [] then "" else StrictT.concat ["\"", StrictT.intercalate ", " $ inference_type j, "\""],
-      StrictT.concat $ StrictT.lines $ note j
-      ] ++ (premises j) ++ [hypothesis j]
-      )) jsemdata)
 
 xmlFile2problems :: FilePath -> IO([X.Cursor])
 xmlFile2problems xmlfile = do

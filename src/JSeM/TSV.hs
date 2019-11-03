@@ -1,12 +1,12 @@
 {-|
-Module      : JSeM.TSV2XML
+Module      : JSeM.TSV
 Copyright   : (c) Daisuke Bekki, 2019
 Licence     : All right reserved
 Maintainer  : Daisuke Bekki <bekki@is.ocha.ac.jp>
 Stability   : beta
 -}
 
-module JSeM.TSV2XML (
+module JSeM.TSV (
   tsv2XML,
   tsvFile2XML,
   validateTsvFiles

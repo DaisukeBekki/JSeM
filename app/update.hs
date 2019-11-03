@@ -14,7 +14,7 @@ import qualified Data.Text.IO as StrictT --text
 import qualified Text.XML as X           --xml-conduit
 import qualified Text.XML.Cursor as X    --xml-conduit
 import qualified JSeM.XML as J           --jsem
-import qualified JSeM.TSV2XML as J       --jsem
+import qualified JSeM.TSV as J           --jsem
 
 -- | dataFolderにある拡張子.txtファイルのすべてについて、
 main :: IO()

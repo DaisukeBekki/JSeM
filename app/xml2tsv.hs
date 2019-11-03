@@ -2,6 +2,7 @@
 
 import System.Environment (getArgs)      --base
 import qualified Data.Text.IO as StrictT --text
+import qualified JSeM as J               --jsem
 import qualified JSeM.XML as J           --jsem
 
 -- | xml2tsv  xml形式のJSeMファイルを受け取り、

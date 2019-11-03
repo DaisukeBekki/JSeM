@@ -5,6 +5,7 @@ import System.FilePath ((</>),isExtensionOf,replaceExtensions) --filepath
 import System.Environment (getArgs)      --base
 import qualified Data.Text.IO as StrictT --text
 import qualified System.Directory as D   --directory
+import qualified JSeM as J               --jsem
 import qualified JSeM.XML as J           --jsem
 
 -- | xml2tsv  与えられたフォルダ（旧データ用）にあるxml形式のJSeMファイルを

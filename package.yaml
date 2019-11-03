@@ -27,10 +27,10 @@ library:
   source-dirs: src
   default-extensions: OverloadedStrings
   exposed-modules:
-    - JSeM.TSV2XML
-    - JSeM.Cmd
+    - JSeM
+    - JSeM.TSV
     - JSeM.XML
-    - JSeM.Dataset
+    - JSeM.Cmd
   other-modules: []
 executables:
   update:
