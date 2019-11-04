@@ -49,6 +49,9 @@ problem2JSeMData problem = do
               "no" -> return NO
               "unknown" -> return UNKNOWN
               "undef" -> return UNDEF
+              "unacceptable" -> return UNACCEPTABLE
+              "weakacceptable" -> return WEAKACCEPTABLE
+              "infelicitous" -> return INFELICITOUS
               _ -> fail $ StrictT.unpack $ StrictT.concat ["#", jsem_id, " has an undefined answer: ", answertext]
   return $ JSeMData jsem_id answer phenomena inference_type note premises hypothesis
 

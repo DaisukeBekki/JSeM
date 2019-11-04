@@ -12,11 +12,7 @@ module JSeM (
   jsemData2Tsv
   ) where
 
-import qualified Data.List as L           --base
-import qualified Data.Map as M            --container
 import qualified Data.Text as StrictT     --text
-import qualified Data.Text.IO as StrictT  --text
-import qualified Data.Text.Lazy as LazyT  --text
 
 -- | A data type for each JSeM entry.
 data JSeMData = JSeMData {
@@ -29,10 +25,10 @@ data JSeMData = JSeMData {
   hypothesis :: StrictT.Text
   } deriving (Eq, Show)
 
--- | Three answers: yes, no, unknown
-data JSeMLabel = YES | NO | UNKNOWN | UNDEF deriving (Eq,Show)
+-- | Three labels as answers to a given inference data (yes, no, unknown) plus four extra labels (undef, unacceptable, weaklyaceptable, infelicitous) for syntactic, semantic and pragmatic anomaly.
+data JSeMLabel = YES | NO | UNKNOWN | UNDEF | UNACCEPTABLE | WEAKACCEPTABLE | INFELICITOUS deriving (Eq,Show)
 
--- |
+-- | Convert a list of JSeMData into Data.TEXT (in TSV format)
 jsemData2Tsv :: [JSeMData] -> StrictT.Text
 jsemData2Tsv jsemdata =
   StrictT.intercalate "\n" (map (\j ->
