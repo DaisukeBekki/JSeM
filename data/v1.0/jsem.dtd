@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!ELEMENT jsem-problems (problem|comment)+>
+<!ELEMENT jsem-dataset (problem|comment)+>
 
 <!-- miscellaneous comment, not necessarily on a specific problem -->
 <!ELEMENT comment (#PCDATA)>

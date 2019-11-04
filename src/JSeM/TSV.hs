@@ -49,7 +49,7 @@ nodes2XML name nodes =
                          (X.Prologue
                             []
                             -- <!DOCTYPE jsem-problems SYSTEM "jsem.dtd">
-                            (Just $ X.Doctype "jsem-problems SYSTEM \"jsem.dtd\"" Nothing)
+                            (Just $ X.Doctype "jsem-dataset SYSTEM \"jsem.dtd\"" Nothing)
                             -- <?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
                             [X.MiscInstruction $ X.Instruction "xml-stylesheet" "type=\"text/xsl\" href=\"jsem.xsl\"" ]
                             ) 
@@ -73,7 +73,7 @@ validateTsvFiles tsvFiles =
             then fail "\nAbove entries have less than 9 columns."
             else putStrLn "done"
 
--- | 末尾の空白データを削除する
+-- | 末尾の空白コラムを削除する
 chop :: [StrictT.Text] -> [StrictT.Text]
 chop [] = []
 chop lst = if last lst == StrictT.empty

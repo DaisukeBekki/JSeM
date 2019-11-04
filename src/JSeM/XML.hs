@@ -55,11 +55,6 @@ problem2JSeMData problem = do
               _ -> fail $ StrictT.unpack $ StrictT.concat ["#", jsem_id, " has an undefined answer: ", answertext]
   return $ JSeMData jsem_id answer phenomena inference_type note premises hypothesis
 
---- | Strips (unnecessary) white spaces and tabs from Text
--- stripSpaces :: StrictT.Text -> StrictT.Text
--- stripSpaces text = case text of
---  StrictT.dropAround C.isSpace text
-
 problems2stat :: [X.Cursor] -> StrictT.Text
 problems2stat [] = StrictT.empty
 problems2stat problems =
