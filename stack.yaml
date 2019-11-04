@@ -1,3 +1,10 @@
 flags: {}
 resolver: lts-14.1
-
+build:
+  haddock: false
+  haddock-arguments:
+    haddock-args:
+    - --odir=haddock
+  open-haddocks: false
+  haddock-internal: false
+  haddock-hyperlink-source: true
