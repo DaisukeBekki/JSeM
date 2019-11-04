@@ -41,8 +41,8 @@ problem2JSeMData problem = do
       phenomena = map (StrictT.strip) $ [problem] >>= X.laxAttribute "phenomena" >>= StrictT.split (==',')
       inference_type = map (StrictT.strip) $ [problem] >>= X.laxAttribute "inference_type" >>= StrictT.split (==',')
       note = StrictT.concat $ [problem] >>= X.child >>= X.element "note" >>= X.child >>= X.content
-      premises = map (StrictT.concat . StrictT.lines) $ [problem] >>= X.child >>= X.element "p" >>= X.child >>= X.element "script" >>= X.child >>= X.content
-      hypothesis = StrictT.concat $ map (StrictT.concat . StrictT.lines) $ [problem] >>= X.child >>= X.element "h" >>= X.child >>= X.element "script" >>= X.child >>= X.content
+      premises = map StrictT.strip $ [problem] >>= X.child >>= X.element "p" >>= X.child >>= X.element "script" >>= X.child >>= X.content
+      hypothesis = StrictT.concat $ map StrictT.strip $ [problem] >>= X.child >>= X.element "h" >>= X.child >>= X.element "script" >>= X.child >>= X.content
       answertext = StrictT.concat $ [problem] >>= X.laxAttribute "answer"
   answer <- case answertext of
               "yes" -> return YES
@@ -54,6 +54,11 @@ problem2JSeMData problem = do
               "infelicitous" -> return INFELICITOUS
               _ -> fail $ StrictT.unpack $ StrictT.concat ["#", jsem_id, " has an undefined answer: ", answertext]
   return $ JSeMData jsem_id answer phenomena inference_type note premises hypothesis
+
+--- | Strips (unnecessary) white spaces and tabs from Text
+-- stripSpaces :: StrictT.Text -> StrictT.Text
+-- stripSpaces text = case text of
+--  StrictT.dropAround C.isSpace text
 
 problems2stat :: [X.Cursor] -> StrictT.Text
 problems2stat [] = StrictT.empty
