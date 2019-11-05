@@ -30,4 +30,4 @@ main = do
         when (xmlTime > tsvTime) $ do -- 対応するTSVファイルが存在しないか、xmlが更新されている時
           putStrLn $ "Updating " ++ tsvFile ++ "..."
           StrictT.writeFile tsvFile =<< J.jsemData2Tsv <$> (J.xmlFile2JSeMData xmlFile)
-      
+  putStrLn "xml->tsv done"

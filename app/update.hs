@@ -38,9 +38,11 @@ main = do
         when (tsvTime > xmlTime) $ do -- 対応するXMLファイルが存在しないか、tsvが更新されている時
           putStrLn $ "Updating " ++ xmlFile ++ "..."
           J.tsvFile2XML tsvFile >>= T.writeFile xmlFile
+  putStrLn "tsv->xml done"
   xmlFiles <- map (dataFolder </>) <$> filter (isExtensionOf "xml") <$> D.listDirectory dataFolder
   stat <- J.problems2stat <$> concat <$> forM xmlFiles (\xmlFile -> do
     cursor <- X.fromDocument <$> X.readFile X.def xmlFile 
     return $ X.child cursor >>= X.element "problem"
     )
   StrictT.writeFile ("stat.txt") stat
+  putStrLn "Statistics recorded to stat.txt"

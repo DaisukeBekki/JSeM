@@ -33,11 +33,6 @@ library:
     - JSeM.Cmd
   other-modules: []
 executables:
-  update:
-    main:         update.hs
-    source-dirs:  app
-    ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
-    dependencies: jsem
   validate-xml:
     main:         validate-xml.hs
     source-dirs:  app

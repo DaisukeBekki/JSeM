@@ -12,7 +12,7 @@ module JSeM.TSV (
   validateTsvFiles
   ) where
 
-import Control.Monad (when,forM,forM_)   --base
+import Control.Monad (when,forM)         --base
 import qualified Data.Map as M           --container
 import qualified Data.Text as StrictT    --text
 import qualified Data.Text.IO as StrictT --text
@@ -38,7 +38,7 @@ tsvFile2XML tsvFile =
   >>= J.tidy
   >>= return . LazyT.fromStrict
 
--- | タグ名をXMLタグ名に
+-- | タグ名をXMLタグ名に変換する。
 tag :: StrictT.Text -> X.Name
 tag tagname = X.Name tagname Nothing Nothing
 
@@ -56,24 +56,29 @@ nodes2XML name nodes =
                          (X.Element (tag name) (M.fromList []) nodes)
                          []
 
--- | 与えたtsvファイルのすべてについて、データ形式をチェック（現在はコラム数が9以上であることを確認のみ）
-validateTsvFiles :: [FilePath] -> IO()
-validateTsvFiles tsvFiles = 
-  forM_ tsvFiles $ \tsvFile -> do
-          putStr $ "Checking " ++ tsvFile ++ "..."
-          jsemTxt <- J.readFileUtf8 tsvFile
-          flags <- forM (zip [1..] $ tail $ StrictT.lines jsemTxt) $ \(lineNum,jsemLine) -> 
-                          if (length $ chop $ StrictT.split (=='\t') jsemLine) < 9
-                            then do
-                                 putStr $ "\n" ++ show (lineNum::Int) ++ ": "
-                                 StrictT.putStr jsemLine
-                                 return True  -- Error found
-                            else return False -- Error not found
-          if or flags
-            then fail "\nAbove entries have less than 9 columns."
-            else putStrLn "done"
+-- | TSVファイルの最小コラム数。
+numberOfColumns :: Int
+numberOfColumns = 9
 
--- | 末尾の空白コラムを削除する
+-- | 与えたtsvファイルのすべてについて、データ形式をチェック
+-- （現在はコラム数が numberOfColumns 以上であることを確認のみ）
+validateTsvFiles :: [FilePath] -> IO()
+validateTsvFiles tsvFiles = do
+  flags <- forM tsvFiles $ \tsvFile -> do
+    putStrLn $ "Checking " ++ tsvFile ++ "..."
+    jsemTxt <- J.readFileUtf8 tsvFile
+    forM (zip [1..] $ tail $ StrictT.lines jsemTxt) $ \(lineNum,jsemLine) -> 
+      if (length $ chop $ StrictT.split (=='\t') jsemLine) < numberOfColumns
+        then do
+             putStr $ "\n" ++ show (lineNum::Int) ++ ": "
+             StrictT.putStr jsemLine
+             return True  -- Error found
+        else return False -- Error not found
+  if (or $ concat flags)
+    then fail $ "Above entries have less than " ++ (show numberOfColumns) ++ " columns."
+    else putStrLn "tsv check done"
+
+-- | 末尾の（一つまたは複数の）空白コラムを削除する
 chop :: [StrictT.Text] -> [StrictT.Text]
 chop [] = []
 chop lst = if last lst == StrictT.empty
@@ -81,22 +86,24 @@ chop lst = if last lst == StrictT.empty
              else lst
 
 -- | TSV形式のJSeMテキストをJSeM式のXMLノードに変換
+-- +----------+---------------+---------------+------------------------------------------+
+-- | entry!!0 |jsem_id        |通し番号。      |例：1                                      |
+-- | entry!!1 |?              |テストの記述。   |例：GQ間の関係「ある」系-「すべて」系         |	
+-- | entry!!2 |?              |dev/test の区別。|                                          |
+-- | entry!!3 |answer         |出力の正解。     |例：yes/no/unknown                        |
+-- | entry!!4 |phenomena      |含まれる言語現象。|例："Toritate, -nado (toritate particule)"|
+-- | entry!!5 |inference_type |推論の分類。     |例： entailment                           |
+-- | entry!!6 |note           |備考欄。        |                                          |
+-- | entry!!7 |P1             |前提文。        |例：ある社員が異動を希望している。	         |
+-- | entty!!8 |P2             |前提文。        |例：（空欄の場合はは<p idx="2">タグはなし）   |
+-- | entry!!9 |H              |帰結文。        |例：すべての社員が異動を希望している。         |
+-- +----------+---------------+---------------+------------------------------------------+
+-- | （entry7以降は前提文が任意個並び、最後の一つを帰結文とする仕様）
 tsvLine2xmlNode :: [StrictT.Text] -> IO(X.Node)
 tsvLine2xmlNode entry = do
-  -- | entry!!0 :jsem_id        通し番号。      例：1    
-  -- | entry!!1 :?              テストの記述。   例：GQ間の関係「ある」系-「すべて」系		
-  -- | entry!!2 :?              dev/testの区別。
-  -- | entry!!3 :answer         出力の正解。     例：yes/no/unknown
-  -- | entry!!4 :phenomena      含まれる言語現象。例："Toritate, -nado (toritate particule)"
-  -- | entry!!5 :inference_type 推論の分類。     例： entailment
-  -- | entry!!6 :note           備考欄。
-  -- | entry!!7 :P1             前提文。        例：ある社員が異動を希望している。	
-  -- | entty!!8 :P2             前提文。        例：（空欄の場合はは<p idx="2">タグはなし）
-  -- | entry!!9 :H              帰結文。        例：すべての社員が異動を希望している。
-  -- | （entry7以降は前提文が任意個並び、最後の一つを帰結文とする仕様）
-  when (length entry < 9) $ do
+  when (length entry < numberOfColumns) $ do
                              StrictT.putStrLn $ StrictT.concat [ StrictT.intercalate " " entry]
-                             fail "the above entry has less than 9 columns"
+                             fail $ "the above entry has less than " ++ (show numberOfColumns) ++ " columns"
   let (jsem_id:(_:(_:(answer:(entry4:(inference_type:(note:ph))))))) = entry
       premises = init ph
       hypothesis = last ph
@@ -158,6 +165,7 @@ phenomenaParser = do
   _ <- optional $ char '\"'  
   return $ map StrictT.pack phenomena
 
+{-
 -- | Test用コード
 main :: IO()
 main = 
@@ -165,7 +173,7 @@ main =
     Left _ -> putStrLn "parse error"
     Right p -> mapM_ StrictT.putStrLn p
   where testp = "\"Toritate, -sika (toritate particle), Negation\""
-
+-}
 
 {-
   where myRenderSetting = RenderSettings 
