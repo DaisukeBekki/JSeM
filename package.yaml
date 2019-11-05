@@ -38,8 +38,8 @@ executables:
     source-dirs:  app
     ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
     dependencies: jsem
-  check:
-    main:         check.hs
+  validate-xml:
+    main:         validate-xml.hs
     source-dirs:  app
     ghc-options:  ["-threaded", "-rtsopts", "-with-rtsopts=-N"]
     dependencies: jsem

@@ -5,14 +5,14 @@
 <!-- miscellaneous comment, not necessarily on a specific problem -->
 <!ELEMENT comment (#PCDATA)>
 
-<!ELEMENT problem (link?,p+,q?,h,a?,note*,comment*)>
+<!ELEMENT problem (link?,p+,q?,h,a?,note*)>
 
 <!-- problem -->
 <!ATTLIST problem
   jsem_id CDATA #REQUIRED
-  answer (yes|no|unknown|undef) #IMPLIED
+  answer (yes|no|unknown|undef|unacceptable|weakacceptable|infelicitous) #REQUIRED
   jsem_nonstandard (true) #IMPLIED
-  language (fa|de|zh|jp) #IMPLIED
+  language (fa|de|zh|jp) #REQUIRED
   phenomena CDATA #IMPLIED
   inference_type CDATA #IMPLIED
   >
@@ -21,8 +21,8 @@
 <!-- link element shows the information of corresponding FraCaS entry -->
 <!ELEMENT link (#PCDATA)>
 <!ATTLIST link
-  resource CDATA #REQUIRED
-  link_id CDATA #REQUIRED
+  resource CDATA #IMPLIED
+  link_id CDATA #IMPLIED
   translation (yes|no|unknown) #IMPLIED
   same_phenomena (yes|no|unknown) #IMPLIED
   >
