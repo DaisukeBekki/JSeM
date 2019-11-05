@@ -39,10 +39,5 @@ main = do
           putStrLn $ "Updating " ++ xmlFile ++ "..."
           J.tsvFile2XML tsvFile >>= T.writeFile xmlFile
   putStrLn "tsv->xml done"
-  xmlFiles <- map (dataFolder </>) <$> filter (isExtensionOf "xml") <$> D.listDirectory dataFolder
-  stat <- J.problems2stat <$> concat <$> forM xmlFiles (\xmlFile -> do
-    cursor <- X.fromDocument <$> X.readFile X.def xmlFile 
-    return $ X.child cursor >>= X.element "problem"
-    )
-  StrictT.writeFile ("stat.txt") stat
+  J.getStat dataFolder >>= StrictT.writeFile ("stat.txt")
   putStrLn "Statistics recorded to stat.txt"

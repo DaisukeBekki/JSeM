@@ -9,10 +9,12 @@ Stability   : beta
 module JSeM.XML (
   xml2JSeMData,
   xmlFile2JSeMData,
-  problems2stat
+  getStat
   ) where
 
-import Control.Monad ((>=>))              --base
+import Control.Monad ((>=>),forM)            --base
+import System.FilePath ((</>),isExtensionOf) --filepath
+import qualified System.Directory as D    --directory
 import qualified Data.List as L           --base
 import qualified Data.Map as M            --container
 import qualified Data.Text as StrictT     --text
@@ -64,6 +66,20 @@ problem2JSeMData problem = do
               "infelicitous" -> return INFELICITOUS
               _ -> fail $ StrictT.unpack $ StrictT.concat ["#", j_jsem_id, " has an undefined answer: ", answertext]
   return $ JSeMData j_jsem_id j_answer j_phenomena j_inference_type j_note j_premises j_hypothesis
+
+-- | JSeM統計情報出力プログラム
+-- |   標準入力からxmlフォーマットのJSeMファイルを受け取り、以下を標準出力に出力する：
+-- | (1)全<problem>要素のうち、内部に<link>要素のあるものとないものの出現数と割合
+-- | (2)全<link>要素のうち、translation属性がyesのものとそうでないものの出現数と割合
+-- | (3)<problem>要素内のphenomena属性の値のリストと出現数
+getStat :: FilePath -> IO(StrictT.Text)
+getStat dataFolder = do
+  _ <- D.doesDirectoryExist dataFolder 
+  xmlFiles <- map (dataFolder </>) <$> filter (isExtensionOf "xml") <$> D.listDirectory dataFolder
+  problems2stat <$> concat <$> forM xmlFiles (\xmlFile -> do
+    cursor <- X.fromDocument <$> X.readFile X.def xmlFile 
+    return $ X.child cursor >>= X.element "problem"
+    )
 
 -- | takes a list of "problem" nodes and returns a statistics (in a text format).
 problems2stat :: [X.Cursor] -> StrictT.Text
