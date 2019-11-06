@@ -31,13 +31,13 @@ main = do
     if (not xmlFileExists)
       then do
         putStrLn $ "Creating " ++ xmlFile ++ "..."
-        J.tsvFile2XML tsvFile >>= T.writeFile xmlFile
+        J.readFileUtf8 tsvFile >>= J.tsv2XML >>= T.writeFile xmlFile
       else do
         tsvTime <- D.getModificationTime tsvFile
         xmlTime <- D.getModificationTime xmlFile
         when (tsvTime > xmlTime) $ do -- 対応するXMLファイルが存在しないか、tsvが更新されている時
           putStrLn $ "Updating " ++ xmlFile ++ "..."
-          J.tsvFile2XML tsvFile >>= T.writeFile xmlFile
+          J.readFileUtf8 tsvFile >>= J.tsv2XML >>= T.writeFile xmlFile
   putStrLn "tsv->xml done"
   J.getStat dataFolder >>= StrictT.writeFile ("stat.txt")
   putStrLn "Statistics recorded to stat.txt"

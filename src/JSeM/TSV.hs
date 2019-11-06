@@ -8,7 +8,6 @@ Stability   : beta
 
 module JSeM.TSV (
   tsv2XML,
-  tsvFile2XML,
   validateTsvFiles
   ) where
 
@@ -25,18 +24,14 @@ import qualified JSeM.Cmd as J           --jsem
 -- | tsv形式のJSeMデータをTextとして受け取り、
 -- | XML形式のJSeMデータを出力する。
 -- | （ここではnkfやtidyを使わない。必要な場合はshellから呼ぶこと）
-tsv2XML :: StrictT.Text -> IO(LazyT.Text)
-tsv2XML tsv  = 
-  nodes2XML "jsem-problems" <$> (mapM (tsvLine2xmlNode . chop . (StrictT.split (=='\t')) ) $ tail $ StrictT.lines tsv)
+tsv2XML :: StrictT.Text -> IO(StrictT.Text)
+tsv2XML tsv  = do
+  problems <- mapM (tsvLine2xmlNode . chop . (StrictT.split (=='\t')) ) $ tail $ StrictT.lines tsv
+  J.tidy $ LazyT.toStrict $ nodes2XML "jsem-problems" problems
 
--- | tsv形式のJSeMデータのファイル名を受け取り、XML形式のJSeMデータを出力する。
-tsvFile2XML :: FilePath -> IO(LazyT.Text)
-tsvFile2XML tsvFile =
-  J.readFileUtf8 tsvFile
-  >>= tsv2XML
-  >>= return . LazyT.toStrict
-  >>= J.tidy
-  >>= return . LazyT.fromStrict
+--- | tsv形式のJSeMデータのファイル名を受け取り、XML形式のJSeMデータを出力する。
+-- tsvFile2XML :: FilePath -> IO(StrictT.Text)
+-- tsvFile2XML = J.readFileUtf8 >=> tsv2XML
 
 -- | タグ名をXMLタグ名に変換する。
 tag :: StrictT.Text -> X.Name
