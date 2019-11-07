@@ -24,7 +24,7 @@ data JSeMData = JSeMData {
   description :: StrictT.Text,
   answer :: JSeMLabel,
   phenomena :: [StrictT.Text],
-  inference_type :: [StrictT.Text],
+  inference_type :: StrictT.Text,
   note :: StrictT.Text,
   premises :: [StrictT.Text],
   hypothesis :: StrictT.Text
@@ -56,7 +56,7 @@ jsemData2Tsv jsemdata =
       "",
       StrictT.pack $ show $ answer j,
       if phenomena j == [] then "" else StrictT.concat ["\"", StrictT.intercalate ", " $ phenomena j, "\""],
-      if inference_type j == [] then "" else StrictT.concat ["\"", StrictT.intercalate ", " $ inference_type j, "\""],
+      inference_type j,
       StrictT.concat $ StrictT.lines $ note j
       ] ++ (premises j) ++ [hypothesis j]
       )) jsemdata)

@@ -23,11 +23,11 @@ import qualified JSeM.Cmd as J           --jsem
 
 -- | tsv形式のJSeMデータをTextとして受け取り、
 -- | XML形式のJSeMデータを出力する。
--- | （ここではnkfやtidyを使わない。必要な場合はshellから呼ぶこと）
+-- | （ここではnkfを使わない。必要な場合はshellから呼ぶこと）
 tsv2XML :: StrictT.Text -> IO(StrictT.Text)
 tsv2XML tsv  = do
-  problems <- mapM (tsvLine2xmlNode . chop . (StrictT.split (=='\t')) ) $ tail $ StrictT.lines tsv
-  J.tidy $ LazyT.toStrict $ nodes2XML "jsem-problems" problems
+  problems <- mapM (tsvLine2xmlNode . chop . (StrictT.split (=='\t')) ) $ StrictT.lines tsv
+  J.tidy $ LazyT.toStrict $ nodes2XML "jsem-dataset" problems
 
 --- | tsv形式のJSeMデータのファイル名を受け取り、XML形式のJSeMデータを出力する。
 -- tsvFile2XML :: FilePath -> IO(StrictT.Text)
@@ -53,7 +53,7 @@ nodes2XML name nodes =
 
 -- | TSVファイルの最小コラム数。
 numberOfColumns :: Int
-numberOfColumns = 9
+numberOfColumns = 13
 
 -- | 与えたtsvファイルのすべてについて、データ形式をチェック
 -- （現在はコラム数が numberOfColumns 以上であることを確認のみ）
@@ -81,25 +81,29 @@ chop lst = if last lst == StrictT.empty
              else lst
 
 -- | TSV形式のJSeMテキストをJSeM式のXMLノードに変換
--- +----------+---------------+---------------+------------------------------------------+
--- | entry!!0 |jsem_id        |通し番号。      |例：1                                      |
--- | entry!!1 |?              |テストの記述。   |例：GQ間の関係「ある」系-「すべて」系         |	
--- | entry!!2 |?              |dev/test の区別。|                                          |
--- | entry!!3 |answer         |出力の正解。     |例：yes/no/unknown                        |
--- | entry!!4 |phenomena      |含まれる言語現象。|例："Toritate, -nado (toritate particule)"|
--- | entry!!5 |inference_type |推論の分類。     |例： entailment                           |
--- | entry!!6 |note           |備考欄。        |                                          |
--- | entry!!7 |P1             |前提文。        |例：ある社員が異動を希望している。	         |
--- | entty!!8 |P2             |前提文。        |例：（空欄の場合はは<p idx="2">タグはなし）   |
--- | entry!!9 |H              |帰結文。        |例：すべての社員が異動を希望している。         |
--- +----------+---------------+---------------+------------------------------------------+
+-- | entry!!x
+-- +--------+---------------+---------------+------------------------------------------+
+-- | 1      |jsem_id        |通し番号。      |例：1                                      |
+-- | 2      |resource       |リンク先リソース |例：FraCaS                                 |
+-- | 3      |link_id        |リンク先の対応id |                                          |
+-- | 4      |translation    |対訳レベルで一致 |                                          |
+-- | 5      |same_phenomena |現象レベルで一致 |                                          |
+-- | 6      |desc           |テストの記述。   |例：GQ間の関係「ある」系-「すべて」系         |	
+-- | 7      |devtest        |dev/test の区別。|                                         |
+-- | 8      |answer         |出力の正解。     |例：yes/no/unknown                        |
+-- | 9      |phenomena      |含まれる言語現象。|例："Toritate, -nado (toritate particule)"|
+-- | 10     |inference_type |推論の分類。     |例： entailment                           |
+-- | 11     |note           |備考欄。        |                                          |
+-- | 12     |P1             |前提文。        |例：ある社員が異動を希望している。	       |
+-- | 13以降  |H              |帰結文。        |例：すべての社員が異動を希望している。        |
+-- +--------+---------------+---------------+------------------------------------------+
 -- | （entry7以降は前提文が任意個並び、最後の一つを帰結文とする仕様）
 tsvLine2xmlNode :: [StrictT.Text] -> IO(X.Node)
 tsvLine2xmlNode entry = do
   when (length entry < numberOfColumns) $ do
                              StrictT.putStrLn $ StrictT.concat [ StrictT.intercalate " " entry]
                              fail $ "the above entry has less than " ++ (show numberOfColumns) ++ " columns"
-  let (jsem_id:(_:(_:(answer:(entry4:(inference_type:(note:ph))))))) = entry
+  let (jsem_id:(resource:(linkid:(trans:(same:(desc:(_:(answer:(entry4:(inference_type:(note:ph))))))))))) = entry
       premises = init ph
       hypothesis = last ph
   phenomena <- case entry4 of
@@ -118,15 +122,21 @@ tsvLine2xmlNode entry = do
                         ("phenomena", phenomena),
                         ("inference_type",inference_type)
                        ])
-                    ([X.NodeElement $ X.Element 
-                        (tag "link")
-                        (M.fromList 
-                           [("resource","fracas")--,
-                            --("link_id",""),
-                            --("translation",""),
-                            --("same_phenomena","")
-                           ])
-                        []
+                    ((if linkid == ""
+                        then []
+                        else [X.NodeElement $ X.Element 
+                               (tag "link")
+                               (M.fromList [("resource",resource),
+                                            ("link_id",linkid),
+                                            ("translation",trans),
+                                            ("same_phenomena",same)
+                                            ])
+                               []]
+                     ) ++
+                     [X.NodeElement $ X.Element
+                        (tag "description")
+                        (M.fromList [])
+                        [X.NodeContent desc]
                      ] ++
                      ((flip map) (zip premises [1..]) $ \(premise,i) ->  
                        X.NodeElement $ X.Element
