@@ -5,7 +5,7 @@
 <!-- miscellaneous comment, not necessarily on a specific problem -->
 <!ELEMENT comment (#PCDATA)>
 
-<!ELEMENT problem (link?,p+,q?,h,a?,note*)>
+<!ELEMENT problem (link?,description?,p+,q?,h,a?,note*)>
 
 <!-- problem -->
 <!ATTLIST problem
@@ -14,19 +14,21 @@
   jsem_nonstandard (true) #IMPLIED
   language (fa|de|zh|jp) #REQUIRED
   phenomena CDATA #IMPLIED
-  inference_type CDATA #IMPLIED
+  inference_type (entailment|presupposition|CI|GCI|PCI) #IMPLIED
   >
-<!--  inference_type (entailment|presupposition|CI|GCI|PCI) -->
+<!--  inference_type CDATA -->
 
 <!-- link element shows the information of corresponding FraCaS entry -->
 <!ELEMENT link (#PCDATA)>
 <!ATTLIST link
-  resource CDATA #IMPLIED
-  link_id CDATA #IMPLIED
+  resource CDATA #REQUIRED
+  link_id CDATA #REQUIRED
   translation (yes|no|unknown) #IMPLIED
   same_phenomena (yes|no|unknown) #IMPLIED
   >
-	  
+
+<!ELEMENT description (#PCDATA)>
+
 <!-- premise elements, possibly more than one -->
 <!ELEMENT p (script,english*)>
 <!ATTLIST p

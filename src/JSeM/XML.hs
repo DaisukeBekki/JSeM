@@ -50,11 +50,11 @@ xml2problems xml = do
 problem2JSeMData :: X.Cursor -> IO(JSeMData)
 problem2JSeMData problem = do
   let j_jsem_id = StrictT.concat $ [problem] >>= X.laxAttribute "jsem_id"
-      j_link = [problem] >>= X.child >>= X.element "link"
-      j_resource = StrictT.concat $ j_link >>= X.laxAttribute "resource" 
-      j_link_id = StrictT.concat $ j_link >>= X.laxAttribute "linkid" 
-      j_translation = StrictT.concat $ j_link >>= X.laxAttribute "translation" 
-      j_same_phenomena = StrictT.concat $ j_link >>= X.laxAttribute "same_phenomena" 
+      j_linktag = [problem] >>= X.child >>= X.element "link"
+      j_resource = StrictT.concat $ j_linktag >>= X.laxAttribute "resource" 
+      j_link_id = StrictT.concat $ j_linktag >>= X.laxAttribute "linkid" 
+      j_translation = StrictT.concat $ j_linktag >>= X.laxAttribute "translation" 
+      j_same_phenomena = StrictT.concat $ j_linktag >>= X.laxAttribute "same_phenomena" 
       j_desc = StrictT.concat $ [problem] >>= X.child >>= X.element "description" >>= X.child >>= X.content
       j_phenomena = map (StrictT.strip) $ [problem] >>= X.laxAttribute "phenomena" >>= StrictT.split (==',')
       j_inference_type = StrictT.concat $ [problem] >>= X.laxAttribute "inference_type"

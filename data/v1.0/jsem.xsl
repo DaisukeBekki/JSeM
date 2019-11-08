@@ -9,9 +9,10 @@
     <html>
       <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <title>FraCas Project</title>
+        <title>JSeM dataset</title>
         <style>
           body {
+            background: lightcyan;
             font-family: Lucida Sans, Arial, Helvetica, sans-serif;
             font-size: 12px;
           }
@@ -78,20 +79,11 @@
   <!-- problem -->
   <xsl:template match="problem">
     <div class="problem">
-      <table>
+      <table bgcolor="white" >
         <tr>
-
-          <!-- id -->
           <td  width="100">
             jsem-id:<xsl:value-of select="@jsem_id"/>
           </td>
-		  
-<!--		   <td class="prob-language">
-            lang: <xsl:value-of select="@language"/>
-          </td> -->
-
-
-          <!-- answer -->
           <xsl:if test="@answer">
             <td width="150">
               answer: 
@@ -134,12 +126,10 @@
                   </font>
           </td>
         </tr>
-      </table>
 
-      <table>
-        <xsl:apply-templates select="link"/>
+      <xsl:apply-templates select="link"/>
+      <xsl:apply-templates select="description"/>
       </table>
-
 
       <table width="100%">
         <xsl:apply-templates select="p"/>
@@ -154,7 +144,7 @@
   </xsl:template>
 
 <!-- link -->
-        <xsl:template match="link">
+  <xsl:template match="link">
 	<tr>
 	<td width="100"/>
 	<td width="150">
@@ -169,6 +159,13 @@
 	</tr>
   </xsl:template>
 
+  <xsl:template match="description">
+    <tr>
+      <td colspan="2" valign="top">
+        Description: <xsl:value-of select="." />
+      </td>
+    </tr>
+  </xsl:template>
 
   <!-- premise -->
   <xsl:template match="p">
