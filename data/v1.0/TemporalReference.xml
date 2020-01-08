@@ -1,64 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE jsem-problems SYSTEM "jsem.dtd">
+<!DOCTYPE jsem-dataset SYSTEM "jsem.dtd">
 <?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
-<jsem-problems>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="645" language="jp"
+<jsem-dataset>
+  <problem answer="yes" inference_type="entailment" jsem_id="644"
+  language="jp"
   phenomena="temporal reference, standard use of tense">
-    <link resource="fracas" />
+    <link link_id="251" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ITELはバーミンガムに工場を持っている。</script>
+    </p>
+    <h>
+      <script>ITELは現在バーミンガムに工場を持っている。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="645"
+  language="jp"
+  phenomena="temporal reference, standard use of tense">
+    <link link_id="252" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>1992年以来、ITELはバーミンガムにある。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>現在、1996年である。</script>
-    </p>
-    <p idx="4">
-      <script></script>
     </p>
     <h>
       <script>ITELは1993年にはバーミンガムにあった。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="646" language="jp"
   phenomena="temporal reference, standard use of tense">
-    <link resource="fracas" />
+    <link link_id="253" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELは1992年以来、新人編集者を育成してきた。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>現在、1996年である。</script>
-    </p>
-    <p idx="4">
-      <script></script>
     </p>
     <h>
       <script>ITELは1993年に新人編集者を育成した。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="647" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="647"
+  language="jp"
   phenomena="temporal reference, standard use of tense">
-    <link resource="fracas" />
+    <link link_id="254" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELは1992年以来、事業を拡張している。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>現在、1996年である。</script>
-    </p>
-    <p idx="4">
-      <script></script>
     </p>
     <h>
       <script>ITELは1993年に事業を拡張した。</script>
@@ -67,42 +69,34 @@
     Chinese but I'm wondering if it is really true. At least it
     should be "yes" in Japanese.</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="648" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="648"
+  language="jp"
   phenomena="temporal reference, standard use of tense">
-    <link resource="fracas" />
+    <link link_id="255" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>1992年以来、ITELは損失を出している。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>現在、1996年である。</script>
-    </p>
-    <p idx="4">
-      <script></script>
     </p>
     <h>
       <script>ITELは1993年に損失を出した。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="649" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="649"
+  language="jp"
   phenomena="temporal reference, standard use of tense">
-    <link resource="fracas" />
+    <link link_id="257" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELは1992年以来損失を出している。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>現在、1996年である。</script>
-    </p>
-    <p idx="4">
-      <script></script>
     </p>
     <h>
       <script>ITELは1993年に損失を出した。</script>
@@ -110,15 +104,14 @@
     <note>
     AK:fracas-256の例はP1に曖昧性があるとされているが、日本語ではそのような曖昧性は見られない。</note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="650" language="jp"
+  <problem answer="no" inference_type="entailment" jsem_id="650"
+  language="jp"
   phenomena="temporal reference, standard use of tense">
-    <link resource="fracas" />
+    <link link_id="258" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>1993年3月にAPCOMはITELを設立した。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>ITELは1992年に存在した。</script>
@@ -126,42 +119,32 @@
     <note>DB: This test involves the lexical semantics of
     "seturitu-suru".</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="651" language="jp"
-  phenomena="temporal reference, indexical">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="651"
+  language="jp" phenomena="temporal reference, indexical">
+    <link link_id="259" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>学会は1994年7月4日に始まった。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>その学会は2日間にわたった。</script>
-    </p>
-    <p idx="4">
-      <script></script>
     </p>
     <h>
       <script>学会は1994年7月8日には終了していた。</script>
     </h>
     <note>AK:be overを「終了している」と結果残存のテイル形に対応させた。</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="652" language="jp"
-  phenomena="temporal reference, indexical">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="652"
+  language="jp" phenomena="temporal reference, indexical">
+    <link link_id="260" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>昨日、APCOMは契約書に署名した。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>今日は7月14日土曜日だ。</script>
-    </p>
-    <p idx="4">
-      <script></script>
     </p>
     <h>
       <script>APCOMは13日の金曜日に契約書に署名した。</script>
@@ -169,21 +152,16 @@
     <note>comments for FraCaS by Bill MacCartney: The odd
     punctuation in the question was in the original.</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="653" language="jp"
-  phenomena="temporal reference, before, after">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="653"
+  language="jp" phenomena="temporal reference, before, after">
+    <link link_id="261" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスはジョーンズが去る前に去った。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>ジョーンズはアンダーソンが去る前に去った。</script>
-    </p>
-    <p idx="4">
-      <script></script>
     </p>
     <h>
       <script>スミスはアンダーソンが去る前に去った。</script>
@@ -191,48 +169,35 @@
     <note>comments for FraCaS by Bill MacCartney: Original is
     degenerate problem; this is my fabrication.</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="654" language="jp"
-  phenomena="temporal reference, before, after">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="654"
+  language="jp" phenomena="temporal reference, before, after">
+    <link link_id="262" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスはジョーンズが去った後に去った。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>ジョーンズはアンダーソンが去った後に去った。</script>
-    </p>
-    <p idx="4">
-      <script></script>
     </p>
     <h>
       <script>スミスはアンダーソンが去った後に去った。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="655" language="jp"
-  phenomena="temporal reference, before, after">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="655"
+  language="jp" phenomena="temporal reference, before, after">
+    <link link_id="264" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスが去った。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>ジョーンズが去った。</script>
     </p>
-    <p idx="4">
-      <script></script>
-    </p>
-    <p idx="5">
+    <p idx="3">
       <script>スミスはジョーンズが去る前に去った。</script>
-    </p>
-    <p idx="6">
-      <script></script>
     </p>
     <h>
       <script>ジョーンズはスミスが去った後で去った。</script>
@@ -241,110 +206,80 @@
     by Bill MacCartney: Original is degenerate problem; this is my
     fabrication.</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="656" language="jp"
-  phenomena="temporal reference, before, after">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="656"
+  language="jp" phenomena="temporal reference, before, after">
+    <link link_id="265" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスが去った。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>ジョーンズが去った。</script>
     </p>
-    <p idx="4">
-      <script></script>
-    </p>
-    <p idx="5">
+    <p idx="3">
       <script>スミスはジョーンズが去った後に去った。</script>
-    </p>
-    <p idx="6">
-      <script></script>
     </p>
     <h>
       <script>ジョーンズはスミスが去る前に去った。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="657" language="jp"
-  phenomena="temporal reference, before, after">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="657"
+  language="jp" phenomena="temporal reference, before, after">
+    <link link_id="266" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスが去った。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>ジョーンズが去った。</script>
     </p>
-    <p idx="4">
-      <script></script>
-    </p>
-    <p idx="5">
+    <p idx="3">
       <script>ジョーンズはスミスが去る前に去った。</script>
-    </p>
-    <p idx="6">
-      <script></script>
     </p>
     <h>
       <script>スミスはジョーンズが去る前に去った。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="658" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="658"
+  language="jp"
   phenomena="temporal reference, before, after, comparative deletion">
 
-    <link resource="fracas" />
+    <link link_id="267" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ジョーンズが契約書を修正した。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>スミスが契約書を修正した。</script>
     </p>
-    <p idx="4">
-      <script></script>
-    </p>
-    <p idx="5">
+    <p idx="3">
       <script>ジョーンズがスミスより先に契約書を修正した。</script>
-    </p>
-    <p idx="6">
-      <script></script>
     </p>
     <h>
       <script>スミスはジョーンズより後に契約書を修正した。</script>
     </h>
     <note>AK: これはcomparative deletionの例でもある。</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="659" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="659"
+  language="jp"
   phenomena="temporal reference, before, after, comparative deletion">
 
-    <link resource="fracas" />
+    <link link_id="268" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ジョーンズが契約書を修正した。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>スミスが契約書を修正した。</script>
     </p>
-    <p idx="4">
-      <script></script>
-    </p>
-    <p idx="5">
+    <p idx="3">
       <script>ジョーンズがスミスより後に契約書を修正した。</script>
-    </p>
-    <p idx="6">
-      <script></script>
     </p>
     <h>
       <script>スミスはジョーンズより先に契約書を修正した。</script>
@@ -352,27 +287,20 @@
     <note>DB: 「～より後に」は日本語では少々不自然。AK: これはcomparative
     deletionの例でもある。</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="660" language="jp"
   phenomena="temporal reference, before, after">
-    <link resource="fracas" />
+    <link link_id="269" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスが泳いだ。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>ジョーンズが泳いだ。</script>
     </p>
-    <p idx="4">
-      <script></script>
-    </p>
-    <p idx="5">
+    <p idx="3">
       <script>スミスはジョーンズが泳ぐ前に泳いだ。</script>
-    </p>
-    <p idx="6">
-      <script></script>
     </p>
     <h>
       <script>ジョーンズはスミスが泳いだ後に泳いだ。</script>
@@ -381,72 +309,60 @@
     verbで成り立っていたような推論（X after Y iff Y before
     X）が必ずしも成り立たないという例。日本語の「前」「後」にも同様の現象がみられるように思われる。</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="661" language="jp"
-  phenomena="temporal reference, before, after">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="661"
+  language="jp" phenomena="temporal reference, before, after">
+    <link link_id="270" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスが海岸まで泳いだ。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>ジョーンズが海岸まで泳いだ。</script>
     </p>
-    <p idx="4">
-      <script></script>
-    </p>
-    <p idx="5">
+    <p idx="3">
       <script>スミスはジョーンズが海岸まで泳ぐ前に、海岸まで泳いだ。</script>
-    </p>
-    <p idx="6">
-      <script></script>
     </p>
     <h>
       <script>ジョーンズはスミスが海岸まで泳いだ後に、海岸まで泳いだ。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="662" language="jp"
   phenomena="temporal reference, before, after">
-    <link resource="fracas" />
+    <link link_id="275" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスは激怒する前に会議室から出た。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスは激怒した。</script>
     </h>
     <note>AK:「前に」のcounterfacturalな解釈</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="663" language="jp"
   phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+    <link link_id="277" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスは1991年にバーミンガムに住んでいた。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスは1992年にバーミンガムに住んでいた。</script>
     </h>
     <note>comments in original FraCaS: Stative</note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="664" language="jp"
-  phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+  <problem answer="no" inference_type="entailment" jsem_id="664"
+  language="jp" phenomena="temporal reference, temporal adverb">
+    <link link_id="278" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスは1991年に最初の小説を書いた。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスは1992年に最初の小説を書いた。</script>
@@ -454,15 +370,14 @@
     <note>comments in original FraCaS: (Unrepeatable)
     accomplishment</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="665" language="jp"
   phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+    <link link_id="280" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスは1991年に小説を書いた。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスは1992年に小説を書いた。</script>
@@ -470,30 +385,27 @@
     <note>comments in original FraCaS: (Repeatable)
     accomplishment</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="666" language="jp"
   phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+    <link link_id="281" resource="fracas" same_phenomena="unknown"
+    translation="no" />
+    <description></description>
     <p idx="1">
       <script>山田は1991年に焼き肉店を経営していた。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>山田は1992年にその店を経営していた。</script>
     </h>
     <note>comments in original FraCaS: Activity</note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="667" language="jp"
-  phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+  <problem answer="no" inference_type="entailment" jsem_id="667"
+  language="jp" phenomena="temporal reference, temporal adverb">
+    <link link_id="282" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスが1991年に新種を発見した。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスはそれを1992年に発見した。</script>
@@ -501,15 +413,14 @@
     <note>comments in original FraCaS: (Unrepeatable)
     achievement</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="668" language="jp"
   phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+    <link link_id="283" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスが1991年に新種を発見した。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスは1992年に新種を発見した。</script>
@@ -517,36 +428,30 @@
     <note>comments in original FraCaS: (Repeatable)
     achievement</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="669" language="jp"
-  phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="669"
+  language="jp" phenomena="temporal reference, temporal adverb">
+    <link link_id="284" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスが2時間以内に報告書を書いた。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>スミスは午前8時にその報告書を書き始めた。</script>
-    </p>
-    <p idx="4">
-      <script></script>
     </p>
     <h>
       <script>スミスは午前11時までにその報告書を書き終えた。</script>
     </h>
     <note>comments in original FraCaS: Accomplishment</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="670" language="jp"
   phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+    <link link_id="285" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスが2時間以内に報告書を書いた。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスはその報告書を書くのに2時間を費やした。</script>
@@ -558,75 +463,67 @@
     DB: the Japanese expression "2時間以内に" is not ambiguous in the
     sense of the above comment on "two different readings".</note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="671" language="jp"
-  phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+  <problem answer="no" inference_type="entailment" jsem_id="671"
+  language="jp" phenomena="temporal reference, temporal adverb">
+    <link link_id="286" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスが2時間以内に報告書を書いた。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスはその報告書を書くのに2時間以上費やした。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="672" language="jp"
   phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+    <link link_id="287" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスが2時間以内に報告書を書いた。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスは1時間以内に報告書を書いた。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="673" language="jp"
-  phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="673"
+  language="jp" phenomena="temporal reference, temporal adverb">
+    <link link_id="288" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスが2時間以内に報告書を書いた。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスは報告書を書いた。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="674" language="jp"
-  phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="674"
+  language="jp" phenomena="temporal reference, temporal adverb">
+    <link link_id="290" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスは2時間以内に新種を発見した。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスは新種を発見した。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="675" language="jp"
   phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+    <link link_id="291" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスは2時間以内に多くの新種を発見した。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスは新種を発見するのに2時間を費やした。</script>
@@ -634,105 +531,91 @@
     <note>comments in original FraCaS: Repeated achievement can
     last two hours. DB: 中国語版ではYES</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="676" language="jp"
-  phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="676"
+  language="jp" phenomena="temporal reference, temporal adverb">
+    <link link_id="298" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスは2年間バーミンガムに住んだ。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスは1年間バーミンガムに住んだ。</script>
     </h>
     <note>comments in original FraCaS: State</note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="677" language="jp"
-  phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+  <problem answer="no" inference_type="entailment" jsem_id="677"
+  language="jp" phenomena="temporal reference, temporal adverb">
+    <link link_id="299" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスは2年間バーミンガムに住んだ。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスはちょうど1年間バーミンガムに住んだ。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="678" language="jp"
-  phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="678"
+  language="jp" phenomena="temporal reference, temporal adverb">
+    <link link_id="300" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスはバーミンガムに2年住んだ。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスはバーミンガムに住んだ。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="679" language="jp"
-  phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="679"
+  language="jp" phenomena="temporal reference, temporal adverb">
+    <link link_id="301" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスは自分の事業を2年間営んだ。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスは自分の事業を1年間営んだ。</script>
     </h>
     <note>comments in original FraCaS: Activity</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="680" language="jp"
-  phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="680"
+  language="jp" phenomena="temporal reference, temporal adverb">
+    <link link_id="302" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスは自分の事業を2年間営んだ。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスは自分の事業を営んだ。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="681" language="jp"
-  phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="681"
+  language="jp" phenomena="temporal reference, temporal adverb">
+    <link link_id="303" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスは2時間報告書を書いた。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスは1時間報告書を書いた。</script>
     </h>
     <note>comments in original FraCaS: Accomplishment</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="682" language="jp"
-  phenomena="temporal reference, temporal adverb">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="682"
+  language="jp" phenomena="temporal reference, temporal adverb">
+    <link link_id="304" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスは2時間報告書を書いた。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスは報告書を書いた。</script>
@@ -741,31 +624,29 @@
     translated into a way that doesn't care if it is finished but
     if it is written.</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="683" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="683"
+  language="jp"
   phenomena="temporal reference, quantificational adverbial">
-    <link resource="fracas" />
+    <link link_id="307" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>1994年、ITELは毎月進捗報告を送った。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>ITELは1994年7月に進捗報告を送った。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="UNDEF" inference_type="&quot;entailment&quot;"
-  jsem_id="684" language="jp"
+  <problem answer="undef" inference_type="entailment" jsem_id="684"
+  language="jp"
   phenomena="temporal reference, quantificational adverbial, scope ambiguity">
 
-    <link resource="fracas" />
+    <link link_id="308" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスは毎週代議士に手紙を書いた。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスが毎週手紙を書いた代議士が存在する。</script>
@@ -773,21 +654,17 @@
     <note>DB: 「代議士」の存在量化と「毎週」のスコープの問題。AK:
     毎週＞代議士と解釈すればunknown、代議士＞毎週と解釈すればyes。</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="685" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="685"
+  language="jp"
   phenomena="temporal reference, anaphoric dimension">
-    <link resource="fracas" />
+    <link link_id="311" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスは5時15分に家を出た。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>それから、彼女はタクシーを拾って駅に向かった。</script>
-    </p>
-    <p idx="4">
-      <script></script>
     </p>
     <h>
       <script>スミスはタクシーを拾って駅に向かう前に、家を出た。</script>
@@ -799,21 +676,17 @@
     translation of ``take a taxi to the station'' into
     Japanese.</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="686" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="686"
+  language="jp"
   phenomena="temporal reference, adverbs of quantification">
-    <link resource="fracas" />
+    <link link_id="312" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELはいつも報告書を遅れて提出する。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>1993年にITELは報告書を提出した。</script>
-    </p>
-    <p idx="4">
-      <script></script>
     </p>
     <h>
       <script>ITELは1993年に報告書を遅れて提出した。</script>
@@ -822,21 +695,17 @@
     have "delivered" in the question. DB:
     'always'のテストが目的なら、もっと自然な日本語訳がある述語を選びたい。</note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="687" language="jp"
+  <problem answer="no" inference_type="entailment" jsem_id="687"
+  language="jp"
   phenomena="temporal reference, adverbs of quantification">
-    <link resource="fracas" />
+    <link link_id="313" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELは決して報告書を遅れて提出することはない。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>1993年にITELは報告書を提出した。</script>
-    </p>
-    <p idx="4">
-      <script></script>
     </p>
     <h>
       <script>ITELは1993年に報告書を遅れて提出した。</script>
@@ -844,27 +713,20 @@
     <note>comments for FraCaS by Bill MacCartney: the original did
     have "delivered" in the question. DB: 否定はなお厳しい。</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="688" language="jp"
   phenomena="temporal reference, complex example">
-    <link resource="fracas" />
+    <link link_id="314" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスは1995年5月5日にパリに到着した。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>今日は1995年5月15日だ。</script>
     </p>
-    <p idx="4">
-      <script></script>
-    </p>
-    <p idx="5">
+    <p idx="3">
       <script>彼女はまだパリに滞在している。</script>
-    </p>
-    <p idx="6">
-      <script></script>
     </p>
     <h>
       <script>スミスは1995年5月7日にパリにいた。</script>
@@ -872,69 +734,51 @@
     <note>DB: the answers were yes in both English and Chinese, I
     don't know why.</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="689" language="jp"
-  phenomena="temporal reference, complex example">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="689"
+  language="jp" phenomena="temporal reference, complex example">
+    <link link_id="315" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスがカトマンズに到着した時、彼女は3日間旅をしていた。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>スミスはカトマンズに到着した前日に旅をしていた。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="690" language="jp"
-  phenomena="temporal reference, complex example">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="690"
+  language="jp" phenomena="temporal reference, complex example">
+    <link link_id="317" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>すべての代議士がこの報告書を読み終えている。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>どの二人の代議士も、それを同時に読んだことはない。</script>
     </p>
-    <p idx="4">
-      <script></script>
-    </p>
-    <p idx="5">
+    <p idx="3">
       <script>どの代議士もその報告書を読むのに半日以上を費やした。</script>
     </p>
-    <p idx="6">
-      <script></script>
-    </p>
-    <p idx="7">
+    <p idx="4">
       <script>代議士は16人いる。</script>
-    </p>
-    <p idx="8">
-      <script></script>
     </p>
     <h>
       <script>代議士達は、その報告書を読むのに1週間以上費やした。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="691" language="jp"
-  phenomena="temporal reference, complex example">
-    <link resource="fracas" />
+  <problem answer="no" inference_type="entailment" jsem_id="691"
+  language="jp" phenomena="temporal reference, complex example">
+    <link link_id="318" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ジョーンズがプログラムを更新している間、メアリーがやってきて彼に重役会の話を伝えた。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>彼女は、彼が更新する前に話を終えた。</script>
-    </p>
-    <p idx="4">
-      <script></script>
     </p>
     <h>
       <script>メアリーの話は、ジョーンズのプログラムの更新と同じくらい続いた。</script>
@@ -942,26 +786,21 @@
     <note>DB: The Japanese version of P2 does not use gapping,
     otherwise it would be unnatural.</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="692" language="jp"
-  phenomena="temporal reference, complex example">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="692"
+  language="jp" phenomena="temporal reference, complex example">
+    <link link_id="319" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>
       APCOMは現在の自社ビルを購入するまで、以前の自社ビルの借入金の利子を8年間支払っていた。</script>
     </p>
     <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>APCOMは現在の自社ビルを購入して以来、その借入金の利子を10年以上支払っている。</script>
-    </p>
-    <p idx="4">
-      <script></script>
     </p>
     <h>
       <script>APCOMは合計15年以上にわたって借入金の利子を支払っている。</script>
     </h>
     <note></note>
   </problem>
-</jsem-problems>
+</jsem-dataset>

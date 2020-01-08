@@ -7,5 +7,5 @@ main :: IO()
 main = do
   (dataFolder:_) <- getArgs
   _ <- D.doesDirectoryExist dataFolder 
-  xmlFiles <- map (dataFolder </>) <$> filter (isExtensionOf "xml") <$> D.listDirectory dataFolder
-  mapM_ J.xmllint xmlFiles
+  map (dataFolder </>) <$> filter (isExtensionOf "xml") <$> D.listDirectory dataFolder
+  >>= mapM_ J.xmllint 

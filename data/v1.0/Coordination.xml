@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE jsem-problems SYSTEM "jsem.dtd">
+<!DOCTYPE jsem-dataset SYSTEM "jsem.dtd">
 <?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
-<jsem-problems>
-  <problem answer="yes"
-  inference_type="&quot;presupposition accomodation, entailment&quot;"
-  jsem_id="Coo2" language="jp"
+<jsem-dataset>
+  <problem answer="unknown" inference_type="" jsem_id="Coo1"
+  language="jp"
   phenomena="Coordination, -ya (parallel marker), -to (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《一部列挙か全部列挙かが不明の「や」→「〜と〜以外のNにも」》</description>
+    <p idx="1">
+      <script>花子は、太郎や次郎に声をかけた。</script>
+    </p>
+    <h>
+      <script>花子は、太郎と次郎以外の人にも声をかけた。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes"
+  inference_type="presupposition accomodation" jsem_id="Coo2"
+  language="jp"
+  phenomena="Coordination, -ya (parallel marker), -to (parallel marker)">
+
+    <description>《一部列挙の「や」→「〜と〜以外のNにも」》</description>
     <p idx="1">
       <script>京都には、金閣寺や銀閣寺がある。</script>
     </p>
@@ -16,12 +29,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="no"
-  inference_type="&quot;presupposition accomodation, entailment&quot;"
+  <problem answer="no" inference_type="presupposition accomodation"
   jsem_id="Coo3" language="jp"
   phenomena="Coordination, -ya (parallel marker), -to (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《全部列挙の「や」→「〜と〜以外のNにも」》</description>
     <p idx="1">
       <script>1945年、広島や長崎に原爆が投下された。</script>
     </p>
@@ -35,7 +47,7 @@
   language="jp"
   phenomena="Coordination, -ya (parallel marker), -to (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「や」の連言解釈→「と」への言い換え》</description>
     <p idx="1">
       <script>太郎や次郎が来た。</script>
     </p>
@@ -49,7 +61,7 @@
   language="jp"
   phenomena="Coordination, -ya (parallel marker), -to (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「や」の連言解釈→「と」への言い換え》</description>
     <p idx="1">
       <script>太郎や次郎が来たら、お茶を出して欲しい。</script>
     </p>
@@ -63,7 +75,7 @@
   language="jp"
   phenomena="Coordination, -ya (parallel marker), -to (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「や」の連言解釈→「と」への言い換え》</description>
     <p idx="1">
       <script>来年、ジョンやビルが日本に来るかもしれない。</script>
     </p>
@@ -78,7 +90,7 @@
   </problem>
   <problem answer="no" inference_type="entailment" jsem_id="Coo7"
   language="jp" phenomena="Coordination, -ya (parallel marker)">
-    <link resource="fracas" />
+    <description>《「や」の選言解釈→「か」への言い換え》</description>
     <p idx="1">
       <script>太郎や次郎が来た。</script>
     </p>
@@ -92,7 +104,7 @@
   language="jp"
   phenomena="Coordination, -ya (parallel marker), -ka (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「や」の選言解釈→「か」への言い換え》</description>
     <p idx="1">
       <script>太郎や次郎が来たら、お茶を出して欲しい。</script>
     </p>
@@ -106,7 +118,7 @@
   language="jp"
   phenomena="Coordination, -ya (parallel marker), -ka (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「や」の選言解釈→「か」への言い換え》</description>
     <p idx="1">
       <script>来年、ジョンやビルが日本に来るかもしれない。</script>
     </p>
@@ -119,7 +131,7 @@
   language="jp"
   phenomena="Coordination, -ya (parallel marker), -ka (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「や」の選言解釈→「と」への言い換え》</description>
     <p idx="1">
       <script>私の結婚相手の条件は東大や京大を出ていることです。</script>
     </p>
@@ -133,7 +145,7 @@
   language="jp"
   phenomena="Coordination, -ya (parallel marker), -ka (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「や」の連言解釈→「か」への言い換え》</description>
     <p idx="1">
       <script>鉛筆や消しゴムを受け取ったら試験を始めてよろしい。</script>
     </p>
@@ -147,7 +159,7 @@
   language="jp"
   phenomena="Coordination, -ya (parallel marker), -to (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「や」の連言解釈→「と」への言い換え》</description>
     <p idx="1">
       <script>この夏、旅行やライブに行ったら、お金がなくなってしまった。</script>
     </p>
@@ -157,11 +169,11 @@
     <note>田中大輝
     (2016)　参考の例文は(27a)。条件節でも、時制を持ち仮定を現さないものの中では選言解釈が不可能な例。</note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo13"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo13"
   language="jp"
   phenomena="Coordination, -ya (parallel marker), -ka (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「や」の選言解釈→「か」への言い換え》</description>
     <p idx="1">
       <script>この夏、旅行やライブに行ったら、お金がなくなってしまった。</script>
     </p>
@@ -175,7 +187,7 @@
   language="jp"
   phenomena="Coordination, -ya (parallel marker), -to (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「や」の連言解釈→「と」への言い換え》</description>
     <p idx="1">
       <script>母は、毛布や布団を片付けると、次にアイロンに取りかかった。</script>
     </p>
@@ -185,11 +197,11 @@
     <note>田中大輝
     (2016)　参考の例文は(27b)。条件節でも、時制を持ち仮定を現さないものの中では選言解釈が不可能な例。</note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo15"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo15"
   language="jp"
   phenomena="Coordination, -ya (parallel marker), -to (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《複数性を要求する表現と共起する「と」は「や」に言い換えできない》</description>
     <p idx="1">
       <script>コーヒーとミルクを混ぜたらカフェオレになる。</script>
     </p>
@@ -198,11 +210,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo16"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo16"
   language="jp"
   phenomena="Coordination, -ya (parallel marker), -to (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《複数性を要求する表現と共起する「と」は「や」に言い換えできない》</description>
     <p idx="1">
       <script>昨日の太郎と花子の結婚式では、次郎が乾杯の挨拶をした。</script>
     </p>
@@ -211,11 +223,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Coo17"
-  language="jp"
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="Coo17" language="jp"
   phenomena="Coordination, -ya (parallel marker), -to (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《複数性を要求する表現と共起する「と」は「や」に言い換えできない》</description>
     <p idx="1">
       <script>太郎と花子は互いの業績を讃え合った。</script>
     </p>
@@ -224,9 +236,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo18"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo18"
   language="jp" phenomena="Coordination, -ya (parallel marker)">
-    <link resource="fracas" />
+    <description>《「や」の選言解釈が不自然な例》</description>
     <p idx="1">
       <script>母は、毛布や布団を片付けると、次にアイロンに取りかかった。</script>
     </p>
@@ -236,9 +248,9 @@
     <note>田中大輝
     (2016)　参考の例文は(27b)。条件節でも、時制を持ち仮定を現さないものの中では選言解釈が不可能な例。</note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo19"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo19"
   language="jp" phenomena="Coordination, -ya (parallel marker)">
-    <link resource="fracas" />
+    <description>《「や」は複数性を要求する表現と共起できない：「〜を〜と」→等位接続》</description>
     <p idx="1">
       <script>コーヒーをミルクと混ぜたらカフェオレになる。</script>
     </p>
@@ -247,9 +259,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo20"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo20"
   language="jp" phenomena="Coordination, -ya (parallel marker)">
-    <link resource="fracas" />
+    <description>《「や」は複数性を要求する表現と共起できない：「〜は〜と」→等位接続》</description>
     <p idx="1">
       <script>太郎は花子と知人の紹介で出会った。</script>
     </p>
@@ -258,9 +270,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo21"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo21"
   language="jp" phenomena="Coordination, -ya (parallel marker)">
-    <link resource="fracas" />
+    <description>《「や」は複数性を要求する表現と共起できない：「〜は〜と」→等位接続》</description>
     <p idx="1">
       <script>太郎は花子と互いの業績を讃え合った。</script>
     </p>
@@ -269,9 +281,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo22"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo22"
   language="jp" phenomena="Coordination, -ya (parallel marker)">
-    <link resource="fracas" />
+    <description>《「や」の連言解釈が不自然な例》</description>
     <p idx="1">
       <script>ブヨやアブに刺されても、むやみに体を動かしてはいけません。</script>
     </p>
@@ -280,9 +292,9 @@
     </h>
     <note>「と」にも「か」にも言い換えが不自然な例。</note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo23"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo23"
   language="jp" phenomena="Coordination, -ya (parallel marker)">
-    <link resource="fracas" />
+    <description>《「や」の選言解釈が不自然な例》</description>
     <p idx="1">
       <script>ブヨやアブに刺されても、むやみに体を動かしてはいけません。</script>
     </p>
@@ -295,7 +307,7 @@
   language="jp"
   phenomena="Coordination, -ya (parallel marker), -to (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《全部列挙の「や」が「と」に置き換えにくい例》</description>
     <p idx="1">
       <script>太郎は、いつも放課後に友達と野球やサッカーをする。</script>
     </p>
@@ -308,7 +320,7 @@
   language="jp"
   phenomena="Coordination, -ya (parallel marker), -to (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《全部列挙の「や」が「と」に置き換えにくい例》</description>
     <p idx="1">
       <script>花子は休みがとれると海外旅行や国内旅行に出かける。</script>
     </p>
@@ -319,7 +331,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo26"
   language="jp" phenomena="Coordination, -ya (parallel marker)">
-    <link resource="fracas" />
+    <description>《「や」のconjunction reduction》</description>
     <p idx="1">
       <script>太郎や次郎は学生だ。</script>
     </p>
@@ -330,7 +342,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo27"
   language="jp" phenomena="Coordination, -ya (parallel marker)">
-    <link resource="fracas" />
+    <description>《「や」のconjunction reduction》</description>
     <p idx="1">
       <script>花子は太郎や次郎に声をかけた。</script>
     </p>
@@ -339,9 +351,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo28"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo28"
   language="jp" phenomena="Coordination, -ya (parallel marker)">
-    <link resource="fracas" />
+    <description>《「や」のconjunction reductionが不可能な例》</description>
     <p idx="1">
       <script>調査委員会のメンバーは弁護士や会計士だ。</script>
     </p>
@@ -354,7 +366,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo29"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《一部列挙か全部列挙かが不明の「と」→「〜と〜以外のNにも」》</description>
     <p idx="1">
       <script>花子は、太郎と次郎に声をかけた。</script>
     </p>
@@ -365,7 +377,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo30"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《一部列挙の「と」→「〜と〜以外のNにも」》</description>
     <p idx="1">
       <script>京都には、金閣寺と銀閣寺がある。</script>
     </p>
@@ -374,11 +386,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="no"
-  inference_type="&quot;presupposition accomodation, entailment&quot;"
+  <problem answer="no" inference_type="presupposition accomodation"
   jsem_id="Coo31" language="jp"
   phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《全部列挙の「と」→「〜と〜以外のNにも」》</description>
     <p idx="1">
       <script>1945年、広島と長崎に原爆が投下された。</script>
     </p>
@@ -391,7 +402,7 @@
   language="jp"
   phenomena="Coordination, -to (parallel marker), -ya (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「と」→「や」への言い換え》</description>
     <p idx="1">
       <script>太郎と次郎が来た。</script>
     </p>
@@ -404,7 +415,7 @@
   language="jp"
   phenomena="Coordination, -to (parallel marker), -ya (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「と」→「や」への言い換え》</description>
     <p idx="1">
       <script>太郎と次郎が来たら、お茶を出して欲しい。</script>
     </p>
@@ -417,7 +428,7 @@
   language="jp"
   phenomena="Coordination, -to (parallel marker), -ya (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「と」→「や」への言い換え》</description>
     <p idx="1">
       <script>来年、ジョンとビルが日本に来るかもしれない。</script>
     </p>
@@ -428,7 +439,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo35"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《複数性を要求する表現と共起する「と」：等位接続→「〜を〜と」》</description>
     <p idx="1">
       <script>コーヒーとミルクを混ぜたらカフェオレになる。</script>
     </p>
@@ -439,7 +450,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo36"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《複数性を要求する表現と共起する「と」：等位接続→「〜は〜と」》</description>
     <p idx="1">
       <script>太郎と花子は知人の紹介で出会った。</script>
     </p>
@@ -450,7 +461,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo37"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《複数性を要求する表現と共起する「と」：等位接続→「〜は〜と」》</description>
     <p idx="1">
       <script>太郎と花子は互いの業績を讃え合った。</script>
     </p>
@@ -461,7 +472,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo38"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《複数性を要求する表現と共起する「と」：「〜を〜と」→等位接続》</description>
     <p idx="1">
       <script>コーヒーをミルクと混ぜたらカフェオレになる。</script>
     </p>
@@ -472,7 +483,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo39"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《複数性を要求する表現と共起する「と」：「〜は〜と」→等位接続》</description>
     <p idx="1">
       <script>太郎は花子と知人の紹介で出会った。</script>
     </p>
@@ -483,7 +494,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo40"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《複数性を要求する表現と共起する「と」：「〜は〜と」→等位接続》</description>
     <p idx="1">
       <script>太郎は花子と互いの業績を讃え合った。</script>
     </p>
@@ -496,7 +507,7 @@
   language="jp"
   phenomena="Coordination, -to (parallel marker), -ka (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「と」→「か」への言い換え》</description>
     <p idx="1">
       <script>太郎と次郎が来た。</script>
     </p>
@@ -509,7 +520,7 @@
   language="jp"
   phenomena="Coordination, -to (parallel marker), -ka (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「と」→「か」への言い換え》</description>
     <p idx="1">
       <script>太郎と次郎が来たら、お茶を出して欲しい。</script>
     </p>
@@ -522,7 +533,7 @@
   language="jp"
   phenomena="Coordination, -to (parallel marker), -ka (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「と」→「か」への言い換え》</description>
     <p idx="1">
       <script>来年、ジョンとビルが日本に来るかもしれない。</script>
     </p>
@@ -531,9 +542,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo44"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo44"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《複数性を要求する表現と共起する「と」は「か」に言い換えできない》</description>
     <p idx="1">
       <script>コーヒーとミルクを混ぜたらカフェオレになる。</script>
     </p>
@@ -542,9 +553,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo45"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo45"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《複数性を要求する表現と共起する「と」は「か」に言い換えできない》</description>
     <p idx="1">
       <script>昨日の太郎と花子の結婚式では、次郎が乾杯の挨拶をした。</script>
     </p>
@@ -553,9 +564,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Coo46"
-  language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="Coo46" language="jp"
+  phenomena="Coordination, -to (parallel marker)">
+    <description>《複数性を要求する表現と共起する「と」は「か」に言い換えできない》</description>
     <p idx="1">
       <script>太郎と花子は互いの業績を讃え合った。</script>
     </p>
@@ -566,7 +578,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo47"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《「と」のconjunction reduction》</description>
     <p idx="1">
       <script>太郎と次郎は学生だ。</script>
     </p>
@@ -577,7 +589,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo48"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《「と」のconjunction reduction》</description>
     <p idx="1">
       <script>花子は太郎と次郎に声をかけた。</script>
     </p>
@@ -586,9 +598,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo49"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo49"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《「と」のconjunction reductionが不可能な例》</description>
     <p idx="1">
       <script>コーヒーとミルクを混ぜたらカフェオレになる。</script>
     </p>
@@ -597,9 +609,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo50"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo50"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《「と」のconjunction reductionが不可能な例》</description>
     <p idx="1">
       <script>太郎と花子は知人の紹介で出会った。</script>
     </p>
@@ -608,9 +620,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo51"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo51"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《「と」のconjunction reductionが不可能な例》</description>
     <p idx="1">
       <script>太郎と花子は互いの業績を讃え合った。</script>
     </p>
@@ -619,9 +631,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo52"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo52"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《「と」のconjunction reductionが不可能な例》</description>
     <p idx="1">
       <script>調査委員会のメンバーは弁護士と会計士だ。</script>
     </p>
@@ -632,9 +644,10 @@
     参考の例文は(5)(6)（ただし英語のandについての例文）。「と」がset-union
     operatorと考えられる例。"</note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo53"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo53"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《「と」のconjunction
+    reductionが不可能な例：モダリティの関与》</description>
     <p idx="1">
       <script>
       コロンビア大学の学生とおそらくハーバード大学の学生が、ペンタゴン周辺で「人間の鎖」を作った。</script>
@@ -648,7 +661,8 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo54"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《「と」のconjunction
+    reductionが不可能な例：モダリティの関与》</description>
     <p idx="1">
       <script>
       コロンビア大学の学生とおそらくハーバード大学の学生が、ペンタゴン周辺で「人間の鎖」を作った。</script>
@@ -660,9 +674,10 @@
     <note>"Schein, Barry. (1997) ""Conjunction reduction redux"".
     参考の例文は(19)(20)（ただし英語のandについての例文）。"</note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo55"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo55"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《「と」のconjunction
+    reductionが不可能な例：モダリティの関与》</description>
     <p idx="1">
       <script>太郎と次郎とおそらく花子が駅前で落ち合った。</script>
     </p>
@@ -674,7 +689,8 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo56"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《「と」のconjunction
+    reductionが不可能な例：モダリティの関与》</description>
     <p idx="1">
       <script>太郎と次郎とおそらく花子が駅前で落ち合った。</script>
     </p>
@@ -686,7 +702,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo57"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《「と」による名詞のconjunctionとモダリティ》</description>
     <p idx="1">
       <script>太郎とおそらく次郎が駅前で落ち合った。</script>
     </p>
@@ -696,9 +712,9 @@
     <note>"Schein, Barry. (1997) ""Conjunction reduction redux"".
     参考の例文は(44a)（ただし英語のandについての例文で、容認不可）。日本語では容認可能。"</note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo58"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo58"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《「と」による名詞のconjunctionとモダリティ》</description>
     <p idx="1">
       <script>太郎とおそらく次郎が駅前で落ち合った。</script>
     </p>
@@ -712,7 +728,7 @@
   jsem_id="Coo59" language="jp"
   phenomena="Coordination, -ka (parallel marker), -to (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「か」→「と」への言い換え》</description>
     <p idx="1">
       <script>太郎か次郎が来た。</script>
     </p>
@@ -725,7 +741,7 @@
   language="jp"
   phenomena="Coordination, -ka (parallel marker), -to (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「か」→「と」への言い換え》</description>
     <p idx="1">
       <script>太郎か次郎が来たら、お茶を出して欲しい。</script>
     </p>
@@ -738,7 +754,7 @@
   language="jp"
   phenomena="Coordination, -ka (parallel marker), -to (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「か」→「と」への言い換え》</description>
     <p idx="1">
       <script>来年、ジョンかビルが日本に来るかもしれない。</script>
     </p>
@@ -751,7 +767,7 @@
   language="jp"
   phenomena="Coordination, -ka (parallel marker), -to (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「か」→「と」への言い換え》</description>
     <p idx="1">
       <script>このコースには、食後にデザートかチーズを付けられる。</script>
     </p>
@@ -760,11 +776,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo63"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo63"
   language="jp"
   phenomena="Coordination, -ka (parallel marker), -to (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「か」→「と」への言い換え》</description>
     <p idx="1">
       <script>花子は今、東京か大阪にいるらしい。</script>
     </p>
@@ -777,7 +793,7 @@
   jsem_id="Coo64" language="jp"
   phenomena="Coordination, -ka (parallel marker), -ya (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「か」→「や」への言い換え》</description>
     <p idx="1">
       <script>太郎か次郎が来た。</script>
     </p>
@@ -786,11 +802,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="yes*" inference_type="entailment"
-  jsem_id="Coo65" language="jp"
+  <problem answer="" inference_type="entailment" jsem_id="Coo65"
+  language="jp"
   phenomena="Coordination, -ka (parallel marker), -ya (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「か」→「や」への言い換え》</description>
     <p idx="1">
       <script>太郎か次郎が来たら、お茶を出して欲しい。</script>
     </p>
@@ -803,7 +819,7 @@
   language="jp"
   phenomena="Coordination, -ka (parallel marker), -ya (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「か」→「や」への言い換え》</description>
     <p idx="1">
       <script>来年、ジョンかビルが日本に来るかもしれない。</script>
     </p>
@@ -816,7 +832,7 @@
   language="jp"
   phenomena="Coordination, -ka (parallel marker), -ya (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「か」→「や」への言い換え》</description>
     <p idx="1">
       <script>このコースには、食後にデザートかチーズを付けられる。</script>
     </p>
@@ -825,11 +841,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo68"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo68"
   language="jp"
   phenomena="Coordination, -ka (parallel marker), -ya (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「か」→「や」への言い換え》</description>
     <p idx="1">
       <script>花子は今、東京か大阪にいるらしい。</script>
     </p>
@@ -842,7 +858,7 @@
   language="jp"
   phenomena="Coordination, -ka (parallel marker), -ya (parallel marker)">
 
-    <link resource="fracas" />
+    <description>《「か」→「や」への言い換え》</description>
     <p idx="1">
       <script>私の結婚相手の条件は東大か京大を出ていることです。</script>
     </p>
@@ -854,7 +870,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo70"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「AかBがP」→「A（/B）がP」》</description>
     <p idx="1">
       <script>太郎か次郎が来た。</script>
     </p>
@@ -865,7 +881,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo71"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「AかBがP」→「A（/B）がP」》</description>
     <p idx="1">
       <script>太郎か次郎が来たら、お茶を出して欲しい。</script>
     </p>
@@ -876,7 +892,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo72"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「AかBがP」→「A（/B）がP」》</description>
     <p idx="1">
       <script>来年、ジョンかビルが日本に来るかもしれない。</script>
     </p>
@@ -887,7 +903,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo73"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「AかBがP」→「A（/B）がP」》</description>
     <p idx="1">
       <script>このコースには、食後にデザートかチーズを付けられる。</script>
     </p>
@@ -898,7 +914,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo74"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「AかBがP」→「A（/B）がP」》</description>
     <p idx="1">
       <script>花子は今、東京か大阪にいるらしい。</script>
     </p>
@@ -909,7 +925,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo75"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「AかBがP」→「A（/B）がP」》</description>
     <p idx="1">
       <script>私の結婚相手の条件は東大か京大を出ていることです。</script>
     </p>
@@ -920,7 +936,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo76"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「か」のconjunction reduction（名詞内）》</description>
     <p idx="1">
       <script>太郎か次郎の作品が大賞に選ばれた。</script>
     </p>
@@ -931,7 +947,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo77"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「か」のconjunction reduction（文レベル）》</description>
     <p idx="1">
       <script>太郎か次郎の作品が大賞に選ばれた。</script>
     </p>
@@ -942,7 +958,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo78"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「か」のconjunction reduction（名詞内）》</description>
     <p idx="1">
       <script>花子は、弟か妹のピアノの発表会に行った。</script>
     </p>
@@ -951,9 +967,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Coo79"
-  language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="Coo79" language="jp"
+  phenomena="Coordination, -ka (parallel marker)">
+    <description>《「か」のconjunction reduction（名詞内）》</description>
     <p idx="1">
       <script>花子は、弟か妹のピアノの発表会に行った。</script>
     </p>
@@ -964,7 +981,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo80"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「か」のconjunction reduction（文レベル）》</description>
     <p idx="1">
       <script>花子は、弟か妹のピアノの発表会に行った。</script>
     </p>
@@ -973,9 +990,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo81"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo81"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>
+    《「か」は複数性を要求する表現と共起できない：「〜を〜と」→「〜か〜を」》</description>
     <p idx="1">
       <script>コーヒーをミルクと混ぜたらカフェオレになる。</script>
     </p>
@@ -984,9 +1002,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo82"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo82"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>
+    《「か」は複数性を要求する表現と共起できない：「〜は〜と」→「〜か〜は」》</description>
     <p idx="1">
       <script>太郎は花子と知人の紹介で出会った。</script>
     </p>
@@ -995,9 +1014,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="#" inference_type="" jsem_id="Coo83"
+  <problem answer="infelicitous" inference_type="" jsem_id="Coo83"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>
+    《「か」は複数性を要求する表現と共起できない：「〜は〜と」→「〜か〜は」》</description>
     <p idx="1">
       <script>太郎は花子と互いの業績を讃え合った。</script>
     </p>
@@ -1006,10 +1026,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="yes*" inference_type="entailment"
-  jsem_id="Coo84" language="jp"
-  phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+  <problem answer="" inference_type="entailment" jsem_id="Coo84"
+  language="jp" phenomena="Coordination, -ka (parallel marker)">
+    <description>《「か」のconjunction reduction》</description>
     <p idx="1">
       <script>調査委員会のメンバーは弁護士か会計士だ。</script>
     </p>
@@ -1021,7 +1040,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo85"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《set-union operatorとしての「か」》</description>
     <p idx="1">
       <script>調査委員会のメンバーは弁護士か会計士だ。</script>
     </p>
@@ -1032,10 +1051,9 @@
     参考の例文は(5)(6)（ただし英語のandについての例文）。「か」がset-union
     operatorと考えられる例。"</note>
   </problem>
-  <problem answer="yes*" inference_type="entailment"
-  jsem_id="Coo86" language="jp"
-  phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+  <problem answer="" inference_type="entailment" jsem_id="Coo86"
+  language="jp" phenomena="Coordination, -ka (parallel marker)">
+    <description>《set-union operatorとしての「か」》</description>
     <p idx="1">
       <script>調査委員会のメンバーは弁護士か会計士だ。</script>
     </p>
@@ -1048,7 +1066,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo87"
   language="jp" phenomena="Coordination, -to (parallel marker)">
-    <link resource="fracas" />
+    <description>《set-union operatorとしての「と」》</description>
     <p idx="1">
       <script>調査委員会のメンバーは弁護士と会計士だ。</script>
     </p>
@@ -1059,7 +1077,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo88"
   language="jp" phenomena="Coordination, -ya (parallel marker)">
-    <link resource="fracas" />
+    <description>《set-union operatorとしての「や」》</description>
     <p idx="1">
       <script>調査委員会のメンバーは弁護士や会計士だ。</script>
     </p>
@@ -1070,7 +1088,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo89"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「AかB」→「AかBのどちらか」》</description>
     <p idx="1">
       <script>太郎か花子が犯人だ。</script>
     </p>
@@ -1079,9 +1097,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Coo90"
-  language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="Coo90" language="jp"
+  phenomena="Coordination, -ka (parallel marker)">
+    <description>《「AかB」→「AかBのどちらか」》</description>
     <p idx="1">
       <script>お砂糖かミルクはお付けしますか？</script>
     </p>
@@ -1092,7 +1111,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo91"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「AかB」→「AかBのどちらか」》</description>
     <p idx="1">
       <script>太郎は来年、進学か就職を選ばなくてはならない。</script>
     </p>
@@ -1101,9 +1120,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Coo92"
-  language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="Coo92" language="jp"
+  phenomena="Coordination, -ka (parallel marker)">
+    <description>《「AかB」→「AかBのどちらか」》</description>
     <p idx="1">
       <script>東京から福岡までは、新幹線か飛行機で行ける。</script>
     </p>
@@ -1114,7 +1134,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment" jsem_id="Coo93"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「AかB」→「AかBのどちらか」》</description>
     <p idx="1">
       <script>太郎は中学生か高校生だ。</script>
     </p>
@@ -1125,7 +1145,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo94"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：ひっかけ問題》</description>
     <p idx="1">
       <script>ジョンはメアリーに、ビルはスーザンに会った。</script>
     </p>
@@ -1136,7 +1156,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo95"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：ひっかけ問題》</description>
     <p idx="1">
       <script>ジョンはメアリーに、ビルはスーザンに会った。</script>
     </p>
@@ -1147,7 +1167,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo96"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：ひっかけ問題》</description>
     <p idx="1">
       <script>ジョンはメアリーに、ビルはスーザンに会った。</script>
     </p>
@@ -1158,7 +1178,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo97"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：ひっかけ問題》</description>
     <p idx="1">
       <script>ジョンはメアリーに、ビルはスーザンに会った。</script>
     </p>
@@ -1169,7 +1189,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo98"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：ひっかけ問題》</description>
     <p idx="1">
       <script>ジョンはメアリーに、ビルはスーザンに会った。</script>
     </p>
@@ -1180,7 +1200,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo99"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：ひっかけ問題》</description>
     <p idx="1">
       <script>ジョンはメアリーに、ビルはスーザンに会った。</script>
     </p>
@@ -1191,7 +1211,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo100" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction reduction》</description>
     <p idx="1">
       <script>ジョンはメアリーに、ビルはスーザンに会った。</script>
     </p>
@@ -1202,7 +1222,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo101" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction reduction》</description>
     <p idx="1">
       <script>ジョンはメアリーに、花子は太郎に次郎を紹介した。</script>
     </p>
@@ -1213,7 +1233,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo102" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction reduction》</description>
     <p idx="1">
       <script>太郎は花子に次郎を、メアリーにスーザンを紹介した。</script>
     </p>
@@ -1224,7 +1244,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo103" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction reduction》</description>
     <p idx="1">
       <script>太郎は花子に次郎を、メアリーにスーザンを紹介した。</script>
     </p>
@@ -1235,7 +1255,8 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo104" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction
+    reduction：節境界を超える例》</description>
     <p idx="1">
       <script>マイクがライオンに、トムが熊に襲われた男を助けた。</script>
     </p>
@@ -1247,7 +1268,8 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo105"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction
+    reduction：節境界を超える例》</description>
     <p idx="1">
       <script>マイクがライオンに、トムが熊に襲われた男を助けた。</script>
     </p>
@@ -1259,7 +1281,8 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo106"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction
+    reduction：節境界を超える例》</description>
     <p idx="1">
       <script>マイクがライオンに、トムが熊に襲われた男を助けた。</script>
     </p>
@@ -1271,7 +1294,8 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo107"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction
+    reduction：節境界を超える例》</description>
     <p idx="1">
       <script>マイクがライオンに、トムが熊に襲われた男を助けた。</script>
     </p>
@@ -1283,7 +1307,8 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo108" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction
+    reduction：節境界を超える例》</description>
     <p idx="1">
       <script>太郎は花子に、次郎はメアリーにジョンがプロポーズしたと思っていた。</script>
     </p>
@@ -1293,9 +1318,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Coo109"
+  <problem answer="unacceptable" inference_type="" jsem_id="Coo109"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction
+    reductionに見えそうな例》</description>
     <p idx="1">
       <script>容疑者は知人に、妻は実家に帰ったと話していた。</script>
     </p>
@@ -1306,7 +1332,8 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo110" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction
+    reduction：名詞句境界を超える例》</description>
     <p idx="1">
       <script>太郎は次郎の、花子はメアリーの作品を推薦した。</script>
     </p>
@@ -1317,7 +1344,8 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo111"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction
+    reduction：名詞句境界を超える例》</description>
     <p idx="1">
       <script>太郎は次郎の、花子はメアリーの作品を推薦した。</script>
     </p>
@@ -1328,7 +1356,8 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo112"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction
+    reduction：名詞句境界を超える例》</description>
     <p idx="1">
       <script>太郎は次郎の、花子はメアリーの作品を推薦した。</script>
     </p>
@@ -1339,7 +1368,8 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo113" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction
+    reduction：名詞句境界を超える例》</description>
     <p idx="1">
       <script>太郎は次郎の、花子はメアリーの作品の推薦文を書いた。</script>
     </p>
@@ -1350,7 +1380,8 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo114" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction
+    reduction：名詞句境界を超える例》</description>
     <p idx="1">
       <script>太郎は次郎の、花子はメアリーの作品の推薦文を書いた。</script>
     </p>
@@ -1361,7 +1392,8 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo115" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction
+    reduction：名詞句境界を超える例》</description>
     <p idx="1">
       <script>太郎は次郎の作品の、花子はメアリーの作品の推薦文を書いた。</script>
     </p>
@@ -1372,7 +1404,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo116" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：削除分析で説明できない例：順序の入れ替え》</description>
     <p idx="1">
       <script>今年度中に統計学、そして心理学を来年度の夏学期までに履修すれば、卒業できる。</script>
     </p>
@@ -1384,7 +1416,7 @@
   </problem>
   <problem answer="no" inference_type="entailment" jsem_id="Coo117"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：削除分析で説明できない例：順序の入れ替え》</description>
     <p idx="1">
       <script>今年度中に統計学、そして心理学を来年度の夏学期までに履修すれば、卒業できる。</script>
     </p>
@@ -1398,7 +1430,7 @@
   <problem answer="no" inference_type="entailment" jsem_id="Coo118"
   language="jp"
   phenomena="Coordination, RNR, nominal anaphora, jibun">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：削除分析で説明できない例：「自分」の解釈》</description>
     <p idx="1">
       <script>太郎は花子に、そして次郎は美智子に自分の部屋で勉強させた。</script>
     </p>
@@ -1410,7 +1442,7 @@
   <problem answer="no" inference_type="entailment" jsem_id="Coo119"
   language="jp"
   phenomena="Coordination, RNR, nominal anaphora, jibun">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：削除分析で説明できない例：「自分」の解釈》</description>
     <p idx="1">
       <script>太郎は花子に、そして次郎は美智子に自分の部屋で勉強させた。</script>
     </p>
@@ -1422,7 +1454,7 @@
   <problem answer="no" inference_type="entailment" jsem_id="Coo120"
   language="jp"
   phenomena="Coordination, RNR, nominal anaphora, jibun">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：削除分析で説明できない例：「自分」の解釈》</description>
     <p idx="1">
       <script>太郎は花子に、そして次郎は美智子に自分の部屋で勉強させた。</script>
     </p>
@@ -1434,7 +1466,7 @@
   <problem answer="no" inference_type="entailment" jsem_id="Coo121"
   language="jp"
   phenomena="Coordination, RNR, nominal anaphora, jibun">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：削除分析で説明できない例：「自分」の解釈》</description>
     <p idx="1">
       <script>太郎は花子に、そして次郎は美智子に自分の部屋で勉強させた。</script>
     </p>
@@ -1443,10 +1475,10 @@
     </h>
     <note>窪田悠介「範疇文法による非構成素東夷接続の分析」。Pは(8)からの引用。</note>
   </problem>
-  <problem answer="yes*" inference_type="entailment"
-  jsem_id="Coo122" language="jp"
+  <problem answer="" inference_type="entailment" jsem_id="Coo122"
+  language="jp"
   phenomena="Coordination, RNR, nominal anaphora, jibun">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：削除分析で説明できない例：「自分」の解釈》</description>
     <p idx="1">
       <script>太郎は花子に、そして次郎は美智子に自分の部屋で勉強させた。</script>
     </p>
@@ -1455,10 +1487,10 @@
     </h>
     <note>窪田悠介「範疇文法による非構成素東夷接続の分析」。Pは(8)からの引用。</note>
   </problem>
-  <problem answer="yes*" inference_type="entailment"
-  jsem_id="Coo123" language="jp"
+  <problem answer="" inference_type="entailment" jsem_id="Coo123"
+  language="jp"
   phenomena="Coordination, RNR, nominal anaphora, jibun">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：削除分析で説明できない例：「自分」の解釈》</description>
     <p idx="1">
       <script>太郎は花子に、そして次郎は美智子に自分の部屋で勉強させた。</script>
     </p>
@@ -1467,10 +1499,10 @@
     </h>
     <note>窪田悠介「範疇文法による非構成素東夷接続の分析」。Pは(8)からの引用。</note>
   </problem>
-  <problem answer="yes*" inference_type="entailment"
-  jsem_id="Coo124" language="jp"
+  <problem answer="" inference_type="entailment" jsem_id="Coo124"
+  language="jp"
   phenomena="Coordination, RNR, nominal anaphora, jibun">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：削除分析で説明できない例：「自分」の解釈》</description>
     <p idx="1">
       <script>太郎は花子に、そして次郎は美智子に自分の部屋で勉強させた。</script>
     </p>
@@ -1479,10 +1511,10 @@
     </h>
     <note>窪田悠介「範疇文法による非構成素東夷接続の分析」。Pは(8)からの引用。</note>
   </problem>
-  <problem answer="yes*" inference_type="entailment"
-  jsem_id="Coo125" language="jp"
+  <problem answer="" inference_type="entailment" jsem_id="Coo125"
+  language="jp"
   phenomena="Coordination, RNR, nominal anaphora, jibun">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：削除分析で説明できない例：「自分」の解釈》</description>
     <p idx="1">
       <script>太郎は花子に、そして次郎は美智子に自分の部屋で勉強させた。</script>
     </p>
@@ -1494,7 +1526,7 @@
   <problem answer="no" inference_type="entailment" jsem_id="Coo126"
   language="jp"
   phenomena="Coordination, RNR, nominal anaphora, jibun">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：削除分析で説明できない例：「自分」の解釈》</description>
     <p idx="1">
       <script>太郎は花子に、そして次郎は美智子に自分の部屋で勉強させた。</script>
     </p>
@@ -1506,7 +1538,7 @@
   <problem answer="no" inference_type="entailment" jsem_id="Coo127"
   language="jp"
   phenomena="Coordination, RNR, nominal anaphora, jibun">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：削除分析で説明できない例：「自分」の解釈》</description>
     <p idx="1">
       <script>太郎は花子に、そして次郎は美智子に自分の部屋で勉強させた。</script>
     </p>
@@ -1518,7 +1550,7 @@
   <problem answer="no" inference_type="entailment" jsem_id="Coo128"
   language="jp"
   phenomena="Coordination, RNR, nominal anaphora, jibun">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：削除分析で説明できない例：「自分」の解釈》</description>
     <p idx="1">
       <script>太郎は花子に、そして次郎は美智子に自分の部屋で勉強させた。</script>
     </p>
@@ -1530,7 +1562,7 @@
   <problem answer="no" inference_type="entailment" jsem_id="Coo129"
   language="jp"
   phenomena="Coordination, RNR, nominal anaphora, jibun">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：削除分析で説明できない例：「自分」の解釈》</description>
     <p idx="1">
       <script>太郎は花子に、そして次郎は美智子に自分の部屋で勉強させた。</script>
     </p>
@@ -1541,7 +1573,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo130" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>ジョンがビル、そしてメアリーがスーザンについて話した。</script>
     </p>
@@ -1554,7 +1586,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo131" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>ジョンがビル、そしてメアリーがスーザンについて話した。</script>
     </p>
@@ -1567,7 +1599,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo132"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>ジョンがビル、そしてメアリーがスーザンについて話した。</script>
     </p>
@@ -1580,7 +1612,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo133" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>ハリーが意味論、そしてアルフォンスが統語論を研究している。</script>
     </p>
@@ -1593,7 +1625,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo134" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>ハリーが意味論、そしてアルフォンスが統語論を研究している。</script>
     </p>
@@ -1606,7 +1638,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo135"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>ハリーが意味論、そしてアルフォンスが統語論を研究している。</script>
     </p>
@@ -1619,7 +1651,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo136" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>太郎は東京、次郎は大阪に向かった。</script>
     </p>
@@ -1632,7 +1664,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo137" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>太郎は東京、次郎は大阪に向かった。</script>
     </p>
@@ -1645,7 +1677,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo138"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>太郎は東京、次郎は大阪に向かった。</script>
     </p>
@@ -1658,7 +1690,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo139" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>花子は北海道、太郎は沖縄の出身だ。</script>
     </p>
@@ -1671,7 +1703,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo140" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>花子は北海道、太郎は沖縄の出身だ。</script>
     </p>
@@ -1684,7 +1716,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo141"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>花子は北海道、太郎は沖縄の出身だ。</script>
     </p>
@@ -1697,7 +1729,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo142" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>おじいさんは山へ芝刈り、おばあさんは川へ洗濯に行った。</script>
     </p>
@@ -1710,7 +1742,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo143" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>おじいさんは山へ芝刈り、おばあさんは川へ洗濯に行った。</script>
     </p>
@@ -1723,7 +1755,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo144"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>おじいさんは山へ芝刈り、おばあさんは川へ洗濯に行った。</script>
     </p>
@@ -1736,7 +1768,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo145" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>山田先生は男子生徒、鈴木先生は女子生徒から人気がある。</script>
     </p>
@@ -1749,7 +1781,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo146" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>山田先生は男子生徒、鈴木先生は女子生徒から人気がある。</script>
     </p>
@@ -1762,7 +1794,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo147"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続：P-stranding》</description>
     <p idx="1">
       <script>山田先生は男子生徒、鈴木先生は女子生徒から人気がある。</script>
     </p>
@@ -1773,9 +1805,10 @@
     P-stranding,"" Journal of East Asian linguistics 6:101-136.
     参考の例文は(37)。"</note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Coo148"
+  <problem answer="unacceptable" inference_type="" jsem_id="Coo148"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction
+    reduction：名詞句境界を超える例で、削除分析で説明できない例》</description>
     <p idx="1">
       <script>
       ジョンは無能さのために首になった人を慰め、そしてメアリーは無断欠勤のために首になった人を慰めた。</script>
@@ -1789,9 +1822,10 @@
     eds., Proceedings of FAJL 5. MIT Working Papers in Linguistics
     64, pp. 1-14. Hの例文は(11)からの引用。"</note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Coo149"
+  <problem answer="unacceptable" inference_type="" jsem_id="Coo149"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction
+    reduction：名詞句境界を超える例で、削除分析で説明できない例》</description>
     <p idx="1">
       <script>
       ジョンは無能さのために首になった人を、そしてメアリーは無断欠勤のために首になった人を慰めた。</script>
@@ -1805,9 +1839,10 @@
     eds., Proceedings of FAJL 5. MIT Working Papers in Linguistics
     64, pp. 1-14. Hの例文は(11)からの引用。"</note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Coo150"
+  <problem answer="unacceptable" inference_type="" jsem_id="Coo150"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続のconjunction
+    reduction：節境界を超える例で、削除分析で説明できない例》</description>
     <p idx="1">
       <script>
       ジョンは熊にビルが襲われたことを、そしてメアリーはライオンにビルが襲われたことをみんなに言った。</script>
@@ -1823,7 +1858,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo151" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続→構成素の等位接続（並列読み）》</description>
     <p idx="1">
       <script>ジョンはメアリーに、ビルはスーザンに会った。</script>
     </p>
@@ -1834,7 +1869,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo152" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続→構成素の等位接続（並列読み）》</description>
     <p idx="1">
       <script>ジョンはメアリーに、花子は太郎に次郎を紹介した。</script>
     </p>
@@ -1845,7 +1880,7 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo153" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《非構成素等位接続→構成素の等位接続（並列読み）》</description>
     <p idx="1">
       <script>太郎は花子に次郎を、メアリーにスーザンを紹介した。</script>
     </p>
@@ -1854,9 +1889,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Coo154"
-  language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="Coo154" language="jp" phenomena="Coordination, RNR">
+    <description>《非構成素等位接続（節境界を超える例）→構成素の等位接続（並列読み）》</description>
     <p idx="1">
       <script>マイクがライオンに、トムが熊に襲われた男を助けた。</script>
     </p>
@@ -1865,9 +1900,9 @@
     </h>
     <note>Pの例文はMukai (2003)の(16)を引用。</note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Coo155"
-  language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="Coo155" language="jp" phenomena="Coordination, RNR">
+    <description>《非構成素等位接続（節境界を超える例）→構成素の等位接続（並列読み）》</description>
     <p idx="1">
       <script>太郎は花子に、次郎はメアリーにジョンがプロポーズしたと思っていた。</script>
     </p>
@@ -1878,7 +1913,8 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo156" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>
+    《非構成素等位接続（名詞句境界を超える例）→構成素の等位接続（並列読み）》</description>
     <p idx="1">
       <script>太郎は次郎の、花子はメアリーの作品を推薦した。</script>
     </p>
@@ -1889,7 +1925,8 @@
   </problem>
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo157" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>
+    《非構成素等位接続（名詞句境界を超える例）→構成素の等位接続（並列読み）》</description>
     <p idx="1">
       <script>太郎は次郎の、花子はメアリーの作品の推薦文を書いた。</script>
     </p>
@@ -1898,9 +1935,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="yes*" inference_type="entailment"
-  jsem_id="Coo158" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+  <problem answer="" inference_type="entailment" jsem_id="Coo158"
+  language="jp" phenomena="Coordination, RNR">
+    <description>《構成素の等位接続（並列読み）→非構成素等位接続》</description>
     <p idx="1">
       <script>ジョンとビルはそれぞれメアリーとスーザンに会った。</script>
     </p>
@@ -1909,9 +1946,9 @@
     </h>
     <note>可能な解釈の一つ。</note>
   </problem>
-  <problem answer="yes*" inference_type="entailment"
-  jsem_id="Coo159" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+  <problem answer="" inference_type="entailment" jsem_id="Coo159"
+  language="jp" phenomena="Coordination, RNR">
+    <description>《構成素の等位接続（並列読み）→非構成素等位接続》</description>
     <p idx="1">
       <script>ジョンと花子はそれぞれメアリーと太郎に次郎を紹介した。</script>
     </p>
@@ -1920,9 +1957,9 @@
     </h>
     <note>可能な解釈の一つ。</note>
   </problem>
-  <problem answer="yes*" inference_type="entailment"
-  jsem_id="Coo160" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+  <problem answer="" inference_type="entailment" jsem_id="Coo160"
+  language="jp" phenomena="Coordination, RNR">
+    <description>《構成素の等位接続（並列読み）→非構成素等位接続》</description>
     <p idx="1">
       <script>太郎は花子とメアリーにそれぞれ次郎とスーザンを紹介した。</script>
     </p>
@@ -1933,7 +1970,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo161"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《構成素の等位接続（並列読み）→非構成素等位接続（節境界を超える例）》</description>
     <p idx="1">
       <script>マイクとトムがそれぞれ、ライオンと熊に襲われた男を助けた。</script>
     </p>
@@ -1944,7 +1981,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo162"
   language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+    <description>《構成素の等位接続（並列読み）→非構成素等位接続（節境界を超える例）》</description>
     <p idx="1">
       <script>太郎と次郎はそれぞれ、花子とメアリーにジョンがプロポーズしたと思っていた。</script>
     </p>
@@ -1953,9 +1990,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="yes*" inference_type="entailment"
-  jsem_id="Coo163" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+  <problem answer="" inference_type="entailment" jsem_id="Coo163"
+  language="jp" phenomena="Coordination, RNR">
+    <description>
+    《構成素の等位接続（並列読み）→非構成素等位接続（名詞句境界を超える例）》</description>
     <p idx="1">
       <script>太郎と花子はそれぞれ、次郎とメアリーの作品を推薦した。</script>
     </p>
@@ -1964,9 +2002,10 @@
     </h>
     <note>可能な解釈の一つ。</note>
   </problem>
-  <problem answer="yes*" inference_type="entailment"
-  jsem_id="Coo164" language="jp" phenomena="Coordination, RNR">
-    <link resource="fracas" />
+  <problem answer="" inference_type="entailment" jsem_id="Coo164"
+  language="jp" phenomena="Coordination, RNR">
+    <description>
+    《構成素の等位接続（並列読み）→非構成素等位接続（名詞句境界を超える例）》</description>
     <p idx="1">
       <script>太郎と花子はそれぞれ、次郎とメアリーの作品の推薦文を書いた。</script>
     </p>
@@ -1978,7 +2017,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo165" language="jp"
   phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかだ」→「PかQかのどちらかだ」》</description>
     <p idx="1">
       <script>太郎が嘘をついているか次郎が嘘をついているかだ。</script>
     </p>
@@ -1990,7 +2029,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo166" language="jp"
   phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかのどちらかだ」→「PかQかだ」》</description>
     <p idx="1">
       <script>太郎が嘘をついているか次郎が嘘をついているかのどちらかだ。</script>
     </p>
@@ -2001,7 +2040,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo167"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかだ」→「P(/Q)だ」》</description>
     <p idx="1">
       <script>太郎が嘘をついているか次郎が嘘をついているかだ。</script>
     </p>
@@ -2012,7 +2051,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo168"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかだ」→「P(/Q)だ」》</description>
     <p idx="1">
       <script>太郎が嘘をついているか次郎が嘘をついているかだ。</script>
     </p>
@@ -2024,7 +2063,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo169" language="jp"
   phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「AがPかBがPかだ」→「AかBがPだ」》</description>
     <p idx="1">
       <script>太郎が嘘をついているか次郎が嘘をついているかだ。</script>
     </p>
@@ -2036,7 +2075,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo170" language="jp"
   phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかだ」→「P(/Q)である可能性がある」》</description>
     <p idx="1">
       <script>太郎が嘘をついているか次郎が嘘をついているかだ。</script>
     </p>
@@ -2048,7 +2087,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo171" language="jp"
   phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかだ」→「P(/Q)である可能性がある」》</description>
     <p idx="1">
       <script>太郎が嘘をついているか次郎が嘘をついているかだ。</script>
     </p>
@@ -2060,7 +2099,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo172" language="jp"
   phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかだ」→「PかQかのどちらかだ」》</description>
     <p idx="1">
       <script>太郎が自分で借金を返すか、次郎が肩代わりをするかだ。</script>
     </p>
@@ -2072,7 +2111,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo173" language="jp"
   phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかのどちらかだ」→「PかQかだ」》</description>
     <p idx="1">
       <script>太郎が自分で借金を返すか、次郎が肩代わりをするかのどちらかだ。</script>
     </p>
@@ -2083,7 +2122,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo174"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかだ」→「P(/Q)だ」》</description>
     <p idx="1">
       <script>太郎が自分で借金を返すか、次郎が肩代わりをするかだ。</script>
     </p>
@@ -2094,7 +2133,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo175"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかだ」→「P(/Q)だ」》</description>
     <p idx="1">
       <script>太郎が自分で借金を返すか、次郎が肩代わりをするかだ。</script>
     </p>
@@ -2106,7 +2145,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo176" language="jp"
   phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかだ」→「P(/Q)である可能性がある」》</description>
     <p idx="1">
       <script>太郎が自分で借金を返すか、次郎が肩代わりをするかだ。</script>
     </p>
@@ -2118,7 +2157,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo177" language="jp"
   phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかだ」→「P(/Q)である可能性がある」》</description>
     <p idx="1">
       <script>太郎が自分で借金を返すか、次郎が肩代わりをするかだ。</script>
     </p>
@@ -2127,9 +2166,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Coo178"
+  <problem answer="unacceptable" inference_type="" jsem_id="Coo178"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>
+    《「PかQかだ」において、時制よりも外の助動詞類は等位節の内側に現れることができない》</description>
     <p idx="1">
       <script>問題は、太郎が自分で借金を返すか、次郎が肩代わりをするかだろう。</script>
     </p>
@@ -2140,9 +2180,10 @@
     (編)『談話のカートグラフィー研究：主文現象と複文現象の統語を目指して(3)』 195-205。参考の例文は(8a,
     b)。"</note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Coo179"
+  <problem answer="unacceptable" inference_type="" jsem_id="Coo179"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>
+    《「PかQかだ」において、時制よりも外の助動詞類は等位節の内側に現れることができない》</description>
     <p idx="1">
       <script>問題は、太郎が自分で借金を返すか、次郎が肩代わりをするかです。</script>
     </p>
@@ -2153,9 +2194,10 @@
     (編)『談話のカートグラフィー研究：主文現象と複文現象の統語を目指して(3)』 195-205。参考の例文は(10a,
     b)。"</note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Coo180"
+  <problem answer="unacceptable" inference_type="" jsem_id="Coo180"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>
+    《「PかQかだ」において、時制よりも外の助動詞類は等位節の内側に現れることができない》</description>
     <p idx="1">
       <script>問題は、太郎が自分で借金を返すか、次郎が肩代わりをするかだね。</script>
     </p>
@@ -2166,9 +2208,10 @@
     (編)『談話のカートグラフィー研究：主文現象と複文現象の統語を目指して(3)』 195-205。参考の例文は(12b,
     c)。"</note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Coo181"
+  <problem answer="unacceptable" inference_type="" jsem_id="Coo181"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>
+    《「PかQかだ」において、時制よりも外の助動詞類は等位節の内側に現れることができない》</description>
     <p idx="1">
       <script>問題は、太郎が自分で借金を返すか、次郎が肩代わりをするかだよ。</script>
     </p>
@@ -2179,9 +2222,11 @@
     (編)『談話のカートグラフィー研究：主文現象と複文現象の統語を目指して(3)』 195-205。参考の例文は(12b,
     c)。"</note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Coo182"
-  language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="Coo182" language="jp"
+  phenomena="Coordination, -ka (parallel marker)">
+    <description>
+    《「A（問題・決め手などの抽象名詞）は、PかQかだ」は、「〜のどちらかだ」に言い換えにくい》</description>
     <p idx="1">
       <script>問題は、太郎が自分で借金を返すか、次郎が肩代わりをするかだ。</script>
     </p>
@@ -2190,9 +2235,11 @@
     </h>
     <note>「どちらか」のスコープの問題？　「どちらか」が「問題は」よりも広いスコープを取るから？</note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Coo183"
-  language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="Coo183" language="jp"
+  phenomena="Coordination, -ka (parallel marker)">
+    <description>
+    《「A（問題・決め手などの抽象名詞）は、PかQかだ」は、「〜のどちらかだ」に言い換えにくい》</description>
     <p idx="1">
       <script>
       勝敗の決め手は、太郎が試合までにコンディションを整えられるか、間に合わずに試合当日を迎えるかだ。</script>
@@ -2206,7 +2253,8 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo184" language="jp"
   phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>
+    《「PかQかだ」において、主語指向性のある副詞や時間副詞は等位節の内側に現れることができる》</description>
     <p idx="1">
       <script>勝敗の決め手は、誰よりも早く太郎がボタンを押すか、次郎がボタンを押すかだ。</script>
     </p>
@@ -2220,7 +2268,8 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo185" language="jp"
   phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>
+    《「PかQかだ」において、主語指向性のある副詞や時間副詞は等位節の内側に現れることができる》</description>
     <p idx="1">
       <script>花子が気にしているのは、夕食にカレーが出るか、ハヤシライスが出るかだ。</script>
     </p>
@@ -2231,9 +2280,10 @@
     (編)『談話のカートグラフィー研究：主文現象と複文現象の統語を目指して(3)』 195-205.。参考の例文は(13a,
     b)。"</note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Coo186"
+  <problem answer="unacceptable" inference_type="" jsem_id="Coo186"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>
+    《「PかQかだ」において、モダリティや話者の判断を表す副詞は等位節の内側に現れることができない》</description>
     <p idx="1">
       <script>おそらく、太郎が嘘をついているか、次郎が嘘をついているかだ。</script>
     </p>
@@ -2244,9 +2294,10 @@
     (編)『談話のカートグラフィー研究：主文現象と複文現象の統語を目指して(3)』 195-205。参考の例文は(15a,
     b)。"</note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Coo187"
+  <problem answer="unacceptable" inference_type="" jsem_id="Coo187"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>
+    《「PかQかだ」において、モダリティや話者の判断を表す副詞は等位節の内側に現れることができない》</description>
     <p idx="1">
       <script>花子が気にしているのは、実のところ、カレーが出るかハヤシライスが出るかだ。</script>
     </p>
@@ -2257,9 +2308,10 @@
     (編)『談話のカートグラフィー研究：主文現象と複文現象の統語を目指して(3)』 195-205。参考の例文は(16a,
     b)。"</note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Coo188"
+  <problem answer="unacceptable" inference_type="" jsem_id="Coo188"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>
+    《「PかQかだ」において、「は」でマークされる主題は等位節の内側に現れることができない》</description>
     <p idx="1">
       <script>太郎が嘘をついているか次郎が嘘をついているかだ。</script>
     </p>
@@ -2270,9 +2322,10 @@
     (編)『談話のカートグラフィー研究：主文現象と複文現象の統語を目指して(3)』 195-205.。参考の例文は(17a,
     b)。"</note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Coo189"
-  language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="Coo189" language="jp"
+  phenomena="Coordination, -ka (parallel marker)">
+    <description>《「PかQかした」→「PかQかのどちらかだ」》</description>
     <p idx="1">
       <script>次郎が上機嫌なのは、太郎がお菓子をあげたか花子が遊んであげたかしたからだ。</script>
     </p>
@@ -2281,9 +2334,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Coo190"
-  language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="Coo190" language="jp"
+  phenomena="Coordination, -ka (parallel marker)">
+    <description>《「PかQかした」→「PかQかのどちらかだ」》</description>
     <p idx="1">
       <script>太郎が事件のことを知っているのは、新聞で読んだかテレビで見たかしたからだ。</script>
     </p>
@@ -2294,7 +2348,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo191"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかする」→「P (/Q) する」》</description>
     <p idx="1">
       <script>太郎は事件のことを、新聞で読んだかテレビで見たかして知っていた。</script>
     </p>
@@ -2306,7 +2360,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo192" language="jp"
   phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかする」→「P (/Q) する可能性がある」》</description>
     <p idx="1">
       <script>太郎は事件のことを、新聞で読んだかテレビで見たかして知っていた。</script>
     </p>
@@ -2317,7 +2371,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo193"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかする」→「P か何かする」》</description>
     <p idx="1">
       <script>太郎は事件のことを、新聞で読んだかテレビで見たかして知っていた。</script>
     </p>
@@ -2328,7 +2382,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo194"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかする」→「P (/Q) する」》</description>
     <p idx="1">
       <script>昼食を持ってきていない人は、食堂で食べるかコンビニで弁当を買うかしてください。</script>
     </p>
@@ -2340,7 +2394,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo195" language="jp"
   phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかしろ」→「P (/Q) することができる」》</description>
     <p idx="1">
       <script>昼食を持ってきていない人は、食堂で食べるかコンビニで弁当を買うかしてください。</script>
     </p>
@@ -2351,7 +2405,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo196"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかする」→「P か何かする」》</description>
     <p idx="1">
       <script>昼食を持ってきていない人は、食堂で食べるかコンビニで弁当を買うかしてください。</script>
     </p>
@@ -2362,7 +2416,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo197"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかする」→「P (/Q) する」》</description>
     <p idx="1">
       <script>A社には、専務が電話を入れるか部長がA社に出向くかした方がいい。</script>
     </p>
@@ -2373,7 +2427,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo198"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかする」→「P か何かする」》</description>
     <p idx="1">
       <script>A社には、専務が電話を入れるか部長がA社に出向くかした方がいい。</script>
     </p>
@@ -2384,7 +2438,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo199"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかする」→「P (/Q) する」》</description>
     <p idx="1">
       <script>太郎は転んで、腕を擦りむいたか肘を打ったかした。</script>
     </p>
@@ -2396,7 +2450,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo200" language="jp"
   phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかする」→「P (/Q) する可能性がある」》</description>
     <p idx="1">
       <script>太郎は転んで、腕を擦りむいたか肘を打ったかした。</script>
     </p>
@@ -2407,7 +2461,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo201"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PかQかする」→「P か何かする」》</description>
     <p idx="1">
       <script>太郎は転んで、腕を擦りむいたか肘を打ったかした。</script>
     </p>
@@ -2418,7 +2472,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo202"
   language="jp" phenomena="Coordination, -toka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PとかQとかする」→「P (/Q) する」》</description>
     <p idx="1">
       <script>昼食を持ってきていない人は、食堂で食べるとかコンビニで弁当を買うとかしてください。</script>
     </p>
@@ -2429,7 +2483,7 @@
   </problem>
   <problem answer="unknown" inference_type="" jsem_id="Coo203"
   language="jp" phenomena="Coordination, -toka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PとかQとかする」→「P (/Q) する」》</description>
     <p idx="1">
       <script>A社には、専務が電話を入れるとか部長がA社に出向くとかした方がいい。</script>
     </p>
@@ -2441,7 +2495,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo204" language="jp"
   phenomena="Coordination, -toka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PとかQとかする」→「P か何かする」》</description>
     <p idx="1">
       <script>昼食を持ってきていない人は、食堂で食べるとかコンビニで弁当を買うとかしてください。</script>
     </p>
@@ -2453,7 +2507,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo205" language="jp"
   phenomena="Coordination, -toka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PとかQとかする」→「P か何かする」》</description>
     <p idx="1">
       <script>A社には、専務が電話を入れるとか部長がA社に出向くとかした方がいい。</script>
     </p>
@@ -2465,7 +2519,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Coo206" language="jp"
   phenomena="Coordination, -toka (parallel marker)">
-    <link resource="fracas" />
+    <description>《「PとかQとかしろ」→「P (/Q) することができる」》</description>
     <p idx="1">
       <script>昼食を持ってきていない人は、食堂で食べるとかコンビニで弁当を買うとかしてください。</script>
     </p>
@@ -2474,4 +2528,4 @@
     </h>
     <note></note>
   </problem>
-</jsem-problems>
+</jsem-dataset>

@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE jsem-problems SYSTEM "jsem.dtd">
+<!DOCTYPE jsem-dataset SYSTEM "jsem.dtd">
 <?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
-<jsem-problems>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+<jsem-dataset>
+  <problem answer="yes" inference_type="entailment" jsem_id="569"
+  language="jp" phenomena="comparative">
+    <link link_id="220" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>PC-6082はITEL-XZより速い。</script>
+    </p>
+    <p idx="2">
+      <script>ITEL-XZは速い。</script>
+    </p>
+    <h>
+      <script>PC-6082は速い。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="570" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+    <link link_id="221" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>PC-6082はITEL-XZより速い。</script>
     </p>
@@ -13,9 +31,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="571" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+    <link link_id="222" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>PC-6082はITEL-XZより速い。</script>
     </p>
@@ -27,9 +47,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="572" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+  <problem answer="no" inference_type="entailment" jsem_id="572"
+  language="jp" phenomena="comparative">
+    <link link_id="223" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>PC-6082はITEL-XZより速い。</script>
     </p>
@@ -41,9 +63,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="573" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="573"
+  language="jp" phenomena="comparative">
+    <link link_id="224" resource="fracas" same_phenomena="unknown"
+    translation="no" />
+    <description></description>
     <p idx="1">
       <script>PC-6082はITEL-XZと同じくらいの速さだ。</script>
     </p>
@@ -55,9 +79,11 @@
     </h>
     <note>「AはBと同じくらい速い」だと「A(B)は速い」という含意が生じる。</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="574" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+    <link link_id="225" resource="fracas" same_phenomena="unknown"
+    translation="no" />
+    <description></description>
     <p idx="1">
       <script>PC-6082はITEL-XZと同じくらいの速さだ。</script>
     </p>
@@ -66,9 +92,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="575" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+    <link link_id="226" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>PC-6082はITEL-XZと少なくとも同じくらいの速さだ。</script>
     </p>
@@ -81,9 +109,11 @@
     <note>
     「PC-6082の速さはITEL-XZと同じかそれ以上」という解釈を可能にするためには「少なくとも」が必要</note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="576" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+  <problem answer="no" inference_type="entailment" jsem_id="576"
+  language="jp" phenomena="comparative">
+    <link link_id="227" resource="fracas" same_phenomena="unknown"
+    translation="no" />
+    <description></description>
     <p idx="1">
       <script>PC-6082はITEL-XZと同じくらいの速さだ。</script>
     </p>
@@ -95,9 +125,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="577" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+    <link link_id="228" resource="fracas" same_phenomena="unknown"
+    translation="no" />
+    <description></description>
     <p idx="1">
       <script>PC-6082はITEL-XZと同じくらいの速さだ。</script>
     </p>
@@ -106,9 +138,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="578" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+  <problem answer="no" inference_type="entailment" jsem_id="578"
+  language="jp" phenomena="comparative">
+    <link link_id="229" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>PC-6082はITEL-XZと少なくとも同じくらいの速さだ。</script>
     </p>
@@ -118,9 +152,11 @@
     <note>
     「PC-6082の速さはITEL-XZと同じかそれ以上」という解釈を可能にするためには「少なくとも」が必要</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="579" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="579"
+  language="jp" phenomena="comparative, quantifier">
+    <link link_id="230" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELはAPCOMが獲得したより多くの注文を獲得した。</script>
     </p>
@@ -129,9 +165,11 @@
     </h>
     <note>やや不自然。「APCOMより」とするとfracas-233と同一になる。</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="580" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="580"
+  language="jp" phenomena="comparative, quantifier">
+    <link link_id="230" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELはAPCOMが獲得したのより多くの注文を獲得した。</script>
     </p>
@@ -140,9 +178,11 @@
     </h>
     <note>形式名詞「の」を挿入</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="581" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+    <link link_id="231" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELはAPCOMが獲得したより多くの注文を獲得した。</script>
     </p>
@@ -151,9 +191,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="582" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+    <link link_id="231" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELはAPCOMが獲得したのより多くの注文を獲得した。</script>
     </p>
@@ -162,9 +204,11 @@
     </h>
     <note>形式名詞「の」を挿入</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="583" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="583"
+  language="jp" phenomena="comparative, quantifier">
+    <link link_id="232" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELはAPCOMより多くの注文を獲得した。</script>
     </p>
@@ -176,9 +220,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="584" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="584"
+  language="jp" phenomena="comparative, quantifier">
+    <link link_id="232" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELはAPCOMが獲得したより多くの注文を獲得した。</script>
     </p>
@@ -190,9 +236,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="585" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="585"
+  language="jp" phenomena="comparative, quantifier">
+    <link link_id="232" resource="fracas" same_phenomena="unknown"
+    translation="no" />
+    <description></description>
     <p idx="1">
       <script>ITELはAPCOMが獲得したのより多くの注文を獲得した。</script>
     </p>
@@ -204,9 +252,11 @@
     </h>
     <note>形式名詞「の」を挿入</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="586" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="586"
+  language="jp" phenomena="comparative, quantifier">
+    <link link_id="233" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELはAPCOMより多くの注文を獲得した。</script>
     </p>
@@ -215,9 +265,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="587" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+    <link link_id="234" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELはAPCOMより多くの注文を獲得した。</script>
     </p>
@@ -226,9 +278,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="588" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="588"
+  language="jp" phenomena="comparative, quantifier">
+    <link link_id="235" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELはAPCOMより多くの注文を獲得した。</script>
     </p>
@@ -240,9 +294,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="589" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="589"
+  language="jp" phenomena="comparative">
+    <link link_id="236" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELはAPCOMの契約より多くの注文を獲得した。</script>
     </p>
@@ -257,9 +313,11 @@
     in (230)-(232), and one where ITEL won more than just the APCOM
     order ... see (236)</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="590" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="590"
+  language="jp" phenomena="comparative, quantifier">
+    <link link_id="238" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELはAPCOMの2倍の注文を獲得した。</script>
     </p>
@@ -271,9 +329,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="591" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="591"
+  language="jp" phenomena="comparative, quantifier">
+    <link link_id="239" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELはAPCOMが失ったよりも多くの注文を獲得した。</script>
     </p>
@@ -282,9 +342,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="592" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="592"
+  language="jp" phenomena="comparative, quantifier">
+    <link link_id="239" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELはAPCOMが失った件数よりも多くの注文を獲得した。</script>
     </p>
@@ -293,9 +355,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="593" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="593"
+  language="jp" phenomena="comparative, quantifier">
+    <link link_id="241" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELはAPCOMが失ったよりも多くの注文を獲得した。</script>
     </p>
@@ -307,9 +371,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="594" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="594"
+  language="jp" phenomena="comparative, quantifier">
+    <link link_id="241" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELはAPCOMが失った件数よりも多くの注文を獲得した。</script>
     </p>
@@ -321,10 +387,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="595" language="jp"
-  phenomena="comparative, measure phrase">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="595"
+  language="jp" phenomena="comparative, measure phrase">
+    <link link_id="242" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>PC-6082は500MIPSより速い。</script>
     </p>
@@ -336,10 +403,12 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="596" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="596"
+  language="jp"
   phenomena="comparative, differential comparative, quantifier">
-    <link resource="fracas" />
+    <link link_id="243" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>ITELはAPCOMより3000台多くのコンピュータを売った。</script>
     </p>
@@ -351,11 +420,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="597" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="597"
+  language="jp"
   phenomena="comparative, differential comparative, temporal adverb">
 
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子より30分早く帰宅した。</script>
     </p>
@@ -367,11 +436,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="598" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="598"
+  language="jp"
   phenomena="comparative, differential comparative, temporal adverb">
 
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子より1時間以上早く帰宅した。</script>
     </p>
@@ -383,10 +452,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="599" language="jp"
-  phenomena="comparative, attributive comparative">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="599"
+  language="jp" phenomena="comparative, attributive comparative">
+    <link link_id="245" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>APCOMはITELより重要な顧客をかかえている。</script>
     </p>
@@ -397,9 +467,11 @@
     premise. Note ungrammaticality of question in original source:
     subject/verb agreement.</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="600" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="600"
+  language="jp" phenomena="comparative, quantifier">
+    <link link_id="246" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>PC-6082はITELのすべてのコンピュータよりも速い。</script>
     </p>
@@ -411,9 +483,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="601" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+    <link link_id="247" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>PC-6082はITELのあるコンピュータより速い。</script>
     </p>
@@ -425,9 +499,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="602" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="602"
+  language="jp" phenomena="comparative, quantifier">
+    <link link_id="248" resource="fracas" same_phenomena="unknown"
+    translation="no" />
+    <description></description>
     <p idx="1">
       <script>PC-6082はITELのどのコンピュータよりも速い。</script>
     </p>
@@ -439,9 +515,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="603" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="603"
+  language="jp" phenomena="comparative, quantifier">
+    <link link_id="249" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>PC-6082はITEL-ZXとITEL-ZYより速い。</script>
     </p>
@@ -450,9 +528,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="604" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+    <link link_id="250" resource="fracas" same_phenomena="unknown"
+    translation="no" />
+    <description></description>
     <p idx="1">
       <script>PC-6082はITEL-ZXかITEL-ZYより速い。</script>
     </p>
@@ -461,9 +541,9 @@
     </h>
     <note>この文脈では「か」とorの用法は異なる。FraCaSでのanswerはyes。</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="605" language="jp" phenomena="comparative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="605"
+  language="jp" phenomena="comparative, quantifier">
+    <description></description>
     <p idx="1">
       <script>PC-6082はITEL-ZXやITEL-ZYより速い。</script>
     </p>
@@ -472,10 +552,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="606" language="jp"
-  phenomena="comparative, absolute adjective">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="606"
+  language="jp" phenomena="comparative, absolute adjective">
+    <description></description>
     <p idx="1">
       <script>この棒はあの棒より曲がっている。</script>
     </p>
@@ -484,10 +563,9 @@
     </h>
     <note>Kennedy and MacNally (2005)</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="607" language="jp"
-  phenomena="comparative, absolute adjective">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="607"
+  language="jp" phenomena="comparative, absolute adjective">
+    <description></description>
     <p idx="1">
       <script>この棒はあの棒より曲がっている。</script>
     </p>
@@ -496,10 +574,10 @@
     </h>
     <note>Kennedy and MacNally (2005)</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="608" language="jp"
   phenomena="comparative, absolute adjective">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>この棒はあの棒よりまっすぐだ。</script>
     </p>
@@ -508,10 +586,9 @@
     </h>
     <note>Kennedy and MacNally (2005)</note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="609" language="jp"
-  phenomena="comparative, absolute adjective">
-    <link resource="fracas" />
+  <problem answer="no" inference_type="entailment" jsem_id="609"
+  language="jp" phenomena="comparative, absolute adjective">
+    <description></description>
     <p idx="1">
       <script>この棒はあの棒よりまっすぐだ。</script>
     </p>
@@ -520,9 +597,9 @@
     </h>
     <note>Kennedy and MacNally (2005)</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="610" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="610"
+  language="jp" phenomena="comparative">
+    <description></description>
     <p idx="1">
       <script>太郎は花子より早起きだ。</script>
     </p>
@@ -534,9 +611,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="611" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+  <problem answer="no" inference_type="entailment" jsem_id="611"
+  language="jp" phenomena="comparative">
+    <description></description>
     <p idx="1">
       <script>太郎は花子より早起きだ。</script>
     </p>
@@ -548,9 +625,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="612" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子より早起きだ。</script>
     </p>
@@ -562,9 +639,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="613" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子より早起きだ。</script>
     </p>
@@ -576,9 +653,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="614" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子より早起きだ。</script>
     </p>
@@ -590,9 +667,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="615" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子より早起きだ。</script>
     </p>
@@ -604,9 +681,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="616" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+  <problem answer="no" inference_type="entailment" jsem_id="616"
+  language="jp" phenomena="comparative">
+    <description></description>
     <p idx="1">
       <script>太郎は花子より早起きだ。</script>
     </p>
@@ -615,9 +692,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="617" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="617"
+  language="jp" phenomena="comparative">
+    <description></description>
     <p idx="1">
       <script>太郎は花子より背が高い。</script>
     </p>
@@ -629,9 +706,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="618" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+  <problem answer="no" inference_type="entailment" jsem_id="618"
+  language="jp" phenomena="comparative">
+    <description></description>
     <p idx="1">
       <script>太郎は花子と同じくらい背が高い。</script>
     </p>
@@ -646,10 +723,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES"
-  inference_type="&quot;entailment, presupposition&quot;"
+  <problem answer="yes" inference_type="entailment, presupposition"
   jsem_id="619" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子以上に早起きだ。</script>
     </p>
@@ -659,9 +735,9 @@
     <note>Hayashishita (2007), Kubota
     (2012).「花子は早起きだ」というpresuppositionと「太郎は花子より早起きだ」というentailmentを組み合わせて生じる推論</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="620" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子以上に早起きだ。</script>
     </p>
@@ -670,9 +746,9 @@
     </h>
     <note>Hayashishita (2007), Kubota (2012).</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="621" language="jp" phenomena="comparative, modal">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子以上に早起きかもしれない。</script>
     </p>
@@ -681,9 +757,9 @@
     </h>
     <note>Kubota (2012).</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="622" language="jp" phenomena="comparative, modal">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子以上に早起きかもしれない。</script>
     </p>
@@ -692,9 +768,9 @@
     </h>
     <note>Kubota (2012)</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="623" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="623"
+  language="jp" phenomena="comparative">
+    <description></description>
     <p idx="1">
       <script>太郎は花子以上に早起きだ。</script>
     </p>
@@ -703,9 +779,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="624" language="jp" phenomena="comparative, negation">
-    <link resource="fracas" />
+  <problem answer="no" inference_type="entailment" jsem_id="624"
+  language="jp" phenomena="comparative, negation">
+    <description></description>
     <p idx="1">
       <script>太郎は花子ほど裕福でない。</script>
     </p>
@@ -714,9 +790,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="625" language="jp" phenomena="comparative, negation">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="625"
+  language="jp" phenomena="comparative, negation">
+    <description></description>
     <p idx="1">
       <script>太郎は花子ほど裕福でない。</script>
     </p>
@@ -725,9 +801,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="626" language="jp" phenomena="comparative, negation">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子ほどまじめな学生ではない。</script>
     </p>
@@ -736,9 +812,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="627" language="jp" phenomena="comparative, negation">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子ほどまじめな学生ではない。</script>
     </p>
@@ -747,10 +823,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="628" language="jp"
   phenomena="comparative, modal, negation">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子ほどまじめな学生でないかもしれない。</script>
     </p>
@@ -759,10 +835,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="629" language="jp"
   phenomena="comparative, modal, negation">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子ほどまじめな学生でないかもしれない。</script>
     </p>
@@ -771,10 +847,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES"
-  inference_type="&quot;entailment, presupposition&quot;"
+  <problem answer="yes" inference_type="entailment, presupposition"
   jsem_id="630" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子ぐらい背が高い。</script>
     </p>
@@ -784,9 +859,9 @@
     <note>Hayashishita (2007), Kubota (2012).
     PresuppositionとEntailmentによる推論</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="631" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子ぐらい背が高い。</script>
     </p>
@@ -795,9 +870,9 @@
     </h>
     <note>Hayashishita (2007), Kubota (2012).</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="632" language="jp" phenomena="comparative, modal">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子ぐらい背が高いかもしれない。</script>
     </p>
@@ -806,9 +881,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="633" language="jp" phenomena="comparative, modal">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子ぐらい背が高いかもしれない。</script>
     </p>
@@ -817,9 +892,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="634" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子に比べると背が高い。</script>
     </p>
@@ -828,9 +903,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="635" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子に比べると背が高い。</script>
     </p>
@@ -839,9 +914,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="636" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="636"
+  language="jp" phenomena="comparative">
+    <description></description>
     <p idx="1">
       <script>太郎は花子が買った以上に高価な車を買った。</script>
     </p>
@@ -850,9 +925,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="637" language="jp" phenomena="comparative">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子が買った以上に高価な車を買った。</script>
     </p>
@@ -861,9 +936,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="638" language="jp" phenomena="comparative, modal">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子が買った以上に高価な車を買ったかもしれない。</script>
     </p>
@@ -872,9 +947,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="639" language="jp" phenomena="comparative, modal">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子が買った以上に高価な車を買ったかもしれない。</script>
     </p>
@@ -883,10 +958,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="640" language="jp"
-  phenomena="comparative, superlative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="640"
+  language="jp" phenomena="comparative, superlative, quantifier">
+    <description></description>
     <p idx="1">
       <script>太郎はこのクラスの他のどの学生よりも背が高い。</script>
     </p>
@@ -895,10 +969,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="641" language="jp"
-  phenomena="comparative, superlative, quantifier">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="641"
+  language="jp" phenomena="comparative, superlative, quantifier">
+    <description></description>
     <p idx="1">
       <script>太郎はこのクラスの学生の中で一番背が高い。</script>
     </p>
@@ -907,10 +980,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="642" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="642"
+  language="jp"
   phenomena="comparative, superlative, quantifier, negation">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎はこのクラスの学生の中で一番背が高い。</script>
     </p>
@@ -919,10 +992,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="643" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="643"
+  language="jp"
   phenomena="comparative, superlative, quantifier, negation">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>このクラスに太郎ほど背が高い学生はいない。</script>
     </p>
@@ -931,4 +1004,4 @@
     </h>
     <note></note>
   </problem>
-</jsem-problems>
+</jsem-dataset>

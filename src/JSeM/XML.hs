@@ -7,35 +7,103 @@ Stability   : beta
 -}
 
 module JSeM.XML (
-  xml2JSeMData,
-  xmlFile2JSeMData,
+  jsemData2xml,
+  xml2jsemData,
+  xmlFile2jsemData,
   getStat
   ) where
 
-import Control.Monad ((>=>),forM)            --base
+import Prelude hiding (read)              --base
+import Control.Monad ((<=<))              --base
+--import Text.Read (read)                     --base
 import System.FilePath ((</>),isExtensionOf) --filepath
 import qualified System.Directory as D    --directory
-import qualified Data.List as L           --base
 import qualified Data.Map as M            --container
 import qualified Data.Text as StrictT     --text
 import qualified Data.Text.Lazy as LazyT  --text
 import qualified Text.XML as X            --xml-conduit
 import qualified Text.XML.Cursor as X     --xml-conduit
-import JSeM as J                          --jsem
+import JSeM (JSeMData(..),JSeMLink(..),jsemData2stat,readJSeMLabel,readYesNo)   --jsem
 import qualified JSeM.Cmd as J            --jsem
 
---xmlFile2problems :: FilePath -> IO([X.Cursor])
---xmlFile2problems xmlfile = do
---  cursor <- X.fromDocument <$> X.parseText_ X.def <$> LazyT.fromStrict <$> J.readFileUtf8 xmlfile
---  return $ X.child cursor >>= X.element "problem"
+-- | タグ名をXMLタグ名に変換する。
+tag :: StrictT.Text -> X.Name
+tag tagname = X.Name tagname Nothing Nothing
+
+-- | タグ名、ノードのリストを受け取り、XML形式のテキストに変換。
+jsemData2xml :: [JSeMData] -> IO(StrictT.Text)
+jsemData2xml jsemdata = do
+  nodes <- mapM jsemData2xmlNode jsemdata
+  J.tidy $ LazyT.toStrict $ nodes2xml "jsem-dataset" nodes
+  where nodes2xml name nodes =
+          X.renderText X.def $ X.Document 
+                         (X.Prologue
+                            []
+                            (Just $ X.Doctype "jsem-dataset SYSTEM \"jsem.dtd\"" Nothing) -- <!DOCTYPE jsem-dataset SYSTEM "jsem.dtd">
+                            [X.MiscInstruction $ X.Instruction "xml-stylesheet" "type=\"text/xsl\" href=\"jsem.xsl\"" ] -- <?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
+                            ) 
+                         (X.Element (tag name) (M.fromList []) nodes)
+                         []
+
+jsemData2xmlNode :: JSeMData -> IO(X.Node)
+jsemData2xmlNode j = do
+  return $ X.NodeElement $ X.Element 
+                    (tag "problem")
+                    (M.fromList 
+                       [("jsem_id", jsem_id j),
+                        ("answer", StrictT.pack $ show $ answer j),
+                        ("language","jp"),
+                        ("phenomena", StrictT.intercalate "," $ phenomena j),
+                        ("inference_type",inference_type j)
+                       ])
+                    ((case link j of
+                        Link resource' link_id' translation' same_phenomena' ->
+                          [X.NodeElement $ X.Element 
+                               (tag "link")
+                               (M.fromList [("resource", resource'),
+                                            ("link_id", link_id'),
+                                            ("translation", StrictT.pack $ show $ translation'),
+                                            ("same_phenomena", StrictT.pack $ show $ same_phenomena')
+                                            ])
+                               []]
+                        NoLink -> []
+                     ) ++
+                     [X.NodeElement $ X.Element
+                        (tag "description")
+                        (M.fromList [])
+                        [X.NodeContent $ description j]
+                     ] ++
+                     ((flip map) (zip (premises j) [1..]) $ \(premise,i) ->  
+                       X.NodeElement $ X.Element
+                          (tag "p")
+                          (M.fromList [("idx",StrictT.pack $ show (i::Int))])
+                          [X.NodeElement $ X.Element
+                             (tag "script")
+                             (M.fromList [])
+                             [X.NodeContent premise]  
+                          ]
+                     ) ++  
+                     [X.NodeElement $ X.Element
+                        (tag "h")
+                        (M.fromList [])
+                        [X.NodeElement $ X.Element
+                           (tag "script")
+                           (M.fromList [])
+                           [X.NodeContent $ hypothesis j]
+                        ],
+                      X.NodeElement $ X.Element
+                        (tag "note")
+                        (M.fromList [])
+                        [X.NodeContent $ note j]
+                      ])
 
 -- | takes a JSeM text (XML format) and returns a list of 'JSeMData'.
-xml2JSeMData :: StrictT.Text -> IO([JSeMData])
-xml2JSeMData = xml2problems >=> mapM problem2JSeMData
+xml2jsemData :: StrictT.Text -> IO([JSeMData])
+xml2jsemData = (mapM problem2jsemData) <=< xml2problems
 
 -- | takes a file path of a JSeM file (XML format) and returns a list of 'JSeMData'.
-xmlFile2JSeMData :: FilePath -> IO([JSeMData])
-xmlFile2JSeMData = J.readFileUtf8 >=> xml2problems >=> mapM problem2JSeMData
+xmlFile2jsemData :: FilePath -> IO([JSeMData])
+xmlFile2jsemData = (mapM problem2jsemData) <=< xml2problems <=< J.readFileUtf8
 
 -- | takes a JSeM text (XML format) and returns a list of "problem" nodes.
 xml2problems :: StrictT.Text -> IO([X.Cursor])
@@ -47,31 +115,23 @@ xml2problems xml = do
 -- Note that the xml-conduit package uses Data.Text (=strict texts) as internal format of text data, 
 -- and `problem2JSeMData` function converts them to Data.Text.Lazy (=lazy texts), 
 -- which is a standard format of text data in lightblue.
-problem2JSeMData :: X.Cursor -> IO(JSeMData)
-problem2JSeMData problem = do
-  let j_jsem_id = StrictT.concat $ [problem] >>= X.laxAttribute "jsem_id"
-      j_linktag = [problem] >>= X.child >>= X.element "link"
-      j_resource = StrictT.concat $ j_linktag >>= X.laxAttribute "resource" 
-      j_link_id = StrictT.concat $ j_linktag >>= X.laxAttribute "linkid" 
-      j_translation = StrictT.concat $ j_linktag >>= X.laxAttribute "translation" 
-      j_same_phenomena = StrictT.concat $ j_linktag >>= X.laxAttribute "same_phenomena" 
-      j_desc = StrictT.concat $ [problem] >>= X.child >>= X.element "description" >>= X.child >>= X.content
-      j_phenomena = map (StrictT.strip) $ [problem] >>= X.laxAttribute "phenomena" >>= StrictT.split (==',')
-      j_inference_type = StrictT.concat $ [problem] >>= X.laxAttribute "inference_type"
-      j_note = StrictT.concat $ [problem] >>= X.child >>= X.element "note" >>= X.child >>= X.content
-      j_premises = map StrictT.strip $ [problem] >>= X.child >>= X.element "p" >>= X.child >>= X.element "script" >>= X.child >>= X.content
-      j_hypothesis = StrictT.concat $ map StrictT.strip $ [problem] >>= X.child >>= X.element "h" >>= X.child >>= X.element "script" >>= X.child >>= X.content
-      answertext = StrictT.concat $ [problem] >>= X.laxAttribute "answer"
-  j_answer <- case answertext of
-              "yes" -> return YES
-              "no" -> return NO
-              "unknown" -> return UNKNOWN
-              "undef" -> return UNDEF
-              "unacceptable" -> return UNACCEPTABLE
-              "weakacceptable" -> return WEAKACCEPTABLE
-              "infelicitous" -> return INFELICITOUS
-              _ -> fail $ StrictT.unpack $ StrictT.concat ["#", j_jsem_id, " has an undefined answer: ", answertext]
-  return $ JSeMData j_jsem_id j_resource j_link_id j_translation j_same_phenomena j_desc j_answer j_phenomena j_inference_type j_note j_premises j_hypothesis
+problem2jsemData :: X.Cursor -> IO(JSeMData)
+problem2jsemData problem = do
+  let linktag = [problem] >>= X.child >>= X.element "link" 
+  return $ JSeMData
+             (StrictT.concat $ [problem] >>= X.laxAttribute "jsem_id")
+             (Link 
+               (StrictT.concat $ linktag >>= X.laxAttribute "resource")
+               (StrictT.concat $ linktag >>= X.laxAttribute "link_id")
+               (readYesNo $ StrictT.concat $ linktag >>= X.laxAttribute "translation")
+               (readYesNo $ StrictT.concat $ linktag >>= X.laxAttribute "same_phenomena"))
+             (StrictT.concat $ [problem] >>= X.child >>= X.element "description" >>= X.child >>= X.content)
+             (readJSeMLabel $ StrictT.concat $ [problem] >>= X.laxAttribute "answer")
+             (map (StrictT.strip) $ [problem] >>= X.laxAttribute "phenomena" >>= StrictT.split (==','))
+             (StrictT.concat $ [problem] >>= X.laxAttribute "inference_type")
+             (StrictT.concat $ [problem] >>= X.child >>= X.element "note" >>= X.child >>= X.content)
+             (map StrictT.strip $ [problem] >>= X.child >>= X.element "p" >>= X.child >>= X.element "script" >>= X.child >>= X.content)
+             (StrictT.concat $ map StrictT.strip $ [problem] >>= X.child >>= X.element "h" >>= X.child >>= X.element "script" >>= X.child >>= X.content)
 
 -- | JSeM統計情報出力プログラム
 -- |   標準入力からxmlフォーマットのJSeMファイルを受け取り、以下を標準出力に出力する：
@@ -82,11 +142,10 @@ getStat :: FilePath -> IO(StrictT.Text)
 getStat dataFolder = do
   _ <- D.doesDirectoryExist dataFolder 
   xmlFiles <- map (dataFolder </>) <$> filter (isExtensionOf "xml") <$> D.listDirectory dataFolder
-  problems2stat <$> concat <$> forM xmlFiles (\xmlFile -> do
-    cursor <- X.fromDocument <$> X.readFile X.def xmlFile 
-    return $ X.child cursor >>= X.element "problem"
-    )
+  jsemData2stat <$> concat <$> mapM xmlFile2jsemData xmlFiles 
 
+
+{-
 -- | takes a list of "problem" nodes and returns a statistics (in a text format).
 problems2stat :: [X.Cursor] -> StrictT.Text
 problems2stat [] = StrictT.empty
@@ -108,4 +167,4 @@ problems2stat problems =
       ++ (show $ L.length $ L.filter (=="yes") transYes)
       ++ "\n(3) The number of occurrences of each phenomena:\n")
     (StrictT.intercalate "\n" $ L.map (\(t,x) -> StrictT.concat ["- ", t,": ",(StrictT.pack $ show x)]) $ M.toList $ M.fromListWith (+) $ L.zip phen2 (repeat (1::Integer)))
-
+-}
