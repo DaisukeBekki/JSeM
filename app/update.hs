@@ -5,14 +5,11 @@
 -- | README.mdを更新
 -- | Usage: stack exec update -- data
 
-import Control.Monad (forM,forM_,when)   --base
+import Control.Monad (forM_,when)   --base
 import System.FilePath ((</>),isExtensionOf,replaceExtensions) --filepath
 import System.Environment (getArgs)      --base
 import qualified System.Directory as D   --directory
-import qualified Data.Text.Lazy.IO as T  --text
 import qualified Data.Text.IO as StrictT --text
-import qualified Text.XML as X           --xml-conduit
-import qualified Text.XML.Cursor as X    --xml-conduit
 import qualified JSeM.XML as J           --jsem
 import qualified JSeM.TSV as J           --jsem
 import qualified JSeM.Cmd as J           --jsem
@@ -32,13 +29,13 @@ main = do
     if (not xmlFileExists)
       then do
         putStrLn $ "Creating " ++ xmlFile ++ "..."
-        J.readFileUtf8 tsvFile >>= J.tsv2XML >>= StrictT.writeFile xmlFile
+        J.readFileUtf8 tsvFile >>= J.tsv2jsemData >>= J.jsemData2xml >>= StrictT.writeFile xmlFile
       else do
         tsvTime <- D.getModificationTime tsvFile
         xmlTime <- D.getModificationTime xmlFile
         when (tsvTime > xmlTime) $ do -- 対応するXMLファイルが存在しないか、tsvが更新されている時
           putStrLn $ "Updating " ++ xmlFile ++ "..."
-          J.readFileUtf8 tsvFile >>= J.tsv2XML >>= StrictT.writeFile xmlFile
+          J.readFileUtf8 tsvFile >>= J.tsv2jsemData >>= J.jsemData2xml >>= StrictT.writeFile xmlFile
   putStrLn "tsv->xml done"
   J.getStat dataFolder >>= StrictT.writeFile ("stat.txt")
   putStrLn "Statistics recorded to stat.txt"

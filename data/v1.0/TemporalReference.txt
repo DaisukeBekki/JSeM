@@ -1,49 +1,49 @@
-644			YES	"temporal reference, standard use of tense"	"entailment"		    ITELはバーミンガムに工場を持っている。		     ITELは現在バーミンガムに工場を持っている。	
-645			YES	"temporal reference, standard use of tense"	"entailment"		     1992年以来、ITELはバーミンガムにある。		    現在、1996年である。		     ITELは1993年にはバーミンガムにあった。	
-646			UNKNOWN	"temporal reference, standard use of tense"	"entailment"		     ITELは1992年以来、新人編集者を育成してきた。		     現在、1996年である。		     ITELは1993年に新人編集者を育成した。	
-647			YES	"temporal reference, standard use of tense"	"entailment"	DB: A(nswer) is reported as "don't know" in English and Chinese but I'm wondering if it is really true.  At least it should be "yes" in Japanese.	     ITELは1992年以来、事業を拡張している。		     現在、1996年である。		     ITELは1993年に事業を拡張した。	
-648			YES	"temporal reference, standard use of tense"	"entailment"		    1992年以来、ITELは損失を出している。		    現在、1996年である。		     ITELは1993年に損失を出した。	
-649			YES	"temporal reference, standard use of tense"	"entailment"	AK:fracas-256の例はP1に曖昧性があるとされているが、日本語ではそのような曖昧性は見られない。 	     ITELは1992年以来損失を出している。		     現在、1996年である。 		     ITELは1993年に損失を出した。	
-650			NO	"temporal reference, standard use of tense"	"entailment"	DB: This test involves the lexical semantics of "seturitu-suru". 	     1993年3月にAPCOMはITELを設立した。		     ITELは1992年に存在した。	
-651			YES	"temporal reference, indexical"	"entailment"	AK:be overを「終了している」と結果残存のテイル形に対応させた。	     学会は1994年7月4日に始まった。		     その学会は2日間にわたった。		     学会は1994年7月8日には終了していた。	
-652			YES	"temporal reference, indexical"	"entailment"	comments for FraCaS by Bill MacCartney: The odd punctuation in the question was in the original. 	     昨日、APCOMは契約書に署名した。		     今日は7月14日土曜日だ。		     APCOMは13日の金曜日に契約書に署名した。	
-653			YES	"temporal reference, before, after"	"entailment"	comments for FraCaS by Bill MacCartney: Original is degenerate problem; this is my fabrication. 	     スミスはジョーンズが去る前に去った。		     ジョーンズはアンダーソンが去る前に去った。		     スミスはアンダーソンが去る前に去った。	
-654			YES	"temporal reference, before, after"	"entailment"		     スミスはジョーンズが去った後に去った。		     ジョーンズはアンダーソンが去った後に去った。		     スミスはアンダーソンが去った後に去った。	
-655			YES	"temporal reference, before, after"	"entailment"	 DB: Are P1 and P2 necessary, given P3? commeng for FraCaS by Bill MacCartney: Original is degenerate problem; this is my fabrication. 	     スミスが去った。		     ジョーンズが去った。		     スミスはジョーンズが去る前に去った。		     ジョーンズはスミスが去った後で去った。	
-656			YES	"temporal reference, before, after"	"entailment"		     スミスが去った。		     ジョーンズが去った。		     スミスはジョーンズが去った後に去った。		     ジョーンズはスミスが去る前に去った。	
-657			YES	"temporal reference, before, after"	"entailment"		     スミスが去った。  		     ジョーンズが去った。  		     ジョーンズはスミスが去る前に去った。		     スミスはジョーンズが去る前に去った。	
-658			YES	"temporal reference, before, after, comparative deletion"	"entailment"	AK: これはcomparative deletionの例でもある。	     ジョーンズが契約書を修正した。		     スミスが契約書を修正した。		     ジョーンズがスミスより先に契約書を修正した。		     スミスはジョーンズより後に契約書を修正した。	
-659			YES	"temporal reference, before, after, comparative deletion"	"entailment"	DB: 「～より後に」は日本語では少々不自然。AK: これはcomparative deletionの例でもある。	     ジョーンズが契約書を修正した。		     スミスが契約書を修正した。		     ジョーンズがスミスより後に契約書を修正した。		     スミスはジョーンズより先に契約書を修正した。	
-660			UNKNOWN	"temporal reference, before, after"	"entailment"	AK: activity verbでは、achievement/accomplishment verbで成り立っていたような推論（X after Y iff Y before X）が必ずしも成り立たないという例。日本語の「前」「後」にも同様の現象がみられるように思われる。	     スミスが泳いだ。		     ジョーンズが泳いだ。		     スミスはジョーンズが泳ぐ前に泳いだ。		     ジョーンズはスミスが泳いだ後に泳いだ。	
-661			YES	"temporal reference, before, after"	"entailment"		     スミスが海岸まで泳いだ。		     ジョーンズが海岸まで泳いだ。		     スミスはジョーンズが海岸まで泳ぐ前に、海岸まで泳いだ。		     ジョーンズはスミスが海岸まで泳いだ後に、海岸まで泳いだ。	
-662			UNKNOWN	"temporal reference, before, after"	"entailment"	AK:「前に」のcounterfacturalな解釈	     スミスは激怒する前に会議室から出た。		     スミスは激怒した。	
-663			UNKNOWN	"temporal reference, temporal adverb"	"entailment"	comments in original FraCaS:  Stative 	     スミスは1991年にバーミンガムに住んでいた。		     スミスは1992年にバーミンガムに住んでいた。   	
-664			NO	"temporal reference, temporal adverb"	"entailment"	comments in original FraCaS:  (Unrepeatable) accomplishment 	     スミスは1991年に最初の小説を書いた。		     スミスは1992年に最初の小説を書いた。	
-665			UNKNOWN	"temporal reference, temporal adverb"	"entailment"	comments in original FraCaS:  (Repeatable) accomplishment 	     スミスは1991年に小説を書いた。		     スミスは1992年に小説を書いた。	
-666			UNKNOWN	"temporal reference, temporal adverb"	"entailment"	comments in original FraCaS:  Activity 	     山田は1991年に焼き肉店を経営していた。		     山田は1992年にその店を経営していた。	
-667			NO	"temporal reference, temporal adverb"	"entailment"	comments in original FraCaS:  (Unrepeatable) achievement 	     スミスが1991年に新種を発見した。		     スミスはそれを1992年に発見した。	
-668			UNKNOWN	"temporal reference, temporal adverb"	"entailment"	comments in original FraCaS:  (Repeatable) achievement 	     スミスが1991年に新種を発見した。		     スミスは1992年に新種を発見した。	
-669			YES	"temporal reference, temporal adverb"	"entailment"	comments in original FraCaS:  Accomplishment 	     スミスが2時間以内に報告書を書いた。		     スミスは午前8時にその報告書を書き始めた。		     スミスは午前11時までにその報告書を書き終えた。	
-670			UNKNOWN	"temporal reference, temporal adverb"	"entailment"	comments in original FraCaS:     Smith may have written the report in less than two hours. It is unclear    whether there are two different readings for the premise: one where Smith    takes exactly two hours, and one where he does it within two hours.  DB: the Japanese expression "2時間以内に" is not ambiguous in the sense of the above comment on "two different readings".	     スミスが2時間以内に報告書を書いた。		     スミスはその報告書を書くのに2時間を費やした。	
-671			NO	"temporal reference, temporal adverb"	"entailment"		     スミスが2時間以内に報告書を書いた。  		     スミスはその報告書を書くのに2時間以上費やした。	
-672			UNKNOWN	"temporal reference, temporal adverb"	"entailment"		     スミスが2時間以内に報告書を書いた。  		     スミスは1時間以内に報告書を書いた。	
-673			YES	"temporal reference, temporal adverb"	"entailment"		     スミスが2時間以内に報告書を書いた。  		     スミスは報告書を書いた。	
-674			YES	"temporal reference, temporal adverb"	"entailment"		     スミスは2時間以内に新種を発見した。		     スミスは新種を発見した。	
-675			UNKNOWN	"temporal reference, temporal adverb"	"entailment"	comments in original FraCaS:  Repeated achievement can last two hours. DB: 中国語版ではYES	     スミスは2時間以内に多くの新種を発見した。		     スミスは新種を発見するのに2時間を費やした。	
-676			YES	"temporal reference, temporal adverb"	"entailment"	comments in original FraCaS:  State 	     スミスは2年間バーミンガムに住んだ。		     スミスは1年間バーミンガムに住んだ。	
-677			NO	"temporal reference, temporal adverb"	"entailment"		     スミスは2年間バーミンガムに住んだ。		     スミスはちょうど1年間バーミンガムに住んだ。	
-678			YES	"temporal reference, temporal adverb"	"entailment"		     スミスはバーミンガムに2年住んだ。		     スミスはバーミンガムに住んだ。	
-679			YES	"temporal reference, temporal adverb"	"entailment"	comments in original FraCaS:  Activity 	     スミスは自分の事業を2年間営んだ。		     スミスは自分の事業を1年間営んだ。	
-680			YES	"temporal reference, temporal adverb"	"entailment"		     スミスは自分の事業を2年間営んだ。		     スミスは自分の事業を営んだ。	
-681			YES	"temporal reference, temporal adverb"	"entailment"	comments in original FraCaS:  Accomplishment 	     スミスは2時間報告書を書いた。		     スミスは1時間報告書を書いた。	
-682			YES	"temporal reference, temporal adverb"	"entailment"	comments in original FraCaS:  'wrote a report' is translated into a way that doesn't care if it is finished but if it is written. 	     スミスは2時間報告書を書いた。		     スミスは報告書を書いた。	
-683			YES	"temporal reference, quantificational adverbial"	"entailment"		     1994年、ITELは毎月進捗報告を送った。		     ITELは1994年7月に進捗報告を送った。	
-684			UNDEF	"temporal reference, quantificational adverbial, scope ambiguity"	"entailment"	DB: 「代議士」の存在量化と「毎週」のスコープの問題。AK: 毎週＞代議士と解釈すればunknown、代議士＞毎週と解釈すればyes。	     スミスは毎週代議士に手紙を書いた。		     スミスが毎週手紙を書いた代議士が存在する。	
-685			YES	"temporal reference, anaphoric dimension"	"entailment"	  comments in original FraCaS: Rhetorical relations like narrative progression are defeasible  interpretation principles. They depend on a theory of action and  causation and general world knowledge (c.f. (309) and (310)).DB: there is no direct translation of ``take a taxi to the station'' into Japanese.	     スミスは5時15分に家を出た。		     それから、彼女はタクシーを拾って駅に向かった。		     スミスはタクシーを拾って駅に向かう前に、家を出た。	
-686			YES	"temporal reference, adverbs of quantification"	"entailment"	 comments for FraCaS by Bill MacCartney: the original did have "delivered" in the question. DB: 'always'のテストが目的なら、もっと自然な日本語訳がある述語を選びたい。	     ITELはいつも報告書を遅れて提出する。		     1993年にITELは報告書を提出した。		     ITELは1993年に報告書を遅れて提出した。	
-687			NO	"temporal reference, adverbs of quantification"	"entailment"	 comments for FraCaS by Bill MacCartney: the original did have "delivered" in the question. DB: 否定はなお厳しい。	     ITELは決して報告書を遅れて提出することはない。		     1993年にITELは報告書を提出した。		     ITELは1993年に報告書を遅れて提出した。	
-688			UNKNOWN	"temporal reference, complex example"	"entailment"	DB: the answers were yes in both English and Chinese, I don't know why.	     スミスは1995年5月5日にパリに到着した。		     今日は1995年5月15日だ。		     彼女はまだパリに滞在している。		     スミスは1995年5月7日にパリにいた。	
-689			YES	"temporal reference, complex example"	"entailment"		     スミスがカトマンズに到着した時、彼女は3日間旅をしていた。		     スミスはカトマンズに到着した前日に旅をしていた。	
-690			YES	"temporal reference, complex example"	"entailment"		     すべての代議士がこの報告書を読み終えている。		     どの二人の代議士も、それを同時に読んだことはない。		     どの代議士もその報告書を読むのに半日以上を費やした。		     代議士は16人いる。		     代議士達は、その報告書を読むのに1週間以上費やした。	
-691			NO	"temporal reference, complex example"	"entailment"	DB: The Japanese version of P2 does not use gapping, otherwise it would be unnatural.	     ジョーンズがプログラムを更新している間、メアリーがやってきて彼に重役会の話を伝えた。		     彼女は、彼が更新する前に話を終えた。		     メアリーの話は、ジョーンズのプログラムの更新と同じくらい続いた。	
-692			YES	"temporal reference, complex example"	"entailment"		     APCOMは現在の自社ビルを購入するまで、以前の自社ビルの借入金の利子を8年間支払っていた。		     APCOMは現在の自社ビルを購入して以来、その借入金の利子を10年以上支払っている。		     APCOMは合計15年以上にわたって借入金の利子を支払っている。	
+644	fracas	251	yes	unknown			yes	"temporal reference, standard use of tense"	entailment		ITELはバーミンガムに工場を持っている。	ITELは現在バーミンガムに工場を持っている。
+645	fracas	252	yes	unknown			yes	"temporal reference, standard use of tense"	entailment		1992年以来、ITELはバーミンガムにある。	現在、1996年である。	ITELは1993年にはバーミンガムにあった。
+646	fracas	253	yes	unknown			unknown	"temporal reference, standard use of tense"	entailment		ITELは1992年以来、新人編集者を育成してきた。	現在、1996年である。	ITELは1993年に新人編集者を育成した。
+647	fracas	254	yes	unknown			yes	"temporal reference, standard use of tense"	entailment	DB: A(nswer) is reported as "don't know" in English and Chinese but I'm wondering if it is really true.  At least it should be "yes" in Japanese.	ITELは1992年以来、事業を拡張している。	現在、1996年である。	ITELは1993年に事業を拡張した。
+648	fracas	255	yes	unknown			yes	"temporal reference, standard use of tense"	entailment		1992年以来、ITELは損失を出している。	現在、1996年である。	ITELは1993年に損失を出した。
+649	fracas	257	yes	unknown			yes	"temporal reference, standard use of tense"	entailment	AK:fracas-256の例はP1に曖昧性があるとされているが、日本語ではそのような曖昧性は見られない。 	ITELは1992年以来損失を出している。	現在、1996年である。	ITELは1993年に損失を出した。
+650	fracas	258	yes	unknown			no	"temporal reference, standard use of tense"	entailment	DB: This test involves the lexical semantics of "seturitu-suru". 	1993年3月にAPCOMはITELを設立した。	ITELは1992年に存在した。
+651	fracas	259	yes	unknown			yes	"temporal reference, indexical"	entailment	AK:be overを「終了している」と結果残存のテイル形に対応させた。	学会は1994年7月4日に始まった。	その学会は2日間にわたった。	学会は1994年7月8日には終了していた。
+652	fracas	260	yes	unknown			yes	"temporal reference, indexical"	entailment	comments for FraCaS by Bill MacCartney: The odd punctuation in the question was in the original. 	昨日、APCOMは契約書に署名した。	今日は7月14日土曜日だ。	APCOMは13日の金曜日に契約書に署名した。
+653	fracas	261	yes	unknown			yes	"temporal reference, before, after"	entailment	comments for FraCaS by Bill MacCartney: Original is degenerate problem; this is my fabrication. 	スミスはジョーンズが去る前に去った。	ジョーンズはアンダーソンが去る前に去った。	スミスはアンダーソンが去る前に去った。
+654	fracas	262	yes	unknown			yes	"temporal reference, before, after"	entailment		スミスはジョーンズが去った後に去った。	ジョーンズはアンダーソンが去った後に去った。	スミスはアンダーソンが去った後に去った。
+655	fracas	264	yes	unknown			yes	"temporal reference, before, after"	entailment	 DB: Are P1 and P2 necessary, given P3? commeng for FraCaS by Bill MacCartney: Original is degenerate problem; this is my fabrication. 	スミスが去った。	ジョーンズが去った。	スミスはジョーンズが去る前に去った。	ジョーンズはスミスが去った後で去った。
+656	fracas	265	yes	unknown			yes	"temporal reference, before, after"	entailment		スミスが去った。	ジョーンズが去った。	スミスはジョーンズが去った後に去った。	ジョーンズはスミスが去る前に去った。
+657	fracas	266	yes	unknown			yes	"temporal reference, before, after"	entailment		スミスが去った。	ジョーンズが去った。	ジョーンズはスミスが去る前に去った。	スミスはジョーンズが去る前に去った。
+658	fracas	267	yes	unknown			yes	"temporal reference, before, after, comparative deletion"	entailment	AK: これはcomparative deletionの例でもある。	ジョーンズが契約書を修正した。	スミスが契約書を修正した。	ジョーンズがスミスより先に契約書を修正した。	スミスはジョーンズより後に契約書を修正した。
+659	fracas	268	yes	unknown			yes	"temporal reference, before, after, comparative deletion"	entailment	DB: 「～より後に」は日本語では少々不自然。AK: これはcomparative deletionの例でもある。	ジョーンズが契約書を修正した。	スミスが契約書を修正した。	ジョーンズがスミスより後に契約書を修正した。	スミスはジョーンズより先に契約書を修正した。
+660	fracas	269	yes	unknown			unknown	"temporal reference, before, after"	entailment	AK: activity verbでは、achievement/accomplishment verbで成り立っていたような推論（X after Y iff Y before X）が必ずしも成り立たないという例。日本語の「前」「後」にも同様の現象がみられるように思われる。	スミスが泳いだ。	ジョーンズが泳いだ。	スミスはジョーンズが泳ぐ前に泳いだ。	ジョーンズはスミスが泳いだ後に泳いだ。
+661	fracas	270	yes	unknown			yes	"temporal reference, before, after"	entailment		スミスが海岸まで泳いだ。	ジョーンズが海岸まで泳いだ。	スミスはジョーンズが海岸まで泳ぐ前に、海岸まで泳いだ。	ジョーンズはスミスが海岸まで泳いだ後に、海岸まで泳いだ。
+662	fracas	275	yes	unknown			unknown	"temporal reference, before, after"	entailment	AK:「前に」のcounterfacturalな解釈	スミスは激怒する前に会議室から出た。	スミスは激怒した。
+663	fracas	277	yes	unknown			unknown	"temporal reference, temporal adverb"	entailment	comments in original FraCaS:  Stative 	スミスは1991年にバーミンガムに住んでいた。	スミスは1992年にバーミンガムに住んでいた。
+664	fracas	278	yes	unknown			no	"temporal reference, temporal adverb"	entailment	comments in original FraCaS:  (Unrepeatable) accomplishment 	スミスは1991年に最初の小説を書いた。	スミスは1992年に最初の小説を書いた。
+665	fracas	280	yes	unknown			unknown	"temporal reference, temporal adverb"	entailment	comments in original FraCaS:  (Repeatable) accomplishment 	スミスは1991年に小説を書いた。	スミスは1992年に小説を書いた。
+666	fracas	281	no	unknown			unknown	"temporal reference, temporal adverb"	entailment	comments in original FraCaS:  Activity 	山田は1991年に焼き肉店を経営していた。	山田は1992年にその店を経営していた。
+667	fracas	282	yes	unknown			no	"temporal reference, temporal adverb"	entailment	comments in original FraCaS:  (Unrepeatable) achievement 	スミスが1991年に新種を発見した。	スミスはそれを1992年に発見した。
+668	fracas	283	yes	unknown			unknown	"temporal reference, temporal adverb"	entailment	comments in original FraCaS:  (Repeatable) achievement 	スミスが1991年に新種を発見した。	スミスは1992年に新種を発見した。
+669	fracas	284	yes	unknown			yes	"temporal reference, temporal adverb"	entailment	comments in original FraCaS:  Accomplishment 	スミスが2時間以内に報告書を書いた。	スミスは午前8時にその報告書を書き始めた。	スミスは午前11時までにその報告書を書き終えた。
+670	fracas	285	yes	unknown			unknown	"temporal reference, temporal adverb"	entailment	comments in original FraCaS:     Smith may have written the report in less than two hours. It is unclear    whether there are two different readings for the premise: one where Smith    takes exactly two hours, and one where he does it within two hours.  DB: the Japanese expression "2時間以内に" is not ambiguous in the sense of the above comment on "two different readings".	スミスが2時間以内に報告書を書いた。	スミスはその報告書を書くのに2時間を費やした。
+671	fracas	286	yes	unknown			no	"temporal reference, temporal adverb"	entailment		スミスが2時間以内に報告書を書いた。	スミスはその報告書を書くのに2時間以上費やした。
+672	fracas	287	yes	unknown			unknown	"temporal reference, temporal adverb"	entailment		スミスが2時間以内に報告書を書いた。	スミスは1時間以内に報告書を書いた。
+673	fracas	288	yes	unknown			yes	"temporal reference, temporal adverb"	entailment		スミスが2時間以内に報告書を書いた。	スミスは報告書を書いた。
+674	fracas	290	yes	unknown			yes	"temporal reference, temporal adverb"	entailment		スミスは2時間以内に新種を発見した。	スミスは新種を発見した。
+675	fracas	291	yes	unknown			unknown	"temporal reference, temporal adverb"	entailment	comments in original FraCaS:  Repeated achievement can last two hours. DB: 中国語版ではYES	スミスは2時間以内に多くの新種を発見した。	スミスは新種を発見するのに2時間を費やした。
+676	fracas	298	yes	unknown			yes	"temporal reference, temporal adverb"	entailment	comments in original FraCaS:  State 	スミスは2年間バーミンガムに住んだ。	スミスは1年間バーミンガムに住んだ。
+677	fracas	299	yes	unknown			no	"temporal reference, temporal adverb"	entailment		スミスは2年間バーミンガムに住んだ。	スミスはちょうど1年間バーミンガムに住んだ。
+678	fracas	300	yes	unknown			yes	"temporal reference, temporal adverb"	entailment		スミスはバーミンガムに2年住んだ。	スミスはバーミンガムに住んだ。
+679	fracas	301	yes	unknown			yes	"temporal reference, temporal adverb"	entailment	comments in original FraCaS:  Activity 	スミスは自分の事業を2年間営んだ。	スミスは自分の事業を1年間営んだ。
+680	fracas	302	yes	unknown			yes	"temporal reference, temporal adverb"	entailment		スミスは自分の事業を2年間営んだ。	スミスは自分の事業を営んだ。
+681	fracas	303	yes	unknown			yes	"temporal reference, temporal adverb"	entailment	comments in original FraCaS:  Accomplishment 	スミスは2時間報告書を書いた。	スミスは1時間報告書を書いた。
+682	fracas	304	yes	unknown			yes	"temporal reference, temporal adverb"	entailment	comments in original FraCaS:  'wrote a report' is translated into a way that doesn't care if it is finished but if it is written. 	スミスは2時間報告書を書いた。	スミスは報告書を書いた。
+683	fracas	307	yes	unknown			yes	"temporal reference, quantificational adverbial"	entailment		1994年、ITELは毎月進捗報告を送った。	ITELは1994年7月に進捗報告を送った。
+684	fracas	308	yes	unknown			undef	"temporal reference, quantificational adverbial, scope ambiguity"	entailment	DB: 「代議士」の存在量化と「毎週」のスコープの問題。AK: 毎週＞代議士と解釈すればunknown、代議士＞毎週と解釈すればyes。	スミスは毎週代議士に手紙を書いた。	スミスが毎週手紙を書いた代議士が存在する。
+685	fracas	311	yes	unknown			yes	"temporal reference, anaphoric dimension"	entailment	  comments in original FraCaS: Rhetorical relations like narrative progression are defeasible  interpretation principles. They depend on a theory of action and  causation and general world knowledge (c.f. (309) and (310)).DB: there is no direct translation of ``take a taxi to the station'' into Japanese.	スミスは5時15分に家を出た。	それから、彼女はタクシーを拾って駅に向かった。	スミスはタクシーを拾って駅に向かう前に、家を出た。
+686	fracas	312	yes	unknown			yes	"temporal reference, adverbs of quantification"	entailment	 comments for FraCaS by Bill MacCartney: the original did have "delivered" in the question. DB: 'always'のテストが目的なら、もっと自然な日本語訳がある述語を選びたい。	ITELはいつも報告書を遅れて提出する。	1993年にITELは報告書を提出した。	ITELは1993年に報告書を遅れて提出した。
+687	fracas	313	yes	unknown			no	"temporal reference, adverbs of quantification"	entailment	 comments for FraCaS by Bill MacCartney: the original did have "delivered" in the question. DB: 否定はなお厳しい。	ITELは決して報告書を遅れて提出することはない。	1993年にITELは報告書を提出した。	ITELは1993年に報告書を遅れて提出した。
+688	fracas	314	yes	unknown			unknown	"temporal reference, complex example"	entailment	DB: the answers were yes in both English and Chinese, I don't know why.	スミスは1995年5月5日にパリに到着した。	今日は1995年5月15日だ。	彼女はまだパリに滞在している。	スミスは1995年5月7日にパリにいた。
+689	fracas	315	yes	unknown			yes	"temporal reference, complex example"	entailment		スミスがカトマンズに到着した時、彼女は3日間旅をしていた。	スミスはカトマンズに到着した前日に旅をしていた。
+690	fracas	317	yes	unknown			yes	"temporal reference, complex example"	entailment		すべての代議士がこの報告書を読み終えている。	どの二人の代議士も、それを同時に読んだことはない。	どの代議士もその報告書を読むのに半日以上を費やした。	代議士は16人いる。	代議士達は、その報告書を読むのに1週間以上費やした。
+691	fracas	318	yes	unknown			no	"temporal reference, complex example"	entailment	DB: The Japanese version of P2 does not use gapping, otherwise it would be unnatural.	ジョーンズがプログラムを更新している間、メアリーがやってきて彼に重役会の話を伝えた。	彼女は、彼が更新する前に話を終えた。	メアリーの話は、ジョーンズのプログラムの更新と同じくらい続いた。
+692	fracas	319	yes	unknown			yes	"temporal reference, complex example"	entailment		APCOMは現在の自社ビルを購入するまで、以前の自社ビルの借入金の利子を8年間支払っていた。	APCOMは現在の自社ビルを購入して以来、その借入金の利子を10年以上支払っている。	APCOMは合計15年以上にわたって借入金の利子を支払っている。

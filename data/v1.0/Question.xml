@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE jsem-problems SYSTEM "jsem.dtd">
+<!DOCTYPE jsem-dataset SYSTEM "jsem.dtd">
 <?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
-<jsem-problems>
+<jsem-dataset>
+  <problem answer="yes"
+  inference_type="conversational implicature?" jsem_id="Que1"
+  language="jp" phenomena="Question, -ka (question particle)">
+    <description>《疑問文を発した者が答えを知らない例》</description>
+    <p idx="1">
+      <script>客室乗務員は、「お客様の中にお医者様はいらっしゃいますか」と言った。</script>
+    </p>
+    <h>
+      <script>客室乗務員は、客の中に医者がいるかどうかを知らない。</script>
+    </h>
+    <note></note>
+  </problem>
   <problem answer="yes"
   inference_type="conversational implicature?" jsem_id="Que2"
   language="jp" phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+    <description>《疑問文を発した者が答えを知らない例》</description>
     <p idx="1">
       <script>父親は息子に「ちゃんと歯を磨いたか」と言った。</script>
     </p>
@@ -17,7 +29,7 @@
   <problem answer="no" inference_type="conversational implicature?"
   jsem_id="Que3" language="jp"
   phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+    <description>《疑問文を発した者が答えを知っている例》</description>
     <p idx="1">
       <script>太郎は、「寒いと思ったら、雪が降ってきたか」と言った。</script>
     </p>
@@ -30,7 +42,7 @@
   <problem answer="no" inference_type="conversational implicature?"
   jsem_id="Que4" language="jp"
   phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+    <description>《疑問文を発した者が答えを知っている例》</description>
     <p idx="1">
       <script>太郎は次郎に、「やっと到着したか。だが、もうパーティは終わってしまったよ」と言った。</script>
     </p>
@@ -43,7 +55,7 @@
   inference_type="conversational implicature?" jsem_id="Que5"
   language="jp"
   phenomena="Question, -ka (question particle), -darooka">
-    <link resource="fracas" />
+    <description>《疑問文の形をした反語：「Pか」と言った者がPの否定を主張している例》</description>
     <p idx="1">
       <script>花子は、「誰がこんなまずい料理を食べに来るだろうか」と言った。</script>
     </p>
@@ -56,7 +68,7 @@
   <problem answer="no" inference_type="conversational implicature?"
   jsem_id="Que6" language="jp"
   phenomena="Question, -ka (question particle), -darooka">
-    <link resource="fracas" />
+    <description>《疑問文を発した者が答えを知っている例》</description>
     <p idx="1">
       <script>太郎は「花子は犯人だろうか。答えはNoである」と言った。</script>
     </p>
@@ -69,7 +81,7 @@
   <problem answer="no" inference_type="conversational implicature?"
   jsem_id="Que7" language="jp"
   phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+    <description>《疑問文を発した者が答えを知っている例》</description>
     <p idx="1">
       <script>太郎は「犯人は誰か。それは、次郎である」と言った。</script>
     </p>
@@ -82,7 +94,7 @@
   <problem answer="no" inference_type="presupposition"
   jsem_id="Que8" language="jp"
   phenomena="Question, -ka (question particle), -noka, naze (why)">
-    <link resource="fracas" />
+    <description>《why疑問文（ノカ）に伴う前提》</description>
     <p idx="1">
       <script>太郎は、「なぜ花子は次郎を殴ったのか」と言った。</script>
     </p>
@@ -94,7 +106,7 @@
   <problem answer="yes" inference_type="entailment" jsem_id="Que9"
   language="jp"
   phenomena="Question, -ka (question particle), -noka, naze (why)">
-    <link resource="fracas" />
+    <description>《why疑問文（ノカ）の含意》</description>
     <p idx="1">
       <script>太郎は、「なぜ花子は次郎を殴ったのか」と言った。</script>
     </p>
@@ -107,7 +119,7 @@
   jsem_id="Que10" language="jp"
   phenomena="Question, -ka (question particle), -nodarooka, naze (why)">
 
-    <link resource="fracas" />
+    <description>《why疑問文（ノカ）に伴う前提のキャンセル》</description>
     <p idx="1">
       <script>太郎は、「花子が次郎を殴った犯人だとしたら、なぜ花子は次郎を殴ったのか」と言った。</script>
     </p>
@@ -120,7 +132,7 @@
   jsem_id="Que11" language="jp"
   phenomena="Question, -ka (question particle), -nodarooka, naze (why)">
 
-    <link resource="fracas" />
+    <description>《why疑問文（ノダロウカ）に伴う前提》</description>
     <p idx="1">
       <script>太郎は、「なぜ花子は次郎を殴ったのだろうか」と言った。</script>
     </p>
@@ -133,7 +145,7 @@
   language="jp"
   phenomena="Question, -ka (question particle), -nodarooka, naze (why)">
 
-    <link resource="fracas" />
+    <description>《why疑問文（ノダロウカ）の含意》</description>
     <p idx="1">
       <script>太郎は、「なぜ花子は次郎を殴ったのだろうか」と言った。</script>
     </p>
@@ -146,7 +158,7 @@
   jsem_id="Que13" language="jp"
   phenomena="Question, -ka (question particle), -nodarooka, naze (why)">
 
-    <link resource="fracas" />
+    <description>《why疑問文（ノダロウカ）に伴う前提のキャンセル》</description>
     <p idx="1">
       <script>太郎は、「花子が次郎を殴った犯人だとしたら、なぜ花子は次郎を殴ったのだろうか」と言った。</script>
     </p>
@@ -159,7 +171,7 @@
   jsem_id="Que14" language="jp"
   phenomena="Question, -ka (question particle), -nodarooka, naze (why)">
 
-    <link resource="fracas" />
+    <description>《疑問文を発した者が答えを知っている例》</description>
     <p idx="1">
       <script>太郎は、「なぜ花子は次郎を殴ったか。それは、次郎の裏切りを知ったからである」と言った。</script>
     </p>
@@ -171,7 +183,7 @@
   <problem answer="no" inference_type="presupposition"
   jsem_id="Que15" language="jp"
   phenomena="Question, -ka (question particle), -noka, doo (how)">
-    <link resource="fracas" />
+    <description>《how疑問文（ノカ）に伴う前提》</description>
     <p idx="1">
       <script>太郎は、「花子はどうやって宝石を盗み出したのか」と言った。</script>
     </p>
@@ -183,7 +195,7 @@
   <problem answer="yes" inference_type="entailment" jsem_id="Que16"
   language="jp"
   phenomena="Question, -ka (question particle), -noka, doo (how)">
-    <link resource="fracas" />
+    <description>《how疑問文（ノカ）の含意》</description>
     <p idx="1">
       <script>太郎は、「花子はどうやって宝石を盗み出したのか」と言った。</script>
     </p>
@@ -195,7 +207,7 @@
   <problem answer="yes" inference_type="presupposition"
   jsem_id="Que17" language="jp"
   phenomena="Question, -ka (question particle), -noka, doo (how)">
-    <link resource="fracas" />
+    <description>《how疑問文（ノカ）に伴う前提のキャンセル》</description>
     <p idx="1">
       <script>
       太郎は、「花子が宝石を盗んだ犯人だとしたら、花子はどうやって宝石を盗み出したのか」と言った。</script>
@@ -209,7 +221,7 @@
   jsem_id="Que18" language="jp"
   phenomena="Question, -ka (question particle), -nodarooka, doo (how)">
 
-    <link resource="fracas" />
+    <description>《how疑問文（ノダロウカ）に伴う前提》</description>
     <p idx="1">
       <script>太郎は、「花子はどうやって宝石を盗み出したのだろうか」と言った。</script>
     </p>
@@ -222,7 +234,7 @@
   language="jp"
   phenomena="Question, -ka (question particle), -nodarooka, doo (how)">
 
-    <link resource="fracas" />
+    <description>《how疑問文（ノダロウカ）の含意》</description>
     <p idx="1">
       <script>太郎は、「花子はどうやって宝石を盗み出したのだろうか」と言った。</script>
     </p>
@@ -235,7 +247,7 @@
   jsem_id="Que20" language="jp"
   phenomena="Question, -ka (question particle), -nodarooka, doo (how)">
 
-    <link resource="fracas" />
+    <description>《how疑問文（ノダロウカ）に伴う前提のキャンセル》</description>
     <p idx="1">
       <script>
       太郎は、「花子が宝石を盗んだ犯人だとしたら、花子はどうやって宝石を盗み出したのだろうか」と言った。</script>
@@ -248,7 +260,7 @@
   <problem answer="no" inference_type="presupposition"
   jsem_id="Que21" language="jp"
   phenomena="Question, -ka (question particle), -noka, itu (when)">
-    <link resource="fracas" />
+    <description>《when疑問文（ノカ）に伴う前提》</description>
     <p idx="1">
       <script>太郎は、「花子はいつ宝石を盗み出したのか」と言った。</script>
     </p>
@@ -260,7 +272,7 @@
   <problem answer="no" inference_type="entailment" jsem_id="Que22"
   language="jp"
   phenomena="Question, -ka (question particle), -noka, itu (when)">
-    <link resource="fracas" />
+    <description>《when疑問文（ノカ）の含意》</description>
     <p idx="1">
       <script>太郎は、「花子はいつ次郎と知り合ったのか」と言った。</script>
     </p>
@@ -272,7 +284,7 @@
   <problem answer="yes" inference_type="entailment" jsem_id="Que23"
   language="jp"
   phenomena="Question, -ka (question particle), -noka, itu (when)">
-    <link resource="fracas" />
+    <description>《when疑問文（ノカ）の含意》</description>
     <p idx="1">
       <script>太郎は、「花子はいつ次郎と知り合ったのか」と言った。</script>
     </p>
@@ -284,7 +296,7 @@
   <problem answer="yes" inference_type="entailment" jsem_id="Que24"
   language="jp"
   phenomena="Question, -ka (question particle), -noka, itu (when)">
-    <link resource="fracas" />
+    <description>《when疑問文（ノカ）に伴う前提のキャンセル》</description>
     <p idx="1">
       <script>太郎は、「花子が次郎と知り合いだとしたら、花子はいつ次郎と知り合ったのか」と言った。</script>
     </p>
@@ -297,7 +309,7 @@
   jsem_id="Que25" language="jp"
   phenomena="Question, -ka (question particle), -nodarooka, itu (when)">
 
-    <link resource="fracas" />
+    <description>《when疑問文（ノダロウカ）に伴う前提》</description>
     <p idx="1">
       <script>太郎は、「花子はいつ次郎と知り合ったのだろうか」と言った。</script>
     </p>
@@ -310,7 +322,7 @@
   language="jp"
   phenomena="Question, -ka (question particle), -nodarooka, itu (when)">
 
-    <link resource="fracas" />
+    <description>《when疑問文（ノダロウカ）の含意》</description>
     <p idx="1">
       <script>太郎は、「花子はいつ次郎と知り合ったのだろうか」と言った。</script>
     </p>
@@ -323,7 +335,7 @@
   jsem_id="Que27" language="jp"
   phenomena="Question, -ka (question particle), -nodarooka, itu (when)">
 
-    <link resource="fracas" />
+    <description>《when疑問文（ノダロウカ）に伴う前提のキャンセル》</description>
     <p idx="1">
       <script>
       太郎は、「花子が次郎と知り合いだとしたら、花子はいつ次郎と知り合ったのだろうか」と言った。</script>
@@ -336,7 +348,7 @@
   <problem answer="yes"
   inference_type="conversational implicature?" jsem_id="Que28"
   language="jp" phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+    <description>《問いかけ要素のある疑問文》</description>
     <p idx="1">
       <script>客室乗務員は、「お客様の中にお医者様はいらっしゃいますか」と言った。</script>
     </p>
@@ -348,7 +360,7 @@
   <problem answer="yes"
   inference_type="conversational implicature?" jsem_id="Que29"
   language="jp" phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+    <description>《問いかけ要素のある疑問文》</description>
     <p idx="1">
       <script>父親は息子に「ちゃんと歯を磨いたか」と言った。</script>
     </p>
@@ -360,7 +372,7 @@
   <problem answer="yes"
   inference_type="conversational implicature?" jsem_id="Que30"
   language="jp" phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+    <description>《問いかけ要素のある疑問文》</description>
     <p idx="1">
       <script>太郎は電話を取るなり、「お前、もしかして次郎か」と言った。</script>
     </p>
@@ -372,7 +384,7 @@
   <problem answer="yes"
   inference_type="conversational implicature?" jsem_id="Que31"
   language="jp" phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+    <description>《問いかけ要素のある疑問文》</description>
     <p idx="1">
       <script>太郎は花子の説明を聞いて、「本当にそれで間違いありませんか」と言った。</script>
     </p>
@@ -384,7 +396,7 @@
   <problem answer="yes"
   inference_type="conversational implicature?" jsem_id="Que32"
   language="jp" phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+    <description>《問いかけ要素のある疑問文》</description>
     <p idx="1">
       <script>
       次郎はインタビュアーから試合に負けた場合のことを聞かれ、「あんたが俺の立場だったらどうするのか」と言った。</script>
@@ -398,7 +410,7 @@
   <problem answer="yes"
   inference_type="conversational implicature?" jsem_id="Que33"
   language="jp" phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+    <description>《問いかけ要素のある疑問文》</description>
     <p idx="1">
       <script>太郎は次郎に、「あんた、百円持ってないか」と言った。</script>
     </p>
@@ -408,9 +420,9 @@
     <note>"宮地裕の一連の研究（1951, 1954,
     1958）において指摘された周辺的な疑問表現。「応答」"</note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que34"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que34"
   language="jp" phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+    <description>《問いかけ要素のない疑問文》</description>
     <p idx="1">
       <script>太郎は電話に出るなり、「なんだ、花子か」と言った。</script>
     </p>
@@ -419,9 +431,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que35"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que35"
   language="jp" phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+    <description>《問いかけ要素のない疑問文》</description>
     <p idx="1">
       <script>太郎は花子の説明を聞いて、「あ、そうですか」と言った。</script>
     </p>
@@ -431,9 +443,9 @@
     <note>"宮地裕の一連の研究（1951, 1954,
     1958）において指摘された周辺的な疑問表現。「反語表現」"</note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que36"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que36"
   language="jp" phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+    <description>《問いかけ要素のない疑問文》</description>
     <p idx="1">
       <script>
       花子は太郎から山田さんの奥さんを紹介されて、「へえ、山田さんって結婚されてたんですか」と言った。</script>
@@ -444,9 +456,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Que37"
-  language="jp" phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="Que37" language="jp"
+  phenomena="Question, -ka (question particle)">
+    <description>《問いかけ要素のない疑問文》</description>
     <p idx="1">
       <script>
       次郎はインタビュアーから試合に負けた場合のことを聞かれ、「試合する前に、負けることを考える奴がいるか」と言った。</script>
@@ -457,9 +470,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Que38"
-  language="jp" phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="Que38" language="jp"
+  phenomena="Question, -ka (question particle)">
+    <description>《問いかけ要素のない疑問文》</description>
     <p idx="1">
       <script>
       次郎は山頂から景色を眺め、感動のあまり、「絶景とはこういうもののことを言うのか」と言った。</script>
@@ -470,9 +484,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que39"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que39"
   language="jp" phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+    <description>《問いかけ要素のない疑問文》</description>
     <p idx="1">
       <script>太郎は次郎の説明を聞いて、「そうか、僕は勘違いしていたのか」と言った。</script>
     </p>
@@ -481,9 +495,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Que40"
-  language="jp" phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="Que40" language="jp"
+  phenomena="Question, -ka (question particle)">
+    <description>《普通体＋「か」による質問は不自然》</description>
     <p idx="1">
       <script>花子は先輩に、明日どこへ行くか尋ねた。</script>
     </p>
@@ -492,9 +507,10 @@
     </h>
     <note>「普通体＋か」による質問は不自然（益岡・田窪1992）</note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Que41"
-  language="jp" phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="Que41" language="jp"
+  phenomena="Question, -ka (question particle)">
+    <description>《普通体＋「か」による質問は不自然》</description>
     <p idx="1">
       <script>太郎は見合い相手に、どんな食べ物が好きか尋ねた。</script>
     </p>
@@ -503,9 +519,10 @@
     </h>
     <note>「普通体＋か」による質問は不自然（益岡・田窪1992）</note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Que42"
-  language="jp" phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="Que42" language="jp"
+  phenomena="Question, -ka (question particle)">
+    <description>《普通体＋「か」による質問は不自然》</description>
     <p idx="1">
       <script>先生は次郎に、なぜ遅刻したか尋ねた。</script>
     </p>
@@ -514,9 +531,10 @@
     </h>
     <note>「普通体＋か」による質問は不自然（益岡・田窪1992）</note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Que43"
-  language="jp" phenomena="Question, -ka (question particle)">
-    <link resource="fracas" />
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="Que43" language="jp"
+  phenomena="Question, -ka (question particle)">
+    <description>《普通体＋「か」による質問は不自然》</description>
     <p idx="1">
       <script>太郎は先生に、宿題をいつまでに提出すればいいか尋ねた。</script>
     </p>
@@ -529,7 +547,7 @@
   inference_type="conversational implicature?" jsem_id="Que44"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：勧誘・提案を表す疑問文と主語のコントロール》</description>
     <p idx="1">
       <script>太郎は花子に、「そろそろ帰りましょうか」と言った。</script>
     </p>
@@ -542,7 +560,7 @@
   inference_type="conversational implicature?" jsem_id="Que45"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：勧誘・提案を表す疑問文と主語のコントロール》</description>
     <p idx="1">
       <script>太郎は花子に、「今日の晩御飯は外に食べに行きましょうか」と言った。</script>
     </p>
@@ -555,7 +573,7 @@
   inference_type="conversational implicature?" jsem_id="Que46"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：勧誘・提案を表す疑問文と主語のコントロール》</description>
     <p idx="1">
       <script>医者は患者に、「明日から入院しましょうか」と言った。</script>
     </p>
@@ -568,7 +586,7 @@
   inference_type="conversational implicature?" jsem_id="Que47"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：勧誘・提案を表す疑問文と主語のコントロール》</description>
     <p idx="1">
       <script>指揮者は演奏家たちに、「では、もう少しメリハリをつけて弾いてみましょうか」と言った。</script>
     </p>
@@ -577,10 +595,10 @@
     </h>
     <note>常識が必要</note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Que48"
+  <problem answer="yes" inference_type="entailment" jsem_id="Que48"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：勧誘・提案を表す疑問文と主語のコントロール》</description>
     <p idx="1">
       <script>太郎は花子に、「そろそろ帰りましょうか」と言った。</script>
     </p>
@@ -589,10 +607,10 @@
     </h>
     <note>常識が必要</note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Que49"
+  <problem answer="yes" inference_type="entailment" jsem_id="Que49"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：勧誘・提案を表す疑問文と主語のコントロール》</description>
     <p idx="1">
       <script>太郎は花子に、「今日の晩御飯は外に食べに行きましょうか」と言った。</script>
     </p>
@@ -601,10 +619,10 @@
     </h>
     <note>常識が必要</note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que50"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que50"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：勧誘・提案を表す疑問文と主語のコントロール》</description>
     <p idx="1">
       <script>医者は患者に、「明日から入院しましょうか」と言った。</script>
     </p>
@@ -613,10 +631,10 @@
     </h>
     <note>常識が必要</note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que51"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que51"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：勧誘・提案を表す疑問文と主語のコントロール》</description>
     <p idx="1">
       <script>指揮者は演奏家たちに、「では、もう少しメリハリをつけて弾いてみましょうか」と言った。</script>
     </p>
@@ -629,7 +647,7 @@
   inference_type="conversational implicature?" jsem_id="Que52"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：申し出を表す疑問文》</description>
     <p idx="1">
       <script>花子は次郎に、「あの、良かったらお手伝いしましょうか」と言った。</script>
     </p>
@@ -642,7 +660,7 @@
   inference_type="conversational implicature?" jsem_id="Que53"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：申し出を表す疑問文》</description>
     <p idx="1">
       <script>太郎はスリに遭った人に、「警察を呼びましょうか」と言った。</script>
     </p>
@@ -655,7 +673,7 @@
   inference_type="conversational implicature?" jsem_id="Que54"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：申し出を表す疑問文》</description>
     <p idx="1">
       <script>太郎は花子に、「駅まで車で送りましょうか」と言った。</script>
     </p>
@@ -668,7 +686,7 @@
   inference_type="conversational implicature?" jsem_id="Que55"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：申し出を表す疑問文》</description>
     <p idx="1">
       <script>花子は次郎に、「あの、良かったらお手伝いしましょうか」と言った。</script>
     </p>
@@ -681,7 +699,7 @@
   inference_type="conversational implicature?" jsem_id="Que56"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：申し出を表す疑問文》</description>
     <p idx="1">
       <script>太郎はスリに遭った人に、「警察を呼びましょうか」と言った。</script>
     </p>
@@ -694,7 +712,7 @@
   inference_type="conversational implicature?" jsem_id="Que57"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：申し出を表す疑問文》</description>
     <p idx="1">
       <script>太郎は花子に、「駅まで車で送りましょうか」と言った。</script>
     </p>
@@ -703,10 +721,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Que58"
+  <problem answer="yes" inference_type="entailment" jsem_id="Que58"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：申し出を表す疑問文》</description>
     <p idx="1">
       <script>花子は次郎に、「あの、良かったらお手伝いしましょうか」と言った。</script>
     </p>
@@ -715,10 +733,10 @@
     </h>
     <note>常識が必要</note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Que59"
+  <problem answer="yes" inference_type="entailment" jsem_id="Que59"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：申し出を表す疑問文》</description>
     <p idx="1">
       <script>太郎はスリに遭った人に、「警察を呼びましょうか」と言った。</script>
     </p>
@@ -727,10 +745,10 @@
     </h>
     <note>常識が必要</note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Que60"
+  <problem answer="yes" inference_type="entailment" jsem_id="Que60"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：申し出を表す疑問文》</description>
     <p idx="1">
       <script>太郎は花子に、「駅まで車で送りましょうか」と言った。</script>
     </p>
@@ -743,7 +761,7 @@
   inference_type="conversational implicature?" jsem_id="Que61"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：勧誘・提案を表す疑問文と主語のコントロール》</description>
     <p idx="1">
       <script>太郎は花子に、「そろそろ帰ろうか」と言った。</script>
     </p>
@@ -756,7 +774,7 @@
   inference_type="conversational implicature?" jsem_id="Que62"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：勧誘・提案を表す疑問文と主語のコントロール》</description>
     <p idx="1">
       <script>夫は妻に、「今日の晩御飯は外に食べに行こうか」と言った。</script>
     </p>
@@ -769,7 +787,7 @@
   inference_type="conversational implicature?" jsem_id="Que63"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：勧誘・提案を表す疑問文と主語のコントロール》</description>
     <p idx="1">
       <script>指揮者は演奏家たちに、「では、もう少しメリハリをつけて弾いてみようか」と言った。</script>
     </p>
@@ -778,10 +796,10 @@
     </h>
     <note>常識が必要</note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Que64"
+  <problem answer="yes" inference_type="entailment" jsem_id="Que64"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：勧誘・提案を表す疑問文と主語のコントロール》</description>
     <p idx="1">
       <script>太郎は花子に、「そろそろ帰ろうか」と言った。</script>
     </p>
@@ -790,10 +808,10 @@
     </h>
     <note>常識が必要</note>
   </problem>
-  <problem answer="?" inference_type="" jsem_id="Que65"
+  <problem answer="yes" inference_type="entailment" jsem_id="Que65"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：勧誘・提案を表す疑問文と主語のコントロール》</description>
     <p idx="1">
       <script>夫は妻に、「今日の晩御飯は外に食べに行こうか」と言った。</script>
     </p>
@@ -802,10 +820,10 @@
     </h>
     <note>常識が必要</note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que66"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que66"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：勧誘・提案を表す疑問文と主語のコントロール》</description>
     <p idx="1">
       <script>指揮者は演奏家たちに、「では、もう少しメリハリをつけて弾いてみようか」と言った。</script>
     </p>
@@ -818,7 +836,7 @@
   inference_type="conversational implicature?" jsem_id="Que67"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：申し出を表す疑問文》</description>
     <p idx="1">
       <script>花子は次郎に、「荷物が多いね。運ぶの、手伝おうか」と言った。</script>
     </p>
@@ -831,7 +849,7 @@
   inference_type="conversational implicature?" jsem_id="Que68"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：申し出を表す疑問文》</description>
     <p idx="1">
       <script>太郎はスリに遭った友人に、「警察を呼ぼうか」と言った。</script>
     </p>
@@ -844,7 +862,7 @@
   inference_type="conversational implicature?" jsem_id="Que69"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：申し出を表す疑問文》</description>
     <p idx="1">
       <script>太郎は花子に、「駅まで車で送ろうか」と言った。</script>
     </p>
@@ -857,7 +875,7 @@
   inference_type="conversational implicature?" jsem_id="Que70"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：申し出を表す疑問文》</description>
     <p idx="1">
       <script>花子は次郎に、「荷物が多いね。運ぶの、手伝おうか」と言った。</script>
     </p>
@@ -870,7 +888,7 @@
   inference_type="conversational implicature?" jsem_id="Que71"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：申し出を表す疑問文》</description>
     <p idx="1">
       <script>太郎はスリに遭った友人に、「警察を呼ぼうか」と言った。</script>
     </p>
@@ -883,7 +901,7 @@
   inference_type="conversational implicature?" jsem_id="Que72"
   language="jp"
   phenomena="Question, -ka (question particle), -yooka, -masyooka">
-    <link resource="fracas" />
+    <description>《ようか・ましょうか：申し出を表す疑問文》</description>
     <p idx="1">
       <script>太郎は花子に、「駅まで車で送ろうか」と言った。</script>
     </p>
@@ -892,10 +910,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que73"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que73"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：「発見」の「ではないか」には問いかけ要素がない》</description>
     <p idx="1">
       <script>太郎は偶然出会った友人に、「よう、次郎じゃないか」と声をかけた。</script>
     </p>
@@ -904,10 +922,10 @@
     </h>
     <note>田野村(1988) では「第1類（甲種）」に分類される。</note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que74"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que74"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：「発見」の「ではないか」には問いかけ要素がない》</description>
     <p idx="1">
       <script>太郎は作業をしながら、「なんだ、簡単じゃないか」と言った。</script>
     </p>
@@ -916,10 +934,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que75"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que75"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：「発見」の「ではないか」には問いかけ要素がない》</description>
     <p idx="1">
       <script>
       次郎は花子に、「こんなところに何もせずに立っているなんて、まるで僕はバカみたいじゃないか」と言った。</script>
@@ -930,10 +948,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que76"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que76"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：「発見」の「ではないか」には問いかけ要素がない》</description>
     <p idx="1">
       <script>太郎は次郎を見て、「なんだ、あいつ、楽しそうにやっているじゃないか」と言った。</script>
     </p>
@@ -945,7 +963,7 @@
   <problem answer="no" inference_type="" jsem_id="Que77"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：「発見」の「ではないか」には真偽不明の前提がない》</description>
     <p idx="1">
       <script>太郎は偶然出会った友人に、「よう、次郎じゃないか」と声をかけた。</script>
     </p>
@@ -957,7 +975,7 @@
   <problem answer="no" inference_type="entailment" jsem_id="Que78"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：「発見」の「ではないか」には真偽不明の前提がない》</description>
     <p idx="1">
       <script>太郎は作業をしながら、「なんだ、簡単じゃないか」と言った。</script>
     </p>
@@ -969,7 +987,7 @@
   <problem answer="no" inference_type="entailment" jsem_id="Que79"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：「発見」の「ではないか」には真偽不明の前提がない》</description>
     <p idx="1">
       <script>
       次郎は花子に、「こんなところに何もせずに立っているなんて、まるで僕はバカみたいじゃないか」と言った。</script>
@@ -982,7 +1000,7 @@
   <problem answer="no" inference_type="entailment" jsem_id="Que80"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：「発見」の「ではないか」には真偽不明の前提がない》</description>
     <p idx="1">
       <script>太郎は次郎を見て、「なんだ、あいつ、楽しそうにやっているじゃないか」と言った。</script>
     </p>
@@ -991,10 +1009,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que81"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que81"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：発見の「ではないか」は「だろう」への言い換えができない》</description>
     <p idx="1">
       <script>よう、次郎じゃないか。</script>
     </p>
@@ -1003,10 +1021,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que82"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que82"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：発見の「ではないか」は「だろう」への言い換えができない》</description>
     <p idx="1">
       <script>なんだ、簡単じゃないか。</script>
     </p>
@@ -1015,10 +1033,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que83"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que83"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：発見の「ではないか」は「だろう」への言い換えができない》</description>
     <p idx="1">
       <script>こんなところに何もせずに立っているなんて、まるで僕はバカみたいじゃないか。</script>
     </p>
@@ -1027,10 +1045,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que84"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que84"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：発見の「ではないか」は「だろう」への言い換えができない》</description>
     <p idx="1">
       <script>なんだ、あいつ、楽しそうにやっているじゃないか。</script>
     </p>
@@ -1039,10 +1057,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que85"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que85"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：発見の「ではないか」は「だろうが」への言い換えができない》</description>
     <p idx="1">
       <script>よう、次郎じゃないか。</script>
     </p>
@@ -1051,10 +1069,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que86"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que86"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：発見の「ではないか」は「だろうが」への言い換えができない》</description>
     <p idx="1">
       <script>なんだ、簡単じゃないか。</script>
     </p>
@@ -1063,10 +1081,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que87"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que87"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：発見の「ではないか」は「だろうが」への言い換えができない》</description>
     <p idx="1">
       <script>こんなところに何もせずに立っているなんて、まるで僕はバカみたいじゃないか。</script>
     </p>
@@ -1075,10 +1093,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que88"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que88"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：発見の「ではないか」は「だろうが」への言い換えができない》</description>
     <p idx="1">
       <script>なんだ、あいつ、楽しそうにやっているじゃないか。</script>
     </p>
@@ -1087,10 +1105,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que89"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que89"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：確認要求の「ではないか」には問いかけ要素がない》</description>
     <p idx="1">
       <script>太郎は次郎に、「そんなところに入ったら駄目だ。危ないじゃないか」と言った。</script>
     </p>
@@ -1099,10 +1117,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que90"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que90"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：確認要求の「ではないか」には問いかけ要素がない》</description>
     <p idx="1">
       <script>太郎は次郎に、「陶器をそんなふうに乱暴に扱ったら、壊れてしまうじゃないか」と言った。</script>
     </p>
@@ -1111,10 +1129,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que91"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que91"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：確認要求の「ではないか」には問いかけ要素がない》</description>
     <p idx="1">
       <script>
       太郎は次郎に、「素人がいきなりロボットに乗って戦うなんて、できるわけないじゃないか」と言った。</script>
@@ -1128,7 +1146,7 @@
   <problem answer="no" inference_type="entailment" jsem_id="Que92"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：確認要求の「ではないか」には真偽不明の前提がない》</description>
     <p idx="1">
       <script>太郎は次郎に、「そんなところに入ったら駄目だ。危ないじゃないか」と言った。</script>
     </p>
@@ -1140,7 +1158,7 @@
   <problem answer="no" inference_type="entailment" jsem_id="Que93"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：確認要求の「ではないか」には真偽不明の前提がない》</description>
     <p idx="1">
       <script>太郎は次郎に、「陶器をそんなふうに乱暴に扱ったら、壊れてしまうじゃないか」と言った。</script>
     </p>
@@ -1152,7 +1170,7 @@
   <problem answer="no" inference_type="entailment" jsem_id="Que94"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：確認要求の「ではないか」には真偽不明の前提がない》</description>
     <p idx="1">
       <script>
       太郎は次郎に、「素人がいきなりロボットに乗って戦うなんて、できるわけないじゃないか」と言った。</script>
@@ -1166,7 +1184,7 @@
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika, -daroo">
 
-    <link resource="fracas" />
+    <description>《ではないか：確認要求の「ではないか」は「だろう」への言い換えができる》</description>
     <p idx="1">
       <script>そんなところに入ったら駄目だ。危ないじゃないか。</script>
     </p>
@@ -1179,7 +1197,7 @@
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika, -daroo">
 
-    <link resource="fracas" />
+    <description>《ではないか：確認要求の「ではないか」は「だろう」への言い換えができる》</description>
     <p idx="1">
       <script>陶器をそんなふうに乱暴に扱ったら、壊れてしまうじゃないか。</script>
     </p>
@@ -1192,7 +1210,7 @@
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika, -daroo">
 
-    <link resource="fracas" />
+    <description>《ではないか：確認要求の「ではないか」は「だろう」への言い換えができる》</description>
     <p idx="1">
       <script>素人がいきなりロボットに乗って戦うなんて、できるわけないじゃないか。</script>
     </p>
@@ -1205,7 +1223,8 @@
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika, -darooga">
 
-    <link resource="fracas" />
+    <description>
+    《ではないか：確認要求の「ではないか」は「だろうが」への言い換えができる》</description>
     <p idx="1">
       <script>そんなところに入ったら駄目だ。危ないじゃないか。</script>
     </p>
@@ -1218,7 +1237,8 @@
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika, -darooga">
 
-    <link resource="fracas" />
+    <description>
+    《ではないか：確認要求の「ではないか」は「だろうが」への言い換えができる》</description>
     <p idx="1">
       <script>陶器をそんなふうに乱暴に扱ったら、壊れてしまうじゃないか。</script>
     </p>
@@ -1231,7 +1251,8 @@
   jsem_id="Que100" language="jp"
   phenomena="Question, -ka (question particle), -dewanaika, -darooga">
 
-    <link resource="fracas" />
+    <description>
+    《ではないか：確認要求の「ではないか」は「だろうが」への言い換えができる》</description>
     <p idx="1">
       <script>素人がいきなりロボットに乗って戦うなんて、できるわけないじゃないか。</script>
     </p>
@@ -1244,7 +1265,7 @@
   inference_type="conversational implicature?" jsem_id="Que101"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：推定の「ではないか」には問いかけ要素がある》</description>
     <p idx="1">
       <script>太郎は次郎に、「お前、もしかして花子のこと好きなんじゃないか」と言った。</script>
     </p>
@@ -1257,7 +1278,7 @@
   inference_type="conversational implicature?" jsem_id="Que102"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：推定の「ではないか」には問いかけ要素がある》</description>
     <p idx="1">
       <script>太郎は花子に、「あそこにいるのは、ひょっとして次郎じゃないか」と言った。</script>
     </p>
@@ -1270,7 +1291,7 @@
   inference_type="conversational implicature?" jsem_id="Que103"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：推定の「ではないか」には問いかけ要素がある》</description>
     <p idx="1">
       <script>太郎は花子に、「もしかしたら、犯人は二人いるんじゃないか」と言った。</script>
     </p>
@@ -1282,7 +1303,7 @@
   <problem answer="yes" inference_type="presupposition"
   jsem_id="Que104" language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：推定の「ではないか」には真偽不明の前提がある》</description>
     <p idx="1">
       <script>太郎は次郎に、「お前、もしかして花子のこと好きなんじゃないか」と言った。</script>
     </p>
@@ -1294,7 +1315,7 @@
   <problem answer="yes" inference_type="presupposition"
   jsem_id="Que105" language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：推定の「ではないか」には真偽不明の前提がある》</description>
     <p idx="1">
       <script>太郎は花子に、「あそこにいるのは、ひょっとして次郎じゃないか」と言った。</script>
     </p>
@@ -1306,7 +1327,7 @@
   <problem answer="yes" inference_type="presupposition"
   jsem_id="Que106" language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：推定の「ではないか」には真偽不明の前提がある》</description>
     <p idx="1">
       <script>太郎は花子に、「もしかしたら、犯人は二人いるんじゃないか」と言った。</script>
     </p>
@@ -1315,11 +1336,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que107"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que107"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika, -daroo">
 
-    <link resource="fracas" />
+    <description>《ではないか：推定の「ではないか」は「だろう」への言い換えができない》</description>
     <p idx="1">
       <script>お前、もしかして花子のこと好きなんじゃないか。</script>
     </p>
@@ -1328,11 +1349,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que108"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que108"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika, -daroo">
 
-    <link resource="fracas" />
+    <description>《ではないか：推定の「ではないか」は「だろう」への言い換えができない》</description>
     <p idx="1">
       <script>あそこにいるのは、ひょっとして次郎じゃないか。</script>
     </p>
@@ -1341,11 +1362,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que109"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que109"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika, -daroo">
 
-    <link resource="fracas" />
+    <description>《ではないか：推定の「ではないか」は「だろう」への言い換えができない》</description>
     <p idx="1">
       <script>もしかしたら、犯人は二人いるんじゃないか。</script>
     </p>
@@ -1354,11 +1375,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que110"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que110"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika, -darooga">
 
-    <link resource="fracas" />
+    <description>《ではないか：推定の「ではないか」は「だろうが」への言い換えができない》</description>
     <p idx="1">
       <script>お前、もしかして花子のこと好きなんじゃないか。</script>
     </p>
@@ -1367,11 +1388,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que111"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que111"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika, -darooga">
 
-    <link resource="fracas" />
+    <description>《ではないか：推定の「ではないか」は「だろうが」への言い換えができない》</description>
     <p idx="1">
       <script>あそこにいるのは、ひょっとして次郎じゃないか。</script>
     </p>
@@ -1380,11 +1401,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que112"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que112"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika, -darooga">
 
-    <link resource="fracas" />
+    <description>《ではないか：推定の「ではないか」は「だろうが」への言い換えができない》</description>
     <p idx="1">
       <script>もしかしたら、犯人は二人いるんじゃないか。</script>
     </p>
@@ -1397,7 +1418,7 @@
   inference_type="conversational implicature?" jsem_id="Que113"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：否定の「ではないか」問いかけ要素がある》</description>
     <p idx="1">
       <script>
       太郎は花子がつまらなそうにしているのを見て、「君が喜ぶと思って連れてきたんだが、君はこういう店、あまり好きじゃないか」と言った。</script>
@@ -1412,7 +1433,7 @@
   inference_type="conversational implicature?" jsem_id="Que114"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：否定の「ではないか」問いかけ要素がある》</description>
     <p idx="1">
       <script>太郎は次郎に、「もう一度確認するが、この宝石、絶対に偽物じゃないか」と言った。</script>
     </p>
@@ -1424,7 +1445,7 @@
   <problem answer="yes" inference_type="presupposition"
   jsem_id="Que115" language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：否定の「ではないか」には真偽不明の前提がある》</description>
     <p idx="1">
       <script>
       太郎は花子がつまらなそうにしているのを見て、「君が喜ぶと思って連れてきたんだが、君はこういう店、あまり好きじゃないか」と言った。</script>
@@ -1437,7 +1458,7 @@
   <problem answer="yes" inference_type="presupposition"
   jsem_id="Que116" language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：否定の「ではないか」には真偽不明の前提がある》</description>
     <p idx="1">
       <script>太郎は次郎に、「もう一度確認するが、この宝石、絶対に偽物じゃないか」と言った。</script>
     </p>
@@ -1450,7 +1471,7 @@
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika, -daroo">
 
-    <link resource="fracas" />
+    <description>《ではないか：否定の「ではないか」は「だろう」への言い換えができない》</description>
     <p idx="1">
       <script>君が喜ぶと思って連れてきたんだが、君はこういう店、あまり好きじゃないか。</script>
     </p>
@@ -1463,7 +1484,7 @@
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika, -daroo">
 
-    <link resource="fracas" />
+    <description>《ではないか：否定の「ではないか」は「だろう」への言い換えができない》</description>
     <p idx="1">
       <script>もう一度確認するが、この宝石、絶対に偽物じゃないか。</script>
     </p>
@@ -1472,11 +1493,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que119"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que119"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika, -darooga">
 
-    <link resource="fracas" />
+    <description>《ではないか：否定の「ではないか」は「だろうが」への言い換えができない》</description>
     <p idx="1">
       <script>君が喜ぶと思って連れてきたんだが、君はこういう店、あまり好きじゃないか。</script>
     </p>
@@ -1485,11 +1506,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que120"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que120"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika, -darooga">
 
-    <link resource="fracas" />
+    <description>《ではないか：否定の「ではないか」は「だろうが」への言い換えができない》</description>
     <p idx="1">
       <script>もう一度確認するが、この宝石、絶対に偽物じゃないか。</script>
     </p>
@@ -1498,10 +1519,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que121"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que121"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：否定の「ではない」に問いかけ要素のない「か」がついた形式》</description>
     <p idx="1">
       <script>太郎は次郎に、「そうか、花子は俺のことが好きではないか」と言った。</script>
     </p>
@@ -1514,7 +1535,7 @@
   <problem answer="no" inference_type="conversational implicature?"
   jsem_id="Que122" language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：否定の「ではない」に問いかけ要素のない「か」がついた形式》</description>
     <p idx="1">
       <script>太郎は次郎に、「そうか、花子は俺のことが好きではないか」と言った。</script>
     </p>
@@ -1524,10 +1545,10 @@
     <note>田野村(1988)
     では「第3類（乙種）」に分類されるが、「否定要素のあるデハナイカ」ではなく、「ではない」に問いかけ要素のない「か」がついた形式だと考えられる。</note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que123"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que123"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：勧誘の「ではないか」は問いかけ要素がない》</description>
     <p idx="1">
       <script>太郎は次郎に、「ドリンクバーに並ぼうじゃないか」と言った。</script>
     </p>
@@ -1536,10 +1557,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="*" inference_type="" jsem_id="Que124"
+  <problem answer="unacceptable" inference_type="" jsem_id="Que124"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：勧誘の「ではないか」は問いかけ要素がない》</description>
     <p idx="1">
       <script>太郎は次郎に、「君の実力を見せてもらおうじゃないか」と言った。</script>
     </p>
@@ -1551,7 +1572,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Que125" language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：勧誘の「ではないか」の除去》</description>
     <p idx="1">
       <script>ドリンクバーに並ぼうじゃないか。</script>
     </p>
@@ -1563,7 +1584,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Que126" language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：勧誘の「ではないか」の除去》</description>
     <p idx="1">
       <script>君の実力を見せてもらおうじゃないか。</script>
     </p>
@@ -1575,7 +1596,7 @@
   <problem answer="no" inference_type="entailment" jsem_id="Que127"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：勧誘の「ではないか」に否定の要素はない》</description>
     <p idx="1">
       <script>ドリンクバーに並ぼうじゃないか。</script>
     </p>
@@ -1587,7 +1608,7 @@
   <problem answer="no" inference_type="entailment" jsem_id="Que128"
   language="jp"
   phenomena="Question, -ka (question particle), -dewanaika">
-    <link resource="fracas" />
+    <description>《ではないか：勧誘の「ではないか」に否定の要素はない》</description>
     <p idx="1">
       <script>君の実力を見せてもらおうじゃないか。</script>
     </p>
@@ -1599,7 +1620,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Que129" language="jp"
   phenomena="Question, -ka (question particle), -kadooka">
-    <link resource="fracas" />
+    <description>《「Pかだ」→「Pかどうかだ」》</description>
     <p idx="1">
       <script>問題は、太郎が自分で借金を返すかだ。</script>
     </p>
@@ -1611,7 +1632,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Que130" language="jp"
   phenomena="Question, -ka (question particle), -kadooka">
-    <link resource="fracas" />
+    <description>《「Pかだ」→「Pかどうかだ」》</description>
     <p idx="1">
       <script>勝敗の決め手は、太郎が試合までにコンディションを整えられるかだ。</script>
     </p>
@@ -1623,7 +1644,7 @@
   <problem answer="yes" inference_type="entailment"
   jsem_id="Que131" language="jp"
   phenomena="Question, -ka (question particle), -kadooka">
-    <link resource="fracas" />
+    <description>《「Pかだ」→「Pかどうかだ」》</description>
     <p idx="1">
       <script>花子が気にしているのは、夕食にカレーが出るかだ。</script>
     </p>
@@ -1632,4 +1653,4 @@
     </h>
     <note></note>
   </problem>
-</jsem-problems>
+</jsem-dataset>

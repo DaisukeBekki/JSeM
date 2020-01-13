@@ -1,6 +1,6 @@
-(1) The number of <problem> tags: 7098
-  which contains a <link> (to FraCaS dataset) tag with link_id: 0
-(2) The number of yes in translation attr.: 0
+(1) The number of <problem> tags: 7114
+  which contains a <link> (to FraCaS dataset) tag: 7114
+(2) The number of yes in translation attr.: 500
 (3) The number of occurrences of each phenomena:
 - : 6
 - -amari: 56
@@ -15,14 +15,14 @@
 - -hodo (toritate particle): 63
 - -ka (disjunctive particle): 3
 - -ka (parallel marker): 78
-- -ka (question particle): 130
+- -ka (question particle): 131
 - -kadooka: 3
 - -kagiri: 8
 - -kagiri (toritate particle): 4
 - -koso (toritate particle): 18
 - -koto (complementizer): 9
 - -kurai (toritate particle): 53
-- -mada: 87
+- -mada: 88
 - -made (toritate particle): 47
 - -madewa (toritate particle): 2
 - -masyooka: 29
@@ -40,12 +40,12 @@
 - -nomi (toritate particle): 74
 - -sae (toritate particle): 42
 - -sika: 1
-- -sika (toritate particle): 72
+- -sika (toritate particle): 73
 - -sura (toritate particle): 41
 - -teido: 16
 - -to (complementizer): 7
-- -to (conjunctive particle): 5
-- -to (parallel marker): 48
+- -to (conjunctive particle): 6
+- -to (parallel marker): 49
 - -toiukoto (complementizer): 8
 - -toiuno (complementizer): 3
 - -toka (conjunctive particle): 1
@@ -55,39 +55,39 @@
 - -wa (toritate particle: 47
 - -wa (toritate particle): 8
 - -ya (conjunctive particle): 1
-- -ya (parallel marker): 37
+- -ya (parallel marker): 38
 - -yooka: 29
 - -zenzen (adverb): 65
-- Adjective: 112
-- Adverb: 2644
+- Adjective: 113
+- Adverb: 2645
 - Attitude: 2
 - Cleft: 4
-- Coordination: 205
+- Coordination: 206
 - E-type anaphora: 5
 - Monotonicity: 4
 - N-no QC: 65
-- NP modification: 34
+- NP modification: 35
 - NQC: 20
-- Negation: 30
+- Negation: 31
 - Q-no NC: 109
-- Question: 130
+- Question: 131
 - RNR: 71
-- Toritate: 806
+- Toritate: 807
 - Toritate particle: 2
-- VP ellipsis: 7
+- VP ellipsis: 8
 - absolute adjective: 8
-- adjective: 70
+- adjective: 71
 - adverb: 7
 - adverbs of quantification: 2
 - aete (adverb): 24
-- affirmative adjective: 9
+- affirmative adjective: 10
 - after: 10
 - anagati (adverb): 10
 - anaphoric dimension: 1
 - arienai: 50
 - ariuru: 45
-- aspectual class: 5
-- attitude: 59
+- aspectual class: 6
+- attitude: 60
 - attributive comparative: 1
 - bare noun: 17
 - bare plural: 5
@@ -101,13 +101,13 @@
 - cleft: 13
 - collective and distributive plural: 3
 - collective predication: 1
-- comparative: 80
+- comparative: 81
 - comparative deletion: 2
 - complex example: 5
 - conditional: 10
-- conjoined noun phrase: 15
+- conjoined noun phrase: 16
 - conjunction distribution: 1
-- conservativity: 115
+- conservativity: 116
 - contrastive: 3
 - contrastive): 44
 - coplular sentence: 10
@@ -126,19 +126,19 @@
 - distributive predication: 2
 - donkey anaphora: 4
 - doo (how): 6
-- ellipsis: 47
+- ellipsis: 48
 - ellipsis and anaphora: 22
 - ellipsis and quantification: 1
 - ergative verb: 2
 - existential instantiation: 3
 - extensional comparison class: 14
-- factive: 15
+- factive: 16
 - floating quantifier: 117
 - functional and subsectional anaphora: 1
 - gapping: 5
-- generalized quantifier: 369
+- generalized quantifier: 370
 - guuzen (adverb): 15
-- hazu: 44
+- hazu: 45
 - hazuganai: 90
 - hissida: 25
 - hotondo (adverb): 35
@@ -152,7 +152,7 @@
 - indexical: 2
 - intensional comparison class: 12
 - inter-sentential: 2
-- intra-sentential: 11
+- intra-sentential: 12
 - itu (when): 7
 - itumo (adverb): 20
 - janai: 105
@@ -164,7 +164,7 @@
 - kanari (adverb): 40
 - kanenai: 35
 - kanzenni (adverb): 47
-- kare/kanojo (pronoun): 17
+- kare/kanojo (pronoun): 18
 - kekkoo (adverb): 30
 - kessite (adverb): 16
 - kitto (adoverb): 36
@@ -187,7 +187,7 @@
 - mix reading: 2
 - modaity: 10
 - modal: 10
-- modality: 2312
+- modality: 2313
 - monoda: 56
 - monodewanai: 75
 - monogaaru: 20
@@ -211,11 +211,11 @@
 - nidoto (adverb): 37
 - no anaphora: 6
 - no comparison class: 9
-- nominal anaphora: 47
+- nominal anaphora: 48
 - non-affirmative adjective: 11
 - non-factive: 5
 - okasikunai: 45
-- onazi (adjective): 56
+- onazi (adjective): 57
 - only-if-predicate: 4
 - opposite: 15
 - osoraku (adoverb): 32
@@ -223,7 +223,7 @@
 - passive: 15
 - perception verb: 11
 - phrasal ellipsis: 5
-- plural: 43
+- plural: 44
 - plural anaphora: 13
 - poi: 45
 - quantificational adverbial: 2
@@ -243,13 +243,13 @@
 - so-series demonstrative: 5
 - sokosoko (adverb): 80
 - soo: 60
-- soo su anaphora: 20
+- soo su anaphora: 21
 - sooda: 30
 - sooninai: 10
 - sootoo (adverb): 20
 - sorehodo (adverb): 43
 - sosite (conjunctive particle): 2
-- standard use of tense: 6
+- standard use of tense: 7
 - strict identity: 7
 - stripping: 10
 - stripping (with case marker): 3
@@ -265,7 +265,7 @@
 - tamani (adverb): 40
 - temoyoi: 35
 - temporal adverb: 22
-- temporal reference: 48
+- temporal reference: 49
 - tewanaranai: 25
 - tigainai: 34
 - toiu: 30
@@ -282,7 +282,7 @@
 - tyoudo (adverb): 70
 - utagainai: 45
 - utagaiyooganai: 5
-- verb: 35
+- verb: 36
 - veridicality: 1
 - wake: 60
 - warito (adverb): 30

@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE jsem-problems SYSTEM "jsem.dtd">
+<!DOCTYPE jsem-dataset SYSTEM "jsem.dtd">
 <?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
-<jsem-problems>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+<jsem-dataset>
+  <problem answer="yes" inference_type="presupposition"
+  jsem_id="729" language="jp" phenomena="attitude, factive">
+    <link link_id="334" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>スミスはITELが1992年に契約を結んだことを知っていた。</script>
+    </p>
+    <h>
+      <script>ITELは1992年に契約を結んだ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="730" language="jp" phenomena="attitude, factive">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>スミスはITELが1992年に契約を結んだことを知らなかった。</script>
     </p>
@@ -13,9 +26,11 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="731" language="jp" phenomena="attitude, factive">
-    <link resource="fracas" />
+    <link link_id="334" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスはITELが1992年に契約を結んだのを知っていた。</script>
     </p>
@@ -24,48 +39,33 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="732" language="jp" phenomena="attitude, factive">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
-      <script></script>
-    </p>
-    <p idx="2">
       <script>スミスはITELが1992年に契約を結んだのを知らなかった。</script>
     </p>
-    <p idx="3">
-      <script></script>
-    </p>
     <h>
       <script>ITELは1992年に契約を結んだ。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="733" language="jp" phenomena="attitude, factive">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
-      <script></script>
-    </p>
-    <p idx="2">
       <script>スミスはITELが1992年に契約を結んだかどうかを知っていた。</script>
     </p>
-    <p idx="3">
-      <script></script>
-    </p>
     <h>
       <script>ITELは1992年に契約を結んだ。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="734" language="jp"
   phenomena="attitude, factive, -to (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
-      <script></script>
-    </p>
-    <p idx="2">
       <script>スミスはITELが1992年に契約を結んだと知っていた。</script>
     </p>
     <h>
@@ -73,25 +73,22 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="735" language="jp"
   phenomena="attitude, factive, -toiukoto (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>スミスはITELが1992年に契約を結んだということを知っていた。</script>
-    </p>
-    <p idx="2">
-      <script></script>
     </p>
     <h>
       <script>ITELは1992年に契約を結んだ。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="736" language="jp"
   phenomena="attitude, factive, -toiuno (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>スミスはITELが1992年に契約を結んだというのを知っていた。</script>
     </p>
@@ -100,10 +97,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="737" language="jp"
   phenomena="attitude, factive, -koto (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子が高校を卒業したことを嬉しく思った。</script>
     </p>
@@ -112,27 +109,23 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="738" language="jp" phenomena="attitude, non-factive">
-    <link resource="fracas" />
+    <link link_id="335" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
-      <script></script>
-    </p>
-    <p idx="2">
       <script>スミスはITELが1992年に契約を結んだと信じていた。</script>
-    </p>
-    <p idx="3">
-      <script></script>
     </p>
     <h>
       <script>ITELは1992年に契約を結んだ。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="739" language="jp"
   phenomena="attitude, -toiukoto (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子が犯人であるということを否定した。</script>
     </p>
@@ -141,9 +134,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="740" language="jp" phenomena="attitude, non-factive">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子が一人っ子だと思った。</script>
     </p>
@@ -152,10 +145,10 @@
     </h>
     <note>久野(1973) p.138, 井上(1976) p.254。「ト」しかとらない。</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="741" language="jp"
   phenomena="attitude, factive, -koto (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子が一人っ子であることを忘れていた。</script>
     </p>
@@ -164,10 +157,10 @@
     </h>
     <note>井上(1976) p.254。</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="742" language="jp"
   phenomena="attitude, factive, -no (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子が一人っ子であるのを忘れていた。</script>
     </p>
@@ -176,10 +169,10 @@
     </h>
     <note>井上(1976) p.254</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="743" language="jp"
   phenomena="attitude, factive, -toiukoto (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子が一人っ子であるということを忘れていた。</script>
     </p>
@@ -188,10 +181,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="744" language="jp"
   phenomena="attitude, factive, -koto (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花壇の花に水をやったことを忘れていた。</script>
     </p>
@@ -200,10 +193,10 @@
     </h>
     <note>井上(1976) p.254。「水をやる」の主語が「太郎」であるとき成立。</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="745" language="jp"
   phenomena="attitude, factive, -no (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花壇の花に水をやったのを忘れていた。</script>
     </p>
@@ -212,10 +205,10 @@
     </h>
     <note>井上(1976) p.254。「水をやる」の主語が「太郎」であるとき成立。</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="746" language="jp"
   phenomena="attitude, -no (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花壇の花に水をやるのを忘れていた。</script>
     </p>
@@ -224,10 +217,10 @@
     </h>
     <note>「忘れる」は未完了時制をとると叙実述語ではなくなる。(井上(1976) p.254)</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="747" language="jp"
   phenomena="attitude, non-factive, -to (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子ががさつであると嘆いた。</script>
     </p>
@@ -237,10 +230,10 @@
     <note>久野(1973) p.138, 井上(1976)
     p.254。「コト」をとると叙実述語、「ト」をとると非叙実述語になる。</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="748" language="jp"
   phenomena="attitude, non-factive, -toiukoto (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子ががさつであるということを嘆いた。</script>
     </p>
@@ -250,10 +243,10 @@
     <note>久野(1973) p.138, 井上(1976)
     p.254。「コト」をとると叙実述語、「ト」をとると非叙実述語になる。</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="749" language="jp"
   phenomena="attitude, factive, -koto (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子ががさつであることを嘆いた。</script>
     </p>
@@ -263,10 +256,10 @@
     <note>久野(1973) p.138, 井上(1976)
     p.254。「コト」をとると叙実述語、「ト」をとると非叙実述語になる。</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;presupposition&quot;"
+  <problem answer="yes" inference_type="presupposition"
   jsem_id="750" language="jp"
   phenomena="attitude, factive, -no (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子ががさつであるのを嘆いた。</script>
     </p>
@@ -276,10 +269,10 @@
     <note>久野(1973) p.138, 井上(1976)
     p.254。「コト」をとると叙実述語、「ト」をとると非叙実述語になる。</note>
   </problem>
-  <problem answer="NO" inference_type="&quot;presupposition&quot;"
+  <problem answer="no" inference_type="presupposition"
   jsem_id="751" language="jp"
   phenomena="attitude, counter-factive">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>学生達は試験が延期になったと思い違いした。</script>
     </p>
@@ -288,27 +281,22 @@
     </h>
     <note>井上(1976) p.254。「ト」しかとらない。</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="752" language="jp" phenomena="attitude, adverb">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="752"
+  language="jp" phenomena="attitude, adverb">
+    <link link_id="336" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
-      <script></script>
-    </p>
-    <p idx="2">
       <script>ITELは1992年に契約をどうにか結んだ。</script>
-    </p>
-    <p idx="3">
-      <script></script>
     </p>
     <h>
       <script>ITELは1992年に契約を結んだ。</script>
     </h>
     <note>元の現象はimplicative verbだが、対応する動詞なし。</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="753" language="jp"
-  phenomena="attitude, implicative verb">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="753"
+  language="jp" phenomena="attitude, implicative verb">
+    <description></description>
     <p idx="1">
       <script>山田氏はトマトから有効成分を抽出することに成功した。</script>
     </p>
@@ -317,10 +305,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="754" language="jp"
-  phenomena="attitude, negative implicative">
-    <link resource="fracas" />
+  <problem answer="no" inference_type="entailment" jsem_id="754"
+  language="jp" phenomena="attitude, negative implicative">
+    <description></description>
     <p idx="1">
       <script>太郎は7時の電車に乗り損ねた。</script>
     </p>
@@ -329,10 +316,9 @@
     </h>
     <note>fail toの和訳。</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="755" language="jp"
-  phenomena="attitude, negative implicative">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="755"
+  language="jp" phenomena="attitude, negative implicative">
+    <description></description>
     <p idx="1">
       <script>太郎は今日は7時の電車に乗り損ねなかった。</script>
     </p>
@@ -341,141 +327,98 @@
     </h>
     <note>fail toの和訳。</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="756" language="jp" phenomena="attitude, non-factive">
-    <link resource="fracas" />
+    <link link_id="337" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
-      <script></script>
-    </p>
-    <p idx="2">
       <script>ITELは1992年に契約を結ぼうと試みた。</script>
     </p>
-    <p idx="3">
-      <script></script>
-    </p>
     <h>
       <script>ITELは1992年に契約を結んだ。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="757" language="jp"
-  phenomena="attitude, implicative verb">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="757"
+  language="jp" phenomena="attitude, implicative verb">
+    <link link_id="338" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
-      <script></script>
-    </p>
-    <p idx="2">
       <script>ITELが1992年に契約を結んだということは本当だ。</script>
     </p>
-    <p idx="3">
-      <script></script>
-    </p>
     <h>
       <script>ITELは1992年に契約を結んだ。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="758" language="jp"
-  phenomena="attitude, implicative verb">
-    <link resource="fracas" />
+  <problem answer="no" inference_type="entailment" jsem_id="758"
+  language="jp" phenomena="attitude, implicative verb">
+    <link link_id="339" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
-      <script></script>
-    </p>
-    <p idx="2">
       <script>ITELが1992年に契約を結んだということは嘘だ。</script>
     </p>
-    <p idx="3">
-      <script></script>
-    </p>
     <h>
       <script>ITELは1992年に契約を結んだ。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="759" language="jp"
   phenomena="attitude, perception verb">
-    <link resource="fracas" />
+    <link link_id="340" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
-      <script></script>
-    </p>
-    <p idx="2">
       <script>スミスはジョーンズが契約書にサインするのを見た。</script>
     </p>
-    <p idx="3">
-      <script></script>
-    </p>
-    <p idx="4">
+    <p idx="2">
       <script>もしジョーンズが契約書にサインしたなら、彼の心臓は脈打っていた。</script>
-    </p>
-    <p idx="5">
-      <script></script>
     </p>
     <h>
       <script>スミスはジョーンズの心臓が脈打つのを見た。</script>
     </h>
     <note>P2が不自然。</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="760" language="jp"
   phenomena="attitude, perception verb">
-    <link resource="fracas" />
+    <link link_id="341" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
-      <script></script>
-    </p>
-    <p idx="2">
       <script>スミスはジョーンズが契約書にサインするのを見た。</script>
     </p>
-    <p idx="3">
-      <script></script>
-    </p>
-    <p idx="4">
-      <script></script>
-    </p>
-    <p idx="5">
+    <p idx="2">
       <script>ジョーンズが契約書にサインしたとき、彼の心臓は脈打っていた。</script>
-    </p>
-    <p idx="6">
-      <script></script>
-    </p>
-    <p idx="7">
-      <script></script>
     </p>
     <h>
       <script>スミスはジョーンズの心臓が脈打つのを見た。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="761" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="761"
+  language="jp"
   phenomena="attitude, perception verb, veridicality">
-    <link resource="fracas" />
+    <link link_id="342" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
-      <script></script>
-    </p>
-    <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>スミスはジョーンズが契約書にサインするのを見た。</script>
-    </p>
-    <p idx="4">
-      <script></script>
-    </p>
-    <p idx="5">
-      <script></script>
     </p>
     <h>
       <script>ジョーンズは契約書にサインした。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="762" language="jp"
-  phenomena="attitude, perception verb">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="762"
+  language="jp" phenomena="attitude, perception verb">
+    <link link_id="342" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
       <script>スミスはジョーンズが契約書にサインしたのを見た。</script>
     </p>
@@ -484,24 +427,17 @@
     </h>
     <note>絶対テンス。</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="763" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="763"
+  language="jp"
   phenomena="attitude, perception verb, substitution">
-    <link resource="fracas" />
+    <link link_id="343" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
-      <script></script>
-    </p>
-    <p idx="2">
       <script>スミスはジョーンズが契約書にサインするのを見た。</script>
     </p>
-    <p idx="3">
-      <script></script>
-    </p>
-    <p idx="4">
+    <p idx="2">
       <script>ジョーンズはITELの会長である。</script>
-    </p>
-    <p idx="5">
-      <script></script>
     </p>
     <h>
       <script>スミスはITELの会長が契約書にサインするのを見た。</script>
@@ -509,144 +445,77 @@
     <note>
     P2がequationになるかは議論がわかれるところだが、いずれにせよextensionalityを観察することは可能。</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="764" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="764"
+  language="jp"
   phenomena="attitude, perception verb, existential instantiation">
-    <link resource="fracas" />
+    <link link_id="344" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
-      <script></script>
-    </p>
-    <p idx="2">
       <script>ヘレンは学科長が電話に出るのを見た。</script>
     </p>
-    <p idx="3">
-      <script></script>
-    </p>
-    <p idx="4">
-      <script></script>
-    </p>
-    <p idx="5">
+    <p idx="2">
       <script>学科長は人間である。</script>
-    </p>
-    <p idx="6">
-      <script></script>
-    </p>
-    <p idx="7">
-      <script></script>
     </p>
     <h>
       <script>電話に出るのをヘレンが見た人間がいる。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="765" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="765"
+  language="jp"
   phenomena="attitude, perception verb, existential instantiation">
-    <link resource="fracas" />
+    <link link_id="344" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
-      <script></script>
-    </p>
-    <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>ヘレンは学科長が電話に出るところを見た。</script>
     </p>
-    <p idx="4">
-      <script></script>
-    </p>
-    <p idx="5">
-      <script></script>
-    </p>
-    <p idx="6">
+    <p idx="2">
       <script>学科長は人間である。</script>
-    </p>
-    <p idx="7">
-      <script></script>
-    </p>
-    <p idx="8">
-      <script></script>
     </p>
     <h>
       <script>電話に出るところをヘレンが見た人間がいる。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="766" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="766"
+  language="jp"
   phenomena="attitude, perception verb, existential instantiation">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
-      <script></script>
-    </p>
-    <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>ヘレンは学科長が電話に出るところを見た。</script>
     </p>
-    <p idx="4">
-      <script></script>
-    </p>
-    <p idx="5">
-      <script></script>
-    </p>
-    <p idx="6">
+    <p idx="2">
       <script>学科長は人間である。</script>
-    </p>
-    <p idx="7">
-      <script></script>
-    </p>
-    <p idx="8">
-      <script></script>
     </p>
     <h>
       <script>電話に出るところをヘレンに見られた人間がいる。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="767" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="767"
+  language="jp"
   phenomena="attitude, perception verb, conjunction distribution">
-    <link resource="fracas" />
+    <link link_id="345" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
-      <script></script>
-    </p>
-    <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>スミスはジョーンズが契約書にサインし彼の秘書がコピーを作成するのを見た。</script>
-    </p>
-    <p idx="4">
-      <script></script>
-    </p>
-    <p idx="5">
-      <script></script>
     </p>
     <h>
       <script>スミスはジョーンズが契約書にサインするのを見た。</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="768" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="768"
+  language="jp"
   phenomena="attitude, perception verb, disjunction distribution">
-    <link resource="fracas" />
+    <link link_id="346" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
     <p idx="1">
-      <script></script>
-    </p>
-    <p idx="2">
-      <script></script>
-    </p>
-    <p idx="3">
       <script>スミスはジョーンズが契約書にサインするか重大な条項を削除するのを見た。</script>
-    </p>
-    <p idx="4">
-      <script></script>
-    </p>
-    <p idx="5">
-      <script></script>
     </p>
     <h>
       <script>
@@ -654,10 +523,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="769" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="769"
+  language="jp"
   phenomena="attitude, perception verb, -no (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>私は太郎がコンクールでピアノを弾くのを聞いた。</script>
     </p>
@@ -666,10 +535,10 @@
     </h>
     <note>久野(1973) p.140</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="770" language="jp"
   phenomena="attitude, -koto (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>私は太郎がコンクールでピアノを弾くことを聞いた。</script>
     </p>
@@ -678,9 +547,9 @@
     </h>
     <note>久野(1973) p.140</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="" jsem_id="771"
+  <problem answer="unknown" inference_type="" jsem_id="771"
   language="jp" phenomena="attitude, -to (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>私は太郎がコンクールでピアノを弾くと聞いた。</script>
     </p>
@@ -689,10 +558,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="772" language="jp"
   phenomena="attitude, -toiukoto (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>私は太郎がコンクールでピアノを弾くということを聞いた。</script>
     </p>
@@ -701,10 +570,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="773" language="jp"
   phenomena="attitude, -toiuno (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>私は太郎がコンクールでピアノを弾くというのを聞いた。</script>
     </p>
@@ -713,10 +582,10 @@
     </h>
     <note>P1がやや不自然。</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="774" language="jp"
   phenomena="attitude, -koto (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>花子は太郎が次郎の結婚式に来ることを期待していた。</script>
     </p>
@@ -725,10 +594,10 @@
     </h>
     <note>久野(1973) p.140, 井上(1976) p.255。内容節をとるが叙実性と無関係。</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="775" language="jp"
   phenomena="attitude, -no (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子が次郎の結婚式に来るのを期待していた。</script>
     </p>
@@ -737,10 +606,10 @@
     </h>
     <note>久野(1973) p.140, 井上(1976) p.255。内容節をとるが叙実性と無関係。</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="776" language="jp"
   phenomena="attitude, -to (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>花子は太郎が次郎の結婚式に来ると期待していた。</script>
     </p>
@@ -749,10 +618,9 @@
     </h>
     <note>久野(1973) p.140, 井上(1976) p.255。内容節をとるが叙実性と無関係。</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="777" language="jp"
-  phenomena="attitude, -to (complementizer)">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="777"
+  language="jp" phenomena="attitude, -to (complementizer)">
+    <description></description>
     <p idx="1">
       <script>太郎は花子が犯人であると疑っている。</script>
     </p>
@@ -761,10 +629,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="778" language="jp"
-  phenomena="attitude, -to (complementizer)">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="778"
+  language="jp" phenomena="attitude, -to (complementizer)">
+    <description></description>
     <p idx="1">
       <script>太郎は花子が犯人ではないかと疑っている。</script>
     </p>
@@ -773,10 +640,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="779" language="jp"
   phenomena="attitude, -to (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎は花子が犯人であると疑っている。</script>
     </p>
@@ -785,10 +652,9 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="780" language="jp"
-  phenomena="attitude, -koto (complementizer)">
-    <link resource="fracas" />
+  <problem answer="yes" inference_type="entailment" jsem_id="780"
+  language="jp" phenomena="attitude, -koto (complementizer)">
+    <description></description>
     <p idx="1">
       <script>太郎は花子が犯人であることを疑っている。</script>
     </p>
@@ -797,10 +663,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="781" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="781"
+  language="jp"
   phenomena="attitude, if-predicate, -koto (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎が昨日花子に会ったことはたしかだ。</script>
     </p>
@@ -809,10 +675,10 @@
     </h>
     <note>井上(1976) p.253</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="782" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="782"
+  language="jp"
   phenomena="attitude, if-predicate, -no (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎が昨日花子に会ったのはたしかだ。</script>
     </p>
@@ -821,10 +687,10 @@
     </h>
     <note>井上(1976) p.253</note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="783" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="783"
+  language="jp"
   phenomena="attitude, if-predicate, -toiukoto (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎が昨日花子に会ったということはたしかだ。</script>
     </p>
@@ -833,10 +699,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="YES" inference_type="&quot;entailment&quot;"
-  jsem_id="784" language="jp"
+  <problem answer="yes" inference_type="entailment" jsem_id="784"
+  language="jp"
   phenomena="attitude, if-predicate, -toiuno (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎が昨日花子に会ったというのはたしかだ。</script>
     </p>
@@ -845,10 +711,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="785" language="jp"
+  <problem answer="no" inference_type="entailment" jsem_id="785"
+  language="jp"
   phenomena="attitude, only-if-predicate, -koto (complementizer)">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎が犯人であることは有り得ない。</script>
     </p>
@@ -857,11 +723,11 @@
     </h>
     <note>井上(1976) p.253</note>
   </problem>
-  <problem answer="NO" inference_type="&quot;entailment&quot;"
-  jsem_id="786" language="jp"
+  <problem answer="no" inference_type="entailment" jsem_id="786"
+  language="jp"
   phenomena="attitude, only-if-predicate, -toiukoto (complementizer)">
 
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎が犯人であるということは有り得ない。</script>
     </p>
@@ -870,10 +736,10 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="787" language="jp"
   phenomena="attitude, only-if-predicate">
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎が犯人であることが有り得る。</script>
     </p>
@@ -882,11 +748,11 @@
     </h>
     <note>井上(1976) p.253</note>
   </problem>
-  <problem answer="UNKNOWN" inference_type="&quot;entailment&quot;"
+  <problem answer="unknown" inference_type="entailment"
   jsem_id="788" language="jp"
   phenomena="attitude, only-if-predicate, -toiukoto (complementizer)">
 
-    <link resource="fracas" />
+    <description></description>
     <p idx="1">
       <script>太郎が犯人であるということが有り得る。</script>
     </p>
@@ -895,4 +761,4 @@
     </h>
     <note></note>
   </problem>
-</jsem-problems>
+</jsem-dataset>

@@ -12,7 +12,7 @@
         <title>JSeM dataset</title>
         <style>
           body {
-            background: lightcyan;
+            background: white;
             font-family: Lucida Sans, Arial, Helvetica, sans-serif;
             font-size: 12px;
           }
@@ -78,8 +78,13 @@
 
   <!-- problem -->
   <xsl:template match="problem">
+    <xsl:element name="a">
+      <xsl:attribute name="name">
+      <xsl:value-of select="@jsem_id" />
+      </xsl:attribute>
+    </xsl:element>
     <div class="problem">
-      <table bgcolor="white" >
+      <table bgcolor="lightcyan" >
         <tr>
           <td  width="100">
             jsem-id:<xsl:value-of select="@jsem_id"/>
@@ -116,19 +121,21 @@
           </xsl:if>
 
 	  <!-- inference type -->
-	   <td  width="200">
-            inference type: <font color="darkcyan"><xsl:value-of select="@inference_type"/></font>
-          </td>
+	  <td  width="200">
+        inference type: <font color="darkcyan"><xsl:value-of select="@inference_type"/></font>
+      </td>
 
-          <!-- phenomena -->
-          <td  width="500">
-            phenomena: <font color="darkcyan"><xsl:value-of select="@phenomena"/>
-                  </font>
-          </td>
-        </tr>
+      <!-- phenomena -->
+      <td  width="500">
+        phenomena: <font color="darkcyan"><xsl:value-of select="@phenomena"/></font>
+      </td>
+      </tr>
 
       <xsl:apply-templates select="link"/>
-      <xsl:apply-templates select="description"/>
+
+      <xsl:if test="description!=''">
+        <tr><td colspan="4" valign="top"><font color="darkcyan"><xsl:value-of select="description" /></font></td></tr>
+      </xsl:if>
       </table>
 
       <table width="100%">
@@ -159,121 +166,49 @@
 	</tr>
   </xsl:template>
 
-  <xsl:template match="description">
-    <tr>
-      <td colspan="2" valign="top">
-        Description: <xsl:value-of select="." />
-      </td>
-    </tr>
-  </xsl:template>
-
   <!-- premise -->
   <xsl:template match="p">
     <tr>
       <td width="60" valign="top">
         P<xsl:value-of select="@idx"/>
       </td>
-    </tr>
-	<tr>
-	  <td valign="top"> script </td>
 	  <td colspan="2">
         <xsl:value-of select="script"/>
       </td>
 	</tr>
-<!--	<tr>
-	<td valign="top"> translit </td>
-	  <td colspan="2">
-        <xsl:value-of select="translit"/>
-      </td>
-	</tr>
-	<tr>
-	<td valign="top"> morph </td>	
-      <td colspan="2">
-        <xsl:value-of select="morph"/>
-      </td>
-	</tr> -->
-	<tr>
-	<td valign="top"> English </td>	
-	  <td colspan="2">
-        <xsl:value-of select="english"/>
-      </td>
-    </tr>
   </xsl:template>
 
 <!--  question -->
   <xsl:template match="q">
     <tr>
       <td valign="top"> Q </td>
-      <td colspan="2">
-      </td>
-    </tr>
-		<tr>
-	  <td valign="top"> script </td>
 	  <td colspan="2">
         <xsl:value-of select="script"/>
       </td>
 	</tr>
-<!--	<tr>
-	<td valign="top"> translit </td>
-	  <td colspan="2">
-        <xsl:value-of select="translit"/>
-      </td>
-	</tr>
-	<tr>
-	<td valign="top"> morph </td>	
-      <td colspan="2">
-        <xsl:value-of select="morph"/>
-      </td>
-	</tr> -->
-	<tr>
-	<td valign="top"> English </td>	
-	  <td colspan="2">
-        <xsl:value-of select="english"/>
-      </td>
-    </tr>
   </xsl:template>
   
   <!-- hypothesis -->
   <xsl:template match="h">
+    <tr><td colspan="2"><hr /></td></tr>
     <tr>
       <td valign="top"> H </td>
-      <td colspan="2">
-      </td>
-    </tr>
-		<tr>
-	  <td valign="top"> script </td>
 	  <td colspan="2">
         <xsl:value-of select="script"/>
       </td>
 	</tr>
-<!--	<tr>
-	<td valign="top"> translit </td>
-	  <td colspan="2">
-        <xsl:value-of select="translit"/>
-      </td>
-	</tr>
-	<tr>
-	<td valign="top"> morph </td>	
-      <td colspan="2">
-        <xsl:value-of select="morph"/>
-      </td>
-	</tr> -->
-	<tr>
-	<td valign="top"> English </td>	
-	  <td colspan="2">
-        <xsl:value-of select="english"/>
-      </td>
-    </tr>
   </xsl:template>
 
   <!-- note -->
   <xsl:template match="note">
+    <xsl:if test="text()!=''">
     <tr>
-      <td valign="top"> Note </td>
+      <td valign="top"><font color="darkcyan">Note</font></td>
       <td colspan="2">
-        <i> <xsl:copy-of select="text()|node()" /> </i>
+        <font color="darkcyan"><i> <xsl:copy-of select="text()|node()" /> </i></font>
       </td>
     </tr>
+    </xsl:if>
   </xsl:template>
   
 </xsl:stylesheet> 

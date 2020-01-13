@@ -1,71 +1,71 @@
-498			YES	"adjective, affirmative adjective"	"entailment"	 Kamp (1975). Affirmative adjectives. Adj N は N を含意する	      ジョンは本物のダイアモンドを持っている。     	      ジョンはダイアモンドを持っている。     
-499			UNKNOWN	"adjective, non-affirmative adjective"	"entailment"	 Kamp (1975). Non-affirmative adjectives. Adj N は N を含意しない	      ジョンは偽物のダイアモンドを持っている。     	      ジョンはダイアモンドを持っている。     
-500			YES	"adjective, affirmative adjective"	"entailment"		      これは本物のダイアモンドだ。     	      これはダイアモンドだ。     
-501			NO	"adjective, non-affirmative adjective"	"entailment"	 Non-affirmative: Adj N は N を含意しない      (この場合、Adj N は non-N を含意する) 	      これは偽物のダイアモンドだ。     	      これはダイアモンドだ。     
-502			UNKNOWN	"adjective, non-affirmative adjective"	"entailment"		      これは偽物の日本製の時計だ。     	      これは偽物の時計だ。     
-503			UNKNOWN	"adjective, non-affirmative adjective"	"entailment"		      これは偽物の日本製の時計だ。     	      これは日本製だ。     
-504			UNKNOWN	"adjective, non-affirmative adjective"	"entailment"		      これは偽物の日本製の時計だ。     	      これは時計だ。     
-505			YES	"adjective, non-affirmative adjective"	"entailment"		      ジョンは自称ニューヨーク出身のピアニストだ。     	      ジョンは自称ニューヨーク出身だ。     
-506			UNKNOWN	"adjective, non-affirmative adjective"	"entailment"		      ジョンは自称ニューヨーク出身のピアニストだ。     	      ジョンはニューヨーク出身だ。     
-507			UNKNOWN	"adjective, non-affirmative adjective"	"entailment"		      ジョンは自称ニューヨーク出身のピアニストだ。     	      ジョンはピアニストだ。     
-508			NO	"adjective, non-affirmative adjective"	"entailment"	 「かつての」はやや不自然。formerに自然に対応する形容詞がない。ジョンが再び大学生になったという可能性を考慮するとunknown。  Comment in fracas: Non-affirmative. Adj N does not entail N. (Opinions differ about whether "Adj N entails non-N")	      ジョンはかつての大学生だ。     	      ジョンは大学生だ。     
-509			NO	"adjective, non-affirmative adjective"	"entailment"	   「元」は接頭辞。ジョンが再び大学生になったという可能性を考慮するとunknown。   Comment in fracas:   Non-affirmative. Adj N does not entail N.   (Opinions differ about whether "Adj N entails non-N")  	      ジョンは元大学生だ。     	      ジョンは大学生だ。     
-510			YES	"adjective, non-affirmative adjective"	"entailment"	    Comment in fracas: Yes (for a former university student).    Ordering between affirmative and non-affirmative adjectives affects which    adjectival predications are and aren't affirmed.  	      ジョンは成功している元大学生だ。     	      ジョンは成功している。     
-511			YES	"adjective, affirmative adjective, no comparison class"	"entailment"	 Comment in fracas: [N1 entails N2] entails [Adj(N1) entails Adj(N2)] 	      すべての哺乳類は動物だ。     	      すべての四本足の哺乳類は四本足の動物だ。     
-512			YES	"adjective, affirmative adjective, no comparison class"	"entailment"	 Comment in fracas: Adj(N)(x) entails Adj(x) 	      ダンボは四本足の動物だ。     	      ダンボは四本足だ。     
-513			YES	"adjective, affirmative adjective, no comparison class"	"entailment"		      ジョンはアメリカ人の外科医だ。     	      ジョンは外科医だ。     
-514			YES	"adjective, affirmative adjective, no comparison class"	"entailment"		      ジョンはアメリカ人の外科医だ。     	      ジョンはアメリカ人だ。     
-515			YES	"adjective, affirmative adjective, no comparison class"	"entailment"		      ジョンはアメリカ人だ。     	      ジョンは外科医だ。     	      ジョンはアメリカ人の外科医だ。     
-516			YES	"adjective, affirmative adjective, no comparison class"	"entailment"		      ジョンはアメリカ人の外科医だ。     	      ジョンは外科医のアメリカ人だ。     
-517			UNKNOWN	"adjective, affirmative adjective, no comparison class, modal"	"entailment"		      ジョンはアメリカ人の外科医かもしれない。     	      ジョンはアメリカ人だ。     
-518			UNKNOWN	"adjective, affirmative adjective, no comparison class, modal"	"entailment"		      ジョンはアメリカ人の外科医かもしれない。     	      ジョンは外科医だ。     
-519			NO	"adjective, opposite, relative adjective"	"entailment"	 Relative adjectives (Kennedy and McNally 2005).Comment in fracas: Small(N) entails !Large(N)	      ミッキーは小さな動物だ。     	      ミッキーは大きな動物だ。     
-520			NO	"adjective, opposite, relative adjective"	"entailment"	 Relative adjectives (Kennedy and McNally 2005). Comment in fracas: Large(N) entails !Small(N)	      ダンボは大きな動物だ。     	      ダンボは小さな動物だ。     
-521			UNKNOWN	"adjective, opposite, relative adjective"	"entailment"	 Relative adjectives (Kennedy and McNally 2005). Comment in fracas: !Small(N) =/=> Large(N)	      ファイドは小さな動物ではない。     	      ファイドは大きな動物だ。     
-522			UNKNOWN	"adjective, opposite, relative adjective"	"entailment"	 Relative adjectives (Kennedy and McNally 2005). Comment in fracas: !Large(N) =/=> Small(N)	      ファイドは大きな動物ではない。     	      ファイドは小さな動物だ。     
-523			NO	"adjective, opposite, absolute adjective"	"entailment"	 PとHの「あの窓」は同一の個体を指示する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)	      あの窓は開いている。     	      あの窓は閉まっている。     
-524			NO	"adjective, opposite, absolute adjective"	"entailment"	 PとHの「あの窓」は同一の個体を指示する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)	      あの窓は閉まっている。     	      あの窓は開いている。     
-525			YES	"adjective, opposite, absolute adjective"	"entailment"	 PとHの「あの窓」は同一の個体を指示する。not-Open(N) は Closed(N) を含意する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)	      あの窓は開いていない。     	      あの窓は閉まっている。     
-526			YES	"adjective, opposite, absolute adjective"	"entailment"	 PとHの「あの窓」は同一の個体を指示する。not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)	      あの窓は閉まっていない。     	      あの窓は開いている。     
-527			NO	"adjective, opposite, relative adjective"	"entailment"		      この料理はおいしい。     	      この料理はまずい。     
-528			NO	"adjective, opposite, relative adjective"	"entailment"		      この料理はまずい。     	      この料理はおいしい。     
-529			YES	"adjective, opposite, relative adjective"	"entailment"		      この料理はおいしくない。     	      この料理はまずい。     
-530			UNKNOWN	"adjective, opposite, relative adjective"	"entailment"		      この料理はまずくない。     	      この料理はおいしい。     
-531			YES	"adjective, opposite, comparative"	"entailment"	   Comment in fracas: "Small" and "large" are related via the comparative "smaller"  	      ミッキーは小さな動物だ。     	      ダンボは大きな動物だ。     	      ミッキーはダンボより小さい。     
-532			NO	"adjective, opposite, comparative"	"entailment"	   Comment in fracas: "Small" and "large" are related via the comparative "larger"  	      ミッキーは小さな動物だ。     	      ダンボは大きな動物だ。     	      ミッキーはダンボより大きい。     
-533			NO	"adjective, extensional comparison class"	"entailment"		      すべてのネズミは小さな動物だ。     	      ミッキーは大きなネズミだ。     	      ミッキーは大きな動物だ。     
-534			NO	"adjective, extensional comparison class"	"entailment"		      すべての象は大きな動物だ。     	      ダンボは小さな象だ。     	      ダンボは小さな動物だ。     
-535			YES	"adjective, extensional comparison class"	"entailment"	 Comment in fracas: Assume comparative relations exemplified in (208) and (209)	      すべてのネズミは小さな動物だ。     	      すべての象は大きな動物だ。     	      ミッキーは大きなネズミだ。     	      ダンボは小さな象だ。     	      ダンボはミッキーより大きい。     
-536			UNDEF	"adjective, opposite"	"entailment"	    Comment in fracas:    No, for a mouse; Yes, for an animal.    Adjectives requiring a comparison class cannot usually be predicated in    the absence of a common noun, unless some comparison class is clear from    the wider context.	      すべてのネズミは小さな動物だ。     	      ミッキーは大きな動物だ。     	      ミッキーは小さい。     
-537			UNKNOWN	"adjective, extensional comparison class"	"entailment"	西尾(1972, p.167)	      太郎は大きな家に住んでいる。     	      太郎は大きな建物に住んでいる。     
-538			YES	"adjective, extensional comparison class"	"presupposition"		      山田氏は政治家にしては若い。     	      山田氏は政治家だ。     
-539			NO	"adjective, extensional comparison class"	"entailment"	結論Hはdefault comparison classで解釈する	      山田氏は政治家にしては若い。     	      山田氏は若い。     
-540			UNKNOWN	"adjective, extensional comparison class"	"entailment"		      山田氏はこの党の政治家にしては若い。     	      この党の政治家はみな弁護士でもある。     	      山田氏は弁護士にしては若い。     
-541			YES	"adjective, extensional comparison class"	"presupposition"		      山田氏は政治家の中では若い。     	      山田氏は政治家だ。     
-542			UNKNOWN	"adjective, extensional comparison class"	"entailment"		      山田氏は政治家の中では若い方だ。     	      山田氏は弁護士でもある。     	      山田氏は弁護士の中では若い方だ。     
-543			UNKNOWN	"adjective, extensional comparison class"	"entailment"		      山田氏は今回の選挙に立候補した政治家の中では若い方だ。     	      今回の選挙に立候補した政治家はみな弁護士だ。     	      山田氏は弁護士の中では若い方だ。     
-544			YES	"adjective, extensional comparison class"	"presupposition"		      山田氏は政治家の割には若い。     	      山田氏は政治家だ。     
-545			NO	"adjective, extensional comparison class"	"entailment"	結論Hはdefault comparison classで解釈する	      山田氏は政治家の割には若い。     	      山田氏は若い。     
-546			UNKNOWN	"adjective, intensional comparison class"	"entailment"		      ジョンは有名なピアニストだ。     	      ジョンは外科医だ。     	      ジョンは有名な外科医だ。     
-547			UNKNOWN	"adjective, intensional comparison class"	"entailment"		      ジョンは最高のピアニストだ。     	      すべてのピアニストは音楽家だ。     	      ジョンは最高の音楽家だ。     
-548			YES	"adjective, no comparison class"	"entailment"		      ジョンは左利きのピアニストだ。     	      すべてのピアニストは音楽家だ。     	      ジョンは左利きの音楽家だ。     
-549			UNKNOWN	"adjective, intensional comparison class"	"entailment"		      ジョンは一流の指揮者だ。     	      ジョンはピアニストだ。     	      ジョンは一流のピアニストだ。     
-550			YES	"adjective, intensional comparison class"	"entailment"		      ジョンは一流の指揮者だ。     	      ジョンは指揮者として一流だ。     
-551			YES	"adjective, intensional comparison class"	"entailment"		      ジョンは指揮者として一流だ。     	      ジョンは一流の指揮者だ。     
-552			YES	"adjective, intensional comparison class"	"entailment"		      ジョンは一流の指揮者だ。     	      ジョンは指揮者だ。     
-553			YES	"adjective, intensional comparison class"	"presupposition"		      ジョンは指揮者として一流だ。     	      ジョンは指揮者だ。     
-554			YES	"adjective, intensional comparison class"	"presupposition"		      ジョンは指揮者としては一流でない。     	      ジョンは指揮者だ。     
-555			UNKNOWN	"adjective, intensional comparison class"	"entailment"		      ジョンは指揮者として一流だ。     	      ジョンはピアニストだ。     	      ジョンはピアニストとして一流だ。     
-556			YES	"adjective, extensional comparison class"	"entailment"	 Kamp (1975). Comment in fracas: Extensional comparison class 	      すべての法律の権威は法律学の講師だ。     	      すべての法律学の講師は法律の権威だ。     	      すべての太った法律の権威は太った法律学の講師だ。     
-557			UNKNOWN	"adjective, intensional comparison class"	"entailment"	 Kamp (1975). Comment in fracas: Intensional comparison class 	      すべての法律の権威は法律学の講師だ。     	      すべての法律学の講師は法律の権威だ。     	      すべての有能な法律の権威は有能な法律学の講師だ。     
-558			YES	"adjective, extensional comparison class"	"entailment"	 Comment in fracas: Extensional 	      ジョンはビルより太った政治家だ。     	      ジョンはビルより太っている。     
-559			UNKNOWN	"adjective, intensional comparison class"	"entailment"	 Comment in fracas: Intensional 	      ジョンはビルより有能な政治家だ。     	      ジョンはビルより有能だ。     
-560			UNKNOWN	"adjective, intensional comparison class"	"entailment"		      ジョンはビルより政治家としては有能だ。     	      ジョンはビルより有能だ。     
-561			YES	"adjective, default comparison class"	"entailment"		      キムは有能な人だ。     	      キムは有能だ。     
-562			UNKNOWN	"adjective, default comparison class"	"entailment"		      キムは有能な政治家だ。     	      キムは有能だ。     
-563			YES	"adjective, degree modifier, partial predicate"	"entailment"	Yoon (1996), Rotstein and Winter (2004)	      このタオルは少しぬれている。     	      このタオルはぬれている。     
-564			NO	"adjective, degree modifier, total predicate"	"entailment"	Yoon (1996), Rotstein and Winter (2004)	      このタオルはほぼ乾いている。     	      このタオルは乾いている。     
-565			YES	"adjective, degree modifier, partial predicate"	"entailment"	PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter (2004)	      あのドアは半分開いている。     	      あのドアは開いている。     
-566			NO	"adjective, degree modifier, total predicate"	"entailment"	PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter (2004)	      あのドアは半分閉まっている。     	      あのドアは閉まっている。     
-567			YES	"adjective, degree modifier, total predicate"	"entailment"	PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter (2004)	      あのドアは少し開いている。     	      あのドアは開いている。     
-568			NO	"adjective, degree modifier, total predicate"	"entailment"	PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter (2004)	      あのドアはほぼ閉まっている。     	      あのドアは閉まっている。     
+498	fracas	197	yes	unknown			yes	"adjective, affirmative adjective"	entailment	 Kamp (1975). Affirmative adjectives. Adj N は N を含意する	ジョンは本物のダイアモンドを持っている。	ジョンはダイアモンドを持っている。
+499							unknown	"adjective, non-affirmative adjective"	entailment	 Kamp (1975). Non-affirmative adjectives. Adj N は N を含意しない	ジョンは偽物のダイアモンドを持っている。	ジョンはダイアモンドを持っている。
+500							yes	"adjective, affirmative adjective"	entailment		これは本物のダイアモンドだ。	これはダイアモンドだ。
+501							no	"adjective, non-affirmative adjective"	entailment	 Non-affirmative: Adj N は N を含意しない      (この場合、Adj N は non-N を含意する) 	これは偽物のダイアモンドだ。	これはダイアモンドだ。
+502							unknown	"adjective, non-affirmative adjective"	entailment		これは偽物の日本製の時計だ。	これは偽物の時計だ。
+503							unknown	"adjective, non-affirmative adjective"	entailment		これは偽物の日本製の時計だ。	これは日本製だ。
+504							unknown	"adjective, non-affirmative adjective"	entailment		これは偽物の日本製の時計だ。	これは時計だ。
+505							yes	"adjective, non-affirmative adjective"	entailment		ジョンは自称ニューヨーク出身のピアニストだ。	ジョンは自称ニューヨーク出身だ。
+506							unknown	"adjective, non-affirmative adjective"	entailment		ジョンは自称ニューヨーク出身のピアニストだ。	ジョンはニューヨーク出身だ。
+507							unknown	"adjective, non-affirmative adjective"	entailment		ジョンは自称ニューヨーク出身のピアニストだ。	ジョンはピアニストだ。
+508	fracas	198	yes	unknown			no	"adjective, non-affirmative adjective"	entailment	 「かつての」はやや不自然。formerに自然に対応する形容詞がない。ジョンが再び大学生になったという可能性を考慮するとunknown。  Comment in fracas: Non-affirmative. Adj N does not entail N. (Opinions differ about whether "Adj N entails non-N")	ジョンはかつての大学生だ。	ジョンは大学生だ。
+509	fracas	198	yes	unknown			no	"adjective, non-affirmative adjective"	entailment	   「元」は接頭辞。ジョンが再び大学生になったという可能性を考慮するとunknown。   Comment in fracas:   Non-affirmative. Adj N does not entail N.   (Opinions differ about whether "Adj N entails non-N")  	ジョンは元大学生だ。	ジョンは大学生だ。
+510	fracas	199	yes	unknown			yes	"adjective, non-affirmative adjective"	entailment	    Comment in fracas: Yes (for a former university student).    Ordering between affirmative and non-affirmative adjectives affects which    adjectival predications are and aren't affirmed.  	ジョンは成功している元大学生だ。	ジョンは成功している。
+511	fracas	202	yes	yes			yes	"adjective, affirmative adjective, no comparison class"	entailment	 Comment in fracas: [N1 entails N2] entails [Adj(N1) entails Adj(N2)] 	すべての哺乳類は動物だ。	すべての四本足の哺乳類は四本足の動物だ。
+512	fracas	203	yes	yes			yes	"adjective, affirmative adjective, no comparison class"	entailment	 Comment in fracas: Adj(N)(x) entails Adj(x) 	ダンボは四本足の動物だ。	ダンボは四本足だ。
+513							yes	"adjective, affirmative adjective, no comparison class"	entailment		ジョンはアメリカ人の外科医だ。	ジョンは外科医だ。
+514							yes	"adjective, affirmative adjective, no comparison class"	entailment		ジョンはアメリカ人の外科医だ。	ジョンはアメリカ人だ。
+515							yes	"adjective, affirmative adjective, no comparison class"	entailment		ジョンはアメリカ人だ。	ジョンは外科医だ。	ジョンはアメリカ人の外科医だ。
+516							yes	"adjective, affirmative adjective, no comparison class"	entailment		ジョンはアメリカ人の外科医だ。	ジョンは外科医のアメリカ人だ。
+517							unknown	"adjective, affirmative adjective, no comparison class, modal"	entailment		ジョンはアメリカ人の外科医かもしれない。	ジョンはアメリカ人だ。
+518							unknown	"adjective, affirmative adjective, no comparison class, modal"	entailment		ジョンはアメリカ人の外科医かもしれない。	ジョンは外科医だ。
+519	fracas	204	yes	yes			no	"adjective, opposite, relative adjective"	entailment	 Relative adjectives (Kennedy and McNally 2005).Comment in fracas: Small(N) entails !Large(N)	ミッキーは小さな動物だ。	ミッキーは大きな動物だ。
+520	fracas	205	yes	yes			no	"adjective, opposite, relative adjective"	entailment	 Relative adjectives (Kennedy and McNally 2005). Comment in fracas: Large(N) entails !Small(N)	ダンボは大きな動物だ。	ダンボは小さな動物だ。
+521	fracas	206	yes	yes			unknown	"adjective, opposite, relative adjective"	entailment	 Relative adjectives (Kennedy and McNally 2005). Comment in fracas: !Small(N) =/=> Large(N)	ファイドは小さな動物ではない。	ファイドは大きな動物だ。
+522	fracas	207	yes	yes			unknown	"adjective, opposite, relative adjective"	entailment	 Relative adjectives (Kennedy and McNally 2005). Comment in fracas: !Large(N) =/=> Small(N)	ファイドは大きな動物ではない。	ファイドは小さな動物だ。
+523							no	"adjective, opposite, absolute adjective"	entailment	 PとHの「あの窓」は同一の個体を指示する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)	あの窓は開いている。	あの窓は閉まっている。
+524							no	"adjective, opposite, absolute adjective"	entailment	 PとHの「あの窓」は同一の個体を指示する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)	あの窓は閉まっている。	あの窓は開いている。
+525							yes	"adjective, opposite, absolute adjective"	entailment	 PとHの「あの窓」は同一の個体を指示する。not-Open(N) は Closed(N) を含意する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)	あの窓は開いていない。	あの窓は閉まっている。
+526							yes	"adjective, opposite, absolute adjective"	entailment	 PとHの「あの窓」は同一の個体を指示する。not-Closed(N) は Open(N) を含意する。Absolute adjective (Rotstein and Winter 2004; Kennedy and McNally 2005)	あの窓は閉まっていない。	あの窓は開いている。
+527							no	"adjective, opposite, relative adjective"	entailment		この料理はおいしい。	この料理はまずい。
+528							no	"adjective, opposite, relative adjective"	entailment		この料理はまずい。	この料理はおいしい。
+529							yes	"adjective, opposite, relative adjective"	entailment		この料理はおいしくない。	この料理はまずい。
+530							unknown	"adjective, opposite, relative adjective"	entailment		この料理はまずくない。	この料理はおいしい。
+531	fracas	208	yes	yes			yes	"adjective, opposite, comparative"	entailment	   Comment in fracas: "Small" and "large" are related via the comparative "smaller"  	ミッキーは小さな動物だ。	ダンボは大きな動物だ。	ミッキーはダンボより小さい。
+532	fracas	209	yes	yes			no	"adjective, opposite, comparative"	entailment	   Comment in fracas: "Small" and "large" are related via the comparative "larger"  	ミッキーは小さな動物だ。	ダンボは大きな動物だ。	ミッキーはダンボより大きい。
+533	fracas	210	yes	yes			no	"adjective, extensional comparison class"	entailment		すべてのネズミは小さな動物だ。	ミッキーは大きなネズミだ。	ミッキーは大きな動物だ。
+534	fracas	211	yes	yes			no	"adjective, extensional comparison class"	entailment		すべての象は大きな動物だ。	ダンボは小さな象だ。	ダンボは小さな動物だ。
+535	fracas	212	yes	yes			yes	"adjective, extensional comparison class"	entailment	 Comment in fracas: Assume comparative relations exemplified in (208) and (209)	すべてのネズミは小さな動物だ。	すべての象は大きな動物だ。	ミッキーは大きなネズミだ。	ダンボは小さな象だ。	ダンボはミッキーより大きい。
+536	fracas	213	yes	yes			undef	"adjective, opposite"	entailment	    Comment in fracas:    No, for a mouse; Yes, for an animal.    Adjectives requiring a comparison class cannot usually be predicated in    the absence of a common noun, unless some comparison class is clear from    the wider context.	すべてのネズミは小さな動物だ。	ミッキーは大きな動物だ。	ミッキーは小さい。
+537							unknown	"adjective, extensional comparison class"	entailment	西尾(1972, p.167)	太郎は大きな家に住んでいる。	太郎は大きな建物に住んでいる。
+538							yes	"adjective, extensional comparison class"	presupposition		山田氏は政治家にしては若い。	山田氏は政治家だ。
+539							no	"adjective, extensional comparison class"	entailment	結論Hはdefault comparison classで解釈する	山田氏は政治家にしては若い。	山田氏は若い。
+540							unknown	"adjective, extensional comparison class"	entailment		山田氏はこの党の政治家にしては若い。	この党の政治家はみな弁護士でもある。	山田氏は弁護士にしては若い。
+541							yes	"adjective, extensional comparison class"	presupposition		山田氏は政治家の中では若い。	山田氏は政治家だ。
+542							unknown	"adjective, extensional comparison class"	entailment		山田氏は政治家の中では若い方だ。	山田氏は弁護士でもある。	山田氏は弁護士の中では若い方だ。
+543							unknown	"adjective, extensional comparison class"	entailment		山田氏は今回の選挙に立候補した政治家の中では若い方だ。	今回の選挙に立候補した政治家はみな弁護士だ。	山田氏は弁護士の中では若い方だ。
+544							yes	"adjective, extensional comparison class"	presupposition		山田氏は政治家の割には若い。	山田氏は政治家だ。
+545							no	"adjective, extensional comparison class"	entailment	結論Hはdefault comparison classで解釈する	山田氏は政治家の割には若い。	山田氏は若い。
+546							unknown	"adjective, intensional comparison class"	entailment		ジョンは有名なピアニストだ。	ジョンは外科医だ。	ジョンは有名な外科医だ。
+547							unknown	"adjective, intensional comparison class"	entailment		ジョンは最高のピアニストだ。	すべてのピアニストは音楽家だ。	ジョンは最高の音楽家だ。
+548							yes	"adjective, no comparison class"	entailment		ジョンは左利きのピアニストだ。	すべてのピアニストは音楽家だ。	ジョンは左利きの音楽家だ。
+549							unknown	"adjective, intensional comparison class"	entailment		ジョンは一流の指揮者だ。	ジョンはピアニストだ。	ジョンは一流のピアニストだ。
+550							yes	"adjective, intensional comparison class"	entailment		ジョンは一流の指揮者だ。	ジョンは指揮者として一流だ。
+551							yes	"adjective, intensional comparison class"	entailment		ジョンは指揮者として一流だ。	ジョンは一流の指揮者だ。
+552							yes	"adjective, intensional comparison class"	entailment		ジョンは一流の指揮者だ。	ジョンは指揮者だ。
+553							yes	"adjective, intensional comparison class"	presupposition		ジョンは指揮者として一流だ。	ジョンは指揮者だ。
+554							yes	"adjective, intensional comparison class"	presupposition		ジョンは指揮者としては一流でない。	ジョンは指揮者だ。
+555							unknown	"adjective, intensional comparison class"	entailment		ジョンは指揮者として一流だ。	ジョンはピアニストだ。	ジョンはピアニストとして一流だ。
+556	fracas	214	yes	unknown			yes	"adjective, extensional comparison class"	entailment	 Kamp (1975). Comment in fracas: Extensional comparison class 	すべての法律の権威は法律学の講師だ。	すべての法律学の講師は法律の権威だ。	すべての太った法律の権威は太った法律学の講師だ。
+557	fracas	215	yes	unknown			unknown	"adjective, intensional comparison class"	entailment	 Kamp (1975). Comment in fracas: Intensional comparison class 	すべての法律の権威は法律学の講師だ。	すべての法律学の講師は法律の権威だ。	すべての有能な法律の権威は有能な法律学の講師だ。
+558	fracas	216	yes	unknown			yes	"adjective, extensional comparison class"	entailment	 Comment in fracas: Extensional 	ジョンはビルより太った政治家だ。	ジョンはビルより太っている。
+559	fracas	217	yes	unknown			unknown	"adjective, intensional comparison class"	entailment	 Comment in fracas: Intensional 	ジョンはビルより有能な政治家だ。	ジョンはビルより有能だ。
+560							unknown	"adjective, intensional comparison class"	entailment		ジョンはビルより政治家としては有能だ。	ジョンはビルより有能だ。
+561	fracas	218	yes	unknown			yes	"adjective, default comparison class"	entailment	 Comment in fracas: Comparison class adjectives can sometimes pick up a default comparison class from the subject NP. For example, knowing that Kim is a person provides a default scale for assessing cleverness in people. If Kim were known to be a dog, the assessment scale would be different. 	キムは有能な人だ。	キムは有能だ。
+562	fracas	219	yes	unknown			unknown	"adjective, default comparison class"	entailment		キムは有能な政治家だ。	キムは有能だ。
+563							yes	"adjective, degree modifier, partial predicate"	entailment	Yoon (1996), Rotstein and Winter (2004)	このタオルは少しぬれている。	このタオルはぬれている。
+564							no	"adjective, degree modifier, total predicate"	entailment	Yoon (1996), Rotstein and Winter (2004)	このタオルはほぼ乾いている。	このタオルは乾いている。
+565							yes	"adjective, degree modifier, partial predicate"	entailment	PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter (2004)	あのドアは半分開いている。	あのドアは開いている。
+566							no	"adjective, degree modifier, total predicate"	entailment	PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter (2004)	あのドアは半分閉まっている。	あのドアは閉まっている。
+567							yes	"adjective, degree modifier, total predicate"	entailment	PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter (2004)	あのドアは少し開いている。	あのドアは開いている。
+568							no	"adjective, degree modifier, total predicate"	entailment	PとHの「あのドア」は同一の個体を指示する。Yoon (1996), Rotstein and Winter (2004)	あのドアはほぼ閉まっている。	あのドアは閉まっている。
