@@ -1,5 +1,6 @@
 flags: {}
 resolver: lts-14.1
+system-ghc: true
 build:
   haddock: false
   haddock-arguments:
