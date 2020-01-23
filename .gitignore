@@ -6,4 +6,5 @@ data/JSeM_beta
 data/2016extensions
 log/
 haddock/
+stack.yaml.lock
 ToDo.txt
