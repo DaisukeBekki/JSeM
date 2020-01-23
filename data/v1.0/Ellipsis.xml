@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE jsem-dataset SYSTEM "jsem.dtd">
+<?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
+<jsem-dataset>
+  <problem answer="yes" inference_type="entailment" jsem_id="450"
+  language="jp" phenomena="ellipsis, VP ellipsis, soo su anaphora">
+    <link link_id="142" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンがメアリーに話しかけた。</script>
+    </p>
+    <p idx="2">
+      <script>ビルもそうした。</script>
+    </p>
+    <h>
+      <script>ビルはメアリーに話しかけた。</script>
+    </h>
+    <note>comments in original FraCaS:Basic example.AK: Hankamer
+    and Sag(1976)においては、英語のdo so anaphoraはsurface
+    anaphoraと分析されているが、近年Houser(2010)によってdeep
+    anaphoraであるとの主張がなされている。日本語soo su構文については、Hoji(1997)でdeep
+    anaphoraとしての解釈が可能である証拠が提出されている。以上の研究の流れを考慮し、現象レベルの一致(same_phenomena属性）に関しては現時点ではunknownとした。</note>
+  </problem>
+  <problem answer="unknown" inference_type="entailment"
+  jsem_id="451" language="jp"
+  phenomena="ellipsis, VP ellipsis, soo su anaphora">
+    <link link_id="143" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンがメアリーに話しかけた。</script>
+    </p>
+    <p idx="2">
+      <script>ビルもそうした。</script>
+    </p>
+    <p idx="3">
+      <script>ジョンはメアリーに四時に話しかけた。</script>
+    </p>
+    <h>
+      <script>ビルはメアリーに四時に話しかけた。</script>
+    </h>
+    <note>AK: Hankamer and Sag(1976)においては、英語のdo so anaphoraはsurface
+    anaphoraと分析されているが、近年Houser(2010)によってdeep
+    anaphoraであるとの主張がなされている。日本語soo su構文については、Hoji(1997)でdeep
+    anaphoraとしての解釈が可能である証拠が提出されている。以上の研究の流れを考慮し、現象レベルの一致(same_phenomena属性）に関しては現時点ではunknownとした。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="452"
+  language="jp" phenomena="ellipsis, VP ellipsis, soo su anaphora">
+    <link link_id="144" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンがメアリーに四時に話しかけた。</script>
+    </p>
+    <p idx="2">
+      <script>ビルもそうした。</script>
+    </p>
+    <h>
+      <script>ビルはメアリーに四時に話しかけた。</script>
+    </h>
+    <note>AK: Hankamer and Sag(1976)においては、英語のdo so anaphoraはsurface
+    anaphoraと分析されているが、近年Houser(2010)によってdeep
+    anaphoraであるとの主張がなされている。日本語soo su構文については、Hoji(1997)でdeep
+    anaphoraとしての解釈が可能である証拠が提出されている。以上の研究の流れを考慮し、現象レベルの一致(same_phenomena属性）に関しては現時点ではunknownとした。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="453"
+  language="jp" phenomena="ellipsis, VP ellipsis, soo su anaphora">
+    <link link_id="145" resource="fracas" same_phenomena="no"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンがメアリーに四時に話しかけた。</script>
+    </p>
+    <p idx="2">
+      <script>ビルは五時にそうした。</script>
+    </p>
+    <h>
+      <script>ビルはメアリーに五時に話しかけた。</script>
+    </h>
+    <note>AK: Hankamer and Sag(1976)においては、英語のVP ellipsisはsurface
+    anaphoraと分析されている。日本語soo su構文については、Hoji(1997)でdeep
+    anaphoraとしての解釈が可能である証拠が提出されている。以上の研究の流れを考慮し、現象レベルの一致(same_phenomena属性）に関しては現時点ではnoとした。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="454"
+  language="jp" phenomena="ellipsis, VP ellipsis, soo su anaphora">
+    <link link_id="146" resource="fracas" same_phenomena="no"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンはメアリーに話しかけた。</script>
+    </p>
+    <p idx="2">
+      <script>ビルもそうするつもりだ。</script>
+    </p>
+    <h>
+      <script>ビルはメアリーに話しかけるつもりだ。</script>
+    </h>
+    <note>comments in original FraCaS:Tense agreement not necessary
+    between ellipsis and antecedent.AK:
+    P1では現在完了形の訳を反映していない。Hankamer and Sag(1976)においては、英語のVP
+    ellipsisはsurface anaphoraと分析されている。日本語soo
+    su構文については、Hoji(1997)でdeep
+    anaphoraとしての解釈が可能である証拠が提出されている。以上の研究の流れを考慮し、現象レベルの一致(same_phenomena属性）に関しては現時点ではnoとした。</note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="455"
+  language="jp" phenomena="ellipsis, VP ellipsis, soo su anaphora">
+    <link link_id="147" resource="fracas" same_phenomena="no"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンがメアリーに月曜に話しかけた。</script>
+    </p>
+    <p idx="2">
+      <script>ビルはそうしなかった。</script>
+    </p>
+    <h>
+      <script>ビルはメアリーに月曜に話しかけた。</script>
+    </h>
+    <note>comments in original FraCaS:Polarity agreement not
+    necessary between ellipsis and antecedent.AK: Hankamer and
+    Sag(1976)においては、英語のVP ellipsisはsurface anaphoraと分析されている。日本語soo
+    su構文については、Hoji(1997)でdeep
+    anaphoraとしての解釈が可能である証拠が提出されている。以上の研究の流れを考慮し、現象レベルの一致(same_phenomena属性）に関しては現時点ではnoとした。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="456"
+  language="jp" phenomena="ellipsis, VP ellipsis, soo su anaphora">
+    <link link_id="148" resource="fracas" same_phenomena="no"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンはメアリーに話しかけたか？</script>
+    </p>
+    <p idx="2">
+      <script>ビルはそうした。</script>
+    </p>
+    <h>
+      <script>ビルはメアリーに話しかけた。</script>
+    </h>
+    <note>comments in original FraCaS:Mood agreement not necessary
+    between ellipsis and antecedent.AK: 現在完了形の訳を反映していない。Hankamer
+    and Sag(1976)においては、英語のVP ellipsisはsurface
+    anaphoraと分析されている。日本語soo su構文については、Hoji(1997)でdeep
+    anaphoraとしての解釈が可能である証拠が提出されている。以上の研究の流れを考慮し、現象レベルの一致(same_phenomena属性）に関しては現時点ではnoとした。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="457"
+  language="jp" phenomena="ellipsis, VP ellipsis, soo su anaphora">
+    <link link_id="149" resource="fracas" same_phenomena="no"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンがメアリーに話しかけた。</script>
+    </p>
+    <p idx="2">
+      <script>学生たちもそうした。</script>
+    </p>
+    <h>
+      <script>学生たちがメアリーに話しかけた。</script>
+    </h>
+    <note>comments in original FraCaS:Number agreement not
+    necesary.AK: 現在完了形の訳を厳密に反映していない。Hankamer and
+    Sag(1976)においては、英語のVP ellipsisはsurface anaphoraと分析されている。日本語soo
+    su構文については、Hoji(1997)でdeep
+    anaphoraとしての解釈が可能である証拠が提出されている。以上の研究の流れを考慮し、現象レベルの一致(same_phenomena属性）に関しては現時点ではnoとした。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="458"
+  language="jp" phenomena="ellipsis, gapping">
+    <link link_id="150" resource="fracas" same_phenomena="no"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ビルは列車で、そしてジョンは車でパリに行った。</script>
+    </p>
+    <h>
+      <script>ビルは列車でパリに行った。</script>
+    </h>
+    <note>comments in original FraCaS:Basic example.AK:
+    上記の例はFraCaSの例の対訳としては正しいが、現象レベルでの一致に関してはnoとした。いわゆる日本語のGappingと英語のそれとの間にはいくつかの違いがあることが指摘されている（前者は空所のあるconjunctにおいて後置詞（「について」など）の省略が可能であるが後者では不可能である（Abe
+    and Hoshi 1997）等）。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="459"
+  language="jp" phenomena="ellipsis, gapping">
+    <link link_id="151" resource="fracas" same_phenomena="no"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ビルは列車でベルリンに、そしてジョンは車でパリに行った。</script>
+    </p>
+    <h>
+      <script>ビルは列車でベルリンに行った。</script>
+    </h>
+    <note>comments in original FraCaS:Another basic exampleAK:
+    上記の例はFraCaSの例の対訳としては正しいが、現象レベルでの一致に関してはnoとした。いわゆる日本語のGappingと英語のそれとの間にはいくつかの違いがあることが指摘されている（前者は空所のあるconjunctにおいて後置詞（「について」など）の省略が可能であるが後者では不可能である（Abe
+    and Hoshi 1997）等）。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="460"
+  language="jp" phenomena="ellipsis, gapping">
+    <link link_id="152" resource="fracas" same_phenomena="no"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ビルはベルリンに、そしてジョンはパリに車で行った。</script>
+    </p>
+    <h>
+      <script>ビルはベルリンに車で行った。</script>
+    </h>
+    <note>comments in original FraCaS:Another basic exampleAK:
+    上記の例はFraCaSの例の対訳としては正しいが、現象レベルでの一致に関してはnoとした。いわゆる日本語のGappingと英語のそれとの間にはいくつかの違いがあることが指摘されている（前者は空所のあるconjunctにおいて後置詞（「について」など）の省略が可能であるが後者では不可能である（Abe
+    and Hoshi 1997）等）。AK:
+    「ビルはベルリンに、ジョンは車でパリへ行った」のような語順では、ビルが車でベルリンに行ったかはunknownになるように思われる。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="461"
+  language="jp" phenomena="ellipsis, gapping">
+    <link link_id="153" resource="fracas" same_phenomena="no"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>学生たちは列車で、ジョンは車でパリにいくつもりだ。</script>
+    </p>
+    <h>
+      <script>学生たちは列車でパリに行くつもりだ。</script>
+    </h>
+    <note>comments in original FraCaS:Subject-verb agreement not
+    necessaryAK:
+    上記の例はFraCaSの例の対訳としては正しいが、現象レベルでの一致に関してはnoとした。いわゆる日本語のGappingと英語のそれとの間にはいくつかの違いがあることが指摘されている（前者は空所のあるconjunctにおいて後置詞（「について」など）の省略が可能であるが後者では不可能である（Abe
+    and Hoshi 1997）等）。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="462"
+  language="jp"
+  phenomena="ellipsis, gapping, stripping (with case marker)">
+    <link link_id="154" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンは車でパリに行った。</script>
+    </p>
+    <p idx="2">
+      <script>ビルは列車でだ。</script>
+    </p>
+    <h>
+      <script>ビルは列車でパリに行った。</script>
+    </h>
+    <note>comments in original FraCaS:Cross-sentential gappingAK:
+    Hoji(1990)のCM-Strippingの例</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="463"
+  language="jp" phenomena="ellipsis, no anaphora">
+    <link link_id="157" resource="fracas" same_phenomena="no"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンは赤い車を持っている。</script>
+    </p>
+    <p idx="2">
+      <script>ビルは青いのを持っている。</script>
+    </p>
+    <h>
+      <script>ビルは青い車を持っている。</script>
+    </h>
+    <note>AK:
+    上の例はFraCaSの英語例の対訳ではあるが、Terazu-Imanishi(1989)では、one-anaphoraと日本語のno-anaphoraの相違点が議論されている。</note>
+  </problem>
+  <problem answer="unknown" inference_type="entailment"
+  jsem_id="464" language="jp" phenomena="ellipsis, no anaphora">
+    <link link_id="158" resource="fracas" same_phenomena="no"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンは赤い車を持っている。</script>
+    </p>
+    <p idx="2">
+      <script>ビルは青いのを持っている。</script>
+    </p>
+    <h>
+      <script>ビルは赤い車を持っている。</script>
+    </h>
+    <note>AK:
+    上の例はFraCaSの英語例の対訳ではあるが、Terazu-Imanishi(1989)では、one-anaphoraと日本語のno-anaphoraの相違点が議論されている。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="465"
+  language="jp" phenomena="ellipsis, no anaphora">
+    <link link_id="159" resource="fracas" same_phenomena="no"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンは赤い車を持っている。</script>
+    </p>
+    <p idx="2">
+      <script>ビルは速いのを持っている。</script>
+    </p>
+    <h>
+      <script>ビルは速い車を持っている。</script>
+    </h>
+    <note>AK:
+    上の例はFraCaSの英語例の対訳ではあるが、Terazu-Imanishi(1989)では、one-anaphoraと日本語のno-anaphoraの相違点が議論されている。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="466"
+  language="jp" phenomena="ellipsis, no anaphora">
+    <link link_id="160" resource="fracas" same_phenomena="no"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンは赤い車を持っている。</script>
+    </p>
+    <p idx="2">
+      <script>ビルは速いのを持っている。</script>
+    </p>
+    <h>
+      <script>ビルは速くて赤い車を持っている。</script>
+    </h>
+    <note>comments in original FraCaS:The "one" anaphor may be
+    resolved via the property of being a red car.AK:
+    可能な解釈の一つではyes。上の例はFraCaSの英語例の対訳ではあるが、Terazu-Imanishi(1989)では、one-anaphoraと日本語のno-anaphoraの相違点が議論されている。</note>
+  </problem>
+  <problem answer="unknown" inference_type="entailment"
+  jsem_id="467" language="jp" phenomena="ellipsis, no anaphora">
+    <link link_id="161" resource="fracas" same_phenomena="no"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンは赤い車を持っている。</script>
+    </p>
+    <p idx="2">
+      <script>ビルは速いのを持っている。</script>
+    </p>
+    <h>
+      <script>ビルは速くて赤い車を持っている。</script>
+    </h>
+    <note>comments in original FraCaS:Or the "one" anaphor may just
+    be resolved via the property of being a car.AK:
+    可能な解釈の一つではunknown。上の例はFraCaSの英語例の対訳ではあるが、Terazu-Imanishi(1989)では、one-anaphoraと日本語のno-anaphoraの相違点が議論されている。</note>
+  </problem>
+  <problem answer="unknown" inference_type="entailment"
+  jsem_id="468" language="jp" phenomena="ellipsis, no anaphora">
+    <link link_id="162" resource="fracas" same_phenomena="no"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンは速くて赤い車を持っている。</script>
+    </p>
+    <p idx="2">
+      <script>ビルは遅いのを持っている。</script>
+    </p>
+    <h>
+      <script>ビルは遅くて赤い車を持っている。</script>
+    </h>
+    <note>comments in original FraCaS:When semantically parallel
+    (e.g. fast/slow) modifiers appear on the antecedent and
+    one-anaphor, it appears that all non-parallel modifiers must
+    form part of the resolution.AK:
+    上の例はFraCaSの英語例の対訳ではあるが、Terazu-Imanishi(1989)では、one-anaphoraと日本語のno-anaphoraの相違点が議論されている。</note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="469"
+  language="jp" phenomena="ellipsis, sluicing">
+    <link link_id="163" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンは論文が受理された。</script>
+    </p>
+    <p idx="2">
+      <script>ビルはなぜだか分からない。</script>
+    </p>
+    <h>
+      <script>ビルはなぜジョンの論文が受理されたかを知っている。</script>
+    </h>
+    <note>AK:
+    P1に関して、「ジョンは彼の論文が受理された」で「ジョン＝彼」の解釈が不自然なので、「彼の」を省略した。日本語のSluicingについてはFukaya
+    and Hoji(1999), Fukaya(2003)要参照。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="470"
+  language="jp"
+  phenomena="ellipsis, phrasal ellipsis, stripping (with case marker)">
+
+    <link link_id="164" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンはメアリーに話しかけた。</script>
+    </p>
+    <p idx="2">
+      <script>それから、スーにもだ。</script>
+    </p>
+    <h>
+      <script>ジョンはスーに話しかけた。</script>
+    </h>
+    <note>AK: Hoji(1990)のCM-Strippingの例としたが、P2は不自然？</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="471"
+  language="jp"
+  phenomena="ellipsis, phrasal ellipsis, stripping (with case marker)">
+
+    <link link_id="166" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンは木曜日にメアリーに話しかけた。</script>
+    </p>
+    <p idx="2">
+      <script>それから、金曜日にもだ。</script>
+    </p>
+    <h>
+      <script>ジョンは金曜日にメアリーに話しかけた。</script>
+    </h>
+    <note>comments in original FraCaS: PP ellipsis: replaces PP in
+    antecedent AK: Hoji(1990)のCM-Strippingの例としたが、P2はやや不自然。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="472"
+  language="jp" phenomena="ellipsis, phrasal ellipsis">
+    <link link_id="169" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンはビルよりも先にメアリーを見つけた。</script>
+    </p>
+    <h>
+      <script>ジョンはビルがメアリーを見つけるよりも先にメアリーを見つけた。</script>
+    </h>
+    <note>AK: ある解釈ではyes。comments in original FraCaS: NP
+    ellipsis</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="473"
+  language="jp" phenomena="ellipsis, phrasal ellipsis">
+    <link link_id="170" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンはビルよりも先にメアリーを見つけた</script>
+    </p>
+    <h>
+      <script>ジョンはビルを見つけるよりも先にメアリーを見つけた。</script>
+    </h>
+    <note>comments in original FraCaS: NP ellipsis AK:
+    ある解釈ではyes。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="474"
+  language="jp" phenomena="ellipsis, phrasal ellipsis">
+    <link link_id="172" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンは、どの、そして何人の男性がパートタイムで働いているか知りたがっている。</script>
+    </p>
+    <h>
+      <script>ジョンはどの男性がパートタイムで働いているか知りたがっている。</script>
+    </h>
+    <note>comments in original FraCaS: Determiner ellipsis</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="475"
+  language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, zibun (reflexive), sloppy identity">
+
+    <link link_id="182" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>スミスは自分の会社を代表している。ジョーンズもそうしている。</script>
+    </p>
+    <h>
+      <script>ジョーンズは自分の会社を代表している。</script>
+    </h>
+    <note>comments in original FraCaS: Sloppy identity AK: sloppy
+    readingではyes。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="476"
+  language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), sloppy identity">
+
+    <link link_id="182" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>スミスは彼の会社を代表している。ジョーンズもそうしている。</script>
+    </p>
+    <h>
+      <script>ジョーンズは彼の会社を代表している。</script>
+    </h>
+    <note>comments in original FraCaS: Sloppy identity AK: sloppy
+    readingではyes。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="477"
+  language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, stripping, zibun (reflexive), sloppy identity">
+
+    <link link_id="182" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>スミスは自分の会社を代表している。ジョーンズもだ。</script>
+    </p>
+    <h>
+      <script>ジョーンズはジョーンズの会社を代表している。</script>
+    </h>
+    <note>comments in original FraCaS: Sloppy identity AK: sloppy
+    readingではyes。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="478"
+  language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun), sloppy identity">
+
+    <link link_id="182" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>スミスは彼の会社を代表している。ジョーンズもだ。</script>
+    </p>
+    <h>
+      <script>ジョーンズはジョーンズの会社を代表している。</script>
+    </h>
+    <note>comments in original FraCaS: Sloppy identity AK: sloppy
+    readingではyes。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="479"
+  language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, zibun (reflexive), strict identity">
+
+    <link link_id="183" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>スミスは自分の会社を代表している。ジョーンズもそうしている。</script>
+    </p>
+    <h>
+      <script>ジョーンズはスミスの会社を代表している。</script>
+    </h>
+    <note>comments in original FraCaS: Strict identity AK: strict
+    readingではyes</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="480"
+  language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), strict identity">
+
+    <link link_id="183" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>スミスは彼の会社を代表している。ジョーンズもそうしている。</script>
+    </p>
+    <h>
+      <script>ジョーンズはスミスの会社を代表している。</script>
+    </h>
+    <note>comments in original FraCaS: Strict identity AK: strict
+    readingではyes</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="481"
+  language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, stripping, zibun (reflexive), strict identity">
+
+    <link link_id="183" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>スミスは自分の会社を代表している。ジョーンズもだ。</script>
+    </p>
+    <h>
+      <script>ジョーンズはスミスの会社を代表している。</script>
+    </h>
+    <note>comments in original FraCaS: Strict identity AK: strict
+    readingではyes</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="482"
+  language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, stripping, strict identity">
+
+    <link link_id="183" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>スミスは彼の会社を代表している。ジョーンズもだ。</script>
+    </p>
+    <h>
+      <script>ジョーンズはスミスの会社を代表している。</script>
+    </h>
+    <note>comments in original FraCaS: Strict identity AK: strict
+    readingではyes</note>
+  </problem>
+  <problem answer="unknown" inference_type="entailment"
+  jsem_id="483" language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, zibun (reflexive)">
+
+    <link link_id="184" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>スミスは自分の会社を代表している。ジョーンズもそうしている。</script>
+    </p>
+    <h>
+      <script>スミスはジョーンズの会社を代表している。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="entailment"
+  jsem_id="484" language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun)">
+
+    <link link_id="184" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>スミスは彼の会社を代表している。ジョーンズもそうしている。</script>
+    </p>
+    <h>
+      <script>スミスはジョーンズの会社を代表している。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="entailment"
+  jsem_id="485" language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, stripping, zibun (reflexive)">
+
+    <link link_id="184" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>スミスは自分の会社を代表している。ジョーンズもだ。</script>
+    </p>
+    <h>
+      <script>スミスはジョーンズの会社を代表している。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="entailment"
+  jsem_id="486" language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun)">
+
+    <link link_id="184" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>スミスは彼の会社を代表している。ジョーンズもだ。</script>
+    </p>
+    <h>
+      <script>スミスはジョーンズの会社を代表している。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="487"
+  language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), sloppy identity">
+
+    <link link_id="185" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>スミスは、彼が彼の企画の見積もりを出したと主張した。ジョーンズもそうした。</script>
+    </p>
+    <h>
+      <script>ジョーンズは、彼が彼の企画の見積もりを出したと主張した。</script>
+    </h>
+    <note>comments in original FraCaS: Sloppy identity on both
+    pronouns AK: P1の二つの「彼」をsloppy readingで解釈すればyes</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="488"
+  language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun), sloppy identity">
+
+    <link link_id="185" resource="fracas" same_phenomena="unknown"
+    translation="no" />
+    <description></description>
+    <p idx="1">
+      <script>委員会はジョンに、彼が彼の論文をねつ造したと言わせようとしている。ビルにもだ。</script>
+    </p>
+    <h>
+      <script>委員会はビルに、彼が彼の論文をねつ造したと言わせようとしている。</script>
+    </h>
+    <note>comments in original FraCaS: Sloppy identity on both
+    pronouns AK: Hoji(1997)のCM-strippingの例。P1の二つの「彼」をsloppy
+    readingで解釈すればyes</note>
+  </problem>
+  <problem answer="unknown" inference_type="entailment"
+  jsem_id="489" language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), mix reading">
+
+    <link link_id="186" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>スミスは、彼が彼の企画の見積もりを出したと主張した。ジョーンズもそうした。</script>
+    </p>
+    <h>
+      <script>ジョーンズは、彼がスミスの企画の見積もりを出したと主張した。</script>
+    </h>
+    <note>comments in original FraCaS: Sloppy identity "he", strict
+    on "his" AK:
+    P1の最初の「彼」をsloppyに、二つ目の「彼」をstrictに解釈することが意図されている（Mix
+    reading）が、Hoji(2003)によれば、soo su構文では不可能。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="490"
+  language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun), mix reading">
+
+    <link link_id="186" resource="fracas" same_phenomena="unknown"
+    translation="no" />
+    <description></description>
+    <p idx="1">
+      <script>委員会はジョンに、彼が彼の論文をねつ造したと言わせようとしている。ビルにもだ。</script>
+    </p>
+    <h>
+      <script>委員会はビルに、彼がジョンの論文をねつ造したと言わせようとしている。</script>
+    </h>
+    <note>AK:
+    Hoji(1997)のCM-strippingの例。P1の最初の「彼」をsloppyに、二つ目の「彼」をstrictに解釈すればyes（Mix
+    reading 1）。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="491"
+  language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), strict identity">
+
+    <link link_id="187" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>スミスは、彼が彼の企画の見積もりを出したと主張した。ジョーンズもそうした。</script>
+    </p>
+    <h>
+      <script>ジョーンズは、スミスがスミスの企画の見積もりを出したと主張した。</script>
+    </h>
+    <note>comments in original FraCaS: Strict identity on both
+    pronouns AK: P1の二つの「彼」をstrictに解釈すればyes</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="492"
+  language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun), strict identity">
+
+    <link link_id="187" resource="fracas" same_phenomena="unknown"
+    translation="no" />
+    <description></description>
+    <p idx="1">
+      <script>委員会はジョンに、彼が彼の論文をねつ造したと言わせようとしている。ビルにもだ。</script>
+    </p>
+    <h>
+      <script>委員会はビルに、ジョンがジョンの論文をねつ造したと言わせようとしている。</script>
+    </h>
+    <note>AK:
+    Hoji(1997)のCM-strippingの例。P1の二つの「彼」をstrictに解釈すればyes</note>
+  </problem>
+  <problem answer="unknown" inference_type="entailment"
+  jsem_id="493" language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun)">
+
+    <link link_id="188" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>スミスは、彼が彼の企画の見積もりを出したと主張した。ジョーンズもそうした。</script>
+    </p>
+    <h>
+      <script>ジョーンズは、スミスがジョーンズの企画の見積もりを出したと主張した。</script>
+    </h>
+    <note>comments in original FraCaS: Can't have strict identity
+    on "he" and sloppy identity on "his" AK:
+    P1の最初の「彼」をstrictに、二つ目の「彼」をsloppyに解釈することが意図されている（Mix
+    reading）が、Hoji(2003)によれば、soo su構文では不可能。</note>
+  </problem>
+  <problem answer="unknown" inference_type="entailment"
+  jsem_id="494" language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, stripping, kare/kanojo (pronoun)">
+
+    <link link_id="188" resource="fracas" same_phenomena="unknown"
+    translation="no" />
+    <description></description>
+    <p idx="1">
+      <script>委員会はジョンに、彼が彼の論文をねつ造したと言わせようとしている。ビルにもだ。</script>
+    </p>
+    <h>
+      <script>委員会はビルに、ジョンがビルの論文をねつ造したと言わせようとしている。</script>
+    </h>
+    <note>AK:
+    Hoji(1997)のCM-strippingの例。P1の最初の「彼」をstrictに、二つ目の「彼」をsloppyに解釈することが意図されているが（Mix
+    reading 2）、実際は不可能。</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="495"
+  language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), sloppy identity">
+
+    <link link_id="189" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンは男性で、メアリーは女性である。</script>
+    </p>
+    <p idx="2">
+      <script>ジョンは彼の会社を代表している。メアリーもそうしている。</script>
+    </p>
+    <h>
+      <script>メアリーは彼女の会社を代表している。</script>
+    </h>
+    <note>comments in original FraCaS: Sloppy identity, gender
+    agreement not necessary AK: Sloppy readingではyes</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="496"
+  language="jp"
+  phenomena="ellipsis, ellipsis and anaphora, soo su anaphora, kare/kanojo (pronoun), strict identity">
+
+    <link link_id="190" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ジョンは男性で、メアリーは女性である。</script>
+    </p>
+    <p idx="2">
+      <script>ジョンは彼の会社を代表している。メアリーもそうしている。</script>
+    </p>
+    <h>
+      <script>メアリーはジョンの会社を代表している。</script>
+    </h>
+    <note>comments in original FraCaS: Strict identity, gender
+    agreement not necessary AK: Strict readingではyes</note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="497"
+  language="jp"
+  phenomena="ellipsis, ellipsis and quantification, soo su anaphora">
+
+    <link link_id="196" resource="fracas" same_phenomena="unknown"
+    translation="yes" />
+    <description></description>
+    <p idx="1">
+      <script>ある弁護士がすべての報告書に署名した。ある監査人もそうした。</script>
+    </p>
+    <p idx="2">
+      <script>つまり、報告書全部に署名した弁護士が一人いる。</script>
+    </p>
+    <h>
+      <script>報告書全部に署名した監査人が一人いる。</script>
+    </h>
+    <note></note>
+  </problem>
+</jsem-dataset>

@@ -1,5 +1,5 @@
-(1) The number of <problem> tags: 7114
-  which contains a <link> (to FraCaS dataset) tag: 7114
+(1) The number of <problem> tags: 8064
+  which contains a <link> (to FraCaS dataset) tag: 8064
 (2) The number of yes in translation attr.: 500
 (3) The number of occurrences of each phenomena:
 - : 6
@@ -104,7 +104,7 @@
 - comparative: 81
 - comparative deletion: 2
 - complex example: 5
-- conditional: 10
+- conditional: 960
 - conjoined noun phrase: 16
 - conjunction distribution: 1
 - conservativity: 116
@@ -204,6 +204,8 @@
 - nakinisimoarazu: 40
 - nakutewanaranai: 40
 - nannaku (adverb): 15
+- nara: 265
+- naraba: 265
 - naze (why): 7
 - negated plural: 10
 - negation: 474
@@ -214,6 +216,7 @@
 - nominal anaphora: 48
 - non-affirmative adjective: 11
 - non-factive: 5
+- nonara: 165
 - okasikunai: 45
 - onazi (adjective): 57
 - only-if-predicate: 4
@@ -263,6 +266,7 @@
 - taihen (adverb): 14
 - taisite (adverb): 25
 - tamani (adverb): 40
+- tara: 255
 - temoyoi: 35
 - temporal adverb: 22
 - temporal reference: 49
