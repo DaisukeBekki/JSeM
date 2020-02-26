@@ -1283,3 +1283,143 @@ Cond1282					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚Ù‚Çv“à‚Ìu‚ê‚ÎvFuê‡v‚Ö‚ÌŒ¾‚¢Š
 Cond1283					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚Ù‚Çv“à‚Ìu‚ê‚ÎvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			‹à‚ª“ü‚ê‚Î“ü‚é‚Ù‚ÇAŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	‹à‚ª“ü‚éê‡“ü‚é‚Ù‚ÇAŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	
 Cond1284					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚Ù‚Çv“à‚Ìu‚ê‚ÎvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			Œ»ó‚ð•ú’u‚·‚ê‚Î‚·‚é‚Ù‚ÇAˆ«zŠÂ‚ÉŠ×‚éB	Œ»ó‚ð•ú’u‚·‚éê‡‚·‚é‚Ù‚ÇAˆ«zŠÂ‚ÉŠ×‚éB	
 Cond1285					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚Ù‚Çv“à‚Ìu‚ê‚ÎvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			•’Ê‚Ìl‚ÍAH‚×‚ê‚ÎH‚×‚é‚Ù‚Ç‘¾‚éB	•’Ê‚Ìl‚ÍAH‚×‚éê‡H‚×‚é‚Ù‚Ç‘¾‚éB	
+Cond1286					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚ª•sŽ©‘R‚È—át		unacceptable	"conditional, reba"			‘¾˜Y‚ÍAŽð‚ðˆù‚ß‚Îˆù‚Þ‚¾‚¯‹­‚­‚È‚éB	‘¾˜Y‚ÍAŽð‚ðˆù‚ñ‚¾‚çˆù‚Þ‚¾‚¯‹­‚­‚È‚éB	
+Cond1287					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚ª•sŽ©‘R‚È—át		unacceptable	"conditional, reba"			e‚ªŒµ‚µ‚­‚·‚ê‚Î‚·‚é‚¾‚¯A‰ÔŽq‚Í”½”­‚·‚éB	e‚ªŒµ‚µ‚­‚µ‚½‚ç‚·‚é‚¾‚¯A‰ÔŽq‚Í”½”­‚·‚éB	
+Cond1288					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚ª•sŽ©‘R‚È—át		unacceptable	"conditional, reba"			‹à‚ª“ü‚ê‚Î“ü‚é‚¾‚¯AŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	‹à‚ª“ü‚Á‚½‚ç“ü‚é‚¾‚¯AŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	
+Cond1289					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚ª•sŽ©‘R‚È—át		unacceptable	"conditional, reba"			Œ»ó‚ð•ú’u‚·‚ê‚Î‚·‚é‚¾‚¯Aˆ«zŠÂ‚ÉŠ×‚éB	Œ»ó‚ð•ú’u‚µ‚½‚ç‚·‚é‚¾‚¯Aˆ«zŠÂ‚ÉŠ×‚éB	
+Cond1290					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚ª•sŽ©‘R‚È—át		unacceptable	"conditional, reba"			•’Ê‚Ìl‚ÍAH‚×‚ê‚ÎH‚×‚é‚¾‚¯‘¾‚éB	•’Ê‚Ìl‚ÍAH‚×‚½‚çH‚×‚é‚¾‚¯‘¾‚éB	
+Cond1291					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚ªŽ©‘R‚È—át		yes	"conditional, reba"	entailment		‘¾˜Y‚ÍAŽð‚ðˆù‚ß‚Îˆù‚Þ‚¾‚¯‹­‚­‚È‚éB	‘¾˜Y‚ÍAŽð‚ðˆù‚ñ‚¾‚çˆù‚ñ‚¾‚¾‚¯‹­‚­‚È‚éB	
+Cond1292					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚ªŽ©‘R‚È—át		yes	"conditional, reba"	entailment		e‚ªŒµ‚µ‚­‚·‚ê‚Î‚·‚é‚¾‚¯A‰ÔŽq‚Í”½”­‚·‚éB	e‚ªŒµ‚µ‚­‚µ‚½‚ç‚µ‚½‚¾‚¯A‰ÔŽq‚Í”½”­‚·‚éB	
+Cond1293					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚ªŽ©‘R‚È—át		yes	"conditional, reba"	entailment		‹à‚ª“ü‚ê‚Î“ü‚é‚¾‚¯AŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	‹à‚ª“ü‚Á‚½‚ç“ü‚Á‚½‚¾‚¯AŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	
+Cond1294					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚ªŽ©‘R‚È—át		yes	"conditional, reba"	entailment		Œ»ó‚ð•ú’u‚·‚ê‚Î‚·‚é‚¾‚¯Aˆ«zŠÂ‚ÉŠ×‚éB	Œ»ó‚ð•ú’u‚µ‚½‚ç‚µ‚½‚¾‚¯Aˆ«zŠÂ‚ÉŠ×‚éB	
+Cond1295					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚ªŽ©‘R‚È—át		yes	"conditional, reba"	entailment		•’Ê‚Ìl‚ÍAH‚×‚ê‚ÎH‚×‚é‚¾‚¯‘¾‚éB	•’Ê‚Ìl‚ÍAH‚×‚½‚çH‚×‚½‚¾‚¯‘¾‚éB	
+Cond1296					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			‘¾˜Y‚ÍAŽð‚ðˆù‚ß‚Îˆù‚Þ‚¾‚¯‹­‚­‚È‚éB	‘¾˜Y‚ÍAŽð‚ðˆù‚Þ‚È‚çˆù‚Þ‚¾‚¯‹­‚­‚È‚éB	
+Cond1297					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			e‚ªŒµ‚µ‚­‚·‚ê‚Î‚·‚é‚¾‚¯A‰ÔŽq‚Í”½”­‚·‚éB	e‚ªŒµ‚µ‚­‚·‚é‚È‚ç‚·‚é‚¾‚¯A‰ÔŽq‚Í”½”­‚·‚éB	
+Cond1298					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			‹à‚ª“ü‚ê‚Î“ü‚é‚¾‚¯AŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	‹à‚ª“ü‚é‚È‚ç“ü‚é‚¾‚¯AŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	
+Cond1299					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			Œ»ó‚ð•ú’u‚·‚ê‚Î‚·‚é‚¾‚¯Aˆ«zŠÂ‚ÉŠ×‚éB	Œ»ó‚ð•ú’u‚·‚é‚È‚ç‚·‚é‚¾‚¯Aˆ«zŠÂ‚ÉŠ×‚éB	
+Cond1300					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			•’Ê‚Ìl‚ÍAH‚×‚ê‚ÎH‚×‚é‚¾‚¯‘¾‚éB	•’Ê‚Ìl‚ÍAH‚×‚é‚È‚çH‚×‚é‚¾‚¯‘¾‚éB	
+Cond1301					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚Ì‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			‘¾˜Y‚ÍAŽð‚ðˆù‚ß‚Îˆù‚Þ‚¾‚¯‹­‚­‚È‚éB	‘¾˜Y‚ÍAŽð‚ðˆù‚Þ‚Ì‚È‚çˆù‚Þ‚¾‚¯‹­‚­‚È‚éB	
+Cond1302					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚Ì‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			e‚ªŒµ‚µ‚­‚·‚ê‚Î‚·‚é‚¾‚¯A‰ÔŽq‚Í”½”­‚·‚éB	e‚ªŒµ‚µ‚­‚·‚é‚Ì‚È‚ç‚·‚é‚¾‚¯A‰ÔŽq‚Í”½”­‚·‚éB	
+Cond1303					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚Ì‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			‹à‚ª“ü‚ê‚Î“ü‚é‚¾‚¯AŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	‹à‚ª“ü‚é‚Ì‚È‚ç“ü‚é‚¾‚¯AŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	
+Cond1304					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚Ì‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			Œ»ó‚ð•ú’u‚·‚ê‚Î‚·‚é‚¾‚¯Aˆ«zŠÂ‚ÉŠ×‚éB	Œ»ó‚ð•ú’u‚·‚é‚Ì‚È‚ç‚·‚é‚¾‚¯Aˆ«zŠÂ‚ÉŠ×‚éB	
+Cond1305					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚Ì‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			•’Ê‚Ìl‚ÍAH‚×‚ê‚ÎH‚×‚é‚¾‚¯‘¾‚éB	•’Ê‚Ìl‚ÍAH‚×‚é‚Ì‚È‚çH‚×‚é‚¾‚¯‘¾‚éB	
+Cond1306					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			‘¾˜Y‚ÍAŽð‚ðˆù‚ß‚Îˆù‚Þ‚¾‚¯‹­‚­‚È‚éB	‘¾˜Y‚ÍAŽð‚ðˆù‚Þ‚È‚ç‚Îˆù‚Þ‚¾‚¯‹­‚­‚È‚éB	
+Cond1307					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			e‚ªŒµ‚µ‚­‚·‚ê‚Î‚·‚é‚¾‚¯A‰ÔŽq‚Í”½”­‚·‚éB	e‚ªŒµ‚µ‚­‚·‚é‚È‚ç‚Î‚·‚é‚¾‚¯A‰ÔŽq‚Í”½”­‚·‚éB	
+Cond1308					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			‹à‚ª“ü‚ê‚Î“ü‚é‚¾‚¯AŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	‹à‚ª“ü‚é‚È‚ç‚Î“ü‚é‚¾‚¯AŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	
+Cond1309					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			Œ»ó‚ð•ú’u‚·‚ê‚Î‚·‚é‚¾‚¯Aˆ«zŠÂ‚ÉŠ×‚éB	Œ»ó‚ð•ú’u‚·‚é‚È‚ç‚Î‚·‚é‚¾‚¯Aˆ«zŠÂ‚ÉŠ×‚éB	
+Cond1310					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			•’Ê‚Ìl‚ÍAH‚×‚ê‚ÎH‚×‚é‚¾‚¯‘¾‚éB	•’Ê‚Ìl‚ÍAH‚×‚é‚È‚ç‚ÎH‚×‚é‚¾‚¯‘¾‚éB	
+Cond1311					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚Æv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		weakacceptable	"conditional, reba"			‘¾˜Y‚ÍAŽð‚ðˆù‚ß‚Îˆù‚Þ‚¾‚¯‹­‚­‚È‚éB	‘¾˜Y‚ÍAŽð‚ðˆù‚Þ‚Æˆù‚Þ‚¾‚¯‹­‚­‚È‚éB	
+Cond1312					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚Æv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		weakacceptable	"conditional, reba"			e‚ªŒµ‚µ‚­‚·‚ê‚Î‚·‚é‚¾‚¯A‰ÔŽq‚Í”½”­‚·‚éB	e‚ªŒµ‚µ‚­‚·‚é‚Æ‚·‚é‚¾‚¯A‰ÔŽq‚Í”½”­‚·‚éB	
+Cond1313					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚Æv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		weakacceptable	"conditional, reba"			‹à‚ª“ü‚ê‚Î“ü‚é‚¾‚¯AŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	‹à‚ª“ü‚é‚Æ“ü‚é‚¾‚¯AŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	
+Cond1314					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚Æv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		weakacceptable	"conditional, reba"			Œ»ó‚ð•ú’u‚·‚ê‚Î‚·‚é‚¾‚¯Aˆ«zŠÂ‚ÉŠ×‚éB	Œ»ó‚ð•ú’u‚·‚é‚Æ‚·‚é‚¾‚¯Aˆ«zŠÂ‚ÉŠ×‚éB	
+Cond1315					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFu‚Æv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		weakacceptable	"conditional, reba"			•’Ê‚Ìl‚ÍAH‚×‚ê‚ÎH‚×‚é‚¾‚¯‘¾‚éB	•’Ê‚Ìl‚ÍAH‚×‚é‚ÆH‚×‚é‚¾‚¯‘¾‚éB	
+Cond1316					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFuŽžv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			‘¾˜Y‚ÍAŽð‚ðˆù‚ß‚Îˆù‚Þ‚¾‚¯‹­‚­‚È‚éB	‘¾˜Y‚ÍAŽð‚ðˆù‚ÞŽžˆù‚Þ‚¾‚¯‹­‚­‚È‚éB	
+Cond1317					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFuŽžv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			e‚ªŒµ‚µ‚­‚·‚ê‚Î‚·‚é‚¾‚¯A‰ÔŽq‚Í”½”­‚·‚éB	e‚ªŒµ‚µ‚­‚·‚éŽž‚·‚é‚¾‚¯A‰ÔŽq‚Í”½”­‚·‚éB	
+Cond1318					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFuŽžv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			‹à‚ª“ü‚ê‚Î“ü‚é‚¾‚¯AŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	‹à‚ª“ü‚éŽž“ü‚é‚¾‚¯AŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	
+Cond1319					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFuŽžv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			Œ»ó‚ð•ú’u‚·‚ê‚Î‚·‚é‚¾‚¯Aˆ«zŠÂ‚ÉŠ×‚éB	Œ»ó‚ð•ú’u‚·‚éŽž‚·‚é‚¾‚¯Aˆ«zŠÂ‚ÉŠ×‚éB	
+Cond1320					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFuŽžv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			•’Ê‚Ìl‚ÍAH‚×‚ê‚ÎH‚×‚é‚¾‚¯‘¾‚éB	•’Ê‚Ìl‚ÍAH‚×‚éŽžH‚×‚é‚¾‚¯‘¾‚éB	
+Cond1321					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			‘¾˜Y‚ÍAŽð‚ðˆù‚ß‚Îˆù‚Þ‚¾‚¯‹­‚­‚È‚éB	‘¾˜Y‚ÍAŽð‚ðˆù‚Þê‡ˆù‚Þ‚¾‚¯‹­‚­‚È‚éB	
+Cond1322					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			e‚ªŒµ‚µ‚­‚·‚ê‚Î‚·‚é‚¾‚¯A‰ÔŽq‚Í”½”­‚·‚éB	e‚ªŒµ‚µ‚­‚·‚éê‡‚·‚é‚¾‚¯A‰ÔŽq‚Í”½”­‚·‚éB	
+Cond1323					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			‹à‚ª“ü‚ê‚Î“ü‚é‚¾‚¯AŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	‹à‚ª“ü‚éê‡“ü‚é‚¾‚¯AŽ¿‘f‚È¶Šˆ‚É–ß‚é‚Ì‚ª“ï‚µ‚­‚È‚éB	
+Cond1324					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			Œ»ó‚ð•ú’u‚·‚ê‚Î‚·‚é‚¾‚¯Aˆ«zŠÂ‚ÉŠ×‚éB	Œ»ó‚ð•ú’u‚·‚éê‡‚·‚é‚¾‚¯Aˆ«zŠÂ‚ÉŠ×‚éB	
+Cond1325					su‚ê‚ÎvF”ä—á\•¶u`‚ê‚Î`‚¾‚¯v“à‚Ìu‚ê‚ÎvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, reba"			•’Ê‚Ìl‚ÍAH‚×‚ê‚ÎH‚×‚é‚¾‚¯‘¾‚éB	•’Ê‚Ìl‚ÍAH‚×‚éê‡H‚×‚é‚¾‚¯‘¾‚éB	
+Cond1326					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvF‘OŒ‚ÌŠÜˆÓt		yes	"conditional, to"	entailment		‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚¤‚ÆAe‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚Á‚½B	
+Cond1327					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvF‘OŒ‚ÌŠÜˆÓt		yes	"conditional, to"	entailment		ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚é‚ÆA—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚½B	
+Cond1328					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvF‘OŒ‚ÌŠÜˆÓt		yes	"conditional, to"	entailment		‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚é‚ÆAŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	‘¾˜Y‚Í•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚½B	
+Cond1329					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvF‘OŒ‚ÌŠÜˆÓt		yes	"conditional, to"	entailment		—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚é‚ÆA‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚½B	
+Cond1330					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvF‘OŒ‚ÌŠÜˆÓt		yes	"conditional, to"	entailment		‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚¤‚ÆA‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚Á‚½B	
+Cond1331					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFŒãŒ‚ÌŠÜˆÓt		yes	"conditional, to"	entailment		‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚¤‚ÆAe‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	e‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	
+Cond1332					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFŒãŒ‚ÌŠÜˆÓt		yes	"conditional, to"	entailment		ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚é‚ÆA—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	
+Cond1333					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFŒãŒ‚ÌŠÜˆÓt		yes	"conditional, to"	entailment		‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚é‚ÆAŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	ŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	
+Cond1334					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFŒãŒ‚ÌŠÜˆÓt		yes	"conditional, to"	entailment		—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚é‚ÆA‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	
+Cond1335					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFŒãŒ‚ÌŠÜˆÓt		yes	"conditional, to"	entailment		‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚¤‚ÆA‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	
+Cond1336					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conditional, to"	entailment		‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚¤‚ÆAe‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚Á‚½‚çAe‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	
+Cond1337					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conditional, to"	entailment		ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚é‚ÆA—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚½‚çA—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	
+Cond1338					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conditional, to"	entailment		‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚é‚ÆAŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚½‚çAŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	
+Cond1339					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conditional, to"	entailment		—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚é‚ÆA‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚½‚çA‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	
+Cond1340					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conditional, to"	entailment		‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚¤‚ÆA‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚Á‚½‚çA‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	
+Cond1341					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚¤‚ÆAe‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚Á‚½‚È‚çAe‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	
+Cond1342					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚é‚ÆA—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚½‚È‚çA—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	
+Cond1343					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚é‚ÆAŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚½‚È‚çAŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	
+Cond1344					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚é‚ÆA‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚½‚È‚çA‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	
+Cond1345					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚¤‚ÆA‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚Á‚½‚È‚çA‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	
+Cond1346					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚Ì‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚¤‚ÆAe‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚Á‚½‚Ì‚È‚çAe‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	
+Cond1347					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚Ì‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚é‚ÆA—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚½‚Ì‚È‚çA—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	
+Cond1348					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚Ì‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚é‚ÆAŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚½‚Ì‚È‚çAŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	
+Cond1349					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚Ì‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚é‚ÆA‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚½‚Ì‚È‚çA‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	
+Cond1350					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚Ì‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚¤‚ÆA‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚Á‚½‚Ì‚È‚çA‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	
+Cond1351					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚¤‚ÆAe‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚Á‚½‚È‚ç‚ÎAe‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	
+Cond1352					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚é‚ÆA—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚½‚È‚ç‚ÎA—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	
+Cond1353					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚é‚ÆAŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚½‚È‚ç‚ÎAŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	
+Cond1354					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚é‚ÆA‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚½‚È‚ç‚ÎA‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	
+Cond1355					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚¤‚ÆA‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚Á‚½‚È‚ç‚ÎA‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	
+Cond1356					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦‚ª•sŽ©‘R‚È—át		unacceptable	"conditional, to"			‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚¤‚ÆAe‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚¦‚ÎAe‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	
+Cond1357					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦‚ª•sŽ©‘R‚È—át		unacceptable	"conditional, to"			ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚é‚ÆA—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚ê‚ÎA—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	
+Cond1358					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦‚ª•sŽ©‘R‚È—át		unacceptable	"conditional, to"			‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚é‚ÆAŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚ê‚ÎAŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	
+Cond1359					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦‚ªŽ©‘R‚È—át		yes	"conditional, to"	entailment		—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚é‚ÆA‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚ê‚ÎA‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	
+Cond1360					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦‚ªŽ©‘R‚È—át		yes	"conditional, to"	entailment		‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚¤‚ÆA‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚¦‚ÎA‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	
+Cond1361					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFuŽžv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		yes	"conditional, to"	entailment		‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚¤‚ÆAe‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚Á‚½ŽžAe‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	
+Cond1362					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFuŽžv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		yes	"conditional, to"	entailment		ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚é‚ÆA—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚½ŽžA—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	
+Cond1363					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFuŽžv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		yes	"conditional, to"	entailment		‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚é‚ÆAŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚½ŽžAŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	
+Cond1364					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFuŽžv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		yes	"conditional, to"	entailment		—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚é‚ÆA‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚½ŽžA‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	
+Cond1365					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFuŽžv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		yes	"conditional, to"	entailment		‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚¤‚ÆA‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚Á‚½ŽžA‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	
+Cond1366					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚¤‚ÆAe‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚Á‚½ê‡Ae‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	
+Cond1367					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚é‚ÆA—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚½ê‡A—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	
+Cond1368					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚é‚ÆAŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚½ê‡AŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	
+Cond1369					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚é‚ÆA‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚½ê‡A‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	
+Cond1370					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚¤‚ÆA‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚Á‚½ê‡A‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	
+Cond1371					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚à‚µv‚Æ‚Ì‹¤‹N‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚¤‚ÆAe‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	‚à‚µ‰ÔŽq‚ªu“Œ‹ž‚És‚Á‚Ä‰ÌŽè‚É‚È‚è‚½‚¢v‚ÆŒ¾‚¤‚ÆAe‚Íu‚Æ‚è‚ ‚¦‚¸‘åŠw‚ðo‚Ä‚©‚çl‚¦‚ëv‚ÆŒ¾‚Á‚½B	
+Cond1372					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚à‚µv‚Æ‚Ì‹¤‹N‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			ŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚é‚ÆA—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	‚à‚µŠÃ‚¢‚à‚Ì‚ªH‚×‚½‚¢‚ÆŽv‚Á‚Ä‚¢‚é‚ÆA—Fl‚ª—·s‚Ì‚¨“yŽY‚ÉƒJƒXƒeƒ‰‚ð‚­‚ê‚½B	
+Cond1373					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚à‚µv‚Æ‚Ì‹¤‹N‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚é‚ÆAŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	‚à‚µ‘¾˜Y‚ª•½“ú‚Ì’‹ŠÔ‚É‹ßŠ‚ð‚¤‚ë‚¤‚ë‚µ‚Ä‚¢‚é‚ÆAŒxŽ@Š¯‚ÉE–±Ž¿–â‚ðŽó‚¯‚½B	
+Cond1374					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚à‚µv‚Æ‚Ì‹¤‹N‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚é‚ÆA‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	‚à‚µ—·ŠÙ‚Ì‘‹‚ðŠJ‚¯‚é‚ÆA‰“‚­‚É`‚Ì–¾‚©‚è‚ªŒ©‚¦‚½B	
+Cond1375					su‚ÆvFŽ–ŽÀ“IðŒ—p–@‚Ìu‚ÆvFu‚à‚µv‚Æ‚Ì‹¤‹N‚Í•sŽ©‘Rt		unacceptable	"conditional, to"			‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚¤‚ÆA‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	‚à‚µ‚»‚±‚É‘¾˜Y‚ª‚¢‚½‚©‚ÆŽv‚¤‚ÆA‚à‚¤‚¢‚È‚­‚È‚Á‚Ä‚¢‚½B	
+Cond1376					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvF‘OŒ‚ÌŠÜˆÓ•s‰Ât		unknown	"conditional, to"			Žù—v‚ªã‚ª‚é‚Æ‰¿Ši‚ªã‚ª‚éB	Žù—v‚ªã‚ª‚éB	
+Cond1377					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvF‘OŒ‚ÌŠÜˆÓ•s‰Ât		unknown	"conditional, to"			t‚ª—ˆ‚é‚Æ÷‚ªç‚­B	t‚ª—ˆ‚éB	
+Cond1378					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvF‘OŒ‚ÌŠÜˆÓ•s‰Ât		unknown	"conditional, to"			Šï”‚ð2‚ÅŠ„‚é‚ÆA—]‚è‚ª1‚É‚È‚éB	Šï”‚ð2‚ÅŠ„‚éB	
+Cond1379					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvF‘OŒ‚ÌŠÜˆÓ•s‰Ât		unknown	"conditional, to"			ˆ«‚¢‚±‚Æ‚ð‚·‚é‚ÆAŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	ˆ«‚¢‚±‚Æ‚ð‚·‚éB	
+Cond1380					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvF‘OŒ‚ÌŠÜˆÓ•s‰Ât		unknown	"conditional, to"			¶‚«‚Ä‚¢‚é‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚éB	¶‚«‚Ä‚¢‚éB	
+Cond1381					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFŒãŒ‚ÌŠÜˆÓ‚Í•s‰Ât		unknown	"conditional, reba"			Žù—v‚ªã‚ª‚é‚Æ‰¿Ši‚ªã‚ª‚éB	‰¿Ši‚ªã‚ª‚éB	
+Cond1382					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFŒãŒ‚ÌŠÜˆÓ‚Í•s‰Ât		unknown	"conditional, reba"			t‚ª—ˆ‚é‚Æ÷‚ªç‚­B	÷‚ªç‚­B	
+Cond1383					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFŒãŒ‚ÌŠÜˆÓ‚Í•s‰Ât		unknown	"conditional, reba"			Šï”‚ð2‚ÅŠ„‚é‚ÆA—]‚è‚ª1‚É‚È‚éB	—]‚è‚ª1‚É‚È‚éB	
+Cond1384					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFŒãŒ‚ÌŠÜˆÓ‚Í•s‰Ât		unknown	"conditional, reba"			ˆ«‚¢‚±‚Æ‚ð‚·‚é‚ÆAŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	Ž©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	
+Cond1385					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFŒãŒ‚ÌŠÜˆÓ‚Í•s‰Ât		unknown	"conditional, reba"			¶‚«‚Ä‚¢‚é‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚éB	—Ç‚¢‚±‚Æ‚ª‚ ‚éB	
+Cond1386					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conditional, reba"	entailment		Žù—v‚ªã‚ª‚é‚Æ‰¿Ši‚ªã‚ª‚éB	Žù—v‚ªã‚ª‚Á‚½‚ç‰¿Ši‚ªã‚ª‚éB	
+Cond1387					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conditional, reba"	entailment		t‚ª—ˆ‚é‚Æ÷‚ªç‚­B	t‚ª—ˆ‚½‚ç÷‚ªç‚­B	
+Cond1388					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conditional, reba"	entailment		Šï”‚ð2‚ÅŠ„‚é‚ÆA—]‚è‚ª1‚É‚È‚éB	Šï”‚ð2‚ÅŠ„‚Á‚½‚çA—]‚è‚ª1‚É‚È‚éB	
+Cond1389					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conditional, reba"	entailment		ˆ«‚¢‚±‚Æ‚ð‚·‚é‚ÆAŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	ˆ«‚¢‚±‚Æ‚ð‚µ‚½‚çAŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	
+Cond1390					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚½‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conditional, reba"	entailment		¶‚«‚Ä‚¢‚é‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚éB	¶‚«‚Ä‚¢‚½‚ç—Ç‚¢‚±‚Æ‚ª‚ ‚éB	
+Cond1391					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚Ì‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			Žù—v‚ªã‚ª‚é‚Æ‰¿Ši‚ªã‚ª‚éB	Žù—v‚ªã‚ª‚é‚Ì‚È‚ç‰¿Ši‚ªã‚ª‚éB	
+Cond1392					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚Ì‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			t‚ª—ˆ‚é‚Æ÷‚ªç‚­B	t‚ª—ˆ‚é‚Ì‚È‚ç÷‚ªç‚­B	
+Cond1393					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚Ì‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			Šï”‚ð2‚ÅŠ„‚é‚ÆA—]‚è‚ª1‚É‚È‚éB	Šï”‚ð2‚ÅŠ„‚é‚Ì‚È‚çA—]‚è‚ª1‚É‚È‚éB	
+Cond1394					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚Ì‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			ˆ«‚¢‚±‚Æ‚ð‚·‚é‚ÆAŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	ˆ«‚¢‚±‚Æ‚ð‚·‚é‚Ì‚È‚çAŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	
+Cond1395					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚Ì‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			¶‚«‚Ä‚¢‚é‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚éB	¶‚«‚Ä‚¢‚é‚Ì‚È‚ç—Ç‚¢‚±‚Æ‚ª‚ ‚éB	
+Cond1396					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			Žù—v‚ªã‚ª‚é‚Æ‰¿Ši‚ªã‚ª‚éB	Žù—v‚ªã‚ª‚é‚È‚ç‰¿Ši‚ªã‚ª‚éB	
+Cond1397					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			t‚ª—ˆ‚é‚Æ÷‚ªç‚­B	t‚ª—ˆ‚é‚È‚ç÷‚ªç‚­B	
+Cond1398					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			Šï”‚ð2‚ÅŠ„‚é‚ÆA—]‚è‚ª1‚É‚È‚éB	Šï”‚ð2‚ÅŠ„‚é‚È‚çA—]‚è‚ª1‚É‚È‚éB	
+Cond1399					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			ˆ«‚¢‚±‚Æ‚ð‚·‚é‚ÆAŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	ˆ«‚¢‚±‚Æ‚ð‚·‚é‚È‚çAŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	
+Cond1400					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚È‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			¶‚«‚Ä‚¢‚é‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚éB	¶‚«‚Ä‚¢‚é‚È‚ç—Ç‚¢‚±‚Æ‚ª‚ ‚éB	
+Cond1401					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conditional, reba"	entailment		Žù—v‚ªã‚ª‚é‚Æ‰¿Ši‚ªã‚ª‚éB	Žù—v‚ªã‚ª‚ê‚Î‰¿Ši‚ªã‚ª‚éB	
+Cond1402					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conditional, reba"	entailment		t‚ª—ˆ‚é‚Æ÷‚ªç‚­B	t‚ª—ˆ‚ê‚Î÷‚ªç‚­B	
+Cond1403					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conditional, reba"	entailment		Šï”‚ð2‚ÅŠ„‚é‚ÆA—]‚è‚ª1‚É‚È‚éB	Šï”‚ð2‚ÅŠ„‚ê‚ÎA—]‚è‚ª1‚É‚È‚éB	
+Cond1404					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conditional, reba"	entailment		ˆ«‚¢‚±‚Æ‚ð‚·‚é‚ÆAŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	ˆ«‚¢‚±‚Æ‚ð‚·‚ê‚ÎAŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	
+Cond1405					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conditional, reba"	entailment		¶‚«‚Ä‚¢‚é‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚éB	¶‚«‚Ä‚¢‚ê‚Î—Ç‚¢‚±‚Æ‚ª‚ ‚éB	
+Cond1406					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			Žù—v‚ªã‚ª‚é‚Æ‰¿Ši‚ªã‚ª‚éB	Žù—v‚ªã‚ª‚é‚È‚ç‚Î‰¿Ši‚ªã‚ª‚éB	
+Cond1407					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			t‚ª—ˆ‚é‚Æ÷‚ªç‚­B	t‚ª—ˆ‚é‚È‚ç‚Î÷‚ªç‚­B	
+Cond1408					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			Šï”‚ð2‚ÅŠ„‚é‚ÆA—]‚è‚ª1‚É‚È‚éB	Šï”‚ð2‚ÅŠ„‚é‚È‚ç‚ÎA—]‚è‚ª1‚É‚È‚éB	
+Cond1409					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			ˆ«‚¢‚±‚Æ‚ð‚·‚é‚ÆAŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	ˆ«‚¢‚±‚Æ‚ð‚·‚é‚È‚ç‚ÎAŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	
+Cond1410					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			¶‚«‚Ä‚¢‚é‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚éB	¶‚«‚Ä‚¢‚é‚È‚ç‚Î—Ç‚¢‚±‚Æ‚ª‚ ‚éB	
+Cond1411					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFuŽžv‚Ö‚ÌŒ¾‚¢Š·‚¦•s‰Ât		weakacceptable	"conditional, reba"			Žù—v‚ªã‚ª‚é‚Æ‰¿Ši‚ªã‚ª‚éB	Žù—v‚ªã‚ª‚éŽžA‰¿Ši‚ªã‚ª‚éB	
+Cond1412					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFuŽžv‚Ö‚ÌŒ¾‚¢Š·‚¦•s‰Ât		weakacceptable	"conditional, reba"			t‚ª—ˆ‚é‚Æ÷‚ªç‚­B	t‚ª—ˆ‚éŽžA÷‚ªç‚­B	
+Cond1413					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFuŽžv‚Ö‚ÌŒ¾‚¢Š·‚¦•s‰Ât		weakacceptable	"conditional, reba"			Šï”‚ð2‚ÅŠ„‚é‚ÆA—]‚è‚ª1‚É‚È‚éB	Šï”‚ð2‚ÅŠ„‚éŽžA—]‚è‚ª1‚É‚È‚éB	
+Cond1414					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFuŽžv‚Ö‚ÌŒ¾‚¢Š·‚¦•s‰Ât		weakacceptable	"conditional, reba"			ˆ«‚¢‚±‚Æ‚ð‚·‚é‚ÆAŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	ˆ«‚¢‚±‚Æ‚ð‚·‚éŽžAŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	
+Cond1415					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFuŽžv‚Ö‚ÌŒ¾‚¢Š·‚¦•s‰Ât		weakacceptable	"conditional, reba"			¶‚«‚Ä‚¢‚é‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚éB	¶‚«‚Ä‚¢‚éŽžA—Ç‚¢‚±‚Æ‚ª‚ ‚éB	
+Cond1416					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			Žù—v‚ªã‚ª‚é‚Æ‰¿Ši‚ªã‚ª‚éB	Žù—v‚ªã‚ª‚éê‡A‰¿Ši‚ªã‚ª‚éB	
+Cond1417					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			t‚ª—ˆ‚é‚Æ÷‚ªç‚­B	t‚ª—ˆ‚éê‡A÷‚ªç‚­B	
+Cond1418					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conditional, reba"	entailment		Šï”‚ð2‚ÅŠ„‚é‚ÆA—]‚è‚ª1‚É‚È‚éB	Šï”‚ð2‚ÅŠ„‚éê‡A—]‚è‚ª1‚É‚È‚éB	
+Cond1419					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			ˆ«‚¢‚±‚Æ‚ð‚·‚é‚ÆAŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	ˆ«‚¢‚±‚Æ‚ð‚·‚éê‡AŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	
+Cond1420					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFuê‡v‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conditional, reba"			¶‚«‚Ä‚¢‚é‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚éB	¶‚«‚Ä‚¢‚éê‡A—Ç‚¢‚±‚Æ‚ª‚ ‚éB	
+Cond1421					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚à‚µv‚Æ‚Ì‹¤‹Nt		weakacceptable	"conditional, reba"			Žù—v‚ªã‚ª‚é‚Æ‰¿Ši‚ªã‚ª‚éB	‚à‚µŽù—v‚ªã‚ª‚é‚Æ‰¿Ši‚ªã‚ª‚éB	
+Cond1422					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚à‚µv‚Æ‚Ì‹¤‹Nt		weakacceptable	"conditional, reba"			t‚ª—ˆ‚é‚Æ÷‚ªç‚­B	‚à‚µt‚ª—ˆ‚é‚Æ÷‚ªç‚­B	
+Cond1423					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚à‚µv‚Æ‚Ì‹¤‹Nt		yes	"conditional, reba"	entailment		Šï”‚ð2‚ÅŠ„‚é‚ÆA—]‚è‚ª1‚É‚È‚éB	‚à‚µŠï”‚ð2‚ÅŠ„‚é‚ÆA—]‚è‚ª1‚É‚È‚éB	
+Cond1424					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚à‚µv‚Æ‚Ì‹¤‹Nt		yes	"conditional, reba"	entailment		ˆ«‚¢‚±‚Æ‚ð‚·‚é‚ÆAŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	‚à‚µˆ«‚¢‚±‚Æ‚ð‚·‚é‚ÆAŽ©•ª‚É‚àˆ«‚¢‚±‚Æ‚ª•Ô‚Á‚Ä‚­‚éB	
+Cond1425					su‚ÆvFˆê”ÊðŒ—p–@‚Ìu‚ÆvFu‚à‚µv‚Æ‚Ì‹¤‹Nt		weakacceptable	"conditional, reba"			¶‚«‚Ä‚¢‚é‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚éB	‚à‚µ¶‚«‚Ä‚¢‚é‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚éB							
