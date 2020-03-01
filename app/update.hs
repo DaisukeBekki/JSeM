@@ -3,7 +3,7 @@
 -- | tsvフォルダのtsvファイルのうち、同名のxmlが存在しないものについてxmlに変換。
 -- | statを実行
 -- | README.mdを更新
--- | Usage: stack exec update -- data
+-- | Usage: stack exec update -- data/v1.0
 
 import Control.Monad (forM_,when)   --base
 import System.FilePath ((</>),isExtensionOf,replaceExtensions) --filepath

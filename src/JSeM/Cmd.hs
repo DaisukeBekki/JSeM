@@ -28,6 +28,7 @@ readFileUtf8 filepath =
 --             S.silently $ S.escaping False $ S.cmd "nkf -w -Lu"
 
 -- | XMLテキストを整形
+-- | tidyのインストール：sudo apt-get install tidy
 tidy :: StrictT.Text -> IO(StrictT.Text)
 tidy xml = 
   S.shelly $ do
@@ -35,6 +36,7 @@ tidy xml =
              S.silently $ S.escaping False $ S.cmd "tidy --tab-size 2 -xml -utf8 -indent -quiet"
 
 -- | XMLテキストを検証
+-- | xmllintのインストール：sudo apt-get install libxml2-utils
 xmllint :: FilePath -> IO()
 xmllint xmlFile = 
   S.shelly $ S.silently $ S.escaping False $ S.cmd $ S.fromText $ StrictT.pack $ "xmllint --valid --noout " ++ xmlFile
