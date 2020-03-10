@@ -62,7 +62,7 @@ Coo61					su‚©v¨u‚Æv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"Coordination, -ka (parallel m
 Coo62					su‚©v¨u‚Æv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"Coordination, -ka (parallel marker), -to (parallel marker)"			‚±‚ÌƒR[ƒX‚É‚ÍAHŒã‚ÉƒfƒU[ƒg‚©ƒ`[ƒY‚ð•t‚¯‚ç‚ê‚éB	‚±‚ÌƒR[ƒX‚É‚ÍAHŒã‚ÉƒfƒU[ƒg‚Æƒ`[ƒY‚ð•t‚¯‚ç‚ê‚éB														
 Coo63					su‚©v¨u‚Æv‚Ö‚ÌŒ¾‚¢Š·‚¦t		infelicitous	"Coordination, -ka (parallel marker), -to (parallel marker)"		H‚ÍíŽ¯“I‚É•s‰Â”\	‰ÔŽq‚Í¡A“Œ‹ž‚©‘åã‚É‚¢‚é‚ç‚µ‚¢B	‰ÔŽq‚Í¡A“Œ‹ž‚Æ‘åã‚É‚¢‚é‚ç‚µ‚¢B														
 Coo64					su‚©v¨u‚âv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Coordination, -ka (parallel marker), -ya (parallel marker)"	conversational implicature		‘¾˜Y‚©ŽŸ˜Y‚ª—ˆ‚½B	‘¾˜Y‚âŽŸ˜Y‚ª—ˆ‚½B														
-Coo65					su‚©v¨u‚âv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes*	"Coordination, -ka (parallel marker), -ya (parallel marker)"	entailment	u‚âv‚ð‘IŒ¾“I‚É‰ðŽß‚·‚ê‚Î‰Â”\‚È‚æ‚¤‚ÉŠ´‚¶‚ç‚ê‚éB	‘¾˜Y‚©ŽŸ˜Y‚ª—ˆ‚½‚çA‚¨’ƒ‚ðo‚µ‚Ä—~‚µ‚¢B	‘¾˜Y‚âŽŸ˜Y‚ª—ˆ‚½‚çA‚¨’ƒ‚ðo‚µ‚Ä—~‚µ‚¢B														
+Coo65					su‚©v¨u‚âv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Coordination, -ka (parallel marker), -ya (parallel marker)"	entailment	u‚âv‚ð‘IŒ¾“I‚É‰ðŽß‚·‚ê‚Î‰Â”\‚È‚æ‚¤‚ÉŠ´‚¶‚ç‚ê‚éB	‘¾˜Y‚©ŽŸ˜Y‚ª—ˆ‚½‚çA‚¨’ƒ‚ðo‚µ‚Ä—~‚µ‚¢B	‘¾˜Y‚âŽŸ˜Y‚ª—ˆ‚½‚çA‚¨’ƒ‚ðo‚µ‚Ä—~‚µ‚¢B														
 Coo66					su‚©v¨u‚âv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"Coordination, -ka (parallel marker), -ya (parallel marker)"			—ˆ”NAƒWƒ‡ƒ“‚©ƒrƒ‹‚ª“ú–{‚É—ˆ‚é‚©‚à‚µ‚ê‚È‚¢B	—ˆ”NAƒWƒ‡ƒ“‚âƒrƒ‹‚ª“ú–{‚É—ˆ‚é‚©‚à‚µ‚ê‚È‚¢B														
 Coo67					su‚©v¨u‚âv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"Coordination, -ka (parallel marker), -ya (parallel marker)"			‚±‚ÌƒR[ƒX‚É‚ÍAHŒã‚ÉƒfƒU[ƒg‚©ƒ`[ƒY‚ð•t‚¯‚ç‚ê‚éB	‚±‚ÌƒR[ƒX‚É‚ÍAHŒã‚ÉƒfƒU[ƒg‚âƒ`[ƒY‚ð•t‚¯‚ç‚ê‚éB														
 Coo68					su‚©v¨u‚âv‚Ö‚ÌŒ¾‚¢Š·‚¦t		infelicitous	"Coordination, -ka (parallel marker), -ya (parallel marker)"		H‚ÍíŽ¯“I‚É•s‰Â”\	‰ÔŽq‚Í¡A“Œ‹ž‚©‘åã‚É‚¢‚é‚ç‚µ‚¢B	‰ÔŽq‚Í¡A“Œ‹ž‚â‘åã‚É‚¢‚é‚ç‚µ‚¢B														
@@ -81,9 +81,9 @@ Coo80					su‚©v‚Ìconjunction reductioni•¶ƒŒƒxƒ‹jt		yes	"Coordination, -ka 
 Coo81					su‚©v‚Í•¡”«‚ð—v‹‚·‚é•\Œ»‚Æ‹¤‹N‚Å‚«‚È‚¢Fu`‚ð`‚Æv¨u`‚©`‚ðvt		infelicitous	"Coordination, -ka (parallel marker)"			ƒR[ƒq[‚ðƒ~ƒ‹ƒN‚Æ¬‚º‚½‚çƒJƒtƒFƒIƒŒ‚É‚È‚éB	ƒR[ƒq[‚©ƒ~ƒ‹ƒN‚ð¬‚º‚½‚çƒJƒtƒFƒIƒŒ‚É‚È‚éB														
 Coo82					su‚©v‚Í•¡”«‚ð—v‹‚·‚é•\Œ»‚Æ‹¤‹N‚Å‚«‚È‚¢Fu`‚Í`‚Æv¨u`‚©`‚Ívt		infelicitous	"Coordination, -ka (parallel marker)"			‘¾˜Y‚Í‰ÔŽq‚Æ’ml‚ÌÐ‰î‚Åo‰ï‚Á‚½B	‘¾˜Y‚©‰ÔŽq‚Í’ml‚ÌÐ‰î‚Åo‰ï‚Á‚½B														
 Coo83					su‚©v‚Í•¡”«‚ð—v‹‚·‚é•\Œ»‚Æ‹¤‹N‚Å‚«‚È‚¢Fu`‚Í`‚Æv¨u`‚©`‚Ívt		infelicitous	"Coordination, -ka (parallel marker)"			‘¾˜Y‚Í‰ÔŽq‚ÆŒÝ‚¢‚Ì‹ÆÑ‚ðŽ]‚¦‡‚Á‚½B	‘¾˜Y‚©‰ÔŽq‚ÍŒÝ‚¢‚Ì‹ÆÑ‚ðŽ]‚¦‡‚Á‚½B														
-Coo84					su‚©v‚Ìconjunction reductiont		yes*	"Coordination, -ka (parallel marker)"	entailment	‰Â”\‚È‰ðŽß‚Ìˆê‚ÂB	’²¸ˆÏˆõ‰ï‚Ìƒƒ“ƒo[‚Í•ÙŒìŽm‚©‰ïŒvŽm‚¾B	’²¸ˆÏˆõ‰ï‚Ìƒƒ“ƒo[‚ª•ÙŒìŽm‚Å‚ ‚é‚©A’²¸ˆÏˆõ‰ï‚Ìƒƒ“ƒo[‚ª‰ïŒvŽm‚Å‚ ‚é‚©‚Ì‚Ç‚¿‚ç‚©‚Å‚ ‚éB														
+Coo84					su‚©v‚Ìconjunction reductiont		yes	"Coordination, -ka (parallel marker)"	entailment	‰Â”\‚È‰ðŽß‚Ìˆê‚ÂB	’²¸ˆÏˆõ‰ï‚Ìƒƒ“ƒo[‚Í•ÙŒìŽm‚©‰ïŒvŽm‚¾B	’²¸ˆÏˆõ‰ï‚Ìƒƒ“ƒo[‚ª•ÙŒìŽm‚Å‚ ‚é‚©A’²¸ˆÏˆõ‰ï‚Ìƒƒ“ƒo[‚ª‰ïŒvŽm‚Å‚ ‚é‚©‚Ì‚Ç‚¿‚ç‚©‚Å‚ ‚éB														
 Coo85					sset-union operator‚Æ‚µ‚Ä‚Ìu‚©vt		unknown	"Coordination, -ka (parallel marker)"		"Schein, Barry. (1997) ""Conjunction reduction redux"".  ŽQl‚Ì—á•¶‚Í(5)(6)i‚½‚¾‚µ‰pŒê‚Ìand‚É‚Â‚¢‚Ä‚Ì—á•¶jBu‚©v‚ªset-union operator‚Æl‚¦‚ç‚ê‚é—áB"	’²¸ˆÏˆõ‰ï‚Ìƒƒ“ƒo[‚Í•ÙŒìŽm‚©‰ïŒvŽm‚¾B	’²¸ˆÏˆõ‰ï‚Ìƒƒ“ƒo[‚Í•ÙŒìŽm‚Å‚ ‚èA‚Ü‚½‰ïŒvŽm‚Å‚à‚ ‚éB														
-Coo86					sset-union operator‚Æ‚µ‚Ä‚Ìu‚©vt		yes*	"Coordination, -ka (parallel marker)"	entailment	"Schein, Barry. (1997) ""Conjunction reduction redux"".  ŽQl‚Ì—á•¶‚Í(5)(6)i‚½‚¾‚µ‰pŒê‚Ìand‚É‚Â‚¢‚Ä‚Ì—á•¶jBu‚©v‚ªset-union operator‚Æl‚¦‚ç‚ê‚é—áB"	’²¸ˆÏˆõ‰ï‚Ìƒƒ“ƒo[‚Í•ÙŒìŽm‚©‰ïŒvŽm‚¾B	’²¸ˆÏˆõ‰ï‚Ìƒƒ“ƒo[‚É‚ÍA•ÙŒìŽm‚Æ‰ïŒvŽm‚ª‚¢‚éB														
+Coo86					sset-union operator‚Æ‚µ‚Ä‚Ìu‚©vt		yes	"Coordination, -ka (parallel marker)"	entailment	"Schein, Barry. (1997) ""Conjunction reduction redux"".  ŽQl‚Ì—á•¶‚Í(5)(6)i‚½‚¾‚µ‰pŒê‚Ìand‚É‚Â‚¢‚Ä‚Ì—á•¶jBu‚©v‚ªset-union operator‚Æl‚¦‚ç‚ê‚é—áB"	’²¸ˆÏˆõ‰ï‚Ìƒƒ“ƒo[‚Í•ÙŒìŽm‚©‰ïŒvŽm‚¾B	’²¸ˆÏˆõ‰ï‚Ìƒƒ“ƒo[‚É‚ÍA•ÙŒìŽm‚Æ‰ïŒvŽm‚ª‚¢‚éB														
 Coo87					sset-union operator‚Æ‚µ‚Ä‚Ìu‚Ævt		yes	"Coordination, -to (parallel marker)"	entailment		’²¸ˆÏˆõ‰ï‚Ìƒƒ“ƒo[‚Í•ÙŒìŽm‚Æ‰ïŒvŽm‚¾B	’²¸ˆÏˆõ‰ï‚Ìƒƒ“ƒo[‚É‚ÍA•ÙŒìŽm‚Æ‰ïŒvŽm‚ª‚¢‚éB														
 Coo88					sset-union operator‚Æ‚µ‚Ä‚Ìu‚âvt		yes	"Coordination, -ya (parallel marker)"	entailment		’²¸ˆÏˆõ‰ï‚Ìƒƒ“ƒo[‚Í•ÙŒìŽm‚â‰ïŒvŽm‚¾B	’²¸ˆÏˆõ‰ï‚Ìƒƒ“ƒo[‚É‚ÍA•ÙŒìŽm‚Æ‰ïŒvŽm‚ª‚¢‚éB														
 Coo89					suA‚©Bv¨uA‚©B‚Ì‚Ç‚¿‚ç‚©vt		yes	"Coordination, -ka (parallel marker)"	entailment		‘¾˜Y‚©‰ÔŽq‚ª”Æl‚¾B	‘¾˜Y‚©‰ÔŽq‚Ì‚Ç‚¿‚ç‚©‚ª”Æl‚¾B														
@@ -119,10 +119,10 @@ Coo118					s”ñ\¬‘f“™ˆÊÚ‘±Fíœ•ªÍ‚Åà–¾‚Å‚«‚È‚¢—áFuŽ©•ªv‚Ì‰ðŽßt		no	"C
 Coo119					s”ñ\¬‘f“™ˆÊÚ‘±Fíœ•ªÍ‚Åà–¾‚Å‚«‚È‚¢—áFuŽ©•ªv‚Ì‰ðŽßt		no	"Coordination, RNR, nominal anaphora, jibun"	entailment	ŒE“c—I‰îu”Íáe•¶–@‚É‚æ‚é”ñ\¬‘f“ŒˆÎÚ‘±‚Ì•ªÍvBP‚Í(8)‚©‚ç‚Ìˆø—pB	‘¾˜Y‚Í‰ÔŽq‚ÉA‚»‚µ‚ÄŽŸ˜Y‚Í”ü’qŽq‚ÉŽ©•ª‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B	ŽŸ˜Y‚Í”ü’qŽq‚É‰ÔŽq‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B														
 Coo120					s”ñ\¬‘f“™ˆÊÚ‘±Fíœ•ªÍ‚Åà–¾‚Å‚«‚È‚¢—áFuŽ©•ªv‚Ì‰ðŽßt		no	"Coordination, RNR, nominal anaphora, jibun"	entailment	ŒE“c—I‰îu”Íáe•¶–@‚É‚æ‚é”ñ\¬‘f“ŒˆÎÚ‘±‚Ì•ªÍvBP‚Í(8)‚©‚ç‚Ìˆø—pB	‘¾˜Y‚Í‰ÔŽq‚ÉA‚»‚µ‚ÄŽŸ˜Y‚Í”ü’qŽq‚ÉŽ©•ª‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B	‘¾˜Y‚Í‰ÔŽq‚ÉŽŸ˜Y‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B														
 Coo121					s”ñ\¬‘f“™ˆÊÚ‘±Fíœ•ªÍ‚Åà–¾‚Å‚«‚È‚¢—áFuŽ©•ªv‚Ì‰ðŽßt		no	"Coordination, RNR, nominal anaphora, jibun"	entailment	ŒE“c—I‰îu”Íáe•¶–@‚É‚æ‚é”ñ\¬‘f“ŒˆÎÚ‘±‚Ì•ªÍvBP‚Í(8)‚©‚ç‚Ìˆø—pB	‘¾˜Y‚Í‰ÔŽq‚ÉA‚»‚µ‚ÄŽŸ˜Y‚Í”ü’qŽq‚ÉŽ©•ª‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B	‘¾˜Y‚Í‰ÔŽq‚É”ü’qŽq‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B														
-Coo122					s”ñ\¬‘f“™ˆÊÚ‘±Fíœ•ªÍ‚Åà–¾‚Å‚«‚È‚¢—áFuŽ©•ªv‚Ì‰ðŽßt		yes*	"Coordination, RNR, nominal anaphora, jibun"	entailment	ŒE“c—I‰îu”Íáe•¶–@‚É‚æ‚é”ñ\¬‘f“ŒˆÎÚ‘±‚Ì•ªÍvBP‚Í(8)‚©‚ç‚Ìˆø—pB	‘¾˜Y‚Í‰ÔŽq‚ÉA‚»‚µ‚ÄŽŸ˜Y‚Í”ü’qŽq‚ÉŽ©•ª‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B	ŽŸ˜Y‚Í”ü’qŽq‚ÉŽŸ˜Y‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B														
-Coo123					s”ñ\¬‘f“™ˆÊÚ‘±Fíœ•ªÍ‚Åà–¾‚Å‚«‚È‚¢—áFuŽ©•ªv‚Ì‰ðŽßt		yes*	"Coordination, RNR, nominal anaphora, jibun"	entailment	ŒE“c—I‰îu”Íáe•¶–@‚É‚æ‚é”ñ\¬‘f“ŒˆÎÚ‘±‚Ì•ªÍvBP‚Í(8)‚©‚ç‚Ìˆø—pB	‘¾˜Y‚Í‰ÔŽq‚ÉA‚»‚µ‚ÄŽŸ˜Y‚Í”ü’qŽq‚ÉŽ©•ª‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B	ŽŸ˜Y‚Í”ü’qŽq‚É”ü’qŽq‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B														
-Coo124					s”ñ\¬‘f“™ˆÊÚ‘±Fíœ•ªÍ‚Åà–¾‚Å‚«‚È‚¢—áFuŽ©•ªv‚Ì‰ðŽßt		yes*	"Coordination, RNR, nominal anaphora, jibun"	entailment	ŒE“c—I‰îu”Íáe•¶–@‚É‚æ‚é”ñ\¬‘f“ŒˆÎÚ‘±‚Ì•ªÍvBP‚Í(8)‚©‚ç‚Ìˆø—pB	‘¾˜Y‚Í‰ÔŽq‚ÉA‚»‚µ‚ÄŽŸ˜Y‚Í”ü’qŽq‚ÉŽ©•ª‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B	‘¾˜Y‚Í‰ÔŽq‚É‘¾˜Y‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B														
-Coo125					s”ñ\¬‘f“™ˆÊÚ‘±Fíœ•ªÍ‚Åà–¾‚Å‚«‚È‚¢—áFuŽ©•ªv‚Ì‰ðŽßt		yes*	"Coordination, RNR, nominal anaphora, jibun"	entailment	ŒE“c—I‰îu”Íáe•¶–@‚É‚æ‚é”ñ\¬‘f“ŒˆÎÚ‘±‚Ì•ªÍvBP‚Í(8)‚©‚ç‚Ìˆø—pB	‘¾˜Y‚Í‰ÔŽq‚ÉA‚»‚µ‚ÄŽŸ˜Y‚Í”ü’qŽq‚ÉŽ©•ª‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B	‘¾˜Y‚Í‰ÔŽq‚É‰ÔŽq‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B														
+Coo122					s”ñ\¬‘f“™ˆÊÚ‘±Fíœ•ªÍ‚Åà–¾‚Å‚«‚È‚¢—áFuŽ©•ªv‚Ì‰ðŽßt		yes	"Coordination, RNR, nominal anaphora, jibun"	entailment	ŒE“c—I‰îu”Íáe•¶–@‚É‚æ‚é”ñ\¬‘f“ŒˆÎÚ‘±‚Ì•ªÍvBP‚Í(8)‚©‚ç‚Ìˆø—pB	‘¾˜Y‚Í‰ÔŽq‚ÉA‚»‚µ‚ÄŽŸ˜Y‚Í”ü’qŽq‚ÉŽ©•ª‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B	ŽŸ˜Y‚Í”ü’qŽq‚ÉŽŸ˜Y‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B														
+Coo123					s”ñ\¬‘f“™ˆÊÚ‘±Fíœ•ªÍ‚Åà–¾‚Å‚«‚È‚¢—áFuŽ©•ªv‚Ì‰ðŽßt		yes	"Coordination, RNR, nominal anaphora, jibun"	entailment	ŒE“c—I‰îu”Íáe•¶–@‚É‚æ‚é”ñ\¬‘f“ŒˆÎÚ‘±‚Ì•ªÍvBP‚Í(8)‚©‚ç‚Ìˆø—pB	‘¾˜Y‚Í‰ÔŽq‚ÉA‚»‚µ‚ÄŽŸ˜Y‚Í”ü’qŽq‚ÉŽ©•ª‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B	ŽŸ˜Y‚Í”ü’qŽq‚É”ü’qŽq‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B														
+Coo124					s”ñ\¬‘f“™ˆÊÚ‘±Fíœ•ªÍ‚Åà–¾‚Å‚«‚È‚¢—áFuŽ©•ªv‚Ì‰ðŽßt		yes	"Coordination, RNR, nominal anaphora, jibun"	entailment	ŒE“c—I‰îu”Íáe•¶–@‚É‚æ‚é”ñ\¬‘f“ŒˆÎÚ‘±‚Ì•ªÍvBP‚Í(8)‚©‚ç‚Ìˆø—pB	‘¾˜Y‚Í‰ÔŽq‚ÉA‚»‚µ‚ÄŽŸ˜Y‚Í”ü’qŽq‚ÉŽ©•ª‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B	‘¾˜Y‚Í‰ÔŽq‚É‘¾˜Y‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B														
+Coo125					s”ñ\¬‘f“™ˆÊÚ‘±Fíœ•ªÍ‚Åà–¾‚Å‚«‚È‚¢—áFuŽ©•ªv‚Ì‰ðŽßt		yes	"Coordination, RNR, nominal anaphora, jibun"	entailment	ŒE“c—I‰îu”Íáe•¶–@‚É‚æ‚é”ñ\¬‘f“ŒˆÎÚ‘±‚Ì•ªÍvBP‚Í(8)‚©‚ç‚Ìˆø—pB	‘¾˜Y‚Í‰ÔŽq‚ÉA‚»‚µ‚ÄŽŸ˜Y‚Í”ü’qŽq‚ÉŽ©•ª‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B	‘¾˜Y‚Í‰ÔŽq‚É‰ÔŽq‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B														
 Coo126					s”ñ\¬‘f“™ˆÊÚ‘±Fíœ•ªÍ‚Åà–¾‚Å‚«‚È‚¢—áFuŽ©•ªv‚Ì‰ðŽßt		no	"Coordination, RNR, nominal anaphora, jibun"	entailment	ŒE“c—I‰îu”Íáe•¶–@‚É‚æ‚é”ñ\¬‘f“ŒˆÎÚ‘±‚Ì•ªÍvBP‚Í(8)‚©‚ç‚Ìˆø—pB	‘¾˜Y‚Í‰ÔŽq‚ÉA‚»‚µ‚ÄŽŸ˜Y‚Í”ü’qŽq‚ÉŽ©•ª‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B	‘¾˜Y‚Í‰ÔŽq‚É‰ÔŽq‚Ì•”‰®‚Å•×‹­‚³‚¹AŽŸ˜Y‚Í”ü’qŽq‚É”ü’qŽq‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B														
 Coo127					s”ñ\¬‘f“™ˆÊÚ‘±Fíœ•ªÍ‚Åà–¾‚Å‚«‚È‚¢—áFuŽ©•ªv‚Ì‰ðŽßt		no	"Coordination, RNR, nominal anaphora, jibun"	entailment	ŒE“c—I‰îu”Íáe•¶–@‚É‚æ‚é”ñ\¬‘f“ŒˆÎÚ‘±‚Ì•ªÍvBP‚Í(8)‚©‚ç‚Ìˆø—pB	‘¾˜Y‚Í‰ÔŽq‚ÉA‚»‚µ‚ÄŽŸ˜Y‚Í”ü’qŽq‚ÉŽ©•ª‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B	‘¾˜Y‚Í‰ÔŽq‚É‘¾˜Y‚Ì•”‰®‚Å•×‹­‚³‚¹AŽŸ˜Y‚Í”ü’qŽq‚ÉŽŸ˜Y‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B														
 Coo128					s”ñ\¬‘f“™ˆÊÚ‘±Fíœ•ªÍ‚Åà–¾‚Å‚«‚È‚¢—áFuŽ©•ªv‚Ì‰ðŽßt		no	"Coordination, RNR, nominal anaphora, jibun"	entailment	ŒE“c—I‰îu”Íáe•¶–@‚É‚æ‚é”ñ\¬‘f“ŒˆÎÚ‘±‚Ì•ªÍvBP‚Í(8)‚©‚ç‚Ìˆø—pB	‘¾˜Y‚Í‰ÔŽq‚ÉA‚»‚µ‚ÄŽŸ˜Y‚Í”ü’qŽq‚ÉŽ©•ª‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B	‘¾˜Y‚Í‰ÔŽq‚É‘¾˜Y‚Ì•”‰®‚Å•×‹­‚³‚¹AŽŸ˜Y‚Í”ü’qŽq‚É”ü’qŽq‚Ì•”‰®‚Å•×‹­‚³‚¹‚½B														
@@ -155,13 +155,13 @@ Coo154					s”ñ\¬‘f“™ˆÊÚ‘±iß‹«ŠE‚ð’´‚¦‚é—áj¨\¬‘f‚Ì“™ˆÊÚ‘±i•À—ñ“Ç‚Ýj
 Coo155					s”ñ\¬‘f“™ˆÊÚ‘±iß‹«ŠE‚ð’´‚¦‚é—áj¨\¬‘f‚Ì“™ˆÊÚ‘±i•À—ñ“Ç‚Ýjt		weakacceptable	"Coordination, RNR"			‘¾˜Y‚Í‰ÔŽq‚ÉAŽŸ˜Y‚ÍƒƒAƒŠ[‚ÉƒWƒ‡ƒ“‚ªƒvƒƒ|[ƒY‚µ‚½‚ÆŽv‚Á‚Ä‚¢‚½B	‘¾˜Y‚ÆŽŸ˜Y‚Í‚»‚ê‚¼‚êA‰ÔŽq‚ÆƒƒAƒŠ[‚ÉƒWƒ‡ƒ“‚ªƒvƒƒ|[ƒY‚µ‚½‚ÆŽv‚Á‚Ä‚¢‚½B														
 Coo156					s”ñ\¬‘f“™ˆÊÚ‘±i–¼ŽŒ‹å‹«ŠE‚ð’´‚¦‚é—áj¨\¬‘f‚Ì“™ˆÊÚ‘±i•À—ñ“Ç‚Ýjt		yes	"Coordination, RNR"	entailment		‘¾˜Y‚ÍŽŸ˜Y‚ÌA‰ÔŽq‚ÍƒƒAƒŠ[‚Ìì•i‚ð„‘E‚µ‚½B	‘¾˜Y‚Æ‰ÔŽq‚Í‚»‚ê‚¼‚êAŽŸ˜Y‚ÆƒƒAƒŠ[‚Ìì•i‚ð„‘E‚µ‚½B														
 Coo157					s”ñ\¬‘f“™ˆÊÚ‘±i–¼ŽŒ‹å‹«ŠE‚ð’´‚¦‚é—áj¨\¬‘f‚Ì“™ˆÊÚ‘±i•À—ñ“Ç‚Ýjt		yes	"Coordination, RNR"	entailment		‘¾˜Y‚ÍŽŸ˜Y‚ÌA‰ÔŽq‚ÍƒƒAƒŠ[‚Ìì•i‚Ì„‘E•¶‚ð‘‚¢‚½B	‘¾˜Y‚Æ‰ÔŽq‚Í‚»‚ê‚¼‚êAŽŸ˜Y‚ÆƒƒAƒŠ[‚Ìì•i‚Ì„‘E•¶‚ð‘‚¢‚½B														
-Coo158					s\¬‘f‚Ì“™ˆÊÚ‘±i•À—ñ“Ç‚Ýj¨”ñ\¬‘f“™ˆÊÚ‘±t		yes*	"Coordination, RNR"	entailment	‰Â”\‚È‰ðŽß‚Ìˆê‚ÂB	ƒWƒ‡ƒ“‚Æƒrƒ‹‚Í‚»‚ê‚¼‚êƒƒAƒŠ[‚ÆƒX[ƒUƒ“‚É‰ï‚Á‚½B	ƒWƒ‡ƒ“‚ÍƒƒAƒŠ[‚ÉAƒrƒ‹‚ÍƒX[ƒUƒ“‚É‰ï‚Á‚½B														
-Coo159					s\¬‘f‚Ì“™ˆÊÚ‘±i•À—ñ“Ç‚Ýj¨”ñ\¬‘f“™ˆÊÚ‘±t		yes*	"Coordination, RNR"	entailment	‰Â”\‚È‰ðŽß‚Ìˆê‚ÂB	ƒWƒ‡ƒ“‚Æ‰ÔŽq‚Í‚»‚ê‚¼‚êƒƒAƒŠ[‚Æ‘¾˜Y‚ÉŽŸ˜Y‚ðÐ‰î‚µ‚½B	ƒWƒ‡ƒ“‚ÍƒƒAƒŠ[‚ÉA‰ÔŽq‚Í‘¾˜Y‚ÉŽŸ˜Y‚ðÐ‰î‚µ‚½B														
-Coo160					s\¬‘f‚Ì“™ˆÊÚ‘±i•À—ñ“Ç‚Ýj¨”ñ\¬‘f“™ˆÊÚ‘±t		yes*	"Coordination, RNR"	entailment	‰Â”\‚È‰ðŽß‚Ìˆê‚ÂB	‘¾˜Y‚Í‰ÔŽq‚ÆƒƒAƒŠ[‚É‚»‚ê‚¼‚êŽŸ˜Y‚ÆƒX[ƒUƒ“‚ðÐ‰î‚µ‚½B	‘¾˜Y‚Í‰ÔŽq‚ÉŽŸ˜Y‚ðAƒƒAƒŠ[‚ÉƒX[ƒUƒ“‚ðÐ‰î‚µ‚½B														
+Coo158					s\¬‘f‚Ì“™ˆÊÚ‘±i•À—ñ“Ç‚Ýj¨”ñ\¬‘f“™ˆÊÚ‘±t		yes	"Coordination, RNR"	entailment	‰Â”\‚È‰ðŽß‚Ìˆê‚ÂB	ƒWƒ‡ƒ“‚Æƒrƒ‹‚Í‚»‚ê‚¼‚êƒƒAƒŠ[‚ÆƒX[ƒUƒ“‚É‰ï‚Á‚½B	ƒWƒ‡ƒ“‚ÍƒƒAƒŠ[‚ÉAƒrƒ‹‚ÍƒX[ƒUƒ“‚É‰ï‚Á‚½B														
+Coo159					s\¬‘f‚Ì“™ˆÊÚ‘±i•À—ñ“Ç‚Ýj¨”ñ\¬‘f“™ˆÊÚ‘±t		yes	"Coordination, RNR"	entailment	‰Â”\‚È‰ðŽß‚Ìˆê‚ÂB	ƒWƒ‡ƒ“‚Æ‰ÔŽq‚Í‚»‚ê‚¼‚êƒƒAƒŠ[‚Æ‘¾˜Y‚ÉŽŸ˜Y‚ðÐ‰î‚µ‚½B	ƒWƒ‡ƒ“‚ÍƒƒAƒŠ[‚ÉA‰ÔŽq‚Í‘¾˜Y‚ÉŽŸ˜Y‚ðÐ‰î‚µ‚½B														
+Coo160					s\¬‘f‚Ì“™ˆÊÚ‘±i•À—ñ“Ç‚Ýj¨”ñ\¬‘f“™ˆÊÚ‘±t		yes	"Coordination, RNR"	entailment	‰Â”\‚È‰ðŽß‚Ìˆê‚ÂB	‘¾˜Y‚Í‰ÔŽq‚ÆƒƒAƒŠ[‚É‚»‚ê‚¼‚êŽŸ˜Y‚ÆƒX[ƒUƒ“‚ðÐ‰î‚µ‚½B	‘¾˜Y‚Í‰ÔŽq‚ÉŽŸ˜Y‚ðAƒƒAƒŠ[‚ÉƒX[ƒUƒ“‚ðÐ‰î‚µ‚½B														
 Coo161					s\¬‘f‚Ì“™ˆÊÚ‘±i•À—ñ“Ç‚Ýj¨”ñ\¬‘f“™ˆÊÚ‘±iß‹«ŠE‚ð’´‚¦‚é—ájt		unknown	"Coordination, RNR"			ƒ}ƒCƒN‚Æƒgƒ€‚ª‚»‚ê‚¼‚êAƒ‰ƒCƒIƒ“‚ÆŒF‚ÉP‚í‚ê‚½’j‚ð•‚¯‚½B	ƒ}ƒCƒN‚ªƒ‰ƒCƒIƒ“‚ÉAƒgƒ€‚ªŒF‚ÉP‚í‚ê‚½’j‚ð•‚¯‚½B														
 Coo162					s\¬‘f‚Ì“™ˆÊÚ‘±i•À—ñ“Ç‚Ýj¨”ñ\¬‘f“™ˆÊÚ‘±iß‹«ŠE‚ð’´‚¦‚é—ájt		unknown	"Coordination, RNR"			‘¾˜Y‚ÆŽŸ˜Y‚Í‚»‚ê‚¼‚êA‰ÔŽq‚ÆƒƒAƒŠ[‚ÉƒWƒ‡ƒ“‚ªƒvƒƒ|[ƒY‚µ‚½‚ÆŽv‚Á‚Ä‚¢‚½B	‘¾˜Y‚Í‰ÔŽq‚ÉAŽŸ˜Y‚ÍƒƒAƒŠ[‚ÉƒWƒ‡ƒ“‚ªƒvƒƒ|[ƒY‚µ‚½‚ÆŽv‚Á‚Ä‚¢‚½B														
-Coo163					s\¬‘f‚Ì“™ˆÊÚ‘±i•À—ñ“Ç‚Ýj¨”ñ\¬‘f“™ˆÊÚ‘±i–¼ŽŒ‹å‹«ŠE‚ð’´‚¦‚é—ájt		yes*	"Coordination, RNR"	entailment	‰Â”\‚È‰ðŽß‚Ìˆê‚ÂB	‘¾˜Y‚Æ‰ÔŽq‚Í‚»‚ê‚¼‚êAŽŸ˜Y‚ÆƒƒAƒŠ[‚Ìì•i‚ð„‘E‚µ‚½B	‘¾˜Y‚ÍŽŸ˜Y‚ÌA‰ÔŽq‚ÍƒƒAƒŠ[‚Ìì•i‚ð„‘E‚µ‚½B														
-Coo164					s\¬‘f‚Ì“™ˆÊÚ‘±i•À—ñ“Ç‚Ýj¨”ñ\¬‘f“™ˆÊÚ‘±i–¼ŽŒ‹å‹«ŠE‚ð’´‚¦‚é—ájt		yes*	"Coordination, RNR"	entailment	‰Â”\‚È‰ðŽß‚Ìˆê‚ÂB	‘¾˜Y‚Æ‰ÔŽq‚Í‚»‚ê‚¼‚êAŽŸ˜Y‚ÆƒƒAƒŠ[‚Ìì•i‚Ì„‘E•¶‚ð‘‚¢‚½B	‘¾˜Y‚ÍŽŸ˜Y‚ÌA‰ÔŽq‚ÍƒƒAƒŠ[‚Ìì•i‚Ì„‘E•¶‚ð‘‚¢‚½B														
+Coo163					s\¬‘f‚Ì“™ˆÊÚ‘±i•À—ñ“Ç‚Ýj¨”ñ\¬‘f“™ˆÊÚ‘±i–¼ŽŒ‹å‹«ŠE‚ð’´‚¦‚é—ájt		yes	"Coordination, RNR"	entailment	‰Â”\‚È‰ðŽß‚Ìˆê‚ÂB	‘¾˜Y‚Æ‰ÔŽq‚Í‚»‚ê‚¼‚êAŽŸ˜Y‚ÆƒƒAƒŠ[‚Ìì•i‚ð„‘E‚µ‚½B	‘¾˜Y‚ÍŽŸ˜Y‚ÌA‰ÔŽq‚ÍƒƒAƒŠ[‚Ìì•i‚ð„‘E‚µ‚½B														
+Coo164					s\¬‘f‚Ì“™ˆÊÚ‘±i•À—ñ“Ç‚Ýj¨”ñ\¬‘f“™ˆÊÚ‘±i–¼ŽŒ‹å‹«ŠE‚ð’´‚¦‚é—ájt		yes	"Coordination, RNR"	entailment	‰Â”\‚È‰ðŽß‚Ìˆê‚ÂB	‘¾˜Y‚Æ‰ÔŽq‚Í‚»‚ê‚¼‚êAŽŸ˜Y‚ÆƒƒAƒŠ[‚Ìì•i‚Ì„‘E•¶‚ð‘‚¢‚½B	‘¾˜Y‚ÍŽŸ˜Y‚ÌA‰ÔŽq‚ÍƒƒAƒŠ[‚Ìì•i‚Ì„‘E•¶‚ð‘‚¢‚½B														
 Coo165					suP‚©Q‚©‚¾v¨uP‚©Q‚©‚Ì‚Ç‚¿‚ç‚©‚¾vt		yes	"Coordination, -ka (parallel marker)"	entailment		‘¾˜Y‚ª‰R‚ð‚Â‚¢‚Ä‚¢‚é‚©ŽŸ˜Y‚ª‰R‚ð‚Â‚¢‚Ä‚¢‚é‚©‚¾B	‘¾˜Y‚ª‰R‚ð‚Â‚¢‚Ä‚¢‚é‚©ŽŸ˜Y‚ª‰R‚ð‚Â‚¢‚Ä‚¢‚é‚©‚Ì‚Ç‚¿‚ç‚©‚¾B														
 Coo166					suP‚©Q‚©‚Ì‚Ç‚¿‚ç‚©‚¾v¨uP‚©Q‚©‚¾vt		yes	"Coordination, -ka (parallel marker)"	entailment		‘¾˜Y‚ª‰R‚ð‚Â‚¢‚Ä‚¢‚é‚©ŽŸ˜Y‚ª‰R‚ð‚Â‚¢‚Ä‚¢‚é‚©‚Ì‚Ç‚¿‚ç‚©‚¾B	‘¾˜Y‚ª‰R‚ð‚Â‚¢‚Ä‚¢‚é‚©ŽŸ˜Y‚ª‰R‚ð‚Â‚¢‚Ä‚¢‚é‚©‚¾B														
 Coo167					suP‚©Q‚©‚¾v¨uP(/Q)‚¾vt		unknown	"Coordination, -ka (parallel marker)"			‘¾˜Y‚ª‰R‚ð‚Â‚¢‚Ä‚¢‚é‚©ŽŸ˜Y‚ª‰R‚ð‚Â‚¢‚Ä‚¢‚é‚©‚¾B	‘¾˜Y‚Í‰R‚ð‚Â‚¢‚Ä‚¢‚éB														
