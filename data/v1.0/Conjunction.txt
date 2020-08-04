@@ -1598,3 +1598,358 @@ Conj1597					su‚½‚ß‚ÉvF–Ú“I—p–@‚Ìu‚½‚ß‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR
 Conj1598					su‚½‚ß‚ÉvF–Ú“I—p–@‚Ìu‚½‚ß‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚½‚ß‚É„”Û’èv‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, tameni, negation"	entailment		ƒŒƒ|[ƒg‚ð‘‚«ã‚°‚é‚½‚ß‚ÉA¡“ú‚Í—V‚Ñ‚És‚©‚È‚¢B	ƒŒƒ|[ƒg‚ð‘‚«ã‚°‚é‚½‚ßA¡“ú‚Í—V‚Ñ‚És‚©‚È‚¢B
 Conj1599					su‚½‚ß‚ÉvF–Ú“I—p–@‚Ìu‚½‚ß‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚½‚ß‚É„”Û’èv‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, tameni, negation"	entailment		‘Ìd‚ð—Ž‚Æ‚·‚½‚ß‚ÉA‚¨‰ÙŽq‚ðH‚×‚È‚¢B	‘Ìd‚ð—Ž‚Æ‚·‚½‚ßA‚¨‰ÙŽq‚ðH‚×‚È‚¢B
 Conj1600					su‚½‚ß‚ÉvF–Ú“I—p–@‚Ìu‚½‚ß‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚½‚ß‚É„”Û’èv‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, tameni, negation"	entailment		‰ß‹Ž‚ð’f‚¿Ø‚é‚½‚ß‚ÉAÌ‚Ì’‡ŠÔ‚É‚Í˜A—‚ðŽæ‚ç‚È‚¢B	‰ß‹Ž‚ð’f‚¿Ø‚é‚½‚ßAÌ‚Ì’‡ŠÔ‚É‚Í˜A—‚ðŽæ‚ç‚È‚¢B
+Conj1601					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áF‘OŒ‚ÌŠÜˆÓt		unknown	"conjunction, yueni, negation"			‘¾˜Y‚ÍŽ©•ª‚Ì—§ê‚ðŽç‚è‚½‚¢‚ª‚ä‚¦‚É—Fl‚ð— Ø‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚ÍŽ©•ª‚Ì—§ê‚ðŽç‚è‚½‚¢B
+Conj1602					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áF‘OŒ‚ÌŠÜˆÓt		unknown	"conjunction, yueni, negation"			‰ÔŽq‚Í–Í‹[ŽŽŒ±‚Ì¬Ñ‚ªˆ«‚©‚Á‚½‚ª‚ä‚¦‚ÉŽu–]Z‚ð•ÏX‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚Í–Í‹[ŽŽŒ±‚Ì¬Ñ‚ªˆ«‚©‚Á‚½B
+Conj1603					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áF‘OŒ‚ÌŠÜˆÓt		unknown	"conjunction, yueni, negation"			‚»‚ÌEˆõ‚ÍãŽi‚É–½—ß‚³‚ê‚½‚ª‚ä‚¦‚Éƒf[ƒ^‚ð‰ü‚´‚ñ‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚ÌEˆõ‚ÍãŽi‚É–½—ß‚³‚ê‚½B
+Conj1604					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áF‘OŒ‚ÌŠÜˆÓt		unknown	"conjunction, yueni, negation"			‘¾˜Y‚Í–ì‹…‚Él¶‚ð“q‚¯‚Ä‚¢‚½‚ª‚ä‚¦‚Éƒvƒ‚É‚È‚ê‚¸—Ž’_‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚Í–ì‹…‚Él¶‚ð“q‚¯‚Ä‚¢‚½B
+Conj1605					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áF‘OŒ‚ÌŠÜˆÓt		unknown	"conjunction, yueni, negation"			‚»‚Ì‰ïŽÐ‚ÍæŒŽ‚Ì‹ÆÑ‚ªˆ«‰»‚µ‚½‚ª‚ä‚¦‚É‹K–Ík¬‚ðŒˆ’è‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚Ì‰ïŽÐ‚ÍæŒŽ‚Ì‹ÆÑ‚ªˆ«‰»‚µ‚½B
+Conj1606					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚ÍŽ©•ª‚Ì—§ê‚ðŽç‚è‚½‚¢‚ª‚ä‚¦‚É—Fl‚ð— Ø‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚Í—Fl‚ð— Ø‚Á‚½B
+Conj1607					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		‰ÔŽq‚Í–Í‹[ŽŽŒ±‚Ì¬Ñ‚ªˆ«‚©‚Á‚½‚ª‚ä‚¦‚ÉŽu–]Z‚ð•ÏX‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚ÍŽu–]Z‚ð•ÏX‚µ‚½B
+Conj1608					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		‚»‚ÌEˆõ‚ÍãŽi‚É–½—ß‚³‚ê‚½‚ª‚ä‚¦‚Éƒf[ƒ^‚ð‰ü‚´‚ñ‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚ÌEˆõ‚Íƒf[ƒ^‚ð‰ü‚´‚ñ‚µ‚½B
+Conj1609					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚Í–ì‹…‚Él¶‚ð“q‚¯‚Ä‚¢‚½‚ª‚ä‚¦‚Éƒvƒ‚É‚È‚ê‚¸—Ž’_‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚Íƒvƒ‚É‚È‚ê‚¸—Ž’_‚µ‚½B
+Conj1610					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		‚»‚Ì‰ïŽÐ‚ÍæŒŽ‚Ì‹ÆÑ‚ªˆ«‰»‚µ‚½‚ª‚ä‚¦‚É‹K–Ík¬‚ðŒˆ’è‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚Ì‰ïŽÐ‚Í‹K–Ík¬‚ðŒˆ’è‚µ‚½B
+Conj1611					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áF——RŠÖŒW‚ÌŠÜˆÓ•s‰Ât		no	"conjunction, yueni, negation"	entailment		‘¾˜Y‚ÍŽ©•ª‚Ì—§ê‚ðŽç‚è‚½‚¢‚ª‚ä‚¦‚É—Fl‚ð— Ø‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚ª—Fl‚ð— Ø‚Á‚½——R‚ÍAŽ©•ª‚Ì—§ê‚ðŽç‚è‚½‚¢‚©‚ç‚¾B
+Conj1612					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áF——RŠÖŒW‚ÌŠÜˆÓ•s‰Ât		no	"conjunction, yueni, negation"	entailment		‰ÔŽq‚Í–Í‹[ŽŽŒ±‚Ì¬Ñ‚ªˆ«‚©‚Á‚½‚ª‚ä‚¦‚ÉŽu–]Z‚ð•ÏX‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚ªŽu–]Z‚ð•ÏX‚µ‚½——R‚ÍA–Í‹[ŽŽŒ±‚Ì¬Ñ‚ªˆ«‚©‚Á‚½‚©‚ç‚¾B
+Conj1613					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áF——RŠÖŒW‚ÌŠÜˆÓ•s‰Ât		no	"conjunction, yueni, negation"	entailment		‚»‚ÌEˆõ‚ÍãŽi‚É–½—ß‚³‚ê‚½‚ª‚ä‚¦‚Éƒf[ƒ^‚ð‰ü‚´‚ñ‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚ÌEˆõ‚ªƒf[ƒ^‚ð‰ü‚´‚ñ‚µ‚½——R‚ÍAãŽi‚É–½—ß‚³‚ê‚½‚©‚ç‚¾B
+Conj1614					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áF——RŠÖŒW‚ÌŠÜˆÓ•s‰Ât		no	"conjunction, yueni, negation"	entailment		‘¾˜Y‚Í–ì‹…‚Él¶‚ð“q‚¯‚Ä‚¢‚½‚ª‚ä‚¦‚Éƒvƒ‚É‚È‚ê‚¸—Ž’_‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚ªƒvƒ‚É‚È‚ê‚¸—Ž’_‚µ‚½——R‚ÍA–ì‹…‚Él¶‚ð“q‚¯‚Ä‚¢‚½‚©‚ç‚¾B
+Conj1615					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áF——RŠÖŒW‚ÌŠÜˆÓ•s‰Ât		no	"conjunction, yueni, negation"	entailment		‚»‚Ì‰ïŽÐ‚ÍæŒŽ‚Ì‹ÆÑ‚ªˆ«‰»‚µ‚½‚ª‚ä‚¦‚É‹K–Ík¬‚ðŒˆ’è‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚Ì‰ïŽÐ‚ª‹K–Ík¬‚ðŒˆ’è‚µ‚½——R‚ÍAæŒŽ‚Ì‹ÆÑ‚ªˆ«‰»‚µ‚½‚©‚ç‚¾B
+Conj1616					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚ÍŽ©•ª‚Ì—§ê‚ðŽç‚è‚½‚¢‚ª‚ä‚¦‚É—Fl‚ð— Ø‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚ÍŽ©•ª‚Ì—§ê‚ðŽç‚è‚½‚¢‚©‚ç—Fl‚ð— Ø‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1617					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‰ÔŽq‚Í–Í‹[ŽŽŒ±‚Ì¬Ñ‚ªˆ«‚©‚Á‚½‚ª‚ä‚¦‚ÉŽu–]Z‚ð•ÏX‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚Í–Í‹[ŽŽŒ±‚Ì¬Ñ‚ªˆ«‚©‚Á‚½‚©‚çŽu–]Z‚ð•ÏX‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1618					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‚»‚ÌEˆõ‚ÍãŽi‚É–½—ß‚³‚ê‚½‚ª‚ä‚¦‚Éƒf[ƒ^‚ð‰ü‚´‚ñ‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚ÌEˆõ‚ÍãŽi‚É–½—ß‚³‚ê‚½‚©‚çƒf[ƒ^‚ð‰ü‚´‚ñ‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1619					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚Í–ì‹…‚Él¶‚ð“q‚¯‚Ä‚¢‚½‚ª‚ä‚¦‚Éƒvƒ‚É‚È‚ê‚¸—Ž’_‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚Í–ì‹…‚Él¶‚ð“q‚¯‚Ä‚¢‚½‚©‚çƒvƒ‚É‚È‚ê‚¸—Ž’_‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1620					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‚»‚Ì‰ïŽÐ‚ÍæŒŽ‚Ì‹ÆÑ‚ªˆ«‰»‚µ‚½‚ª‚ä‚¦‚É‹K–Ík¬‚ðŒˆ’è‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚Ì‰ïŽÐ‚ÍæŒŽ‚Ì‹ÆÑ‚ªˆ«‰»‚µ‚½‚©‚ç‹K–Ík¬‚ðŒˆ’è‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1621					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚ÍŽ©•ª‚Ì—§ê‚ðŽç‚è‚½‚¢‚ª‚ä‚¦‚É—Fl‚ð— Ø‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚ÍŽ©•ª‚Ì—§ê‚ðŽç‚è‚½‚¢‚Ì‚Å—Fl‚ð— Ø‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1622					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‰ÔŽq‚Í–Í‹[ŽŽŒ±‚Ì¬Ñ‚ªˆ«‚©‚Á‚½‚ª‚ä‚¦‚ÉŽu–]Z‚ð•ÏX‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚Í–Í‹[ŽŽŒ±‚Ì¬Ñ‚ªˆ«‚©‚Á‚½‚Ì‚ÅŽu–]Z‚ð•ÏX‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1623					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‚»‚ÌEˆõ‚ÍãŽi‚É–½—ß‚³‚ê‚½‚ª‚ä‚¦‚Éƒf[ƒ^‚ð‰ü‚´‚ñ‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚ÌEˆõ‚ÍãŽi‚É–½—ß‚³‚ê‚½‚Ì‚Åƒf[ƒ^‚ð‰ü‚´‚ñ‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1624					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚Í–ì‹…‚Él¶‚ð“q‚¯‚Ä‚¢‚½‚ª‚ä‚¦‚Éƒvƒ‚É‚È‚ê‚¸—Ž’_‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚Í–ì‹…‚Él¶‚ð“q‚¯‚Ä‚¢‚½‚Ì‚Åƒvƒ‚É‚È‚ê‚¸—Ž’_‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1625					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‚»‚Ì‰ïŽÐ‚ÍæŒŽ‚Ì‹ÆÑ‚ªˆ«‰»‚µ‚½‚ª‚ä‚¦‚É‹K–Ík¬‚ðŒˆ’è‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚Ì‰ïŽÐ‚ÍæŒŽ‚Ì‹ÆÑ‚ªˆ«‰»‚µ‚½‚Ì‚Å‹K–Ík¬‚ðŒˆ’è‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1626					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚ÍŽ©•ª‚Ì—§ê‚ðŽç‚è‚½‚¢‚ª‚ä‚¦‚É—Fl‚ð— Ø‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚ÍŽ©•ª‚Ì—§ê‚ðŽç‚è‚½‚¢‚½‚ß—Fl‚ð— Ø‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1627					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‰ÔŽq‚Í–Í‹[ŽŽŒ±‚Ì¬Ñ‚ªˆ«‚©‚Á‚½‚ª‚ä‚¦‚ÉŽu–]Z‚ð•ÏX‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚Í–Í‹[ŽŽŒ±‚Ì¬Ñ‚ªˆ«‚©‚Á‚½‚½‚ßŽu–]Z‚ð•ÏX‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1628					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‚»‚ÌEˆõ‚ÍãŽi‚É–½—ß‚³‚ê‚½‚ª‚ä‚¦‚Éƒf[ƒ^‚ð‰ü‚´‚ñ‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚ÌEˆõ‚ÍãŽi‚É–½—ß‚³‚ê‚½‚½‚ßƒf[ƒ^‚ð‰ü‚´‚ñ‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1629					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚Í–ì‹…‚Él¶‚ð“q‚¯‚Ä‚¢‚½‚ª‚ä‚¦‚Éƒvƒ‚É‚È‚ê‚¸—Ž’_‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚Í–ì‹…‚Él¶‚ð“q‚¯‚Ä‚¢‚½‚½‚ßƒvƒ‚É‚È‚ê‚¸—Ž’_‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1630					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‚»‚Ì‰ïŽÐ‚ÍæŒŽ‚Ì‹ÆÑ‚ªˆ«‰»‚µ‚½‚ª‚ä‚¦‚É‹K–Ík¬‚ðŒˆ’è‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚Ì‰ïŽÐ‚ÍæŒŽ‚Ì‹ÆÑ‚ªˆ«‰»‚µ‚½‚½‚ß‹K–Ík¬‚ðŒˆ’è‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1631					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚ÍŽ©•ª‚Ì—§ê‚ðŽç‚è‚½‚¢‚ª‚ä‚¦‚É—Fl‚ð— Ø‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚ÍŽ©•ª‚Ì—§ê‚ðŽç‚è‚½‚¢‚½‚ß‚É—Fl‚ð— Ø‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1632					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‰ÔŽq‚Í–Í‹[ŽŽŒ±‚Ì¬Ñ‚ªˆ«‚©‚Á‚½‚ª‚ä‚¦‚ÉŽu–]Z‚ð•ÏX‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚Í–Í‹[ŽŽŒ±‚Ì¬Ñ‚ªˆ«‚©‚Á‚½‚½‚ß‚ÉŽu–]Z‚ð•ÏX‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1633					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‚»‚ÌEˆõ‚ÍãŽi‚É–½—ß‚³‚ê‚½‚ª‚ä‚¦‚Éƒf[ƒ^‚ð‰ü‚´‚ñ‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚ÌEˆõ‚ÍãŽi‚É–½—ß‚³‚ê‚½‚½‚ß‚Éƒf[ƒ^‚ð‰ü‚´‚ñ‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1634					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚Í–ì‹…‚Él¶‚ð“q‚¯‚Ä‚¢‚½‚ª‚ä‚¦‚Éƒvƒ‚É‚È‚ê‚¸—Ž’_‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚Í–ì‹…‚Él¶‚ð“q‚¯‚Ä‚¢‚½‚½‚ß‚Éƒvƒ‚É‚È‚ê‚¸—Ž’_‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1635					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‚»‚Ì‰ïŽÐ‚ÍæŒŽ‚Ì‹ÆÑ‚ªˆ«‰»‚µ‚½‚ª‚ä‚¦‚É‹K–Ík¬‚ðŒˆ’è‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚Ì‰ïŽÐ‚ÍæŒŽ‚Ì‹ÆÑ‚ªˆ«‰»‚µ‚½‚½‚ß‚É‹K–Ík¬‚ðŒˆ’è‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1636					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚ÍŽÐ“à‚Å‚Ì¡‚Ì’nˆÊ‚É–ž‘«‚µ‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAo¢‚ðÅ‚Á‚Ä‚¢‚é‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚ÍŽÐ“à‚Å‚Ì¡‚Ì’nˆÊ‚É–ž‘«‚µ‚Ä‚¢‚éB
+Conj1637					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		‰ÔŽq‚ÍŽq‹Ÿ‚ðŽ‚Â‚±‚Æ‚É“²‚ê‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAŒ‹¥‚ðl‚¦‚Ä‚¢‚È‚¢‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚ÍŽq‹Ÿ‚ðŽ‚Â‚±‚Æ‚É“²‚ê‚Ä‚¢‚éB
+Conj1638					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		”Þ—‚Í—L–¼‘åŠw‚ðo‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAŠw—ð‚É–â‘è‚ª‚ ‚é‚í‚¯‚Å‚Í‚È‚¢B	”Þ—‚Í—L–¼‘åŠw‚ðo‚Ä‚¢‚éB
+Conj1639					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		Œ¾—t‚Å‚ÌƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚É‚ÍŒÀŠE‚ª‚ ‚é‚ª‚ä‚¦‚ÉAŒ¾‚¢‚½‚¢‚±‚Æ‚ª‘¼l‚ÉŠ®‘S‚É“`‚í‚é‚í‚¯‚Å‚Í‚È‚¢B	Œ¾—t‚Å‚ÌƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚É‚ÍŒÀŠE‚ª‚ ‚éB
+Conj1640					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚É‚Í‚Ü‚¾’™‹à‚ª‚ ‚é‚ª‚ä‚¦‚ÉA‚·‚×‚Ä‚ðŽ¸‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚É‚Í‚Ü‚¾’™‹à‚ª‚ ‚éB
+Conj1641					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFŒãŒ‚ÌŠÜˆÓt		no	"conjunction, yueni, negation"	entailment		‘¾˜Y‚ÍŽÐ“à‚Å‚Ì¡‚Ì’nˆÊ‚É–ž‘«‚µ‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAo¢‚ðÅ‚Á‚Ä‚¢‚é‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚Ío¢‚ðÅ‚Á‚Ä‚¢‚éB
+Conj1642					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFŒãŒ‚ÌŠÜˆÓt		no	"conjunction, yueni, negation"	entailment		‰ÔŽq‚ÍŽq‹Ÿ‚ðŽ‚Â‚±‚Æ‚É“²‚ê‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAŒ‹¥‚ðl‚¦‚Ä‚¢‚È‚¢‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚ÍŒ‹¥‚ðl‚¦‚Ä‚¢‚È‚¢B
+Conj1643					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFŒãŒ‚ÌŠÜˆÓt		no	"conjunction, yueni, negation"	entailment		”Þ—‚Í—L–¼‘åŠw‚ðo‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAŠw—ð‚É–â‘è‚ª‚ ‚é‚í‚¯‚Å‚Í‚È‚¢B	”Þ—‚ÍŠw—ð‚É–â‘è‚ª‚ ‚éB
+Conj1644					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFŒãŒ‚ÌŠÜˆÓt		no	"conjunction, yueni, negation"	entailment		Œ¾—t‚Å‚ÌƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚É‚ÍŒÀŠE‚ª‚ ‚é‚ª‚ä‚¦‚ÉAŒ¾‚¢‚½‚¢‚±‚Æ‚ª‘¼l‚ÉŠ®‘S‚É“`‚í‚é‚í‚¯‚Å‚Í‚È‚¢B	Œ¾‚¢‚½‚¢‚±‚Æ‚ª‘¼l‚ÉŠ®‘S‚É“`‚í‚éB
+Conj1645					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFŒãŒ‚ÌŠÜˆÓt		no	"conjunction, yueni, negation"	entailment		‘¾˜Y‚É‚Í‚Ü‚¾’™‹à‚ª‚ ‚é‚ª‚ä‚¦‚ÉA‚·‚×‚Ä‚ðŽ¸‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚Í‚·‚×‚Ä‚ðŽ¸‚Á‚½B
+Conj1646					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚ÍŽÐ“à‚Å‚Ì¡‚Ì’nˆÊ‚É–ž‘«‚µ‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAo¢‚ðÅ‚Á‚Ä‚¢‚é‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚ÍŽÐ“à‚Å‚Ì¡‚Ì’nˆÊ‚É–ž‘«‚µ‚Ä‚¢‚é‚©‚çAo¢‚ðÅ‚Á‚Ä‚¢‚é‚í‚¯‚Å‚Í‚È‚¢B
+Conj1647					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‰ÔŽq‚ÍŽq‹Ÿ‚ðŽ‚Â‚±‚Æ‚É“²‚ê‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAŒ‹¥‚ðl‚¦‚Ä‚¢‚È‚¢‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚ÍŽq‹Ÿ‚ðŽ‚Â‚±‚Æ‚É“²‚ê‚Ä‚¢‚é‚©‚çAŒ‹¥‚ðl‚¦‚Ä‚¢‚È‚¢‚í‚¯‚Å‚Í‚È‚¢B
+Conj1648					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		”Þ—‚Í—L–¼‘åŠw‚ðo‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAŠw—ð‚É–â‘è‚ª‚ ‚é‚í‚¯‚Å‚Í‚È‚¢B	”Þ—‚Í—L–¼‘åŠw‚ðo‚Ä‚¢‚é‚©‚çAŠw—ð‚É–â‘è‚ª‚ ‚é‚í‚¯‚Å‚Í‚È‚¢B
+Conj1649					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		Œ¾—t‚Å‚ÌƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚É‚ÍŒÀŠE‚ª‚ ‚é‚ª‚ä‚¦‚ÉAŒ¾‚¢‚½‚¢‚±‚Æ‚ª‘¼l‚ÉŠ®‘S‚É“`‚í‚é‚í‚¯‚Å‚Í‚È‚¢B	Œ¾—t‚Å‚ÌƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚É‚ÍŒÀŠE‚ª‚ ‚é‚©‚çAŒ¾‚¢‚½‚¢‚±‚Æ‚ª‘¼l‚ÉŠ®‘S‚É“`‚í‚é‚í‚¯‚Å‚Í‚È‚¢B
+Conj1650					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚É‚Í‚Ü‚¾’™‹à‚ª‚ ‚é‚ª‚ä‚¦‚ÉA‚·‚×‚Ä‚ðŽ¸‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚É‚Í‚Ü‚¾’™‹à‚ª‚ ‚é‚©‚çA‚·‚×‚Ä‚ðŽ¸‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1651					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚ÍŽÐ“à‚Å‚Ì¡‚Ì’nˆÊ‚É–ž‘«‚µ‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAo¢‚ðÅ‚Á‚Ä‚¢‚é‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚ÍŽÐ“à‚Å‚Ì¡‚Ì’nˆÊ‚É–ž‘«‚µ‚Ä‚¢‚é‚Ì‚ÅAo¢‚ðÅ‚Á‚Ä‚¢‚é‚í‚¯‚Å‚Í‚È‚¢B
+Conj1652					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‰ÔŽq‚ÍŽq‹Ÿ‚ðŽ‚Â‚±‚Æ‚É“²‚ê‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAŒ‹¥‚ðl‚¦‚Ä‚¢‚È‚¢‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚ÍŽq‹Ÿ‚ðŽ‚Â‚±‚Æ‚É“²‚ê‚Ä‚¢‚é‚Ì‚ÅAŒ‹¥‚ðl‚¦‚Ä‚¢‚È‚¢‚í‚¯‚Å‚Í‚È‚¢B
+Conj1653					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		”Þ—‚Í—L–¼‘åŠw‚ðo‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAŠw—ð‚É–â‘è‚ª‚ ‚é‚í‚¯‚Å‚Í‚È‚¢B	”Þ—‚Í—L–¼‘åŠw‚ðo‚Ä‚¢‚é‚Ì‚ÅAŠw—ð‚É–â‘è‚ª‚ ‚é‚í‚¯‚Å‚Í‚È‚¢B
+Conj1654					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		Œ¾—t‚Å‚ÌƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚É‚ÍŒÀŠE‚ª‚ ‚é‚ª‚ä‚¦‚ÉAŒ¾‚¢‚½‚¢‚±‚Æ‚ª‘¼l‚ÉŠ®‘S‚É“`‚í‚é‚í‚¯‚Å‚Í‚È‚¢B	Œ¾—t‚Å‚ÌƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚É‚ÍŒÀŠE‚ª‚ ‚é‚Ì‚ÅAŒ¾‚¢‚½‚¢‚±‚Æ‚ª‘¼l‚ÉŠ®‘S‚É“`‚í‚é‚í‚¯‚Å‚Í‚È‚¢B
+Conj1655					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚É‚Í‚Ü‚¾’™‹à‚ª‚ ‚é‚ª‚ä‚¦‚ÉA‚·‚×‚Ä‚ðŽ¸‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚É‚Í‚Ü‚¾’™‹à‚ª‚ ‚é‚Ì‚ÅA‚·‚×‚Ä‚ðŽ¸‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1656					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, yueni, negation"			‘¾˜Y‚ÍŽÐ“à‚Å‚Ì¡‚Ì’nˆÊ‚É–ž‘«‚µ‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAo¢‚ðÅ‚Á‚Ä‚¢‚é‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚ÍŽÐ“à‚Å‚Ì¡‚Ì’nˆÊ‚É–ž‘«‚µ‚Ä‚¢‚é‚½‚ßAo¢‚ðÅ‚Á‚Ä‚¢‚é‚í‚¯‚Å‚Í‚È‚¢B
+Conj1657					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, yueni, negation"			‰ÔŽq‚ÍŽq‹Ÿ‚ðŽ‚Â‚±‚Æ‚É“²‚ê‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAŒ‹¥‚ðl‚¦‚Ä‚¢‚È‚¢‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚ÍŽq‹Ÿ‚ðŽ‚Â‚±‚Æ‚É“²‚ê‚Ä‚¢‚é‚½‚ßAŒ‹¥‚ðl‚¦‚Ä‚¢‚È‚¢‚í‚¯‚Å‚Í‚È‚¢B
+Conj1658					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, yueni, negation"			”Þ—‚Í—L–¼‘åŠw‚ðo‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAŠw—ð‚É–â‘è‚ª‚ ‚é‚í‚¯‚Å‚Í‚È‚¢B	”Þ—‚Í—L–¼‘åŠw‚ðo‚Ä‚¢‚é‚½‚ßAŠw—ð‚É–â‘è‚ª‚ ‚é‚í‚¯‚Å‚Í‚È‚¢B
+Conj1659					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, yueni, negation"			Œ¾—t‚Å‚ÌƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚É‚ÍŒÀŠE‚ª‚ ‚é‚ª‚ä‚¦‚ÉAŒ¾‚¢‚½‚¢‚±‚Æ‚ª‘¼l‚ÉŠ®‘S‚É“`‚í‚é‚í‚¯‚Å‚Í‚È‚¢B	Œ¾—t‚Å‚ÌƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚É‚ÍŒÀŠE‚ª‚ ‚é‚½‚ßAŒ¾‚¢‚½‚¢‚±‚Æ‚ª‘¼l‚ÉŠ®‘S‚É“`‚í‚é‚í‚¯‚Å‚Í‚È‚¢B
+Conj1660					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, yueni, negation"			‘¾˜Y‚É‚Í‚Ü‚¾’™‹à‚ª‚ ‚é‚ª‚ä‚¦‚ÉA‚·‚×‚Ä‚ðŽ¸‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚É‚Í‚Ü‚¾’™‹à‚ª‚ ‚é‚½‚ßA‚·‚×‚Ä‚ðŽ¸‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1661					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚ÍŽÐ“à‚Å‚Ì¡‚Ì’nˆÊ‚É–ž‘«‚µ‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAo¢‚ðÅ‚Á‚Ä‚¢‚é‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚ÍŽÐ“à‚Å‚Ì¡‚Ì’nˆÊ‚É–ž‘«‚µ‚Ä‚¢‚é‚½‚ß‚ÉAo¢‚ðÅ‚Á‚Ä‚¢‚é‚í‚¯‚Å‚Í‚È‚¢B
+Conj1662					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‰ÔŽq‚ÍŽq‹Ÿ‚ðŽ‚Â‚±‚Æ‚É“²‚ê‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAŒ‹¥‚ðl‚¦‚Ä‚¢‚È‚¢‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚ÍŽq‹Ÿ‚ðŽ‚Â‚±‚Æ‚É“²‚ê‚Ä‚¢‚é‚½‚ß‚ÉAŒ‹¥‚ðl‚¦‚Ä‚¢‚È‚¢‚í‚¯‚Å‚Í‚È‚¢B
+Conj1663					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		”Þ—‚Í—L–¼‘åŠw‚ðo‚Ä‚¢‚é‚ª‚ä‚¦‚ÉAŠw—ð‚É–â‘è‚ª‚ ‚é‚í‚¯‚Å‚Í‚È‚¢B	”Þ—‚Í—L–¼‘åŠw‚ðo‚Ä‚¢‚é‚½‚ß‚ÉAŠw—ð‚É–â‘è‚ª‚ ‚é‚í‚¯‚Å‚Í‚È‚¢B
+Conj1664					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		Œ¾—t‚Å‚ÌƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚É‚ÍŒÀŠE‚ª‚ ‚é‚ª‚ä‚¦‚ÉAŒ¾‚¢‚½‚¢‚±‚Æ‚ª‘¼l‚ÉŠ®‘S‚É“`‚í‚é‚í‚¯‚Å‚Í‚È‚¢B	Œ¾—t‚Å‚ÌƒRƒ~ƒ…ƒjƒP[ƒVƒ‡ƒ“‚É‚ÍŒÀŠE‚ª‚ ‚é‚½‚ß‚ÉAŒ¾‚¢‚½‚¢‚±‚Æ‚ª‘¼l‚ÉŠ®‘S‚É“`‚í‚é‚í‚¯‚Å‚Í‚È‚¢B
+Conj1665					su‚ª‚ä‚¦‚ÉvFª‹’E——R—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚É‚Í‚Ü‚¾’™‹à‚ª‚ ‚é‚ª‚ä‚¦‚ÉA‚·‚×‚Ä‚ðŽ¸‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚É‚Í‚Ü‚¾’™‹à‚ª‚ ‚é‚½‚ß‚ÉA‚·‚×‚Ä‚ðŽ¸‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1666					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áF‘OŒ‚ÌŠÜˆÓ•s‰Ât		unknown	"conjunction, yueni, negation"			‘¾˜Y‚Í•sÛ¶‚ð‚µ‚½‚ª‚ä‚¦‚É•a‹C‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚Í•sÛ¶‚ð‚µ‚½B
+Conj1667					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áF‘OŒ‚ÌŠÜˆÓ•s‰Ât		unknown	"conjunction, yueni, negation"			‚±‚ÌŽÊ^‚ÍA•”‰®‚ªˆÃ‚©‚Á‚½‚ª‚ä‚¦‚É•s‘N–¾‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	•”‰®‚ªˆÃ‚©‚Á‚½B
+Conj1668					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áF‘OŒ‚ÌŠÜˆÓ•s‰Ât		unknown	"conjunction, yueni, negation"			‰ÔŽq‚ÍŽdŽ–‚ÅŽ¸”s‚ð‚µ‚½‚ª‚ä‚¦‚É‰ðŒÙ‚³‚ê‚½‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚ÍŽdŽ–‚ÅŽ¸”s‚ð‚µ‚½B
+Conj1669					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áF‘OŒ‚ÌŠÜˆÓ•s‰Ât		unknown	"conjunction, yueni, negation"			‚»‚ÌŽ–ŒÌ‚ÍA“¹˜H‚ÌŒ©’Ê‚µ‚ªˆ«‚©‚Á‚½‚ª‚ä‚¦‚É‹N‚±‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	“¹˜H‚ÌŒ©’Ê‚µ‚ªˆ«‚©‚Á‚½B
+Conj1670					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áF‘OŒ‚ÌŠÜˆÓ•s‰Ât		unknown	"conjunction, yueni, negation"			‚»‚Ì”o—D‚ÍAƒXƒPƒWƒ…[ƒ‹‚ª‹l‚Ü‚Á‚Ä‚¢‚é‚ª‚ä‚¦‚É”Ô‘g‚Ö‚Ìo‰‰‚ð’f‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚Ì”o—D‚ÍAƒXƒPƒWƒ…[ƒ‹‚ª‹l‚Ü‚Á‚Ä‚¢‚éB
+Conj1671					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚Í•sÛ¶‚ð‚µ‚½‚ª‚ä‚¦‚É•a‹C‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚Í•a‹C‚É‚È‚Á‚½B
+Conj1672					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		‚±‚ÌŽÊ^‚ÍA•”‰®‚ªˆÃ‚©‚Á‚½‚ª‚ä‚¦‚É•s‘N–¾‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚±‚ÌŽÊ^‚Í•s‘N–¾‚É‚È‚Á‚½B
+Conj1673					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		‰ÔŽq‚ÍŽdŽ–‚ÅŽ¸”s‚ð‚µ‚½‚ª‚ä‚¦‚É‰ðŒÙ‚³‚ê‚½‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚Í‰ðŒÙ‚³‚ê‚½B
+Conj1674					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		‚»‚ÌŽ–ŒÌ‚ÍA“¹˜H‚ÌŒ©’Ê‚µ‚ªˆ«‚©‚Á‚½‚ª‚ä‚¦‚É‹N‚±‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚ÌŽ–ŒÌ‚ª‹N‚±‚Á‚½B
+Conj1675					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		‚»‚Ì”o—D‚ÍAƒXƒPƒWƒ…[ƒ‹‚ª‹l‚Ü‚Á‚Ä‚¢‚é‚ª‚ä‚¦‚É”Ô‘g‚Ö‚Ìo‰‰‚ð’f‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚Ì”o—D‚Í”Ô‘g‚Ö‚Ìo‰‰‚ð’f‚Á‚½B
+Conj1676					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFŒ´ˆöŒ‹‰ÊŠÖŒW‚ÌŠÜˆÓ•s‰Ât		no	"conjunction, yueni, negation"	entailment		‘¾˜Y‚Í•sÛ¶‚ð‚µ‚½‚ª‚ä‚¦‚É•a‹C‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚Í•sÛ¶‚ð‚µ‚½‚±‚Æ‚ªŒ´ˆö‚Å•a‹C‚É‚È‚Á‚½B
+Conj1677					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFŒ´ˆöŒ‹‰ÊŠÖŒW‚ÌŠÜˆÓ•s‰Ât		no	"conjunction, yueni, negation"	entailment		‚±‚ÌŽÊ^‚ÍA•”‰®‚ªˆÃ‚©‚Á‚½‚ª‚ä‚¦‚É•s‘N–¾‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚±‚ÌŽÊ^‚ÍA•”‰®‚ªˆÃ‚©‚Á‚½‚±‚Æ‚ªŒ´ˆö‚Å•s‘N–¾‚É‚È‚Á‚½B
+Conj1678					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFŒ´ˆöŒ‹‰ÊŠÖŒW‚ÌŠÜˆÓ•s‰Ât		no	"conjunction, yueni, negation"	entailment		‰ÔŽq‚ÍŽdŽ–‚ÅŽ¸”s‚ð‚µ‚½‚ª‚ä‚¦‚É‰ðŒÙ‚³‚ê‚½‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚ÍŽdŽ–‚ÅŽ¸”s‚ð‚µ‚½‚±‚Æ‚ªŒ´ˆö‚Å‰ðŒÙ‚³‚ê‚½B
+Conj1679					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFŒ´ˆöŒ‹‰ÊŠÖŒW‚ÌŠÜˆÓ•s‰Ât		no	"conjunction, yueni, negation"	entailment		‚»‚ÌŽ–ŒÌ‚ÍA“¹˜H‚ÌŒ©’Ê‚µ‚ªˆ«‚©‚Á‚½‚ª‚ä‚¦‚É‹N‚±‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚ÌŽ–ŒÌ‚ÍA“¹˜H‚ÌŒ©’Ê‚µ‚ªˆ«‚©‚Á‚½‚±‚Æ‚ªŒ´ˆö‚Å‹N‚±‚Á‚½B
+Conj1680					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFŒ´ˆöŒ‹‰ÊŠÖŒW‚ÌŠÜˆÓ•s‰Ât		no	"conjunction, yueni, negation"	entailment		‚»‚Ì”o—D‚ÍAƒXƒPƒWƒ…[ƒ‹‚ª‹l‚Ü‚Á‚Ä‚¢‚é‚ª‚ä‚¦‚É”Ô‘g‚Ö‚Ìo‰‰‚ð’f‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚Ì”o—D‚ÍAƒXƒPƒWƒ…[ƒ‹‚ª‹l‚Ü‚Á‚Ä‚¢‚é‚±‚Æ‚ªŒ´ˆö‚Å”Ô‘g‚Ö‚Ìo‰‰‚ð’f‚Á‚½B
+Conj1681					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"			‘¾˜Y‚Í•sÛ¶‚ð‚µ‚½‚ª‚ä‚¦‚É•a‹C‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚Í•sÛ¶‚ð‚µ‚½‚©‚ç•a‹C‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1682					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"			‚±‚ÌŽÊ^‚ÍA•”‰®‚ªˆÃ‚©‚Á‚½‚ª‚ä‚¦‚É•s‘N–¾‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚±‚ÌŽÊ^‚ÍA•”‰®‚ªˆÃ‚©‚Á‚½‚©‚ç•s‘N–¾‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1683					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"			‰ÔŽq‚ÍŽdŽ–‚ÅŽ¸”s‚ð‚µ‚½‚ª‚ä‚¦‚É‰ðŒÙ‚³‚ê‚½‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚ÍŽdŽ–‚ÅŽ¸”s‚ð‚µ‚½‚©‚ç‰ðŒÙ‚³‚ê‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1684					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"			‚»‚ÌŽ–ŒÌ‚ÍA“¹˜H‚ÌŒ©’Ê‚µ‚ªˆ«‚©‚Á‚½‚ª‚ä‚¦‚É‹N‚±‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚ÌŽ–ŒÌ‚ÍA“¹˜H‚ÌŒ©’Ê‚µ‚ªˆ«‚©‚Á‚½‚©‚ç‹N‚±‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1685					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"			‚»‚Ì”o—D‚ÍAƒXƒPƒWƒ…[ƒ‹‚ª‹l‚Ü‚Á‚Ä‚¢‚é‚ª‚ä‚¦‚É”Ô‘g‚Ö‚Ìo‰‰‚ð’f‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚Ì”o—D‚ÍAƒXƒPƒWƒ…[ƒ‹‚ª‹l‚Ü‚Á‚Ä‚¢‚é‚©‚ç”Ô‘g‚Ö‚Ìo‰‰‚ð’f‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1686					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í‚â‚â•sŽ©‘Rt		weakacceptable	"conjunction, yueni, negation"			‘¾˜Y‚Í•sÛ¶‚ð‚µ‚½‚ª‚ä‚¦‚É•a‹C‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚Í•sÛ¶‚ð‚µ‚½‚Ì‚Å•a‹C‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1687					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í‚â‚â•sŽ©‘Rt		weakacceptable	"conjunction, yueni, negation"			‚±‚ÌŽÊ^‚ÍA•”‰®‚ªˆÃ‚©‚Á‚½‚ª‚ä‚¦‚É•s‘N–¾‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚±‚ÌŽÊ^‚ÍA•”‰®‚ªˆÃ‚©‚Á‚½‚Ì‚Å•s‘N–¾‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1688					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í‚â‚â•sŽ©‘Rt		weakacceptable	"conjunction, yueni, negation"			‰ÔŽq‚ÍŽdŽ–‚ÅŽ¸”s‚ð‚µ‚½‚ª‚ä‚¦‚É‰ðŒÙ‚³‚ê‚½‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚ÍŽdŽ–‚ÅŽ¸”s‚ð‚µ‚½‚Ì‚Å‰ðŒÙ‚³‚ê‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1689					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í‚â‚â•sŽ©‘Rt		weakacceptable	"conjunction, yueni, negation"			‚»‚ÌŽ–ŒÌ‚ÍA“¹˜H‚ÌŒ©’Ê‚µ‚ªˆ«‚©‚Á‚½‚ª‚ä‚¦‚É‹N‚±‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚ÌŽ–ŒÌ‚ÍA“¹˜H‚ÌŒ©’Ê‚µ‚ªˆ«‚©‚Á‚½‚Ì‚Å‹N‚±‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1690					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í‚â‚â•sŽ©‘Rt		weakacceptable	"conjunction, yueni, negation"			‚»‚Ì”o—D‚ÍAƒXƒPƒWƒ…[ƒ‹‚ª‹l‚Ü‚Á‚Ä‚¢‚é‚ª‚ä‚¦‚É”Ô‘g‚Ö‚Ìo‰‰‚ð’f‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚Ì”o—D‚ÍAƒXƒPƒWƒ…[ƒ‹‚ª‹l‚Ü‚Á‚Ä‚¢‚é‚Ì‚Å”Ô‘g‚Ö‚Ìo‰‰‚ð’f‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1691					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚Í•sÛ¶‚ð‚µ‚½‚ª‚ä‚¦‚É•a‹C‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚Í•sÛ¶‚ð‚µ‚½‚½‚ß•a‹C‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1692					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‚±‚ÌŽÊ^‚ÍA•”‰®‚ªˆÃ‚©‚Á‚½‚ª‚ä‚¦‚É•s‘N–¾‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚±‚ÌŽÊ^‚ÍA•”‰®‚ªˆÃ‚©‚Á‚½‚½‚ß•s‘N–¾‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1693					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‰ÔŽq‚ÍŽdŽ–‚ÅŽ¸”s‚ð‚µ‚½‚ª‚ä‚¦‚É‰ðŒÙ‚³‚ê‚½‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚ÍŽdŽ–‚ÅŽ¸”s‚ð‚µ‚½‚½‚ß‰ðŒÙ‚³‚ê‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1694					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‚»‚ÌŽ–ŒÌ‚ÍA“¹˜H‚ÌŒ©’Ê‚µ‚ªˆ«‚©‚Á‚½‚ª‚ä‚¦‚É‹N‚±‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚ÌŽ–ŒÌ‚ÍA“¹˜H‚ÌŒ©’Ê‚µ‚ªˆ«‚©‚Á‚½‚½‚ß‹N‚±‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1695					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‚»‚Ì”o—D‚ÍAƒXƒPƒWƒ…[ƒ‹‚ª‹l‚Ü‚Á‚Ä‚¢‚é‚ª‚ä‚¦‚É”Ô‘g‚Ö‚Ìo‰‰‚ð’f‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚Ì”o—D‚ÍAƒXƒPƒWƒ…[ƒ‹‚ª‹l‚Ü‚Á‚Ä‚¢‚é‚½‚ß”Ô‘g‚Ö‚Ìo‰‰‚ð’f‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1696					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‘¾˜Y‚Í•sÛ¶‚ð‚µ‚½‚ª‚ä‚¦‚É•a‹C‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‘¾˜Y‚Í•sÛ¶‚ð‚µ‚½‚½‚ß‚É•a‹C‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1697					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‚±‚ÌŽÊ^‚ÍA•”‰®‚ªˆÃ‚©‚Á‚½‚ª‚ä‚¦‚É•s‘N–¾‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚±‚ÌŽÊ^‚ÍA•”‰®‚ªˆÃ‚©‚Á‚½‚½‚ß‚É•s‘N–¾‚É‚È‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1698					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‰ÔŽq‚ÍŽdŽ–‚ÅŽ¸”s‚ð‚µ‚½‚ª‚ä‚¦‚É‰ðŒÙ‚³‚ê‚½‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚ÍŽdŽ–‚ÅŽ¸”s‚ð‚µ‚½‚½‚ß‚É‰ðŒÙ‚³‚ê‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1699					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‚»‚ÌŽ–ŒÌ‚ÍA“¹˜H‚ÌŒ©’Ê‚µ‚ªˆ«‚©‚Á‚½‚ª‚ä‚¦‚É‹N‚±‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚ÌŽ–ŒÌ‚ÍA“¹˜H‚ÌŒ©’Ê‚µ‚ªˆ«‚©‚Á‚½‚½‚ß‚É‹N‚±‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1700					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu”Û’è„‚ª‚ä‚¦‚Év‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‚»‚Ì”o—D‚ÍAƒXƒPƒWƒ…[ƒ‹‚ª‹l‚Ü‚Á‚Ä‚¢‚é‚ª‚ä‚¦‚É”Ô‘g‚Ö‚Ìo‰‰‚ð’f‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B	‚»‚Ì”o—D‚ÍAƒXƒPƒWƒ…[ƒ‹‚ª‹l‚Ü‚Á‚Ä‚¢‚é‚½‚ß‚É”Ô‘g‚Ö‚Ìo‰‰‚ð’f‚Á‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1701					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		‹‹—¿‚ª‰º‚ª‚Á‚½‚ª‚ä‚¦‚ÉA’™‹à‚ª‘‚¦‚½‚í‚¯‚Å‚Í‚È‚¢B	‹‹—¿‚ª‰º‚ª‚Á‚½B
+Conj1702					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		‰J‚ª~‚Á‚½‚ª‚ä‚¦‚ÉAŠO‚Å—V‚×‚é‚í‚¯‚Å‚Í‚È‚¢B	‰J‚ª~‚Á‚½B
+Conj1703					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		“dŽÔ‚ª’x‚ê‚½‚ª‚ä‚¦‚ÉAŽžŠÔ’Ê‚è‚É“ž’…‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	“dŽÔ‚ª’x‚ê‚½B
+Conj1704					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		¡“ú‚Í^‰Ä“ú‚È‚ª‚ä‚¦‚ÉA‰ß‚²‚µ‚â‚·‚¢‚í‚¯‚Å‚Í‚È‚¢B	¡“ú‚Í^‰Ä“ú‚¾B
+Conj1705					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, yueni, negation"	entailment		‰ÔŽq‚Í‘¾˜Y‚ªŒ™‚¢‚È‚ª‚ä‚¦‚ÉA“¯È‚µ‚ÄŠð‚µ‚¢‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚Í‘¾˜Y‚ªŒ™‚¢‚¾B
+Conj1706					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áF‘OŒ‚ÌŠÜˆÓt		no	"conjunction, yueni, negation"	entailment		‹‹—¿‚ª‰º‚ª‚Á‚½‚ª‚ä‚¦‚ÉA’™‹à‚ª‘‚¦‚½‚í‚¯‚Å‚Í‚È‚¢B	’™‹à‚ª‘‚¦‚½B
+Conj1707					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áF‘OŒ‚ÌŠÜˆÓt		no	"conjunction, yueni, negation"	entailment		‰J‚ª~‚Á‚½‚ª‚ä‚¦‚ÉAŠO‚Å—V‚×‚é‚í‚¯‚Å‚Í‚È‚¢B	ŠO‚Å—V‚×‚éB
+Conj1708					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áF‘OŒ‚ÌŠÜˆÓt		no	"conjunction, yueni, negation"	entailment		“dŽÔ‚ª’x‚ê‚½‚ª‚ä‚¦‚ÉAŽžŠÔ’Ê‚è‚É“ž’…‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	ŽžŠÔ’Ê‚è‚É“ž’…‚µ‚½B
+Conj1709					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áF‘OŒ‚ÌŠÜˆÓt		no	"conjunction, yueni, negation"	entailment		¡“ú‚Í^‰Ä“ú‚È‚ª‚ä‚¦‚ÉA‰ß‚²‚µ‚â‚·‚¢‚í‚¯‚Å‚Í‚È‚¢B	¡“ú‚Í‰ß‚²‚µ‚â‚·‚¢B
+Conj1710					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áF‘OŒ‚ÌŠÜˆÓt		no	"conjunction, yueni, negation"	entailment		‰ÔŽq‚Í‘¾˜Y‚ªŒ™‚¢‚È‚ª‚ä‚¦‚ÉA“¯È‚µ‚ÄŠð‚µ‚¢‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚Í‘¾˜Y‚Æ“¯È‚µ‚ÄŠð‚µ‚¢B
+Conj1711					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFŒ´ˆöŒ‹‰ÊŠÖŒW‚ÌŠÜˆÓ•s‰Ât		no	"conjunction, yueni, negation"	entailment		‹‹—¿‚ª‰º‚ª‚Á‚½‚ª‚ä‚¦‚ÉA’™‹à‚ª‘‚¦‚½‚í‚¯‚Å‚Í‚È‚¢B	‹‹—¿‚ª‰º‚ª‚Á‚½‚±‚Æ‚ªŒ´ˆö‚ÅA’™‹à‚ª‘‚¦‚½B
+Conj1712					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFŒ´ˆöŒ‹‰ÊŠÖŒW‚ÌŠÜˆÓ•s‰Ât		no	"conjunction, yueni, negation"	entailment		‰J‚ª~‚Á‚½‚ª‚ä‚¦‚ÉAŠO‚Å—V‚×‚é‚í‚¯‚Å‚Í‚È‚¢B	‰J‚ª~‚Á‚½‚±‚Æ‚ªŒ´ˆö‚ÅAŠO‚Å—V‚×‚éB
+Conj1713					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFŒ´ˆöŒ‹‰ÊŠÖŒW‚ÌŠÜˆÓ•s‰Ât		no	"conjunction, yueni, negation"	entailment		“dŽÔ‚ª’x‚ê‚½‚ª‚ä‚¦‚ÉAŽžŠÔ’Ê‚è‚É“ž’…‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	“dŽÔ‚ª’x‚ê‚½‚±‚Æ‚ªŒ´ˆö‚ÅAŽžŠÔ’Ê‚è‚É“ž’…‚µ‚½B
+Conj1714					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFŒ´ˆöŒ‹‰ÊŠÖŒW‚ÌŠÜˆÓ•s‰Ât		no	"conjunction, yueni, negation"	entailment		¡“ú‚Í^‰Ä“ú‚È‚ª‚ä‚¦‚ÉA‰ß‚²‚µ‚â‚·‚¢‚í‚¯‚Å‚Í‚È‚¢B	¡“ú‚Í^‰Ä“ú‚Å‚ ‚é‚±‚Æ‚ªŒ´ˆö‚ÅA‰ß‚²‚µ‚â‚·‚¢B
+Conj1715					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFŒ´ˆöŒ‹‰ÊŠÖŒW‚ÌŠÜˆÓ•s‰Ât		no	"conjunction, yueni, negation"	entailment		‰ÔŽq‚Í‘¾˜Y‚ªŒ™‚¢‚È‚ª‚ä‚¦‚ÉA“¯È‚µ‚ÄŠð‚µ‚¢‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚ª‘¾˜Y‚ªŒ™‚¢‚Å‚ ‚é‚±‚Æ‚ªŒ´ˆö‚ÅA‰ÔŽq‚Í‘¾˜Y‚Æ“¯È‚µ‚ÄŠð‚µ‚¢B
+Conj1716					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‹‹—¿‚ª‰º‚ª‚Á‚½‚ª‚ä‚¦‚ÉA’™‹à‚ª‘‚¦‚½‚í‚¯‚Å‚Í‚È‚¢B	‹‹—¿‚ª‰º‚ª‚Á‚½‚©‚çA’™‹à‚ª‘‚¦‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1717					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‰J‚ª~‚Á‚½‚ª‚ä‚¦‚ÉAŠO‚Å—V‚×‚é‚í‚¯‚Å‚Í‚È‚¢B	‰J‚ª~‚Á‚½‚©‚çAŠO‚Å—V‚×‚é‚í‚¯‚Å‚Í‚È‚¢B
+Conj1718					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		“dŽÔ‚ª’x‚ê‚½‚ª‚ä‚¦‚ÉAŽžŠÔ’Ê‚è‚É“ž’…‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	“dŽÔ‚ª’x‚ê‚½‚©‚çAŽžŠÔ’Ê‚è‚É“ž’…‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1719					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		¡“ú‚Í^‰Ä“ú‚È‚ª‚ä‚¦‚ÉA‰ß‚²‚µ‚â‚·‚¢‚í‚¯‚Å‚Í‚È‚¢B	¡“ú‚Í^‰Ä“ú‚¾‚©‚çA‰ß‚²‚µ‚â‚·‚¢‚í‚¯‚Å‚Í‚È‚¢B
+Conj1720					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚©‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‰ÔŽq‚Í‘¾˜Y‚ªŒ™‚¢‚È‚ª‚ä‚¦‚ÉA“¯È‚µ‚ÄŠð‚µ‚¢‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚Í‘¾˜Y‚ªŒ™‚¢‚¾‚©‚çA“¯È‚µ‚ÄŠð‚µ‚¢‚í‚¯‚Å‚Í‚È‚¢B
+Conj1721					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‹‹—¿‚ª‰º‚ª‚Á‚½‚ª‚ä‚¦‚ÉA’™‹à‚ª‘‚¦‚½‚í‚¯‚Å‚Í‚È‚¢B	‹‹—¿‚ª‰º‚ª‚Á‚½‚Ì‚ÅA’™‹à‚ª‘‚¦‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1722					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‰J‚ª~‚Á‚½‚ª‚ä‚¦‚ÉAŠO‚Å—V‚×‚é‚í‚¯‚Å‚Í‚È‚¢B	‰J‚ª~‚Á‚½‚Ì‚ÅAŠO‚Å—V‚×‚é‚í‚¯‚Å‚Í‚È‚¢B
+Conj1723					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		“dŽÔ‚ª’x‚ê‚½‚ª‚ä‚¦‚ÉAŽžŠÔ’Ê‚è‚É“ž’…‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	“dŽÔ‚ª’x‚ê‚½‚Ì‚ÅAŽžŠÔ’Ê‚è‚É“ž’…‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1724					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		¡“ú‚Í^‰Ä“ú‚È‚ª‚ä‚¦‚ÉA‰ß‚²‚µ‚â‚·‚¢‚í‚¯‚Å‚Í‚È‚¢B	¡“ú‚Í^‰Ä“ú‚È‚Ì‚ÅA‰ß‚²‚µ‚â‚·‚¢‚í‚¯‚Å‚Í‚È‚¢B
+Conj1725					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚Ì‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‰ÔŽq‚Í‘¾˜Y‚ªŒ™‚¢‚È‚ª‚ä‚¦‚ÉA“¯È‚µ‚ÄŠð‚µ‚¢‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚Í‘¾˜Y‚ªŒ™‚¢‚È‚Ì‚ÅA“¯È‚µ‚ÄŠð‚µ‚¢‚í‚¯‚Å‚Í‚È‚¢B
+Conj1726					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‹‹—¿‚ª‰º‚ª‚Á‚½‚ª‚ä‚¦‚ÉA’™‹à‚ª‘‚¦‚½‚í‚¯‚Å‚Í‚È‚¢B	‹‹—¿‚ª‰º‚ª‚Á‚½‚½‚ßA’™‹à‚ª‘‚¦‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1727					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‰J‚ª~‚Á‚½‚ª‚ä‚¦‚ÉAŠO‚Å—V‚×‚é‚í‚¯‚Å‚Í‚È‚¢B	‰J‚ª~‚Á‚½‚½‚ßAŠO‚Å—V‚×‚é‚í‚¯‚Å‚Í‚È‚¢B
+Conj1728					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		“dŽÔ‚ª’x‚ê‚½‚ª‚ä‚¦‚ÉAŽžŠÔ’Ê‚è‚É“ž’…‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	“dŽÔ‚ª’x‚ê‚½‚½‚ßAŽžŠÔ’Ê‚è‚É“ž’…‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1729					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		¡“ú‚Í^‰Ä“ú‚È‚ª‚ä‚¦‚ÉA‰ß‚²‚µ‚â‚·‚¢‚í‚¯‚Å‚Í‚È‚¢B	¡“ú‚Í^‰Ä“ú‚È‚½‚ßA‰ß‚²‚µ‚â‚·‚¢‚í‚¯‚Å‚Í‚È‚¢B
+Conj1730					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ßv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‰ÔŽq‚Í‘¾˜Y‚ªŒ™‚¢‚È‚ª‚ä‚¦‚ÉA“¯È‚µ‚ÄŠð‚µ‚¢‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚Í‘¾˜Y‚ªŒ™‚¢‚È‚½‚ßA“¯È‚µ‚ÄŠð‚µ‚¢‚í‚¯‚Å‚Í‚È‚¢B
+Conj1731					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‹‹—¿‚ª‰º‚ª‚Á‚½‚ª‚ä‚¦‚ÉA’™‹à‚ª‘‚¦‚½‚í‚¯‚Å‚Í‚È‚¢B	‹‹—¿‚ª‰º‚ª‚Á‚½‚½‚ß‚ÉA’™‹à‚ª‘‚¦‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1732					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‰J‚ª~‚Á‚½‚ª‚ä‚¦‚ÉAŠO‚Å—V‚×‚é‚í‚¯‚Å‚Í‚È‚¢B	‰J‚ª~‚Á‚½‚½‚ß‚ÉAŠO‚Å—V‚×‚é‚í‚¯‚Å‚Í‚È‚¢B
+Conj1733					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		“dŽÔ‚ª’x‚ê‚½‚ª‚ä‚¦‚ÉAŽžŠÔ’Ê‚è‚É“ž’…‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B	“dŽÔ‚ª’x‚ê‚½‚½‚ß‚ÉAŽžŠÔ’Ê‚è‚É“ž’…‚µ‚½‚í‚¯‚Å‚Í‚È‚¢B
+Conj1734					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		¡“ú‚Í^‰Ä“ú‚È‚ª‚ä‚¦‚ÉA‰ß‚²‚µ‚â‚·‚¢‚í‚¯‚Å‚Í‚È‚¢B	¡“ú‚Í^‰Ä“ú‚Å‚ ‚é‚½‚ß‚ÉA‰ß‚²‚µ‚â‚·‚¢‚í‚¯‚Å‚Í‚È‚¢B
+Conj1735					su‚ª‚ä‚¦‚ÉvFŒ´ˆöŒ‹‰Ê—p–@‚Ìu‚ª‚ä‚¦‚ÉvF”Û’è‚Ìu‚í‚¯‚Å‚Í‚È‚¢v‚Æ‚ÌƒXƒR[ƒvŠÖŒWFu‚ª‚ä‚¦‚É„”Û’èv‚Ì—áFu‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, yueni, negation"	entailment		‰ÔŽq‚Í‘¾˜Y‚ªŒ™‚¢‚È‚ª‚ä‚¦‚ÉA“¯È‚µ‚ÄŠð‚µ‚¢‚í‚¯‚Å‚Í‚È‚¢B	‰ÔŽq‚Í‘¾˜Y‚ªŒ™‚¢‚Å‚ ‚é‚½‚ß‚ÉA“¯È‚µ‚ÄŠð‚µ‚¢‚í‚¯‚Å‚Í‚È‚¢B
+Conj1736					su‚ªvF‹tà‚Ìu‚ªvF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚ªA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾B
+Conj1737					su‚ªvF‹tà‚Ìu‚ªvF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		¡‚Í”ªŒŽ‚¾‚ªA‹C‰·‚ª’á‚¢B	¡‚Í”ªŒŽ‚¾B
+Conj1738					su‚ªvF‹tà‚Ìu‚ªvF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		‰ÔŽq‚Í—DG‚¾‚ªA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚Í—DG‚¾B
+Conj1739					su‚ªvF‹tà‚Ìu‚ªvF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚ªAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚Í”ß‚µ‚©‚Á‚½B
+Conj1740					su‚ªvF‹tà‚Ìu‚ªvF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		‚±‚Ì–{‚Í•ªŒú‚¢‚ªA‚·‚®‚É“Ç‚ÝI‚¦‚½B	‚±‚Ì–{‚Í•ªŒú‚¢B
+Conj1741					su‚ªvF‹tà‚Ìu‚ªvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚ªA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B
+Conj1742					su‚ªvF‹tà‚Ìu‚ªvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		¡‚Í”ªŒŽ‚¾‚ªA‹C‰·‚ª’á‚¢B	‹C‰·‚ª’á‚¢B
+Conj1743					su‚ªvF‹tà‚Ìu‚ªvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		‰ÔŽq‚Í—DG‚¾‚ªA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚Í‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B
+Conj1744					su‚ªvF‹tà‚Ìu‚ªvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚ªAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚ÍÎŠç‚ÅU‚é•‘‚Á‚½B
+Conj1745					su‚ªvF‹tà‚Ìu‚ªvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		‚±‚Ì–{‚Í•ªŒú‚¢‚ªA“Ç‚Ý‚â‚·‚¢B	‚±‚Ì–{‚Í“Ç‚Ý‚â‚·‚¢B
+Conj1746					su‚ªvF‹tà‚Ìu‚ªvFˆö‰ÊŠÖŒW‚ÌŠÜ‚Ýt		yes	"conjunction, ga"	CI		‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚ªA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‘¾˜Y‚ª‰ÔŽq‚Ì‚±‚Æ‚ðD‚«‚È‚ç‚ÎA‰ÔŽq‚Í‹C‚Ã‚­‚Í‚¸‚¾B
+Conj1747					su‚ªvF‹tà‚Ìu‚ªvFˆö‰ÊŠÖŒW‚ÌŠÜ‚Ýt		yes	"conjunction, ga"	CI		¡‚Í”ªŒŽ‚¾‚ªA‹C‰·‚ª’á‚¢B	¡‚ª”ªŒŽ‚È‚ç‚ÎA‹C‰·‚Í’á‚­‚È‚¢‚Í‚¸‚¾B
+Conj1748					su‚ªvF‹tà‚Ìu‚ªvFˆö‰ÊŠÖŒW‚ÌŠÜ‚Ýt		yes	"conjunction, ga"	CI		‰ÔŽq‚Í—DG‚¾‚ªA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚ª—DG‚È‚çA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚ª‚ ‚é‚Í‚¸‚¾B
+Conj1749					su‚ªvF‹tà‚Ìu‚ªvFˆö‰ÊŠÖŒW‚ÌŠÜ‚Ýt		yes	"conjunction, ga"	CI		‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚ªAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚ª”ß‚µ‚¢‚È‚çAÎŠç‚ÅU‚é•‘‚í‚È‚¢‚Í‚¸‚¾B
+Conj1750					su‚ªvF‹tà‚Ìu‚ªvFˆö‰ÊŠÖŒW‚ÌŠÜ‚Ýt		yes	"conjunction, ga"	CI		‚±‚Ì–{‚Í•ªŒú‚¢‚ªA“Ç‚Ý‚â‚·‚¢B	•ªŒú‚¢–{‚È‚çA“Ç‚Ý‚â‚·‚­‚Í‚È‚¢‚Í‚¸‚¾B
+Conj1751					su‚ªvF‹tà‚Ìu‚ªvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚ªA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚¯‚ê‚Ç‚àA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B
+Conj1752					su‚ªvF‹tà‚Ìu‚ªvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		¡‚Í”ªŒŽ‚¾‚ªA‹C‰·‚ª’á‚¢B	¡‚Í”ªŒŽ‚¾‚¯‚ê‚Ç‚àA‹C‰·‚ª’á‚¢B
+Conj1753					su‚ªvF‹tà‚Ìu‚ªvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		‰ÔŽq‚Í—DG‚¾‚ªA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚Í—DG‚¾‚¯‚ê‚Ç‚àA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B
+Conj1754					su‚ªvF‹tà‚Ìu‚ªvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚ªAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚¯‚ê‚Ç‚àAÎŠç‚ÅU‚é•‘‚Á‚½B
+Conj1755					su‚ªvF‹tà‚Ìu‚ªvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		‚±‚Ì–{‚Í•ªŒú‚¢‚ªA“Ç‚Ý‚â‚·‚¢B	‚±‚Ì–{‚Í•ªŒú‚¢‚¯‚ê‚Ç‚àA“Ç‚Ý‚â‚·‚¢B
+Conj1756					su‚ªvF‹tà‚Ìu‚ªvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚ªA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚È‚Ì‚ÉA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B
+Conj1757					su‚ªvF‹tà‚Ìu‚ªvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		¡‚Í”ªŒŽ‚¾‚ªA‹C‰·‚ª’á‚¢B	¡‚Í”ªŒŽ‚È‚Ì‚ÉA‹C‰·‚ª’á‚¢B
+Conj1758					su‚ªvF‹tà‚Ìu‚ªvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		‰ÔŽq‚Í—DG‚¾‚ªA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚Í—DG‚È‚Ì‚ÉA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B
+Conj1759					su‚ªvF‹tà‚Ìu‚ªvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, ga"			‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚ªAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚Ì‚ÉAÎŠç‚ÅU‚é•‘‚Á‚½B
+Conj1760					su‚ªvF‹tà‚Ìu‚ªvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		‚±‚Ì–{‚Í•ªŒú‚¢‚ªA“Ç‚Ý‚â‚·‚¢B	‚±‚Ì–{‚Í•ªŒú‚¢‚Ì‚ÉA“Ç‚Ý‚â‚·‚¢B
+Conj1761					su‚ªvF‹tà‚Ìu‚ªvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, ga"			‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚ªA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚È‚­‚¹‚ÉA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B
+Conj1762					su‚ªvF‹tà‚Ìu‚ªvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, ga"			¡‚Í”ªŒŽ‚¾‚ªA‹C‰·‚ª’á‚¢B	¡‚Í”ªŒŽ‚È‚­‚¹‚ÉA‹C‰·‚ª’á‚¢B
+Conj1763					su‚ªvF‹tà‚Ìu‚ªvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, ga"			‰ÔŽq‚Í—DG‚¾‚ªA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚Í—DG‚È‚­‚¹‚ÉA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B
+Conj1764					su‚ªvF‹tà‚Ìu‚ªvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, ga"			‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚ªAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚­‚¹‚ÉAÎŠç‚ÅU‚é•‘‚Á‚½B
+Conj1765					su‚ªvF‹tà‚Ìu‚ªvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, ga"			‚±‚Ì–{‚Í•ªŒú‚¢‚ªA“Ç‚Ý‚â‚·‚¢B	‚±‚Ì–{‚Í•ªŒú‚¢‚­‚¹‚ÉA“Ç‚Ý‚â‚·‚¢B
+Conj1766					su‚ªvF‹tà‚Ìu‚ªvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚ªA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚È‚ª‚çA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B
+Conj1767					su‚ªvF‹tà‚Ìu‚ªvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			¡‚Í”ªŒŽ‚¾‚ªA‹C‰·‚ª’á‚¢B	¡‚Í”ªŒŽ‚È‚ª‚çA‹C‰·‚ª’á‚¢B
+Conj1768					su‚ªvF‹tà‚Ìu‚ªvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			‰ÔŽq‚Í—DG‚¾‚ªA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚Í—DG‚È‚ª‚çA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B
+Conj1769					su‚ªvF‹tà‚Ìu‚ªvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚ªAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚È‚ª‚çAÎŠç‚ÅU‚é•‘‚Á‚½B
+Conj1770					su‚ªvF‹tà‚Ìu‚ªvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			‚±‚Ì–{‚Í•ªŒú‚¢‚ªA“Ç‚Ý‚â‚·‚¢B	‚±‚Ì–{‚Í•ªŒú‚¢‚È‚ª‚çA“Ç‚Ý‚â‚·‚¢B
+Conj1771					su‚ªvF‹tà‚Ìu‚ªvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, ga"			‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚ªA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚È‚à‚Ì‚ÌA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B
+Conj1772					su‚ªvF‹tà‚Ìu‚ªvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, ga"			¡‚Í”ªŒŽ‚¾‚ªA‹C‰·‚ª’á‚¢B	¡‚Í”ªŒŽ‚Å‚ ‚é‚à‚Ì‚ÌA‹C‰·‚ª’á‚¢B
+Conj1773					su‚ªvF‹tà‚Ìu‚ªvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, ga"			‰ÔŽq‚Í—DG‚¾‚ªA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚Í—DG‚Å‚ ‚é‚à‚Ì‚ÌA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B
+Conj1774					su‚ªvF‹tà‚Ìu‚ªvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, ga"			‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚ªAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚à‚Ì‚ÌAÎŠç‚ÅU‚é•‘‚Á‚½B
+Conj1775					su‚ªvF‹tà‚Ìu‚ªvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, ga"			‚±‚Ì–{‚Í•ªŒú‚¢‚ªA“Ç‚Ý‚â‚·‚¢B	‚±‚Ì–{‚Í•ªŒú‚¢‚à‚Ì‚ÌA“Ç‚Ý‚â‚·‚¢B
+Conj1776					su‚ªvF‹tà‚Ìu‚ªvF‡Ú‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚ªA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚ÅA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B
+Conj1777					su‚ªvF‹tà‚Ìu‚ªvF‡Ú‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		¡‚Í”ªŒŽ‚¾‚ªA‹C‰·‚ª’á‚¢B	¡‚Í”ªŒŽ‚ÅA‹C‰·‚ª’á‚¢B
+Conj1778					su‚ªvF‹tà‚Ìu‚ªvF‡Ú‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		‰ÔŽq‚Í—DG‚¾‚ªA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚Í—DG‚ÅA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚ª‚È‚¢B
+Conj1779					su‚ªvF‹tà‚Ìu‚ªvF‡Ú‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚ªAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚Í”ß‚µ‚­‚ÄAÎŠç‚ÅU‚é•‘‚Á‚½B
+Conj1780					su‚ªvF‹tà‚Ìu‚ªvF‡Ú‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		‚±‚Ì–{‚Í•ªŒú‚¢‚ªA“Ç‚Ý‚â‚·‚¢B	‚±‚Ì–{‚Í•ªŒú‚­‚ÄA“Ç‚Ý‚â‚·‚¢B
+Conj1781					su‚ªvFØ‚èo‚µ‚Ìu‚ªvF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚ªA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H	Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·B
+Conj1782					su‚ªvFØ‚èo‚µ‚Ìu‚ªvF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚ªA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H	Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·B
+Conj1783					su‚ªvFØ‚èo‚µ‚Ìu‚ªvF‘OŒ‚ÌŠÜˆÓt		weakacceptable	"conjunction, ga"			–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚ªAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B	–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·B
+Conj1784					su‚ªvFØ‚èo‚µ‚Ìu‚ªvF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚ªAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H	Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·B
+Conj1785					su‚ªvFØ‚èo‚µ‚Ìu‚ªvF‘OŒ‚ÌŠÜˆÓt		weakacceptable	"conjunction, ga"	entailment		–¾“ú‚Å‚·‚ªA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B	–¾“ú‚Å‚·B
+Conj1786					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚ªA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H	²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H
+Conj1787					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚ªA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H	‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H
+Conj1788					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚ªAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B	Š›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B
+Conj1789					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚ªAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H	Žè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H
+Conj1790					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		–¾“ú‚Å‚·‚ªA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B	’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B
+Conj1791					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚ªA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H	Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚¯‚ê‚Ç‚àA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H
+Conj1792					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚ªA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H	Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚¯‚ê‚Ç‚àA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H
+Conj1793					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚ªAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B	–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚¯‚ê‚Ç‚àAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B
+Conj1794					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚ªAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H	Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H
+Conj1795					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		–¾“ú‚Å‚·‚ªA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B	–¾“ú‚Å‚·‚¯‚ê‚Ç‚àA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B
+Conj1796					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚ªA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H	Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚Ì‚ÉA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H
+Conj1797					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚ªA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H	Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚Ì‚ÉA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H
+Conj1798					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚ªAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B	–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚Ì‚ÉAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B
+Conj1799					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚ªAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H	Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚Ì‚ÉAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H
+Conj1800					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			–¾“ú‚Å‚·‚ªA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B	–¾“ú‚Å‚·‚Ì‚ÉA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B
+Conj1801					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚ªA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H	Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚ ‚è‚È‚ª‚çA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H
+Conj1802					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚ªA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H	Œ»Ý‰“‹——£—öˆ¤’†‚Å‚ ‚è‚È‚ª‚çA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H
+Conj1803					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚ªAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B	–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚ ‚è‚È‚ª‚çAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B
+Conj1804					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚ªAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H	Z–¯•[‚ðˆÚ‚µ‚½‚¢‚È‚ª‚çAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H
+Conj1805					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			–¾“ú‚Å‚·‚ªA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B	–¾“ú‚È‚ª‚çA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B
+Conj1806					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚ªA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H	Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚ ‚é‚­‚¹‚ÉA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H
+Conj1807					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚ªA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H	Œ»Ý‰“‹——£—öˆ¤’†‚Å‚ ‚é‚­‚¹‚ÉA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H
+Conj1808					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚ªAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B	–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚ ‚é‚­‚¹‚ÉAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B
+Conj1809					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚ªAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H	Z–¯•[‚ðˆÚ‚µ‚½‚¢‚­‚¹‚ÉAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H
+Conj1810					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			–¾“ú‚Å‚·‚ªA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B	–¾“ú‚Å‚ ‚é‚­‚¹‚ÉA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B
+Conj1811					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚ªA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H	Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚ ‚é‚à‚Ì‚ÌA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H
+Conj1812					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚ªA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H	Œ»Ý‰“‹——£—öˆ¤’†‚Å‚ ‚é‚à‚Ì‚ÌA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H
+Conj1813					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚ªAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B	–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚ ‚é‚à‚Ì‚ÌAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B
+Conj1814					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚ªAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H	Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚ ‚é‚à‚Ì‚ÌAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H
+Conj1815					su‚ªvFØ‚èo‚µ‚Ìu‚ªvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			–¾“ú‚Å‚·‚ªA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B	–¾“ú‚Å‚ ‚é‚à‚Ì‚ÌA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B
+Conj1816					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvF“à—e‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚ñ‚Å‚·‚ªB	‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚Ì‚Å‚·B
+Conj1817					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvF“à—e‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚Å‚·‚ªB	ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚Å‚·B
+Conj1818					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvF“à—e‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		‚Í‚¢AŽ„‚ªŽR“c‚Å‚·‚ªB	‚Í‚¢AŽ„‚ªŽR“c‚Å‚·B
+Conj1819					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvF“à—e‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚Ü‚·‚ªB	•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚Ü‚·B
+Conj1820					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvF“à—e‚ÌŠÜˆÓt		yes	"conjunction, ga"	entailment		‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚Å‚·‚ªB	‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚Å‚·B
+Conj1821					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚ñ‚Å‚·‚ªB	‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚ñ‚Å‚·‚¯‚ê‚Ç‚àB
+Conj1822					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚Å‚·‚ªB	ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àB
+Conj1823					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		‚Í‚¢AŽ„‚ªŽR“c‚Å‚·‚ªB	‚Í‚¢AŽ„‚ªŽR“c‚Å‚·‚¯‚ê‚Ç‚àB
+Conj1824					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚Ü‚·‚ªB	•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚Ü‚·‚¯‚ê‚Ç‚àB
+Conj1825					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, ga"	entailment		‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚Å‚·‚ªB	‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àB
+Conj1826					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"conjunction, ga"			‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚ñ‚Å‚·‚ªB	‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚Ì‚ÉB
+Conj1827					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"conjunction, ga"			ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚Å‚·‚ªB	ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚ÉB
+Conj1828					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			‚Í‚¢AŽ„‚ªŽR“c‚Å‚·‚ªB	‚Í‚¢AŽ„‚ªŽR“c‚È‚Ì‚ÉB
+Conj1829					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"conjunction, ga"			•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚Ü‚·‚ªB	•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚é‚Ì‚ÉB
+Conj1830					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"conjunction, ga"			‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚Å‚·‚ªB	‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚ÉB
+Conj1831					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"conjunction, ga"			‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚ñ‚Å‚·‚ªB	‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚­‚¹‚ÉB
+Conj1832					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"conjunction, ga"			ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚Å‚·‚ªB	ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚­‚¹‚ÉB
+Conj1833					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			‚Í‚¢AŽ„‚ªŽR“c‚Å‚·‚ªB	‚Í‚¢AŽ„‚ªŽR“c‚È‚­‚¹‚ÉB
+Conj1834					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"conjunction, ga"			•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚Ü‚·‚ªB	•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚é‚­‚¹‚ÉB
+Conj1835					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"conjunction, ga"			‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚Å‚·‚ªB	‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚­‚¹‚ÉB
+Conj1836					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚ñ‚Å‚·‚ªB	‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚È‚ª‚çB
+Conj1837					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚Å‚·‚ªB	ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚È‚ª‚çB
+Conj1838					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			‚Í‚¢AŽ„‚ªŽR“c‚Å‚·‚ªB	‚Í‚¢AŽ„‚ªŽR“c‚Å‚ ‚é‚È‚ª‚çB
+Conj1839					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚Ü‚·‚ªB	•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚é‚È‚ª‚çB
+Conj1840					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚Å‚·‚ªB	‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚È‚ª‚çB
+Conj1841					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚ñ‚Å‚·‚ªB	‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚à‚Ì‚ÌB
+Conj1842					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚Å‚·‚ªB	ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚à‚Ì‚ÌB
+Conj1843					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			‚Í‚¢AŽ„‚ªŽR“c‚Å‚·‚ªB	‚Í‚¢AŽ„‚ªŽR“c‚È‚à‚Ì‚ÌB
+Conj1844					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚Ü‚·‚ªB	•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚é‚à‚Ì‚ÌB
+Conj1845					su‚ªvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚ªvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, ga"			‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚Å‚·‚ªB	‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚à‚Ì‚ÌB
+Conj1846					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚¯‚ê‚Ç‚àA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾B
+Conj1847					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		¡‚Í”ªŒŽ‚¾‚¯‚ê‚Ç‚àA‹C‰·‚ª’á‚¢B	¡‚Í”ªŒŽ‚¾B
+Conj1848					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		‰ÔŽq‚Í—DG‚¾‚¯‚ê‚Ç‚àA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚Í—DG‚¾B
+Conj1849					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚¯‚ê‚Ç‚àAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚Í”ß‚µ‚©‚Á‚½B
+Conj1850					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		‚±‚Ì–{‚Í•ªŒú‚¢‚¯‚ê‚Ç‚àA‚·‚®‚É“Ç‚ÝI‚¦‚½B	‚±‚Ì–{‚Í•ªŒú‚¢B
+Conj1851					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚¯‚ê‚Ç‚àA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B
+Conj1852					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		¡‚Í”ªŒŽ‚¾‚¯‚ê‚Ç‚àA‹C‰·‚ª’á‚¢B	‹C‰·‚ª’á‚¢B
+Conj1853					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		‰ÔŽq‚Í—DG‚¾‚¯‚ê‚Ç‚àA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚Í‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B
+Conj1854					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚¯‚ê‚Ç‚àAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚ÍÎŠç‚ÅU‚é•‘‚Á‚½B
+Conj1855					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		‚±‚Ì–{‚Í•ªŒú‚¢‚¯‚ê‚Ç‚àA‚·‚®‚É“Ç‚ÝI‚¦‚½B	‚±‚Ì–{‚Í“Ç‚Ý‚â‚·‚¢B
+Conj1856					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFˆö‰ÊŠÖŒW‚ÌŠÜ‚Ýt		yes	"conjunction, keredomo"	CI		‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚¯‚ê‚Ç‚àA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‘¾˜Y‚ª‰ÔŽq‚Ì‚±‚Æ‚ðD‚«‚È‚ç‚ÎA‰ÔŽq‚Í‹C‚Ã‚­‚Í‚¸‚¾B
+Conj1857					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFˆö‰ÊŠÖŒW‚ÌŠÜ‚Ýt		yes	"conjunction, keredomo"	CI		¡‚Í”ªŒŽ‚¾‚¯‚ê‚Ç‚àA‹C‰·‚ª’á‚¢B	¡‚ª”ªŒŽ‚È‚ç‚ÎA‹C‰·‚Í’á‚­‚È‚¢‚Í‚¸‚¾B
+Conj1858					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFˆö‰ÊŠÖŒW‚ÌŠÜ‚Ýt		yes	"conjunction, keredomo"	CI		‰ÔŽq‚Í—DG‚¾‚¯‚ê‚Ç‚àA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚ª—DG‚È‚çA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚ª‚ ‚é‚Í‚¸‚¾B
+Conj1859					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFˆö‰ÊŠÖŒW‚ÌŠÜ‚Ýt		yes	"conjunction, keredomo"	CI		‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚¯‚ê‚Ç‚àAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚ª”ß‚µ‚¢‚È‚çAÎŠç‚ÅU‚é•‘‚í‚È‚¢‚Í‚¸‚¾B
+Conj1860					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFˆö‰ÊŠÖŒW‚ÌŠÜ‚Ýt		yes	"conjunction, keredomo"	CI		‚±‚Ì–{‚Í•ªŒú‚¢‚¯‚ê‚Ç‚àA‚·‚®‚É“Ç‚ÝI‚¦‚½B	•ªŒú‚¢–{‚È‚çA“Ç‚Ý‚â‚·‚­‚Í‚È‚¢‚Í‚¸‚¾B
+Conj1861					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚ªv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚¯‚ê‚Ç‚àA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚ªA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B
+Conj1862					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚ªv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		¡‚Í”ªŒŽ‚¾‚¯‚ê‚Ç‚àA‹C‰·‚ª’á‚¢B	¡‚Í”ªŒŽ‚¾‚ªA‹C‰·‚ª’á‚¢B
+Conj1863					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚ªv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		‰ÔŽq‚Í—DG‚¾‚¯‚ê‚Ç‚àA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚Í—DG‚¾‚ªA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B
+Conj1864					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚ªv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚¯‚ê‚Ç‚àAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚ªAÎŠç‚ÅU‚é•‘‚Á‚½B
+Conj1865					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚ªv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		‚±‚Ì–{‚Í•ªŒú‚¢‚¯‚ê‚Ç‚àA‚·‚®‚É“Ç‚ÝI‚¦‚½B	‚±‚Ì–{‚Í•ªŒú‚¢‚ªA“Ç‚Ý‚â‚·‚¢B
+Conj1866					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚¯‚ê‚Ç‚àA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚È‚Ì‚ÉA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B
+Conj1867					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		¡‚Í”ªŒŽ‚¾‚¯‚ê‚Ç‚àA‹C‰·‚ª’á‚¢B	¡‚Í”ªŒŽ‚È‚Ì‚ÉA‹C‰·‚ª’á‚¢B
+Conj1868					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		‰ÔŽq‚Í—DG‚¾‚¯‚ê‚Ç‚àA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚Í—DG‚È‚Ì‚ÉA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B
+Conj1869					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, keredomo"			‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚¯‚ê‚Ç‚àAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚Ì‚ÉAÎŠç‚ÅU‚é•‘‚Á‚½B
+Conj1870					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		‚±‚Ì–{‚Í•ªŒú‚¢‚¯‚ê‚Ç‚àA‚·‚®‚É“Ç‚ÝI‚¦‚½B	‚±‚Ì–{‚Í•ªŒú‚¢‚Ì‚ÉA“Ç‚Ý‚â‚·‚¢B
+Conj1871					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, keredomo"			‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚¯‚ê‚Ç‚àA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚È‚­‚¹‚ÉA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B
+Conj1872					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, keredomo"			¡‚Í”ªŒŽ‚¾‚¯‚ê‚Ç‚àA‹C‰·‚ª’á‚¢B	¡‚Í”ªŒŽ‚È‚­‚¹‚ÉA‹C‰·‚ª’á‚¢B
+Conj1873					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, keredomo"			‰ÔŽq‚Í—DG‚¾‚¯‚ê‚Ç‚àA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚Í—DG‚È‚­‚¹‚ÉA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B
+Conj1874					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, keredomo"			‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚¯‚ê‚Ç‚àAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚­‚¹‚ÉAÎŠç‚ÅU‚é•‘‚Á‚½B
+Conj1875					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, keredomo"			‚±‚Ì–{‚Í•ªŒú‚¢‚¯‚ê‚Ç‚àA‚·‚®‚É“Ç‚ÝI‚¦‚½B	‚±‚Ì–{‚Í•ªŒú‚¢‚­‚¹‚ÉA“Ç‚Ý‚â‚·‚¢B
+Conj1876					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚¯‚ê‚Ç‚àA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚È‚ª‚çA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B
+Conj1877					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			¡‚Í”ªŒŽ‚¾‚¯‚ê‚Ç‚àA‹C‰·‚ª’á‚¢B	¡‚Í”ªŒŽ‚È‚ª‚çA‹C‰·‚ª’á‚¢B
+Conj1878					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			‰ÔŽq‚Í—DG‚¾‚¯‚ê‚Ç‚àA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚Í—DG‚È‚ª‚çA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B
+Conj1879					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚¯‚ê‚Ç‚àAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚È‚ª‚çAÎŠç‚ÅU‚é•‘‚Á‚½B
+Conj1880					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			‚±‚Ì–{‚Í•ªŒú‚¢‚¯‚ê‚Ç‚àA‚·‚®‚É“Ç‚ÝI‚¦‚½B	‚±‚Ì–{‚Í•ªŒú‚¢‚È‚ª‚çA“Ç‚Ý‚â‚·‚¢B
+Conj1881					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, keredomo"			‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚¯‚ê‚Ç‚àA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚È‚à‚Ì‚ÌA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B
+Conj1882					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, keredomo"			¡‚Í”ªŒŽ‚¾‚¯‚ê‚Ç‚àA‹C‰·‚ª’á‚¢B	¡‚Í”ªŒŽ‚Å‚ ‚é‚à‚Ì‚ÌA‹C‰·‚ª’á‚¢B
+Conj1883					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, keredomo"			‰ÔŽq‚Í—DG‚¾‚¯‚ê‚Ç‚àA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚Í—DG‚Å‚ ‚é‚à‚Ì‚ÌA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B
+Conj1884					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, keredomo"			‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚¯‚ê‚Ç‚àAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚à‚Ì‚ÌAÎŠç‚ÅU‚é•‘‚Á‚½B
+Conj1885					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"conjunction, keredomo"			‚±‚Ì–{‚Í•ªŒú‚¢‚¯‚ê‚Ç‚àA‚·‚®‚É“Ç‚ÝI‚¦‚½B	‚±‚Ì–{‚Í•ªŒú‚¢‚à‚Ì‚ÌA“Ç‚Ý‚â‚·‚¢B
+Conj1886					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvF‡Ú‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚¾‚¯‚ê‚Ç‚àA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B	‘¾˜Y‚Í‰ÔŽq‚Ì‚±‚Æ‚ªD‚«‚ÅA‰ÔŽq‚Í‹C‚Ã‚¢‚Ä‚¢‚È‚¢B
+Conj1887					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvF‡Ú‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		¡‚Í”ªŒŽ‚¾‚¯‚ê‚Ç‚àA‹C‰·‚ª’á‚¢B	¡‚Í”ªŒŽ‚ÅA‹C‰·‚ª’á‚¢B
+Conj1888					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvF‡Ú‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		‰ÔŽq‚Í—DG‚¾‚¯‚ê‚Ç‚àA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚Í‚È‚¢B	‰ÔŽq‚Í—DG‚ÅA‚»‚ê‚ð•@‚É‚©‚¯‚½‚±‚Æ‚ª‚È‚¢B
+Conj1889					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvF‡Ú‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		‘¾˜Y‚Í”ß‚µ‚©‚Á‚½‚¯‚ê‚Ç‚àAÎŠç‚ÅU‚é•‘‚Á‚½B	‘¾˜Y‚Í”ß‚µ‚­‚ÄAÎŠç‚ÅU‚é•‘‚Á‚½B
+Conj1890					su‚¯‚ê‚Ç‚àvF‹tà‚Ìu‚¯‚ê‚Ç‚àvF‡Ú‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		‚±‚Ì–{‚Í•ªŒú‚¢‚¯‚ê‚Ç‚àA‚·‚®‚É“Ç‚ÝI‚¦‚½B	‚±‚Ì–{‚Í•ªŒú‚­‚ÄA“Ç‚Ý‚â‚·‚¢B
+Conj1891					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚¯‚ê‚Ç‚àA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H	Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·B
+Conj1892					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚¯‚ê‚Ç‚àA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H	Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·B
+Conj1893					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvF‘OŒ‚ÌŠÜˆÓt		weakacceptable	"conjunction, keredomo"			–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚¯‚ê‚Ç‚àAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B	–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·B
+Conj1894					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvF‘OŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H	Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·B
+Conj1895					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvF‘OŒ‚ÌŠÜˆÓt		weakacceptable	"conjunction, keredomo"	entailment		–¾“ú‚Å‚·‚¯‚ê‚Ç‚àA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B	–¾“ú‚Å‚·B
+Conj1896					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚¯‚ê‚Ç‚àA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H	²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H
+Conj1897					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚¯‚ê‚Ç‚àA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H	‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H
+Conj1898					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚¯‚ê‚Ç‚àAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B	Š›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B
+Conj1899					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H	Žè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H
+Conj1900					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFŒãŒ‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		–¾“ú‚Å‚·‚¯‚ê‚Ç‚àA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B	’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B
+Conj1901					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚¯‚ê‚Ç‚àA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H	Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚ªA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H
+Conj1902					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚¯‚ê‚Ç‚àA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H	Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚ªA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H
+Conj1903					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚¯‚ê‚Ç‚àAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B	–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚ªAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B
+Conj1904					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H	Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚ªAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H
+Conj1905					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚¯‚ê‚Ç‚àv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		–¾“ú‚Å‚·‚¯‚ê‚Ç‚àA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B	–¾“ú‚Å‚·‚ªA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B
+Conj1906					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚¯‚ê‚Ç‚àA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H	Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚Ì‚ÉA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H
+Conj1907					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚¯‚ê‚Ç‚àA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H	Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚Ì‚ÉA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H
+Conj1908					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚¯‚ê‚Ç‚àAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B	–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚Ì‚ÉAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B
+Conj1909					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H	Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚Ì‚ÉAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H
+Conj1910					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			–¾“ú‚Å‚·‚¯‚ê‚Ç‚àA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B	–¾“ú‚Å‚·‚Ì‚ÉA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B
+Conj1911					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚¯‚ê‚Ç‚àA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H	Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚ ‚è‚È‚ª‚çA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H
+Conj1912					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚¯‚ê‚Ç‚àA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H	Œ»Ý‰“‹——£—öˆ¤’†‚Å‚ ‚è‚È‚ª‚çA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H
+Conj1913					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚¯‚ê‚Ç‚àAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B	–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚ ‚è‚È‚ª‚çAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B
+Conj1914					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H	Z–¯•[‚ðˆÚ‚µ‚½‚¢‚È‚ª‚çAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H
+Conj1915					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			–¾“ú‚Å‚·‚¯‚ê‚Ç‚àA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B	–¾“ú‚È‚ª‚çA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B
+Conj1916					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚¯‚ê‚Ç‚àA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H	Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚ ‚é‚­‚¹‚ÉA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H
+Conj1917					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚¯‚ê‚Ç‚àA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H	Œ»Ý‰“‹——£—öˆ¤’†‚Å‚ ‚é‚­‚¹‚ÉA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H
+Conj1918					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚¯‚ê‚Ç‚àAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B	–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚ ‚é‚­‚¹‚ÉAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B
+Conj1919					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H	Z–¯•[‚ðˆÚ‚µ‚½‚¢‚­‚¹‚ÉAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H
+Conj1920					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			–¾“ú‚Å‚·‚¯‚ê‚Ç‚àA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B	–¾“ú‚Å‚ ‚é‚­‚¹‚ÉA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B
+Conj1921					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚·‚¯‚ê‚Ç‚àA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H	Ž„‚ÍŽR“c‚Æ‚¢‚¤ŽÒ‚Å‚ ‚é‚à‚Ì‚ÌA²“¡‚³‚ñ‚Í‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚·‚©H
+Conj1922					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			Œ»Ý‰“‹——£—öˆ¤’†‚Å‚·‚¯‚ê‚Ç‚àA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H	Œ»Ý‰“‹——£—öˆ¤’†‚Å‚ ‚é‚à‚Ì‚ÌA‚Ç‚¤‚·‚ê‚Î”ÞŽ‚Æ‚¤‚Ü‚­‚¢‚«‚Ü‚·‚©H
+Conj1923					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚·‚¯‚ê‚Ç‚àAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B	–{“ú‚ÌƒƒCƒ“ƒfƒBƒbƒVƒ…‚Å‚ ‚é‚à‚Ì‚ÌAŠ›‚Ìƒ[ƒXƒg‚ð‚²—pˆÓ‚µ‚Ä‚¢‚Ü‚·B
+Conj1924					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H	Z–¯•[‚ðˆÚ‚µ‚½‚¢‚Ì‚Å‚ ‚é‚à‚Ì‚ÌAŽè‘±‚«‚É‚Í‰½‚ª•K—v‚Å‚·‚©H
+Conj1925					su‚¯‚ê‚Ç‚àvFØ‚èo‚µ‚Ìu‚¯‚ê‚Ç‚àvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			–¾“ú‚Å‚·‚¯‚ê‚Ç‚àA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B	–¾“ú‚Å‚ ‚é‚à‚Ì‚ÌA’¬“à‚Ì‰Ô‰Î‘å‰ï‚ªŠJÃ‚³‚ê‚Ü‚·B
+Conj1926					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvF“à—e‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚ñ‚Å‚·‚¯‚ê‚Ç‚àB	‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚Ì‚Å‚·B
+Conj1927					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvF“à—e‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àB	ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚Å‚·B
+Conj1928					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvF“à—e‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		‚Í‚¢AŽ„‚ªŽR“c‚Å‚·‚¯‚ê‚Ç‚àB	‚Í‚¢AŽ„‚ªŽR“c‚Å‚·B
+Conj1929					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvF“à—e‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚Ü‚·‚¯‚ê‚Ç‚àB	•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚Ü‚·B
+Conj1930					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvF“à—e‚ÌŠÜˆÓt		yes	"conjunction, keredomo"	entailment		‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àB	‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚Å‚·B
+Conj1931					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚ªv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚ñ‚Å‚·‚¯‚ê‚Ç‚àB	‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚ñ‚Å‚·‚ªB
+Conj1932					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚ªv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àB	ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚Å‚·‚ªB
+Conj1933					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚ªv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		‚Í‚¢AŽ„‚ªŽR“c‚Å‚·‚¯‚ê‚Ç‚àB	‚Í‚¢AŽ„‚ªŽR“c‚Å‚·‚ªB
+Conj1934					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚ªv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚Ü‚·‚¯‚ê‚Ç‚àB	•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚Ü‚·‚ªB
+Conj1935					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚ªv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"conjunction, keredomo"	entailment		‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àB	‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚Å‚·‚ªB
+Conj1936					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"conjunction, keredomo"			‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚ñ‚Å‚·‚¯‚ê‚Ç‚àB	‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚Ì‚ÉB
+Conj1937					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"conjunction, keredomo"			ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àB	ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚ÉB
+Conj1938					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			‚Í‚¢AŽ„‚ªŽR“c‚Å‚·‚¯‚ê‚Ç‚àB	‚Í‚¢AŽ„‚ªŽR“c‚È‚Ì‚ÉB
+Conj1939					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"conjunction, keredomo"			•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚Ü‚·‚¯‚ê‚Ç‚àB	•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚é‚Ì‚ÉB
+Conj1940					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚Ì‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"conjunction, keredomo"			‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àB	‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚ÉB
+Conj1941					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"conjunction, keredomo"			‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚ñ‚Å‚·‚¯‚ê‚Ç‚àB	‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚­‚¹‚ÉB
+Conj1942					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"conjunction, keredomo"			ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àB	ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚­‚¹‚ÉB
+Conj1943					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			‚Í‚¢AŽ„‚ªŽR“c‚Å‚·‚¯‚ê‚Ç‚àB	‚Í‚¢AŽ„‚ªŽR“c‚È‚­‚¹‚ÉB
+Conj1944					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"conjunction, keredomo"			•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚Ü‚·‚¯‚ê‚Ç‚àB	•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚é‚­‚¹‚ÉB
+Conj1945					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚­‚¹‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"conjunction, keredomo"			‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àB	‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚­‚¹‚ÉB
+Conj1946					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚ñ‚Å‚·‚¯‚ê‚Ç‚àB	‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚È‚ª‚çB
+Conj1947					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àB	ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚È‚ª‚çB
+Conj1948					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			‚Í‚¢AŽ„‚ªŽR“c‚Å‚·‚¯‚ê‚Ç‚àB	‚Í‚¢AŽ„‚ªŽR“c‚Å‚ ‚é‚È‚ª‚çB
+Conj1949					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚Ü‚·‚¯‚ê‚Ç‚àB	•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚é‚È‚ª‚çB
+Conj1950					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚È‚ª‚çv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àB	‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚È‚ª‚çB
+Conj1951					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚ñ‚Å‚·‚¯‚ê‚Ç‚àB	‚±‚Ì–â‘è‚ª“ï‚µ‚­‚Ä‚æ‚­•ª‚©‚ç‚È‚¢‚à‚Ì‚ÌB
+Conj1952					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àB	ŽR“c‚³‚ñ‚É˜A—‚ðŽæ‚è‚½‚¢‚à‚Ì‚ÌB
+Conj1953					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			‚Í‚¢AŽ„‚ªŽR“c‚Å‚·‚¯‚ê‚Ç‚àB	‚Í‚¢AŽ„‚ªŽR“c‚È‚à‚Ì‚ÌB
+Conj1954					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚Ü‚·‚¯‚ê‚Ç‚àB	•¾ŽÐ‚Å‚ÍŽR“c‚ª‚»‚ÌŒ‚ð’S“–‚µ‚Ä‚¢‚é‚à‚Ì‚ÌB
+Conj1955					su‚¯‚ê‚Ç‚àvFŒ¾‚¢Ø‚è‰ñ”ð‚Ìu‚¯‚ê‚Ç‚àvFu‚à‚Ì‚Ìv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"conjunction, keredomo"			‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚Ì‚Å‚·‚¯‚ê‚Ç‚àB	‚ ‚È‚½‚ÌÀ‰E‚Ì–Á‚ð‹³‚¦‚Ä‚¢‚½‚¾‚«‚½‚¢‚à‚Ì‚ÌB
