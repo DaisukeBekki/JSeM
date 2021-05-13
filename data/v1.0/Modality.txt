@@ -407,13 +407,13 @@ Mod406					su‚Ý‚½‚¢‚¾vF”ä‹µ‚Ìu‚Ý‚½‚¢‚¾vFu‚ç‚µ‚¢v‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•s‰Ât		u
 Mod407					su‚Ý‚½‚¢‚¾vF”ä‹µ‚Ìu‚Ý‚½‚¢‚¾vFu‚ç‚µ‚¢v‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•s‰Ât		unacceptable	"modality, mitai"			‘¾˜Y‚ÌŠç‚ÍÔ‚­A‚Ü‚é‚ÅŒ‚Á•¥‚Á‚Ä‚¢‚é‚Ý‚½‚¢‚¾B	‘¾˜Y‚ÌŠç‚ÍÔ‚­A‚Ü‚é‚ÅŒ‚Á•¥‚Á‚Ä‚¢‚é‚ç‚µ‚¢B															
 Mod408					su‚Ý‚½‚¢‚¾vF”ä‹µ‚Ìu‚Ý‚½‚¢‚¾vFu‚ç‚µ‚¢v‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•s‰Ât		unacceptable	"modality, mitai"			‚ ‚Ì•v•w‚ð‹v‚µ‚Ô‚è‚ÉŒ©‚½‚ªA¡‚¾‚ÉV¥‚Ý‚½‚¢‚¾‚Á‚½B	‚ ‚Ì•v•w‚ð‹v‚µ‚Ô‚è‚ÉŒ©‚½‚ªA¡‚¾‚ÉV¥‚ç‚µ‚©‚Á‚½B															
 Mod409					su‚Ý‚½‚¢‚¾vF”ä‹µ‚Ìu‚Ý‚½‚¢‚¾vFu‚ç‚µ‚¢v‚Ö‚ÌŒ¾‚¢Š·‚¦‚Í•s‰Ât		unacceptable	"modality, mitai"			‰ÔŽq‚Íƒgƒbƒv‚Å‘–‚è‘±‚¯‚Ä‚¨‚èA‚ ‚½‚©‚à”æ‚ê‚é‚±‚Æ‚ð’m‚ç‚È‚¢‚Ý‚½‚¢‚¾B	‰ÔŽq‚Íƒgƒbƒv‚Å‘–‚è‘±‚¯‚Ä‚¨‚èA‚ ‚½‚©‚à”æ‚ê‚é‚±‚Æ‚ð’m‚ç‚È‚¢‚ç‚µ‚¢B															
-Mod410					su‚Ý‚½‚¢‚¾vF”ä‹µ‚Ìu‚Ý‚½‚¢‚¾vFu‚©‚Ì‚Ý‚½‚¢‚¾v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"modality, mitai"			‰ÔŽq‚Ì•”‰º‚Ö‚Ì’ˆÓ‚ÌŽd•û‚ÍA‚Ü‚é‚Åe‚ªŽq‹Ÿ‚ðŽ¶‚è•t‚¯‚Ä‚¢‚é‚Ý‚½‚¢‚¾B	‰ÔŽq‚Ì•”‰º‚Ö‚Ì’ˆÓ‚ÌŽd•û‚ÍA‚Ü‚é‚Åe‚ªŽq‹Ÿ‚ðŽ¶‚è•t‚¯‚Ä‚¢‚é‚©‚Ì‚Ý‚½‚¢‚¾B															
-Mod411					su‚Ý‚½‚¢‚¾vF”ä‹µ‚Ìu‚Ý‚½‚¢‚¾vFu‚©‚Ì‚Ý‚½‚¢‚¾v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"modality, mitai"			‘¾˜Y‚ÌŠç‚ÍÔ‚­A‚Ü‚é‚ÅŒ‚Á•¥‚Á‚Ä‚¢‚é‚Ý‚½‚¢‚¾B	‘¾˜Y‚ÌŠç‚ÍÔ‚­A‚Ü‚é‚ÅŒ‚Á•¥‚Á‚Ä‚¢‚é‚©‚Ì‚Ý‚½‚¢‚¾B															
-Mod412					su‚Ý‚½‚¢‚¾vF”ä‹µ‚Ìu‚Ý‚½‚¢‚¾vFu‚©‚Ì‚Ý‚½‚¢‚¾v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"modality, mitai"			‰ÔŽq‚Íƒgƒbƒv‚Å‘–‚è‘±‚¯‚Ä‚¨‚èA‚ ‚½‚©‚à”æ‚ê‚é‚±‚Æ‚ð’m‚ç‚È‚¢‚Ý‚½‚¢‚¾B	‰ÔŽq‚Íƒgƒbƒv‚Å‘–‚è‘±‚¯‚Ä‚¨‚èA‚ ‚½‚©‚à”æ‚ê‚é‚±‚Æ‚ð’m‚ç‚È‚¢‚©‚Ì‚Ý‚½‚¢‚¾B															
-Mod413					su‚Ý‚½‚¢‚¾vF”ä‹µ‚Ìu‚Ý‚½‚¢‚¾vFu‚Ý‚½‚¢‚¾v‚Ì•t‚­–½‘è“à—e‚Í‹Ut		no	"modality, mitai"	presupposition		‰ÔŽq‚Í‚Ü‚é‚Å’j‚Ì‚Ý‚½‚¢‚¾B	‰ÔŽq‚Í’j‚¾B															
+Mod410					su‚Ý‚½‚¢‚¾vF”ä‹µ‚Ìu‚Ý‚½‚¢‚¾vFu‚©‚Ì‚æ‚¤‚¾v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"modality, mitai"			‰ÔŽq‚Ì•”‰º‚Ö‚Ì’ˆÓ‚ÌŽd•û‚ÍA‚Ü‚é‚Åe‚ªŽq‹Ÿ‚ðŽ¶‚è•t‚¯‚Ä‚¢‚é‚Ý‚½‚¢‚¾B	‰ÔŽq‚Ì•”‰º‚Ö‚Ì’ˆÓ‚ÌŽd•û‚ÍA‚Ü‚é‚Åe‚ªŽq‹Ÿ‚ðŽ¶‚è•t‚¯‚Ä‚¢‚é‚©‚Ì‚æ‚¤‚¾B															
+Mod411					su‚Ý‚½‚¢‚¾vF”ä‹µ‚Ìu‚Ý‚½‚¢‚¾vFu‚©‚Ì‚æ‚¤‚¾v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"modality, mitai"			‘¾˜Y‚ÌŠç‚ÍÔ‚­A‚Ü‚é‚ÅŒ‚Á•¥‚Á‚Ä‚¢‚é‚Ý‚½‚¢‚¾B	‘¾˜Y‚ÌŠç‚ÍÔ‚­A‚Ü‚é‚ÅŒ‚Á•¥‚Á‚Ä‚¢‚é‚©‚Ì‚æ‚¤‚¾B															
+Mod412					su‚Ý‚½‚¢‚¾vF”ä‹µ‚Ìu‚Ý‚½‚¢‚¾vFu‚©‚Ì‚æ‚¤‚¾v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"modality, mitai"			‰ÔŽq‚Íƒgƒbƒv‚Å‘–‚è‘±‚¯‚Ä‚¨‚èA‚ ‚½‚©‚à”æ‚ê‚é‚±‚Æ‚ð’m‚ç‚È‚¢‚Ý‚½‚¢‚¾B	‰ÔŽq‚Íƒgƒbƒv‚Å‘–‚è‘±‚¯‚Ä‚¨‚èA‚ ‚½‚©‚à”æ‚ê‚é‚±‚Æ‚ð’m‚ç‚È‚¢‚©‚Ì‚æ‚¤‚¾B															
+Mod413					su‚Ý‚½‚¢‚¾vF”ä‹µ‚Ìu‚Ý‚½‚¢‚¾vFu‚Ý‚½‚¢‚¾v‚Ì•t‚­–½‘è“à—e‚Í‹Ut		no	"modality, mitai"	presupposition		‰ÔŽq‚Í‚Ü‚é‚Å’j‚Ý‚½‚¢‚¾B	‰ÔŽq‚Í’j‚¾B															
 Mod414					su‚Ý‚½‚¢‚¾vF”ä‹µ‚Ìu‚Ý‚½‚¢‚¾vFu‚Ý‚½‚¢‚¾v‚Ì•t‚­–½‘è“à—e‚Í‹Ut		no	"modality, mitai"	presupposition		‘¾˜Y‚Í‚Ü‚é‚ÅŒ‚Á•¥‚Á‚Ä‚¢‚é‚Ý‚½‚¢‚¾B	‘¾˜Y‚ÍŒ‚Á•¥‚Á‚Ä‚¢‚éB															
 Mod415					su‚Ý‚½‚¢‚¾vF”ä‹µ‚Ìu‚Ý‚½‚¢‚¾vFu‚Ý‚½‚¢‚¾v‚Ì•t‚­–½‘è“à—e‚Í‹Ut		no	"modality, mitai"	presupposition		‰ÔŽq‚Í‚ ‚½‚©‚à”æ‚ê‚é‚±‚Æ‚ð’m‚ç‚È‚¢‚Ý‚½‚¢‚¾B	‰ÔŽq‚Í”æ‚ê‚é‚±‚Æ‚ð’m‚ç‚È‚¢B															
-Mod416					su‚Ý‚½‚¢‚¾vF”ä‹µ‚Ìu‚Ý‚½‚¢‚¾vFu‚Ý‚½‚¢‚¾v‚Ì•t‚­–½‘è“à—e‚Í‹Ut		no	"modality, mitai"	presupposition		‚»‚ÌƒKƒ‰ƒX×H‚ÍA–{•¨‚Ìƒ_ƒCƒ„‚Ì‚Ý‚½‚¢‚¾‚Á‚½B	‚»‚ÌƒKƒ‰ƒX×H‚Í–{•¨‚Ìƒ_ƒCƒ„‚¾‚Á‚½B															
+Mod416					su‚Ý‚½‚¢‚¾vF”ä‹µ‚Ìu‚Ý‚½‚¢‚¾vFu‚Ý‚½‚¢‚¾v‚Ì•t‚­–½‘è“à—e‚Í‹Ut		no	"modality, mitai"	presupposition		‚»‚ÌƒKƒ‰ƒX×H‚ÍA–{•¨‚Ìƒ_ƒCƒ„‚Ý‚½‚¢‚¾‚Á‚½B	‚»‚ÌƒKƒ‰ƒX×H‚Í–{•¨‚Ìƒ_ƒCƒ„‚¾‚Á‚½B															
 Mod417					su‚Ý‚½‚¢‚ÉvFŽ–—á‚©‚ç‚Ì’ŠÛ‰»‚ð•\‚·u‚Ý‚½‚¢‚ÉvFu‚Ý‚½‚¢‚Év‚Ì•t‚­–½‘è‚Í^t		yes	"modality, mitaini"	entailment		—¼e‚ªŽ„‚Éˆ¤î‚ð’‚¢‚Å‚­‚ê‚½‚Ý‚½‚¢‚ÉAŽ„‚àŽ©•ª‚ÌŽq‹Ÿ‚Éˆ¤î‚ð’‚¬‚½‚¢B	—¼e‚ÍŽ„‚Éˆ¤î‚ð’‚¢‚Å‚­‚ê‚½B															
 Mod418					su‚Ý‚½‚¢‚ÉvFŽ–—á‚©‚ç‚Ì’ŠÛ‰»‚ð•\‚·u‚Ý‚½‚¢‚ÉvFu‚Ý‚½‚¢‚Év‚Ì•t‚­–½‘è‚Í^t		yes	"modality, mitaini"	entailment		¡‚ ‚È‚½‚ª•s–ž‚ðŠ´‚¶‚Ä‚¢‚é‚Ý‚½‚¢‚ÉA‚©‚Â‚ÄŽ„‚à¢‚Ì’†‚É‘Î‚µ‚Ä•s–ž‚ðŠ´‚¶‚Ä‚¢‚½B	¡‚ ‚È‚½‚Í•s–ž‚ðŠ´‚¶‚Ä‚¢‚éB															
 Mod419					su‚Ý‚½‚¢‚ÉvFŽ–—á‚©‚ç‚Ì’ŠÛ‰»‚ð•\‚·u‚Ý‚½‚¢‚ÉvFu`i‚Ìj‚Æ“¯‚¶‚æ‚¤‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"modality, mitaini"	entailment		—¼e‚ªŽ„‚É‚µ‚Ä‚­‚ê‚½‚Ý‚½‚¢‚ÉAŽ„‚àŽ©•ª‚ÌŽq‹Ÿ‚Éˆ¤î‚ð’‚¬‚½‚¢B	—¼e‚ªŽ„‚É‚µ‚Ä‚­‚ê‚½‚Ì‚Æ“¯‚¶‚æ‚¤‚ÉAŽ„‚àŽ©•ª‚ÌŽq‹Ÿ‚Éˆ¤î‚ð’‚¬‚½‚¢B															
@@ -421,8 +421,8 @@ Mod420					su‚Ý‚½‚¢‚ÉvFŽ–—á‚©‚ç‚Ì’ŠÛ‰»‚ð•\‚·u‚Ý‚½‚¢‚ÉvFu`i‚Ìj‚Æ“¯‚¶‚
 Mod421					su‚Ý‚½‚¢‚ÉvFŽ–—á‚©‚ç‚Ì’ŠÛ‰»‚ð•\‚·u‚Ý‚½‚¢‚ÉvFu`i‚Ìj‚Æ“¯‚¶‚æ‚¤‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"modality, mitaini"	entailment		“ú–{‚àƒAƒƒŠƒJ‚Ý‚½‚¢‚ÉL‚­ˆÚ–¯‚ðŽó‚¯“ü‚ê‚é‚×‚«‚¾B	“ú–{‚àƒAƒƒŠƒJ‚Æ“¯‚¶‚æ‚¤‚ÉL‚­ˆÚ–¯‚ðŽó‚¯“ü‚ê‚é‚×‚«‚¾B															
 Mod422					su‚Ý‚½‚¢‚ÉvFŽ–—á‚©‚ç‚Ì’ŠÛ‰»‚ð•\‚·u‚Ý‚½‚¢‚ÉvFu`i‚Ìj‚Æ“¯‚¶‚æ‚¤‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"modality, mitaini"	entailment		¡‚ ‚È‚½‚ªŠ´‚¶‚Ä‚¢‚é‚Ý‚½‚¢‚ÉA‚©‚Â‚ÄŽ„‚à¢‚Ì’†‚É‘Î‚µ‚Ä•s–ž‚ðŠ´‚¶‚Ä‚¢‚½B	¡‚ ‚È‚½‚ªŠ´‚¶‚Ä‚¢‚é‚Ì‚Æ“¯‚¶‚æ‚¤‚ÉA‚©‚Â‚ÄŽ„‚à¢‚Ì’†‚É‘Î‚µ‚Ä•s–ž‚ðŠ´‚¶‚Ä‚¢‚½B															
 Mod423					su‚Ý‚½‚¢‚ÉvFŽ–—á‚©‚ç‚Ì’ŠÛ‰»‚ð•\‚·u‚Ý‚½‚¢‚ÉvFu‚æ‚¤‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"modality, mitaini"	entailment		—¼e‚ªŽ„‚É‚µ‚Ä‚­‚ê‚½‚Ý‚½‚¢‚ÉAŽ„‚àŽ©•ª‚ÌŽq‹Ÿ‚Éˆ¤î‚ð’‚¬‚½‚¢B	—¼e‚ªŽ„‚É‚µ‚Ä‚­‚ê‚½‚æ‚¤‚ÉAŽ„‚àŽ©•ª‚ÌŽq‹Ÿ‚Éˆ¤î‚ð’‚¬‚½‚¢B															
-Mod424					su‚Ý‚½‚¢‚ÉvFŽ–—á‚©‚ç‚Ì’ŠÛ‰»‚ð•\‚·u‚Ý‚½‚¢‚ÉvFu‚æ‚¤‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"modality, mitaini"	entailment		‘¾˜Y‚Í‰ÔŽq‚Ì‚Ý‚½‚¢‚ÉãŽè‚É‘Ì‘€‚ª‚Å‚«‚È‚¢B	‘¾˜Y‚Í‰ÔŽq‚Ì‚æ‚¤‚ÉãŽè‚É‘Ì‘€‚ª‚Å‚«‚È‚¢B															
-Mod425					su‚Ý‚½‚¢‚ÉvFŽ–—á‚©‚ç‚Ì’ŠÛ‰»‚ð•\‚·u‚Ý‚½‚¢‚ÉvFu‚æ‚¤‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"modality, mitaini"	entailment		“ú–{‚àƒAƒƒŠƒJ‚Ì‚Ý‚½‚¢‚ÉL‚­ˆÚ–¯‚ðŽó‚¯“ü‚ê‚é‚×‚«‚¾B	“ú–{‚àƒAƒƒŠƒJ‚Ì‚æ‚¤‚ÉL‚­ˆÚ–¯‚ðŽó‚¯“ü‚ê‚é‚×‚«‚¾B															
+Mod424					su‚Ý‚½‚¢‚ÉvFŽ–—á‚©‚ç‚Ì’ŠÛ‰»‚ð•\‚·u‚Ý‚½‚¢‚ÉvFu‚æ‚¤‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"modality, mitaini"	entailment		‘¾˜Y‚Í‰ÔŽq‚Ý‚½‚¢‚ÉãŽè‚É‘Ì‘€‚ª‚Å‚«‚È‚¢B	‘¾˜Y‚Í‰ÔŽq‚Ì‚æ‚¤‚ÉãŽè‚É‘Ì‘€‚ª‚Å‚«‚È‚¢B															
+Mod425					su‚Ý‚½‚¢‚ÉvFŽ–—á‚©‚ç‚Ì’ŠÛ‰»‚ð•\‚·u‚Ý‚½‚¢‚ÉvFu‚æ‚¤‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"modality, mitaini"	entailment		“ú–{‚àƒAƒƒŠƒJ‚Ý‚½‚¢‚ÉL‚­ˆÚ–¯‚ðŽó‚¯“ü‚ê‚é‚×‚«‚¾B	“ú–{‚àƒAƒƒŠƒJ‚Ì‚æ‚¤‚ÉL‚­ˆÚ–¯‚ðŽó‚¯“ü‚ê‚é‚×‚«‚¾B															
 Mod426					su‚Ý‚½‚¢‚ÉvFŽ–—á‚©‚ç‚Ì’ŠÛ‰»‚ð•\‚·u‚Ý‚½‚¢‚ÉvFu‚æ‚¤‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"modality, mitaini"	entailment		¡‚ ‚È‚½‚ªŠ´‚¶‚Ä‚¢‚é‚Ý‚½‚¢‚ÉA‚©‚Â‚ÄŽ„‚à¢‚Ì’†‚É‘Î‚µ‚Ä•s–ž‚ðŠ´‚¶‚Ä‚¢‚½B	¡‚ ‚È‚½‚ªŠ´‚¶‚Ä‚¢‚é‚æ‚¤‚ÉA‚©‚Â‚ÄŽ„‚à¢‚Ì’†‚É‘Î‚µ‚Ä•s–ž‚ðŠ´‚¶‚Ä‚¢‚½B															
 Mod427					su‚Ý‚½‚¢‚ÉvF‘ã•\“I‚È–½‘è‚ð’ñŽ¦‚·‚éu‚Ý‚½‚¢‚ÉvFu‚Æ‚¢‚¤‚Ó‚¤‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"modality, mitaini"	entailment		u‘¾˜Y‚Íƒvƒ‚És‚Á‚Ä‚à’Ê—p‚·‚év‚Ý‚½‚¢‚ÉŒ¾‚í‚ê‚Ä‚¢‚é‚ªAŽÀÛ‚ÍŒµ‚µ‚¢‚ÆŽv‚¤B	u‘¾˜Y‚Íƒvƒ‚És‚Á‚Ä‚à’Ê—p‚·‚év‚Æ‚¢‚¤‚Ó‚¤‚ÉŒ¾‚í‚ê‚Ä‚¢‚é‚ªAŽÀÛ‚ÍŒµ‚µ‚¢‚ÆŽv‚¤B															
 Mod428					su‚Ý‚½‚¢‚ÉvF‘ã•\“I‚È–½‘è‚ð’ñŽ¦‚·‚éu‚Ý‚½‚¢‚ÉvFu‚Æ‚¢‚¤‚Ó‚¤‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"modality, mitaini"	entailment		ƒCƒxƒ“ƒg‚Ì‰ïê‚É‚Íu‚±‚ê‚ÉŠ´“®‚µ‚È‚¢l‚Í‚¨‚©‚µ‚¢v‚Ý‚½‚¢‚È•µˆÍ‹C‚ª‚ ‚Á‚ÄA‚Æ‚Ä‚à‹‚Ã‚ç‚©‚Á‚½B	ƒCƒxƒ“ƒg‚Ì‰ïê‚É‚Íu‚±‚ê‚ÉŠ´“®‚µ‚È‚¢l‚Í‚¨‚©‚µ‚¢v‚Æ‚¢‚¤‚Ó‚¤‚È•µˆÍ‹C‚ª‚ ‚Á‚ÄA‚Æ‚Ä‚à‹‚Ã‚ç‚©‚Á‚½B															
