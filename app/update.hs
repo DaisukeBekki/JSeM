@@ -37,5 +37,5 @@ main = do
           putStrLn $ "Updating " ++ xmlFile ++ "..."
           J.readFileUtf8 tsvFile >>= J.tsv2jsemData >>= J.jsemData2xml >>= StrictT.writeFile xmlFile
   putStrLn "tsv->xml done"
-  J.getStat dataFolder >>= StrictT.writeFile ("stat.txt")
-  putStrLn "Statistics recorded to stat.txt"
+  J.getStat dataFolder >>= StrictT.writeFile ("stat.log")
+  putStrLn "Statistics recorded to stat.log"

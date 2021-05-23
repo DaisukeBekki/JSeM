@@ -266,8 +266,9 @@
     </h>
     <note>floating quantifier+「しか」</note>
   </problem>
-  <problem answer="" inference_type="presupposition accommodation"
-  jsem_id="Tor21" language="jp"
+  <problem answer="yes"
+  inference_type="presupposition accommodation" jsem_id="Tor21"
+  language="jp"
   phenomena="Toritate, -sika (toritate particle), Negation">
     <description>《「しか」のbasic example》</description>
     <p idx="1">
@@ -279,8 +280,9 @@
     <note>floating
     quantifier+「しか」。P1で「しか」が「パンを一枚」全体に係るとしたときの解釈。</note>
   </problem>
-  <problem answer="" inference_type="presupposition accommodation"
-  jsem_id="Tor22" language="jp"
+  <problem answer="unknown"
+  inference_type="presupposition accommodation" jsem_id="Tor22"
+  language="jp"
   phenomena="Toritate, -sika (toritate particle), Negation">
     <description>《「しか」のbasic example》</description>
     <p idx="1">
@@ -972,7 +974,7 @@
     </h>
     <note>「のみしか」</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor76"
+  <problem answer="no" inference_type="entailment" jsem_id="Tor76"
   language="jp"
   phenomena="Toritate, -dake (toritate particle), negation">
     <description>《「だけ」と否定のスコープ》</description>
@@ -984,7 +986,7 @@
     </h>
     <note>「だけ」と否定表現のスコープ。否定＜だけ</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor77"
+  <problem answer="yes" inference_type="entailment" jsem_id="Tor77"
   language="jp"
   phenomena="Toritate, -dake (toritate particle), negation">
     <description>《「だけ」と否定のスコープ》</description>
@@ -996,7 +998,7 @@
     </h>
     <note>「だけ」と否定表現のスコープ。否定＜だけ</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor78"
+  <problem answer="yes" inference_type="entailment" jsem_id="Tor78"
   language="jp"
   phenomena="Toritate, -dake (toritate particle), negation">
     <description>《「だけ」と否定のスコープ》</description>
@@ -1008,7 +1010,7 @@
     </h>
     <note>「だけ」と否定表現のスコープ。だけ＜否定。ただし、判断はかなりmarginal</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor79"
+  <problem answer="yes" inference_type="entailment" jsem_id="Tor79"
   language="jp"
   phenomena="Toritate, -dake (toritate particle), negation">
     <description>《「だけ」と否定のスコープ》</description>
@@ -1044,7 +1046,7 @@
     </h>
     <note>「だけ」と否定表現のスコープ。だけ＜否定</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor82"
+  <problem answer="no" inference_type="entailment" jsem_id="Tor82"
   language="jp"
   phenomena="Toritate, -dake (toritate particle), negation">
     <description>《「だけ」と否定のスコープ》</description>
@@ -1056,7 +1058,7 @@
     </h>
     <note>「だけ」と否定表現のスコープ。否定＜だけ</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor83"
+  <problem answer="yes" inference_type="entailment" jsem_id="Tor83"
   language="jp"
   phenomena="Toritate, -dake (toritate particle), negation">
     <description>《「だけ」と否定のスコープ》</description>
@@ -1068,7 +1070,7 @@
     </h>
     <note>「だけ」と否定表現のスコープ。否定＜だけ</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor84"
+  <problem answer="yes" inference_type="entailment" jsem_id="Tor84"
   language="jp"
   phenomena="Toritate, -dake (toritate particle), negation">
     <description>《「だけ」と否定のスコープ》</description>
@@ -1080,7 +1082,7 @@
     </h>
     <note>「だけ」と否定表現のスコープ。だけ＜否定</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor85"
+  <problem answer="yes" inference_type="entailment" jsem_id="Tor85"
   language="jp"
   phenomena="Toritate, -dake (toritate particle), negation">
     <description>《「だけ」と否定のスコープ》</description>
@@ -1140,7 +1142,7 @@
     </h>
     <note>「だけ」と否定表現のスコープ。「否定＜だけ」が比較的取りやすい例。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor90"
+  <problem answer="no" inference_type="entailment" jsem_id="Tor90"
   language="jp"
   phenomena="Toritate, -nomi (toritate particle), negation">
     <description>《「のみ」と否定のスコープ》</description>
@@ -1152,7 +1154,7 @@
     </h>
     <note>「のみ」と否定表現のスコープ。否定＜のみ</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor91"
+  <problem answer="yes" inference_type="entailment" jsem_id="Tor91"
   language="jp"
   phenomena="Toritate, -nomi (toritate particle), negation">
     <description>《「のみ」と否定のスコープ》</description>
@@ -1164,7 +1166,7 @@
     </h>
     <note>「のみ」と否定表現のスコープ。否定＜のみ</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor92"
+  <problem answer="yes" inference_type="entailment" jsem_id="Tor92"
   language="jp"
   phenomena="Toritate, -nomi (toritate particle), negation">
     <description>《「のみ」と否定のスコープ》</description>
@@ -1176,7 +1178,7 @@
     </h>
     <note>「のみ」と否定表現のスコープ。のみ＜否定。判断はかなりmarginal。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor93"
+  <problem answer="yes" inference_type="entailment" jsem_id="Tor93"
   language="jp"
   phenomena="Toritate, -nomi (toritate particle), negation">
     <description>《「のみ」と否定のスコープ》</description>
@@ -1212,7 +1214,7 @@
     </h>
     <note>「のみ」と否定表現のスコープ。のみ＜否定</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor96"
+  <problem answer="no" inference_type="entailment" jsem_id="Tor96"
   language="jp"
   phenomena="Toritate, -nomi (toritate particle), negation">
     <description>《「のみ」と否定のスコープ》</description>
@@ -1224,7 +1226,7 @@
     </h>
     <note>「のみ」と否定表現のスコープ。否定＜のみ</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor97"
+  <problem answer="yes" inference_type="entailment" jsem_id="Tor97"
   language="jp"
   phenomena="Toritate, -nomi (toritate particle), negation">
     <description>《「のみ」と否定のスコープ》</description>
@@ -1236,7 +1238,7 @@
     </h>
     <note>「のみ」と否定表現のスコープ。否定＜のみ</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor98"
+  <problem answer="yes" inference_type="entailment" jsem_id="Tor98"
   language="jp"
   phenomena="Toritate, -nomi (toritate particle), negation">
     <description>《「のみ」と否定のスコープ》</description>
@@ -1248,7 +1250,7 @@
     </h>
     <note>「のみ」と否定表現のスコープ。のみ＜否定。判断はかなりmarginal。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor99"
+  <problem answer="yes" inference_type="entailment" jsem_id="Tor99"
   language="jp"
   phenomena="Toritate, -nomi (toritate particle), negation">
     <description>《「のみ」と否定のスコープ》</description>
@@ -4604,8 +4606,9 @@
     </h>
     <note>「すら＞ない」の解釈。「ない＞すら」はおそらく不可能。</note>
   </problem>
-  <problem answer="" inference_type="presupposition accommodation"
-  jsem_id="Tor349" language="jp"
+  <problem answer="yes"
+  inference_type="presupposition accommodation" jsem_id="Tor349"
+  language="jp"
   phenomena="Toritate, -made (toritate particle), negation">
     <description>《「まで」と否定のスコープ》</description>
     <p idx="1">
@@ -4616,8 +4619,9 @@
     </h>
     <note>「まで＞ない」の解釈</note>
   </problem>
-  <problem answer="" inference_type="presupposition accommodation"
-  jsem_id="Tor350" language="jp"
+  <problem answer="yes"
+  inference_type="presupposition accommodation" jsem_id="Tor350"
+  language="jp"
   phenomena="Toritate, -made (toritate particle), negation">
     <description>《「まで」と否定のスコープ》</description>
     <p idx="1">
@@ -4628,8 +4632,9 @@
     </h>
     <note>「まで＞ない」の解釈</note>
   </problem>
-  <problem answer="" inference_type="presupposition accommodation"
-  jsem_id="Tor351" language="jp"
+  <problem answer="yes"
+  inference_type="presupposition accommodation" jsem_id="Tor351"
+  language="jp"
   phenomena="Toritate, -made (toritate particle), negation">
     <description>《「まで」と否定のスコープ》</description>
     <p idx="1">
@@ -4640,8 +4645,9 @@
     </h>
     <note>「まで＞ない」の解釈</note>
   </problem>
-  <problem answer="" inference_type="presupposition accommodation"
-  jsem_id="Tor352" language="jp"
+  <problem answer="unknown"
+  inference_type="presupposition accommodation" jsem_id="Tor352"
+  language="jp"
   phenomena="Toritate, -made (toritate particle), negation">
     <description>《「まで」と否定のスコープ》</description>
     <p idx="1">
@@ -4653,8 +4659,9 @@
     <note>「ない＞まで」の解釈（ただし、ややmarginal）。参考：茂木俊伸
     (1999)「とりたて詞「まで」「さえ」について—否定との関わりから—」『日本語と日本文学』28，pp.(左)27-36，筑波大学国語国文学会．</note>
   </problem>
-  <problem answer="" inference_type="presupposition accommodation"
-  jsem_id="Tor353" language="jp"
+  <problem answer="unknown"
+  inference_type="presupposition accommodation" jsem_id="Tor353"
+  language="jp"
   phenomena="Toritate, -made (toritate particle), negation">
     <description>《「まで」と否定のスコープ》</description>
     <p idx="1">
@@ -4838,8 +4845,8 @@
     <note>"参考：中村ちどり (2008) 「日本の取り立て助詞と限定詞・名詞句フォーカス」、『言語と文化・文学の諸相』,
     pp.263-274、岩手大学人文社会科学部。"</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor366"
-  language="jp"
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="Tor366" language="jp"
   phenomena="Toritate, -mo (toritate particle), floating quantifier, negation">
 
     <description>《「も」とfloating quantifier、否定》</description>
@@ -4853,8 +4860,8 @@
     「日本の取り立て助詞と限定詞・名詞句フォーカス」、『言語と文化・文学の諸相』,
     pp.263-274、岩手大学人文社会科学部。"</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor367"
-  language="jp"
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="Tor367" language="jp"
   phenomena="Toritate, -mo (toritate particle), floating quantifier, negation">
 
     <description>《「も」とfloating quantifier、否定》</description>
@@ -4866,8 +4873,8 @@
     </h>
     <note>「数量詞＋も＞否定」の解釈。「数量詞＋も」の表す、数が多いことに対する意外性。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor368"
-  language="jp"
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="Tor368" language="jp"
   phenomena="Toritate, -mo (toritate particle), floating quantifier, negation">
 
     <description>《「も」とfloating quantifier、否定》</description>
@@ -4879,8 +4886,8 @@
     </h>
     <note>「否定＞数量詞＋も」の解釈。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor369"
-  language="jp"
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="Tor369" language="jp"
   phenomena="Toritate, -mo (toritate particle), floating quantifier, negation">
 
     <description>《「も」とfloating quantifier、否定》</description>
@@ -4933,8 +4940,8 @@
     <note>"参考：中村ちどり (2008) 「日本の取り立て助詞と限定詞・名詞句フォーカス」、『言語と文化・文学の諸相』,
     pp.263-274、岩手大学人文社会科学部。"</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor373"
-  language="jp"
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="Tor373" language="jp"
   phenomena="Toritate, -mo (toritate particle), floating quantifier, negation">
 
     <description>《「も」とfloating quantifier、否定》</description>
@@ -4948,8 +4955,8 @@
     「日本の取り立て助詞と限定詞・名詞句フォーカス」、『言語と文化・文学の諸相』,
     pp.263-274、岩手大学人文社会科学部。"</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor374"
-  language="jp"
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="Tor374" language="jp"
   phenomena="Toritate, -mo (toritate particle), floating quantifier, negation">
 
     <description>《「も」とfloating quantifier、否定》</description>
@@ -4961,8 +4968,8 @@
     </h>
     <note>「数量詞＋も＞否定」の解釈。「数量詞＋も」の表す、数が多いことに対する意外性。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor375"
-  language="jp"
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="Tor375" language="jp"
   phenomena="Toritate, -mo (toritate particle), floating quantifier, negation">
 
     <description>《「も」とfloating quantifier、否定》</description>
@@ -4974,8 +4981,8 @@
     </h>
     <note>「否定＞数量詞＋も」の解釈。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Tor376"
-  language="jp"
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="Tor376" language="jp"
   phenomena="Toritate, -mo (toritate particle), floating quantifier, negation">
 
     <description>《「も」とfloating quantifier、否定》</description>

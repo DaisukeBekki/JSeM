@@ -428,7 +428,7 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Adj31"
+  <problem answer="yes" inference_type="entailment" jsem_id="Adj31"
   language="jp" phenomena="Adjective, onazi (adjective)">
     <description>《同じ：「AはBと同じ」の言い換え（述語の補足）》</description>
     <p idx="1">
@@ -439,7 +439,7 @@
     </h>
     <note>可能な解釈のうちの一つ。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Adj32"
+  <problem answer="yes" inference_type="entailment" jsem_id="Adj32"
   language="jp" phenomena="Adjective, onazi (adjective)">
     <description>《同じ：「AはBと同じ」の言い換え（述語の補足）》</description>
     <p idx="1">
@@ -450,7 +450,7 @@
     </h>
     <note>可能な解釈のうちの一つ。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Adj33"
+  <problem answer="yes" inference_type="entailment" jsem_id="Adj33"
   language="jp" phenomena="Adjective, onazi (adjective)">
     <description>《同じ：「AはBと同じ」の言い換え（述語の補足）》</description>
     <p idx="1">
@@ -461,7 +461,7 @@
     </h>
     <note>可能な解釈のうちの一つ。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Adj34"
+  <problem answer="yes" inference_type="entailment" jsem_id="Adj34"
   language="jp" phenomena="Adjective, onazi (adjective)">
     <description>《同じ：「AはBと同じ」の言い換え（述語の補足）》</description>
     <p idx="1">
@@ -997,7 +997,7 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Adj76"
+  <problem answer="yes" inference_type="entailment" jsem_id="Adj76"
   language="jp" phenomena="Adjective, betu (adjective)">
     <description>《別だ：「AはBと別」の言い換え（述語の補足）》</description>
     <p idx="1">
@@ -1008,7 +1008,7 @@
     </h>
     <note>可能な解釈のうちの一つ。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Adj77"
+  <problem answer="yes" inference_type="entailment" jsem_id="Adj77"
   language="jp" phenomena="Adjective, betu (adjective)">
     <description>《別だ：「AはBと別」の言い換え（述語の補足）》</description>
     <p idx="1">
@@ -1019,7 +1019,7 @@
     </h>
     <note>可能な解釈のうちの一つ。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Adj78"
+  <problem answer="yes" inference_type="entailment" jsem_id="Adj78"
   language="jp" phenomena="Adjective, betu (adjective)">
     <description>《別だ：「AはBと別」の言い換え（述語の補足）》</description>
     <p idx="1">
@@ -1030,7 +1030,7 @@
     </h>
     <note>可能な解釈のうちの一つ。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Adj79"
+  <problem answer="yes" inference_type="entailment" jsem_id="Adj79"
   language="jp" phenomena="Adjective, betu (adjective)">
     <description>《別だ：「AはBと別」の言い換え（述語の補足）》</description>
     <p idx="1">

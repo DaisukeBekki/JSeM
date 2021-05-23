@@ -4800,34 +4800,34 @@
   </problem>
   <problem answer="yes" inference_type="" jsem_id="Mod410"
   language="jp" phenomena="modality, mitai">
-    <description>《「みたいだ」：比況の「みたいだ」：「かのみたいだ」への言い換え》</description>
+    <description>《「みたいだ」：比況の「みたいだ」：「かのようだ」への言い換え》</description>
     <p idx="1">
       <script>花子の部下への注意の仕方は、まるで親が子供を叱り付けているみたいだ。</script>
     </p>
     <h>
-      <script>花子の部下への注意の仕方は、まるで親が子供を叱り付けているかのみたいだ。</script>
+      <script>花子の部下への注意の仕方は、まるで親が子供を叱り付けているかのようだ。</script>
     </h>
     <note></note>
   </problem>
   <problem answer="yes" inference_type="" jsem_id="Mod411"
   language="jp" phenomena="modality, mitai">
-    <description>《「みたいだ」：比況の「みたいだ」：「かのみたいだ」への言い換え》</description>
+    <description>《「みたいだ」：比況の「みたいだ」：「かのようだ」への言い換え》</description>
     <p idx="1">
       <script>太郎の顔は赤く、まるで酔っ払っているみたいだ。</script>
     </p>
     <h>
-      <script>太郎の顔は赤く、まるで酔っ払っているかのみたいだ。</script>
+      <script>太郎の顔は赤く、まるで酔っ払っているかのようだ。</script>
     </h>
     <note></note>
   </problem>
   <problem answer="yes" inference_type="" jsem_id="Mod412"
   language="jp" phenomena="modality, mitai">
-    <description>《「みたいだ」：比況の「みたいだ」：「かのみたいだ」への言い換え》</description>
+    <description>《「みたいだ」：比況の「みたいだ」：「かのようだ」への言い換え》</description>
     <p idx="1">
       <script>花子はトップで走り続けており、あたかも疲れることを知らないみたいだ。</script>
     </p>
     <h>
-      <script>花子はトップで走り続けており、あたかも疲れることを知らないかのみたいだ。</script>
+      <script>花子はトップで走り続けており、あたかも疲れることを知らないかのようだ。</script>
     </h>
     <note></note>
   </problem>
@@ -4835,7 +4835,7 @@
   jsem_id="Mod413" language="jp" phenomena="modality, mitai">
     <description>《「みたいだ」：比況の「みたいだ」：「みたいだ」の付く命題内容は偽》</description>
     <p idx="1">
-      <script>花子はまるで男のみたいだ。</script>
+      <script>花子はまるで男みたいだ。</script>
     </p>
     <h>
       <script>花子は男だ。</script>
@@ -4868,7 +4868,7 @@
   jsem_id="Mod416" language="jp" phenomena="modality, mitai">
     <description>《「みたいだ」：比況の「みたいだ」：「みたいだ」の付く命題内容は偽》</description>
     <p idx="1">
-      <script>そのガラス細工は、本物のダイヤのみたいだった。</script>
+      <script>そのガラス細工は、本物のダイヤみたいだった。</script>
     </p>
     <h>
       <script>そのガラス細工は本物のダイヤだった。</script>
@@ -4964,7 +4964,7 @@
     <description>
     《「みたいに」：事例からの抽象化を表す「みたいに」：「ように」への言い換え》</description>
     <p idx="1">
-      <script>太郎は花子のみたいに上手に体操ができない。</script>
+      <script>太郎は花子みたいに上手に体操ができない。</script>
     </p>
     <h>
       <script>太郎は花子のように上手に体操ができない。</script>
@@ -4976,7 +4976,7 @@
     <description>
     《「みたいに」：事例からの抽象化を表す「みたいに」：「ように」への言い換え》</description>
     <p idx="1">
-      <script>日本もアメリカのみたいに広く移民を受け入れるべきだ。</script>
+      <script>日本もアメリカみたいに広く移民を受け入れるべきだ。</script>
     </p>
     <h>
       <script>日本もアメリカのように広く移民を受け入れるべきだ。</script>

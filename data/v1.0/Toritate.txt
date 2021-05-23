@@ -811,6 +811,3 @@ Tor810					《「などということは」に言い換えると不自然な「なんて」》		weakaccepta
 Tor811					《終助詞的に使われる「なんて」は「なんか」への言い換え不可能》		unacceptable	"Toritate, -nante (toritate particle)"			太郎が花子に内緒で、借金をしていたなんて。	太郎が花子に内緒で、借金をしていたなんか。	
 Tor812					《終助詞的に使われる「なんて」は「なんか」への言い換え不可能》		unacceptable	"Toritate, -nante (toritate particle)"			やっと休みが取れたと思ったのに、会社に呼び出されるなんて。	やっと休みが取れたと思ったのに、会社に呼び出されるなんか。	
 Tor813					《対象を軽んじる「など」の「なんて」への言い換えが不可能な例》		unacceptable	"Toritate, -nado (toritate particle)"			太郎は金などに心を動かされない。	太郎は金なんてに心を動かされない。	
-													
-													
-													

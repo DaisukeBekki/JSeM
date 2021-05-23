@@ -1,5 +1,5 @@
 name:                jsem
-version:             0.1.3
+version:             0.1.4
 synopsis:            Japanese (FraCaS-style) semantic test suit and Haskell tools
 description:         Please see the README on Github at <https://github.com/DaisukeBekki/JSeM#readme>
 author:              Daisuke Bekki and Ai Kawazoe

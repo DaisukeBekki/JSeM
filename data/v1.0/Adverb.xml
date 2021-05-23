@@ -364,7 +364,7 @@
     </h>
     <note>noと判断するには常識が必要</note>
   </problem>
-  <problem answer="" inference_type="" jsem_id="Adv33"
+  <problem answer="no" inference_type="" jsem_id="Adv33"
   language="jp" phenomena="Adverb, -mada">
     <description>《まだ：期待されている状態への未到達：「永遠に」「今後も」の含意がない》</description>
     <p idx="1">
@@ -31803,7 +31803,7 @@
   phenomena="Adverb, masani (adverb)">
     <description>《本当に：事実であることを表す「本当に」：「まさに」への言い換え》</description>
     <p idx="1">
-      <script></script>
+      <script>その光景は、本当に古き良き日本を彷彿とさせるものだった。</script>
     </p>
     <h>
       <script>その光景は、まさに古き良き日本を彷彿とさせるものだった。</script>
