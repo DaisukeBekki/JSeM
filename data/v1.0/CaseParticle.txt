@@ -2122,7 +2122,7 @@ CP2121					s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ª`‚µ‚½“à—e‚Í`‚Æ‚¢‚¤‚±‚Æ‚¾v‚Ö‚
 CP2122					s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ªŒ¾‚Á‚½i/Žv‚Á‚½j“à—e‚Í`‚Æ‚¢‚¤‚±‚Æ‚¾v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -to"	entailment		ŽÐ’·‚ÍAæŒŽ‚©‚ç”„‚èã‚°‚ª‰º‚ª‚Á‚Ä‚¢‚é‚Æ˜b‚µ‚½B	ŽÐ’·‚ª˜b‚µ‚½‚±‚Æ‚ÍAæŒŽ‚©‚ç”„‚èã‚°‚ª‰º‚ª‚Á‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ‚¾B														
 CP2123					s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ªŒ¾‚Á‚½i/Žv‚Á‚½j“à—e‚Í`‚Æ‚¢‚¤‚±‚Æ‚¾v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -to"	entailment		‰ÔŽq‚Íe‚Éu¡“x‰ï‚Á‚Ä‚Ù‚µ‚¢l‚ª‚¢‚év‚ÆŒ¾‚Á‚½B	‰ÔŽq‚ªe‚ÉŒ¾‚Á‚½“à—e‚ÍAu¡“x‰ï‚Á‚Ä‚Ù‚µ‚¢l‚ª‚¢‚év‚Æ‚¢‚¤‚±‚Æ‚¾B														
 CP2124					s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ªŒ¾‚Á‚½i/Žv‚Á‚½j“à—e‚Í`‚Æ‚¢‚¤‚±‚Æ‚¾v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -to"	entailment		Ž„‚ÍŽ©•ª‚Ìl‚¦‚ª³‚µ‚¢‚ÆŽv‚¤B	Ž„‚ªŽv‚Á‚½“à—e‚ÍAŽ©•ª‚Ìl‚¦‚ª³‚µ‚¢‚Æ‚¢‚¤‚±‚Æ‚¾B														
-CP2125	CP2121	CP2122	CP2123	CP2124	s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ªŒ¾‚Á‚½i/Žv‚Á‚½j“à—e‚Í`‚Æ‚¢‚¤‚±‚Æ‚¾v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -to"	entailment		‚»‚ÌŒYŽ–‚ÍA”Æl‚Ì“®‹@‚ÍŽ„‰…‚É‚ ‚é‚Æl‚¦‚½B	‚»‚ÌŒYŽ–‚ªl‚¦‚½“à—e‚ÍA”Æl‚Ì“®‹@‚ÍŽ„‰…‚É‚È‚é‚Æ‚¢‚¤‚±‚Æ‚¾B														
+CP2125					s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ªŒ¾‚Á‚½i/Žv‚Á‚½j“à—e‚Í`‚Æ‚¢‚¤‚±‚Æ‚¾v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -to"	entailment		‚»‚ÌŒYŽ–‚ÍA”Æl‚Ì“®‹@‚ÍŽ„‰…‚É‚ ‚é‚Æl‚¦‚½B	‚»‚ÌŒYŽ–‚ªl‚¦‚½“à—e‚ÍA”Æl‚Ì“®‹@‚ÍŽ„‰…‚É‚È‚é‚Æ‚¢‚¤‚±‚Æ‚¾B														
 CP2126					s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ÆŒ¾‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -to"			‘¾˜Y‚Í‘²‹Æ•¶W‚ÉA«—ˆ‚ÍƒpƒCƒƒbƒg‚É‚È‚è‚½‚¢‚Æ‘‚¢‚½B	‘¾˜Y‚Í‘²‹Æ•¶W‚ÉA«—ˆ‚ÍƒpƒCƒƒbƒg‚É‚È‚è‚½‚¢‚ÆŒ¾‚Á‚Ä‘‚¢‚½B														
 CP2127					s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ÆŒ¾‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -to"			ŽÐ’·‚ÍAæŒŽ‚©‚ç”„‚èã‚°‚ª‰º‚ª‚Á‚Ä‚¢‚é‚Æ˜b‚µ‚½B	ŽÐ’·‚ÍAæŒŽ‚©‚ç”„‚èã‚°‚ª‰º‚ª‚Á‚Ä‚¢‚é‚ÆŒ¾‚Á‚Ä˜b‚µ‚½B														
 CP2128					s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ÆŒ¾‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -to"			‰ÔŽq‚Íe‚Éu¡“x‰ï‚Á‚Ä‚Ù‚µ‚¢l‚ª‚¢‚év‚ÆŒ¾‚Á‚½B	‰ÔŽq‚Íe‚Éu¡“x‰ï‚Á‚Ä‚Ù‚µ‚¢l‚ª‚¢‚év‚ÆŒ¾‚Á‚ÄŒ¾‚Á‚½B														
@@ -2862,4 +2862,4 @@ CP2861					ssˆ×‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"
 CP2862					ssˆ×‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚±‚Ì‹@ŠÖ‚Íˆã—Ã]Ž–ŽÒ‚É‘Î‚µ‚ÄÅV‚Ìî•ñ‚ð“`‚¦‚Ä‚¢‚éB	‚±‚Ì‹@ŠÖ‚Íˆã—Ã]Ž–ŽÒ‚É‚¨‚¢‚ÄÅV‚Ìî•ñ‚ð“`‚¦‚Ä‚¢‚éB														
 CP2863					ssˆ×‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nitaisite"			‚»‚Ì‘‰ï‹cˆõ‚ÍV‚µ‚¢–@ˆÄ‚É‘Î‚µ‚Ä”½‘Î‚ð•\–¾‚µ‚½B	‚»‚Ì‘‰ï‹cˆõ‚ÍV‚µ‚¢–@ˆÄ‚É‚¨‚¢‚Ä”½‘Î‚ð•\–¾‚µ‚½B														
 CP2864					ssˆ×‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‘¾˜Y‚ÍŽ¿–â‚É‘Î‚µ‚ÄŽ¿–â‚Å“š‚¦‚½B	‘¾˜Y‚ÍŽ¿–â‚É‚¨‚¢‚ÄŽ¿–â‚Å“š‚¦‚½B														
-CP2865					ssˆ×‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nitaisite"			‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‘Î‚µ‚Ä‹êŒ¾‚ð’æ‚µ‚½B	‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‚¨‚¢‚Ä‹êŒ¾‚ð’æ‚µ‚½B																												
+CP2865					ssˆ×‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nitaisite"			‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‘Î‚µ‚Ä‹êŒ¾‚ð’æ‚µ‚½B	‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‚¨‚¢‚Ä‹êŒ¾‚ð’æ‚µ‚½B		s˜b‘è‚ðŽæ‚èã‚°‚éu‚É‚Â‚¢‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦‚ª•sŽ©‘R‚É‚È‚é—át		weakacceptable	"Case Particle, -nituite"			‚»‚ÌˆãŽÒ‚ÍVŒ^ƒEƒCƒ‹ƒX‚Ì“Á’¥‚É‚Â‚¢‚Äà–¾‚µ‚½B	‚»‚ÌˆãŽÒ‚ÍVŒ^ƒEƒCƒ‹ƒX‚Ì“Á’¥‚ÉŠÖ‚µ‚Äà–¾‚µ‚½B													
