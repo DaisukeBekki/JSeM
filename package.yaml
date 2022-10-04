@@ -1,5 +1,5 @@
 name:                jsem
-version:             0.1.4
+version:             0.1.5
 synopsis:            Japanese (FraCaS-style) semantic test suit and Haskell tools
 description:         Please see the README on Github at <https://github.com/DaisukeBekki/JSeM#readme>
 author:              Daisuke Bekki and Ai Kawazoe
@@ -8,11 +8,13 @@ copyright:           Daisuke Bekki and Ai Kawazoe
 license:             AllRightsReserved
 github:              DaisukeBekki/JSeM
 ghc-options:         -Wall
+
 extra-source-files:
   - README.md
   - ChangeLog.md
   - data/v1.0/jsem.xsl
   - data/v1.0/jsem.dtd
+
 dependencies:
   - base >= 4.7 && < 5
   - text >= 1.2
@@ -23,6 +25,7 @@ dependencies:
   - containers >= 0.4
   - xml-conduit >= 1.3
   - parsec >= 3.1
+
 library:
   source-dirs: src
   default-extensions: OverloadedStrings
@@ -32,6 +35,7 @@ library:
     - JSeM.XML
     - JSeM.Cmd
   other-modules: []
+
 executables:
   validate-xml:
     main:         validate-xml.hs
