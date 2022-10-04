@@ -1,0 +1,1116 @@
+CV1					《「し始める」：動作の開始を表す「し始める」：「し始める」の削除》		yes	"Compound verb, -sihazimeru"	entailment		太郎は駅に向かって歩き始めた。	太郎は駅に向かって歩いた。														
+CV2					《「し始める」：動作の開始を表す「し始める」：「し始める」の削除》		yes	"Compound verb, -sihazimeru"	entailment		花子は新しい化粧品を使い始めた。	花子は新しい化粧品を使った。														
+CV3					《「し始める」：動作の開始を表す「し始める」：「し始める」の削除》		yes	"Compound verb, -sihazimeru"	entailment		社長は得意の演歌を歌い始めた。	社長は得意の演歌を歌った。														
+CV4					《「し始める」：動作の開始を表す「し始める」：「し始める」の削除》		unknown	"Compound verb, -sihazimeru"			東の空が明るくなり始めた。	東の空が明るくなった。														
+CV5					《「し始める」：動作の開始を表す「し始める」：「し始める」の削除》		unknown	"Compound verb, -sihazimeru"			さっき干した洗濯物が乾き始めた。	さっき干した洗濯物が乾いた。														
+CV6					《「し始める」：動作の開始を表す「し始める」：「している」への言い換え》		yes	"Compound verb, -sihazimeru"	entailment		太郎は駅に向かって歩き始めた。	太郎は駅に向かって歩いていた。														
+CV7					《「し始める」：動作の開始を表す「し始める」：「している」への言い換え》		yes	"Compound verb, -sihazimeru"	entailment		花子は新しい化粧品を使い始めた。	花子は新しい化粧品を使っていた。														
+CV8					《「し始める」：動作の開始を表す「し始める」：「している」への言い換え》		yes	"Compound verb, -sihazimeru"	entailment		社長は得意の演歌を歌い始めた。	社長は得意の演歌を歌っていた。														
+CV9					《「し始める」：動作の開始を表す「し始める」：「している」への言い換え》		unknown	"Compound verb, -sihazimeru"			東の空が明るくなり始めた。	東の空が明るくなっていた。														
+CV10					《「し始める」：動作の開始を表す「し始める」：「している」への言い換え》		unknown	"Compound verb, -sihazimeru"			さっき干した洗濯物が乾き始めた。	さっき干した洗濯物が乾いていた。														
+CV11					《「し始める」：動作の開始を表す「し始める」：「～しかける」への言い換え》		yes	"Compound verb, -sihazimeru"	entailment		太郎は駅に向かって歩き始めた。	太郎は駅に向かって歩きかけた。														
+CV12					《「し始める」：動作の開始を表す「し始める」：「～しかける」への言い換え》		yes	"Compound verb, -sihazimeru"	entailment		花子は新しい化粧品を使い始めた。	花子は新しい化粧品を使いかけた。														
+CV13					《「し始める」：動作の開始を表す「し始める」：「～しかける」への言い換え》		yes	"Compound verb, -sihazimeru"	entailment		社長は得意の演歌を歌い始めた。	社長は得意の演歌を歌いかけた。														
+CV14					《「し始める」：動作の開始を表す「し始める」：「～しかける」への言い換え》		yes	"Compound verb, -sihazimeru"	entailment		東の空が明るくなり始めた。	東の空が明るくなりかけた。														
+CV15					《「し始める」：動作の開始を表す「し始める」：「～しかける」への言い換え》		yes	"Compound verb, -sihazimeru"	entailment		さっき干した洗濯物が乾き始めた。	さっき干した洗濯物が乾きかけた。														
+CV16					《「し始める」：動作の開始を表す「し始める」：「～し終える」への言い換え》		unknown	"Compound verb, -sihazimeru"			太郎は駅に向かって歩き始めた。	太郎は駅に向かって歩き終えた。														
+CV17					《「し始める」：動作の開始を表す「し始める」：「～し終える」への言い換え》		unknown	"Compound verb, -sihazimeru"			花子は新しい化粧品を使い始めた。	花子は新しい化粧品を使い終えた。														
+CV18					《「し始める」：動作の開始を表す「し始める」：「～し終える」への言い換え》		unknown	"Compound verb, -sihazimeru"			社長は得意の演歌を歌い始めた。	社長は得意の演歌を歌い終えた。														
+CV19					《「し始める」：動作の開始を表す「し始める」：「～し終える」への言い換え》		unknown	"Compound verb, -sihazimeru"			東の空が明るくなり始めた。	東の空が明るくなり終えた。														
+CV20					《「し始める」：動作の開始を表す「し始める」：「～し終える」への言い換え》		unknown	"Compound verb, -sihazimeru"			さっき干した洗濯物が乾き始めた。	さっき干した洗濯物が乾き終えた。														
+CV21					《「し始める」：動作の開始を表す「し始める」：「～し出す」への言い換え》		yes	"Compound verb, -sihazimeru"	entailment		太郎は駅に向かって歩き始めた。	太郎は駅に向かって歩き出した。														
+CV22					《「し始める」：動作の開始を表す「し始める」：「～し出す」への言い換え》		yes	"Compound verb, -sihazimeru"	entailment		花子は新しい化粧品を使い始めた。	花子は新しい化粧品を使い出した。														
+CV23					《「し始める」：動作の開始を表す「し始める」：「～し出す」への言い換え》		yes	"Compound verb, -sihazimeru"	entailment		社長は得意の演歌を歌い始めた。	社長は得意の演歌を歌い出した。														
+CV24					《「し始める」：動作の開始を表す「し始める」：「～し出す」への言い換え》		yes	"Compound verb, -sihazimeru"	entailment		東の空が明るくなり始めた。	東の空が明るくなり出した。														
+CV25					《「し始める」：動作の開始を表す「し始める」：「～し出す」への言い換え》		yes	"Compound verb, -sihazimeru"	entailment		さっき干した洗濯物が乾き始めた。	さっき干した洗濯物が乾き出した。														
+CV26					《「し始める」：動作の開始を表す「し始める」：「～し続ける」への言い換え》		unknown	"Compound verb, -sihazimeru"			太郎は駅に向かって歩き始めた。	太郎は駅に向かって歩き続けた。														
+CV27					《「し始める」：動作の開始を表す「し始める」：「～し続ける」への言い換え》		unknown	"Compound verb, -sihazimeru"			花子は新しい化粧品を使い始めた。	花子は新しい化粧品を使い続けた。														
+CV28					《「し始める」：動作の開始を表す「し始める」：「～し続ける」への言い換え》		unknown	"Compound verb, -sihazimeru"			社長は得意の演歌を歌い始めた。	社長は得意の演歌を歌い続けた。														
+CV29					《「し始める」：動作の開始を表す「し始める」：「～し続ける」への言い換え》		unknown	"Compound verb, -sihazimeru"			東の空が明るくなり始めた。	東の空が明るくなり続けた。														
+CV30					《「し始める」：動作の開始を表す「し始める」：「～し続ける」への言い換え》		unknown	"Compound verb, -sihazimeru"			さっき干した洗濯物が乾き始めた。	さっき干した洗濯物が乾き続けた。														
+CV31					《「し始める」：動作の開始を表す「し始める」：「～しそうになる」への言い換え》		weakacceptable	"Compound verb, -sihazimeru"			太郎は駅に向かって歩き始めた。	太郎は駅に向かって歩きそうになった。														
+CV32					《「し始める」：動作の開始を表す「し始める」：「～しそうになる」への言い換え》		weakacceptable	"Compound verb, -sihazimeru"			花子は新しい化粧品を使い始めた。	花子は新しい化粧品を使いそうになった。														
+CV33					《「し始める」：動作の開始を表す「し始める」：「～しそうになる」への言い換え》		weakacceptable	"Compound verb, -sihazimeru"			社長は得意の演歌を歌い始めた。	社長は得意の演歌を歌いそうになった。														
+CV34					《「し始める」：動作の開始を表す「し始める」：「～しそうになる」への言い換え》		weakacceptable	"Compound verb, -sihazimeru"			東の空が明るくなり始めた。	東の空が明るくなりそうになった。														
+CV35					《「し始める」：動作の開始を表す「し始める」：「～しそうになる」への言い換え》		weakacceptable	"Compound verb, -sihazimeru"			さっき干した洗濯物が乾き始めた。	さっき干した洗濯物が乾きそうになった。														
+CV36					《「し始める」：動作の開始を表す「し始める」：「～しようとする」への言い換え》		yes	"Compound verb, -sihazimeru"	entailment		太郎は駅に向かって歩き始めた。	太郎は駅に向かって歩こうとした。														
+CV37					《「し始める」：動作の開始を表す「し始める」：「～しようとする」への言い換え》		yes	"Compound verb, -sihazimeru"	entailment		花子は新しい化粧品を使い始めた。	花子は新しい化粧品を使おうとした。														
+CV38					《「し始める」：動作の開始を表す「し始める」：「～しようとする」への言い換え》		yes	"Compound verb, -sihazimeru"	entailment		社長は得意の演歌を歌い始めた。	社長は得意の演歌を歌おうとした。														
+CV39					《「し始める」：動作の開始を表す「し始める」：「～しようとする」への言い換え》		unacceptable	"Compound verb, -sihazimeru"			東の空が明るくなり始めた。	東の空が明るくなろうとした。														
+CV40					《「し始める」：動作の開始を表す「し始める」：「～しようとする」への言い換え》		unacceptable	"Compound verb, -sihazimeru"			さっき干した洗濯物が乾き始めた。	さっき干した洗濯物が乾こうとした。														
+CV41					《「し始める」：動作の開始を表す「し始める」：「危うく」の追加》		weakacceptable	"Compound verb, -sikakeru"			太郎は駅に向かって歩き始めた。	太郎は駅に向かって危うく歩き始めた。														
+CV42					《「し始める」：動作の開始を表す「し始める」：「危うく」の追加》		weakacceptable	"Compound verb, -sikakeru"			花子は新しい化粧品を使い始めた。	花子は新しい化粧品を危うく使い始めた。														
+CV43					《「し始める」：動作の開始を表す「し始める」：「危うく」の追加》		weakacceptable	"Compound verb, -sikakeru"			社長は得意の演歌を歌い始めた。	社長は得意の演歌を危うく歌い始めた。														
+CV44					《「し始める」：動作の開始を表す「し始める」：「危うく」の追加》		weakacceptable	"Compound verb, -sikakeru"			東の空が明るくなり始めた。	東の空が危うく明るくなり始めた。														
+CV45					《「し始める」：動作の開始を表す「し始める」：「危うく」の追加》		weakacceptable	"Compound verb, -sikakeru"			さっき干した洗濯物が乾き始めた。	さっき干した洗濯物が危うく乾き始めた。														
+CV46					《「しかける」：動作の開始を表す「しかける」：「しかける」の削除》		unknown	"Compound verb, -sikakeru"			アメリカバイソンは19世紀に絶滅しかけた。	アメリカバイソンは19世紀に絶滅した。														
+CV47					《「しかける」：動作の開始を表す「しかける」：「しかける」の削除》		unknown	"Compound verb, -sikakeru"			太郎は言ってはならないことを口にしかけた。	太郎は言ってはならないことを口にした。														
+CV48					《「しかける」：動作の開始を表す「しかける」：「しかける」の削除》		unknown	"Compound verb, -sikakeru"			花子は冬山で遭難しかけた。	花子は冬山で遭難した。														
+CV49					《「しかける」：動作の開始を表す「しかける」：「しかける」の削除》		unknown	"Compound verb, -sikakeru"			その会社は昨年倒産しかけた。	その会社は昨年倒産した。														
+CV50					《「しかける」：動作の開始を表す「しかける」：「しかける」の削除》		unknown	"Compound verb, -sikakeru"			花子は怪しげなデマを信じかけた。	花子は怪しげなデマを信じた。														
+CV51					《「しかける」：動作の開始を表す「しかける」：「～し始める」への言い換え》		unknown	"Compound verb, -sikakeru"			アメリカバイソンは19世紀に絶滅しかけた。	アメリカバイソンは19世紀に絶滅し始めた。														
+CV52					《「しかける」：動作の開始を表す「しかける」：「～し始める」への言い換え》		unknown	"Compound verb, -sikakeru"			太郎は言ってはならないことを口にしかけた。	太郎は言ってはならないことを口にし始めた。														
+CV53					《「しかける」：動作の開始を表す「しかける」：「～し始める」への言い換え》		unknown	"Compound verb, -sikakeru"			花子は冬山で遭難しかけた。	花子は冬山で遭難し始めた。														
+CV54					《「しかける」：動作の開始を表す「しかける」：「～し始める」への言い換え》		unknown	"Compound verb, -sikakeru"			その会社は昨年倒産しかけた。	その会社は昨年倒産し始めた。														
+CV55					《「しかける」：動作の開始を表す「しかける」：「～し始める」への言い換え》		unknown	"Compound verb, -sikakeru"			花子は怪しげなデマを信じかけた。	花子は怪しげなデマを信じ始めた。														
+CV56					《「しかける」：動作の開始を表す「しかける」：「～し終える」への言い換え》		unacceptable	"Compound verb, -sikakeru"			アメリカバイソンは19世紀に絶滅しかけた。	アメリカバイソンは19世紀に絶滅し終えた。														
+CV57					《「しかける」：動作の開始を表す「しかける」：「～し終える」への言い換え》		unknown	"Compound verb, -sikakeru"			太郎は言ってはならないことを口にしかけた。	太郎は言ってはならないことを口にし終えた。														
+CV58					《「しかける」：動作の開始を表す「しかける」：「～し終える」への言い換え》		unacceptable	"Compound verb, -sikakeru"			花子は冬山で遭難しかけた。	花子は冬山で遭難し終えた。														
+CV59					《「しかける」：動作の開始を表す「しかける」：「～し終える」への言い換え》		unacceptable	"Compound verb, -sikakeru"			その会社は昨年倒産しかけた。	その会社は昨年倒産し終えた。														
+CV60					《「しかける」：動作の開始を表す「しかける」：「～し終える」への言い換え》		unacceptable	"Compound verb, -sikakeru"			花子は怪しげなデマを信じかけた。	花子は怪しげなデマを信じ終えた。														
+CV61					《「しかける」：動作の開始を表す「しかける」：「～し出す」への言い換え》		unknown	"Compound verb, -sikakeru"			アメリカバイソンは19世紀に絶滅しかけた。	アメリカバイソンは19世紀に絶滅し出した。														
+CV62					《「しかける」：動作の開始を表す「しかける」：「～し出す」への言い換え》		unknown	"Compound verb, -sikakeru"			太郎は言ってはならないことを口にしかけた。	太郎は言ってはならないことを口にし出した。														
+CV63					《「しかける」：動作の開始を表す「しかける」：「～し出す」への言い換え》		unknown	"Compound verb, -sikakeru"			花子は冬山で遭難しかけた。	花子は冬山で遭難し出した。														
+CV64					《「しかける」：動作の開始を表す「しかける」：「～し出す」への言い換え》		unknown	"Compound verb, -sikakeru"			その会社は昨年倒産しかけた。	その会社は昨年倒産し出した。														
+CV65					《「しかける」：動作の開始を表す「しかける」：「～し出す」への言い換え》		unknown	"Compound verb, -sikakeru"			花子は怪しげなデマを信じかけた。	花子は怪しげなデマを信じ出した。														
+CV66					《「しかける」：動作の開始を表す「しかける」：「～し続ける」への言い換え》		unacceptable	"Compound verb, -sikakeru"			アメリカバイソンは19世紀に絶滅しかけた。	アメリカバイソンは19世紀に絶滅し続けた。														
+CV67					《「しかける」：動作の開始を表す「しかける」：「～し続ける」への言い換え》		unknown	"Compound verb, -sikakeru"			太郎は言ってはならないことを口にしかけた。	太郎は言ってはならないことを口にし続けた。														
+CV68					《「しかける」：動作の開始を表す「しかける」：「～し続ける」への言い換え》		unknown	"Compound verb, -sikakeru"			花子は冬山で遭難しかけた。	花子は冬山で遭難し続けた。														
+CV69					《「しかける」：動作の開始を表す「しかける」：「～し続ける」への言い換え》		unacceptable	"Compound verb, -sikakeru"			その会社は昨年倒産しかけた。	その会社は昨年倒産し続けた。														
+CV70					《「しかける」：動作の開始を表す「しかける」：「～し続ける」への言い換え》		unknown	"Compound verb, -sikakeru"			花子は怪しげなデマを信じかけた。	花子は怪しげなデマを信じ続けた。														
+CV71					《「しかける」：動作の開始を表す「しかける」：「～しそうになる」への言い換え》		yes	"Compound verb, -sikakeru"	entailment		アメリカバイソンは19世紀に絶滅しかけた。	アメリカバイソンは19世紀に絶滅しそうになった。														
+CV72					《「しかける」：動作の開始を表す「しかける」：「～しそうになる」への言い換え》		yes	"Compound verb, -sikakeru"	entailment		太郎は言ってはならないことを口にしかけた。	太郎は言ってはならないことを口にしそうになった。														
+CV73					《「しかける」：動作の開始を表す「しかける」：「～しそうになる」への言い換え》		yes	"Compound verb, -sikakeru"	entailment		花子は冬山で遭難しかけた。	花子は冬山で遭難しそうになった。														
+CV74					《「しかける」：動作の開始を表す「しかける」：「～しそうになる」への言い換え》		yes	"Compound verb, -sikakeru"	entailment		その会社は昨年倒産しかけた。	その会社は昨年倒産しそうになった。														
+CV75					《「しかける」：動作の開始を表す「しかける」：「～しそうになる」への言い換え》		yes	"Compound verb, -sikakeru"	entailment		花子は怪しげなデマを信じかけた。	花子は怪しげなデマを信じそうになった。														
+CV76					《「しかける」：動作の開始を表す「しかける」：「～しようとする」への言い換え》		unacceptable	"Compound verb, -sikakeru"			アメリカバイソンは19世紀に絶滅しかけた。	アメリカバイソンは19世紀に絶滅しようとした。														
+CV77					《「しかける」：動作の開始を表す「しかける」：「～しようとする」への言い換え》		yes	"Compound verb, -sikakeru"	entailment		太郎は言ってはならないことを口にしかけた。	太郎は言ってはならないことを口にしようとした。														
+CV78					《「しかける」：動作の開始を表す「しかける」：「～しようとする」への言い換え》		unacceptable	"Compound verb, -sikakeru"			花子は冬山で遭難しかけた。	花子は冬山で遭難しようとした。														
+CV79					《「しかける」：動作の開始を表す「しかける」：「～しようとする」への言い換え》		unacceptable	"Compound verb, -sikakeru"			その会社は昨年倒産しかけた。	その会社は昨年倒産しようとした。														
+CV80					《「しかける」：動作の開始を表す「しかける」：「～しようとする」への言い換え》		unknown	"Compound verb, -sikakeru"			花子は怪しげなデマを信じかけた。	花子は怪しげなデマを信じようとした。														
+CV81					《「しかける」：動作の開始を表す「しかける」：「～するところだった」への言い換え》		yes	"Compound verb, -sikakeru"	entailment		アメリカバイソンは19世紀に絶滅しかけた。	アメリカバイソンは19世紀に絶滅するところだった。														
+CV82					《「しかける」：動作の開始を表す「しかける」：「～するところだった」への言い換え》		yes	"Compound verb, -sikakeru"	entailment		太郎は言ってはならないことを口にしかけた。	太郎は言ってはならないことを口にするところだった。														
+CV83					《「しかける」：動作の開始を表す「しかける」：「～するところだった」への言い換え》		yes	"Compound verb, -sikakeru"	entailment		花子は冬山で遭難しかけた。	花子は冬山で遭難するところだった。														
+CV84					《「しかける」：動作の開始を表す「しかける」：「～するところだった」への言い換え》		yes	"Compound verb, -sikakeru"	entailment		その会社は昨年倒産しかけた。	その会社は昨年倒産するところだった。														
+CV85					《「しかける」：動作の開始を表す「しかける」：「～するところだった」への言い換え》		yes	"Compound verb, -sikakeru"	entailment		花子は怪しげなデマを信じかけた。	花子は怪しげなデマを信じるところだった。														
+CV86					《「しかける」：動作の開始を表す「しかける」：「危うく」の追加》		yes	"Compound verb, -sikakeru"	entailment		アメリカバイソンは19世紀に絶滅しかけた。	アメリカバイソンは19世紀に危うく絶滅しかけた。														
+CV87					《「しかける」：動作の開始を表す「しかける」：「危うく」の追加》		yes	"Compound verb, -sikakeru"	entailment		太郎は言ってはならないことを口にしかけた。	太郎は言ってはならないことを危うく口にしかけた。														
+CV88					《「しかける」：動作の開始を表す「しかける」：「危うく」の追加》		yes	"Compound verb, -sikakeru"	entailment		花子は冬山で遭難しかけた。	花子は冬山で危うく遭難しかけた。														
+CV89					《「しかける」：動作の開始を表す「しかける」：「危うく」の追加》		yes	"Compound verb, -sikakeru"	entailment		その会社は昨年倒産しかけた。	その会社は昨年危うく倒産しかけた。														
+CV90					《「しかける」：動作の開始を表す「しかける」：「危うく」の追加》		yes	"Compound verb, -sikakeru"	entailment		花子は怪しげなデマを信じかけた。	花子は怪しげなデマを危うく信じかけた。														
+CV91					《「しかける」：動作の開始を表す「しかける」：「～しかかる」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		アメリカバイソンは19世紀に絶滅しかけた。	アメリカバイソンは19世紀に絶滅しかかった。														
+CV92					《「しかける」：動作の開始を表す「しかける」：「～しかかる」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		太郎は言ってはならないことを口にしかけた。	太郎は言ってはならないことを口にしかかった。														
+CV93					《「しかける」：動作の開始を表す「しかける」：「～しかかる」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		花子は冬山で遭難しかけた。	花子は冬山で遭難しかかった。														
+CV94					《「しかける」：動作の開始を表す「しかける」：「～しかかる」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		その会社は昨年倒産しかけた。	その会社は昨年倒産しかかった。														
+CV95					《「しかける」：動作の開始を表す「しかける」：「～しかかる」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		子犬が穴に落ちかけた。	子犬が穴に落ちかかった。														
+CV96					《「し出す」：動作の開始を表す「し出す」：「し出す」の削除》		yes	"Compound verb, -sidasu"	entailment		太郎は駅に向かって歩き出した。	太郎は駅に向かって歩いた。														
+CV97					《「し出す」：動作の開始を表す「し出す」：「し出す」の削除》		yes	"Compound verb, -sidasu"	entailment		花子は新しい化粧品を使い出した。	花子は新しい化粧品を使った。														
+CV98					《「し出す」：動作の開始を表す「し出す」：「し出す」の削除》		yes	"Compound verb, -sidasu"	entailment		社長は得意の演歌を歌い出した。	社長は得意の演歌を歌った。														
+CV99					《「し出す」：動作の開始を表す「し出す」：「し出す」の削除》		unknown	"Compound verb, -sidasu"			東の空が明るくなり出した。	東の空が明るくなった。														
+CV100					《「し出す」：動作の開始を表す「し出す」：「し出す」の削除》		unknown	"Compound verb, -sidasu"			さっき干した洗濯物が乾き出した。	さっき干した洗濯物が乾いた。														
+CV101					《「し出す」：動作の開始を表す「し出す」：「している」への言い換え》		yes	"Compound verb, -sidasu"	entailment		太郎は駅に向かって歩き出した。	太郎は駅に向かって歩いていた。														
+CV102					《「し出す」：動作の開始を表す「し出す」：「している」への言い換え》		yes	"Compound verb, -sidasu"	entailment		花子は新しい化粧品を使い出した。	花子は新しい化粧品を使っていた。														
+CV103					《「し出す」：動作の開始を表す「し出す」：「している」への言い換え》		yes	"Compound verb, -sidasu"	entailment		社長は得意の演歌を歌い出した。	社長は得意の演歌を歌っていた。														
+CV104					《「し出す」：動作の開始を表す「し出す」：「している」への言い換え》		unknown	"Compound verb, -sidasu"			東の空が明るくなり出した。	東の空が明るくなっていた。														
+CV105					《「し出す」：動作の開始を表す「し出す」：「している」への言い換え》		unknown	"Compound verb, -sidasu"			さっき干した洗濯物が乾き出した。	さっき干した洗濯物が乾いていた。														
+CV106					《「し出す」：動作の開始を表す「し出す」：「～しかける」への言い換え》		yes	"Compound verb, -sidasu"	entailment		太郎は駅に向かって歩き出した。	太郎は駅に向かって歩きかけた。														
+CV107					《「し出す」：動作の開始を表す「し出す」：「～しかける」への言い換え》		yes	"Compound verb, -sidasu"	entailment		花子は新しい化粧品を使い出した。	花子は新しい化粧品を使いかけた。														
+CV108					《「し出す」：動作の開始を表す「し出す」：「～しかける」への言い換え》		yes	"Compound verb, -sidasu"	entailment		社長は得意の演歌を歌い出した。	社長は得意の演歌を歌いかけた。														
+CV109					《「し出す」：動作の開始を表す「し出す」：「～しかける」への言い換え》		yes	"Compound verb, -sidasu"	entailment		東の空が明るくなり出した。	東の空が明るくなりかけた。														
+CV110					《「し出す」：動作の開始を表す「し出す」：「～しかける」への言い換え》		yes	"Compound verb, -sidasu"	entailment		さっき干した洗濯物が乾き出した。	さっき干した洗濯物が乾きかけた。														
+CV111					《「し出す」：動作の開始を表す「し出す」：「～し終える」への言い換え》		unknown	"Compound verb, -sidasu"			太郎は駅に向かって歩き出した。	太郎は駅に向かって歩き終えた。														
+CV112					《「し出す」：動作の開始を表す「し出す」：「～し終える」への言い換え》		unknown	"Compound verb, -sidasu"			花子は新しい化粧品を使い出した。	花子は新しい化粧品を使い終えた。														
+CV113					《「し出す」：動作の開始を表す「し出す」：「～し終える」への言い換え》		unknown	"Compound verb, -sidasu"			社長は得意の演歌を歌い出した。	社長は得意の演歌を歌い終えた。														
+CV114					《「し出す」：動作の開始を表す「し出す」：「～し終える」への言い換え》		unknown	"Compound verb, -sidasu"			東の空が明るくなり出した。	東の空が明るくなり終えた。														
+CV115					《「し出す」：動作の開始を表す「し出す」：「～し終える」への言い換え》		unknown	"Compound verb, -sidasu"			さっき干した洗濯物が乾き出した。	さっき干した洗濯物が乾き終えた。														
+CV116					《「し出す」：動作の開始を表す「し出す」：「～し始める」への言い換え》		yes	"Compound verb, -sidasu"	entailment		太郎は駅に向かって歩き出した。	太郎は駅に向かって歩き始めた。														
+CV117					《「し出す」：動作の開始を表す「し出す」：「～し始める」への言い換え》		yes	"Compound verb, -sidasu"	entailment		花子は新しい化粧品を使い出した。	花子は新しい化粧品を使い始めた。														
+CV118					《「し出す」：動作の開始を表す「し出す」：「～し始める」への言い換え》		yes	"Compound verb, -sidasu"	entailment		社長は得意の演歌を歌い出した。	社長は得意の演歌を歌い始めた。														
+CV119					《「し出す」：動作の開始を表す「し出す」：「～し始める」への言い換え》		yes	"Compound verb, -sidasu"	entailment		東の空が明るくなり出した。	東の空が明るくなり始めた。														
+CV120					《「し出す」：動作の開始を表す「し出す」：「～し始める」への言い換え》		yes	"Compound verb, -sidasu"	entailment		さっき干した洗濯物が乾き出した。	さっき干した洗濯物が乾き始めた。														
+CV121					《「し出す」：動作の開始を表す「し出す」：「～し続ける」への言い換え》		unknown	"Compound verb, -sidasu"			太郎は駅に向かって歩き出した。	太郎は駅に向かって歩き続けた。														
+CV122					《「し出す」：動作の開始を表す「し出す」：「～し続ける」への言い換え》		unknown	"Compound verb, -sidasu"			花子は新しい化粧品を使い出した。	花子は新しい化粧品を使い続けた。														
+CV123					《「し出す」：動作の開始を表す「し出す」：「～し続ける」への言い換え》		unknown	"Compound verb, -sidasu"			社長は得意の演歌を歌い出した。	社長は得意の演歌を歌い続けた。														
+CV124					《「し出す」：動作の開始を表す「し出す」：「～し続ける」への言い換え》		unknown	"Compound verb, -sidasu"			東の空が明るくなり出した。	東の空が明るくなり続けた。														
+CV125					《「し出す」：動作の開始を表す「し出す」：「～し続ける」への言い換え》		unknown	"Compound verb, -sidasu"			さっき干した洗濯物が乾き出した。	さっき干した洗濯物が乾き続けた。														
+CV126					《「し出す」：動作の開始を表す「し出す」：「～しそうになる」への言い換え》		weakacceptable	"Compound verb, -sidasu"			太郎は駅に向かって歩き出した。	太郎は駅に向かって歩きそうになった。														
+CV127					《「し出す」：動作の開始を表す「し出す」：「～しそうになる」への言い換え》		weakacceptable	"Compound verb, -sidasu"			花子は新しい化粧品を使い出した。	花子は新しい化粧品を使いそうになった。														
+CV128					《「し出す」：動作の開始を表す「し出す」：「～しそうになる」への言い換え》		weakacceptable	"Compound verb, -sidasu"			社長は得意の演歌を歌い出した。	社長は得意の演歌を歌いそうになった。														
+CV129					《「し出す」：動作の開始を表す「し出す」：「～しそうになる」への言い換え》		weakacceptable	"Compound verb, -sidasu"			東の空が明るくなり出した。	東の空が明るくなりそうになった。														
+CV130					《「し出す」：動作の開始を表す「し出す」：「～しそうになる」への言い換え》		weakacceptable	"Compound verb, -sidasu"			さっき干した洗濯物が乾き出した。	さっき干した洗濯物が乾きそうになった。														
+CV131					《「し出す」：動作の開始を表す「し出す」：「～しようとする」への言い換え》		yes	"Compound verb, -sidasu"	entailment		太郎は駅に向かって歩き出した。	太郎は駅に向かって歩こうとした。														
+CV132					《「し出す」：動作の開始を表す「し出す」：「～しようとする」への言い換え》		yes	"Compound verb, -sidasu"	entailment		花子は新しい化粧品を使い出した。	花子は新しい化粧品を使おうとした。														
+CV133					《「し出す」：動作の開始を表す「し出す」：「～しようとする」への言い換え》		yes	"Compound verb, -sidasu"	entailment		社長は得意の演歌を歌い出した。	社長は得意の演歌を歌おうとした。														
+CV134					《「し出す」：動作の開始を表す「し出す」：「～しようとする」への言い換え》		unacceptable	"Compound verb, -sidasu"			東の空が明るくなり出した。	東の空が明るくなろうとした。														
+CV135					《「し出す」：動作の開始を表す「し出す」：「～しようとする」への言い換え》		unacceptable	"Compound verb, -sidasu"			さっき干した洗濯物が乾き出した。	さっき干した洗濯物が乾こうとした。														
+CV136					《「し出す」：動作の開始を表す「し出す」：「危うく」の追加》		unacceptable	"Compound verb, -sikakeru"			太郎は駅に向かって歩き出した。	太郎は駅に向かって危うく歩き出した。														
+CV137					《「し出す」：動作の開始を表す「し出す」：「危うく」の追加》		unacceptable	"Compound verb, -sikakeru"			花子は新しい化粧品を使い出した。	花子は新しい化粧品を危うく使い出した。														
+CV138					《「し出す」：動作の開始を表す「し出す」：「危うく」の追加》		unacceptable	"Compound verb, -sikakeru"			社長は得意の演歌を歌い出した。	社長は得意の演歌を危うく歌い出した。														
+CV139					《「し出す」：動作の開始を表す「し出す」：「危うく」の追加》		unacceptable	"Compound verb, -sikakeru"			東の空が明るくなり出した。	東の空が危うく明るくなり出した。														
+CV140					《「し出す」：動作の開始を表す「し出す」：「危うく」の追加》		unacceptable	"Compound verb, -sikakeru"			さっき干した洗濯物が乾き出した。	さっき干した洗濯物が危うく乾き出した。														
+CV141					《「しかかる」：動作の開始を表す「しかかる」：「しかかる」の削除》		unknown	"Compound verb, -sikakaru"			アメリカバイソンは19世紀に絶滅しかかった。	アメリカバイソンは19世紀に絶滅した。														
+CV142					《「しかかる」：動作の開始を表す「しかかる」：「しかかる」の削除》		unknown	"Compound verb, -sikakaru"			太郎は言ってはならないことを口にしかかった。	太郎は言ってはならないことを口にした。														
+CV143					《「しかかる」：動作の開始を表す「しかかる」：「しかかる」の削除》		unknown	"Compound verb, -sikakaru"			花子は冬山で遭難しかかった。	花子は冬山で遭難した。														
+CV144					《「しかかる」：動作の開始を表す「しかかる」：「しかかる」の削除》		unknown	"Compound verb, -sikakaru"			その会社は昨年倒産しかかった。	その会社は昨年倒産した。														
+CV145					《「しかかる」：動作の開始を表す「しかかる」：「しかかる」の削除》		unknown	"Compound verb, -sikakaru"			子犬が穴に落ちかかった。	子犬が穴に落ちた。														
+CV146					《「しかかる」：動作の開始を表す「しかかる」：「～し始める」への言い換え》		unknown	"Compound verb, -sikakaru"			アメリカバイソンは19世紀に絶滅しかかった。	アメリカバイソンは19世紀に絶滅し始めた。														
+CV147					《「しかかる」：動作の開始を表す「しかかる」：「～し始める」への言い換え》		unknown	"Compound verb, -sikakaru"			太郎は言ってはならないことを口にしかかった。	太郎は言ってはならないことを口にし始めた。														
+CV148					《「しかかる」：動作の開始を表す「しかかる」：「～し始める」への言い換え》		unknown	"Compound verb, -sikakaru"			花子は冬山で遭難しかかった。	花子は冬山で遭難し始めた。														
+CV149					《「しかかる」：動作の開始を表す「しかかる」：「～し始める」への言い換え》		unknown	"Compound verb, -sikakaru"			その会社は昨年倒産しかかった。	その会社は昨年倒産し始めた。														
+CV150					《「しかかる」：動作の開始を表す「しかかる」：「～し始める」への言い換え》		unknown	"Compound verb, -sikakaru"			子犬が穴に落ちかかった。	子犬が穴に落ち始めた。														
+CV151					《「しかかる」：動作の開始を表す「しかかる」：「～し終える」への言い換え》		unacceptable	"Compound verb, -sikakaru"			アメリカバイソンは19世紀に絶滅しかかった。	アメリカバイソンは19世紀に絶滅し終えた。														
+CV152					《「しかかる」：動作の開始を表す「しかかる」：「～し終える」への言い換え》		unknown	"Compound verb, -sikakaru"			太郎は言ってはならないことを口にしかかった。	太郎は言ってはならないことを口にし終えた。														
+CV153					《「しかかる」：動作の開始を表す「しかかる」：「～し終える」への言い換え》		unacceptable	"Compound verb, -sikakaru"			花子は冬山で遭難しかかった。	花子は冬山で遭難し終えた。														
+CV154					《「しかかる」：動作の開始を表す「しかかる」：「～し終える」への言い換え》		unacceptable	"Compound verb, -sikakaru"			その会社は昨年倒産しかかった。	その会社は昨年倒産し終えた。														
+CV155					《「しかかる」：動作の開始を表す「しかかる」：「～し終える」への言い換え》		unacceptable	"Compound verb, -sikakaru"			子犬が穴に落ちかかった。	子犬が穴に落ち終えた。														
+CV156					《「しかかる」：動作の開始を表す「しかかる」：「～し出す」への言い換え》		unknown	"Compound verb, -sikakaru"			アメリカバイソンは19世紀に絶滅しかかった。	アメリカバイソンは19世紀に絶滅し出した。														
+CV157					《「しかかる」：動作の開始を表す「しかかる」：「～し出す」への言い換え》		unknown	"Compound verb, -sikakaru"			太郎は言ってはならないことを口にしかかった。	太郎は言ってはならないことを口にし出した。														
+CV158					《「しかかる」：動作の開始を表す「しかかる」：「～し出す」への言い換え》		unknown	"Compound verb, -sikakaru"			花子は冬山で遭難しかかった。	花子は冬山で遭難し出した。														
+CV159					《「しかかる」：動作の開始を表す「しかかる」：「～し出す」への言い換え》		unknown	"Compound verb, -sikakaru"			その会社は昨年倒産しかかった。	その会社は昨年倒産し出した。														
+CV160					《「しかかる」：動作の開始を表す「しかかる」：「～し出す」への言い換え》		unknown	"Compound verb, -sikakaru"			子犬が穴に落ちかかった。	子犬が穴に落ち出した。														
+CV161					《「しかかる」：動作の開始を表す「しかかる」：「～し続ける」への言い換え》		unacceptable	"Compound verb, -sikakaru"			アメリカバイソンは19世紀に絶滅しかかった。	アメリカバイソンは19世紀に絶滅し続けた。														
+CV162					《「しかかる」：動作の開始を表す「しかかる」：「～し続ける」への言い換え》		unknown	"Compound verb, -sikakaru"			太郎は言ってはならないことを口にしかかった。	太郎は言ってはならないことを口にし続けた。														
+CV163					《「しかかる」：動作の開始を表す「しかかる」：「～し続ける」への言い換え》		unknown	"Compound verb, -sikakaru"			花子は冬山で遭難しかかった。	花子は冬山で遭難し続けた。														
+CV164					《「しかかる」：動作の開始を表す「しかかる」：「～し続ける」への言い換え》		unacceptable	"Compound verb, -sikakaru"			その会社は昨年倒産しかかった。	その会社は昨年倒産し続けた。														
+CV165					《「しかかる」：動作の開始を表す「しかかる」：「～し続ける」への言い換え》		unknown	"Compound verb, -sikakaru"			子犬が穴に落ちかかった。	子犬が穴に落ち続けた。														
+CV166					《「しかかる」：動作の開始を表す「しかかる」：「～しそうになる」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		アメリカバイソンは19世紀に絶滅しかかった。	アメリカバイソンは19世紀に絶滅しそうになった。														
+CV167					《「しかかる」：動作の開始を表す「しかかる」：「～しそうになる」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		太郎は言ってはならないことを口にしかかった。	太郎は言ってはならないことを口にしそうになった。														
+CV168					《「しかかる」：動作の開始を表す「しかかる」：「～しそうになる」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		花子は冬山で遭難しかかった。	花子は冬山で遭難しそうになった。														
+CV169					《「しかかる」：動作の開始を表す「しかかる」：「～しそうになる」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		その会社は昨年倒産しかかった。	その会社は昨年倒産しそうになった。														
+CV170					《「しかかる」：動作の開始を表す「しかかる」：「～しそうになる」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		子犬が穴に落ちかかった。	子犬が穴に落ちそうになった。														
+CV171					《「しかかる」：動作の開始を表す「しかかる」：「～しようとする」への言い換え》		unacceptable	"Compound verb, -sikakaru"			アメリカバイソンは19世紀に絶滅しかかった。	アメリカバイソンは19世紀に絶滅しようとした。														
+CV172					《「しかかる」：動作の開始を表す「しかかる」：「～しようとする」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		太郎は言ってはならないことを口にしかかった。	太郎は言ってはならないことを口にしようとした。														
+CV173					《「しかかる」：動作の開始を表す「しかかる」：「～しようとする」への言い換え》		unacceptable	"Compound verb, -sikakaru"			花子は冬山で遭難しかかった。	花子は冬山で遭難しようとした。														
+CV174					《「しかかる」：動作の開始を表す「しかかる」：「～しようとする」への言い換え》		unacceptable	"Compound verb, -sikakaru"			その会社は昨年倒産しかかった。	その会社は昨年倒産しようとした。														
+CV175					《「しかかる」：動作の開始を表す「しかかる」：「～しようとする」への言い換え》		unacceptable	"Compound verb, -sikakaru"			子犬が穴に落ちかかった。	子犬が穴に落ちようとした。														
+CV176					《「しかかる」：動作の開始を表す「しかかる」：「～するところだった」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		アメリカバイソンは19世紀に絶滅しかかった。	アメリカバイソンは19世紀に絶滅するところだった。														
+CV177					《「しかかる」：動作の開始を表す「しかかる」：「～するところだった」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		太郎は言ってはならないことを口にしかかった。	太郎は言ってはならないことを口にするところだった。														
+CV178					《「しかかる」：動作の開始を表す「しかかる」：「～するところだった」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		花子は冬山で遭難しかかった。	花子は冬山で遭難するところだった。														
+CV179					《「しかかる」：動作の開始を表す「しかかる」：「～するところだった」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		その会社は昨年倒産しかかった。	その会社は昨年倒産するところだった。														
+CV180					《「しかかる」：動作の開始を表す「しかかる」：「～するところだった」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		子犬が穴に落ちかかった。	子犬が穴に落ちるところだった。														
+CV181					《「しかかる」：動作の開始を表す「しかかる」：「危うく」の追加》		yes	"Compound verb, -sikakaru"	entailment		アメリカバイソンは19世紀に絶滅しかかった。	アメリカバイソンは19世紀に危うく絶滅しかかった。														
+CV182					《「しかかる」：動作の開始を表す「しかかる」：「危うく」の追加》		yes	"Compound verb, -sikakaru"	entailment		太郎は言ってはならないことを口にしかかった。	太郎は言ってはならないことを危うく口にしかかった。														
+CV183					《「しかかる」：動作の開始を表す「しかかる」：「危うく」の追加》		yes	"Compound verb, -sikakaru"	entailment		花子は冬山で遭難しかかった。	花子は冬山で危うく遭難しかかった。														
+CV184					《「しかかる」：動作の開始を表す「しかかる」：「危うく」の追加》		yes	"Compound verb, -sikakaru"	entailment		その会社は昨年倒産しかかった。	その会社は昨年危うく倒産しかかった。														
+CV185					《「しかかる」：動作の開始を表す「しかかる」：「危うく」の追加》		yes	"Compound verb, -sikakaru"	entailment		子犬が穴に落ちかかった。	子犬が危うく穴に落ちかかった。														
+CV186					《「しかかる」：動作の開始を表す「しかかる」：「～しかける」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		アメリカバイソンは19世紀に絶滅しかかった。	アメリカバイソンは19世紀に絶滅しかけた。														
+CV187					《「しかかる」：動作の開始を表す「しかかる」：「～しかける」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		太郎は言ってはならないことを口にしかかった。	太郎は言ってはならないことを口にしかけた。														
+CV188					《「しかかる」：動作の開始を表す「しかかる」：「～しかける」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		花子は冬山で遭難しかかった。	花子は冬山で遭難しかけた。														
+CV189					《「しかかる」：動作の開始を表す「しかかる」：「～しかける」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		その会社は昨年倒産しかかった。	その会社は昨年倒産しかけた。														
+CV190					《「しかかる」：動作の開始を表す「しかかる」：「～しかける」への言い換え》		yes	"Compound verb, -sikakaru"	entailment		子犬が穴に落ちかかった。	子犬が穴に落ちかけた。														
+CV191					《「し続ける」：動作の継続を表す「し続ける」：「し続ける」の削除》		yes	"Compound verb, -situzukeru"	entailment		花子は踊りを三時間練習し続けた。	花子は踊りを三時間練習した。														
+CV192					《「し続ける」：動作の継続を表す「し続ける」：「し続ける」の削除》		yes	"Compound verb, -situzukeru"	entailment		太郎はプールで三十分間泳ぎ続けた。	太郎はプールで三十分間泳いだ。														
+CV193					《「し続ける」：動作の継続を表す「し続ける」：「し続ける」の削除》		yes	"Compound verb, -situzukeru"	entailment		花子はパソコンの画面を一日中見続けた。	花子はパソコンの画面を一日中見た。														
+CV194					《「し続ける」：動作の継続を表す「し続ける」：「し続ける」の削除》		yes	"Compound verb, -situzukeru"	entailment		その会社の業績は一年間上がり続けた。	その会社の業績は一年間上がった。														
+CV195					《「し続ける」：動作の継続を表す「し続ける」：「し続ける」の削除》		yes	"Compound verb, -situzukeru"	entailment		部長は二時間歌い続けた。	部長は二時間歌った。														
+CV196					《「し続ける」：動作の継続を表す「し続ける」：「している」への言い換え》		yes	"Compound verb, -situzukeru"	entailment		花子は踊りを三時間練習し続けた。	花子は踊りを三時間練習していた。														
+CV197					《「し続ける」：動作の継続を表す「し続ける」：「している」への言い換え》		yes	"Compound verb, -situzukeru"	entailment		太郎はプールで三十分間泳ぎ続けた。	太郎はプールで三十分間泳いでいた。														
+CV198					《「し続ける」：動作の継続を表す「し続ける」：「している」への言い換え》		yes	"Compound verb, -situzukeru"	entailment		花子はパソコンの画面を一日中見続けた。	花子はパソコンの画面を一日中見ていた。														
+CV199					《「し続ける」：動作の継続を表す「し続ける」：「している」への言い換え》		yes	"Compound verb, -situzukeru"	entailment		その会社の業績は一年間上がり続けた。	その会社の業績は一年間上がっていた。														
+CV200					《「し続ける」：動作の継続を表す「し続ける」：「している」への言い換え》		yes	"Compound verb, -situzukeru"	entailment		部長は二時間歌い続けた。	部長は二時間歌っていた。														
+CV201					《「し続ける」：動作の継続を表す「し続ける」：「～しかける」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			花子は踊りを三時間練習し続けた。	花子は踊りを三時間練習しかけた。														
+CV202					《「し続ける」：動作の継続を表す「し続ける」：「～しかける」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			太郎はプールで三十分間泳ぎ続けた。	太郎はプールで三十分間泳ぎかけた。														
+CV203					《「し続ける」：動作の継続を表す「し続ける」：「～しかける」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			花子はパソコンの画面を一日中見続けた。	花子はパソコンの画面を一日中見かけた。														
+CV204					《「し続ける」：動作の継続を表す「し続ける」：「～しかける」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			その会社の業績は一年間上がり続けた。	その会社の業績は一年間上がりかけた。														
+CV205					《「し続ける」：動作の継続を表す「し続ける」：「～しかける」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			部長は二時間歌い続けた。	部長は二時間歌いかけた。														
+CV206					《「し続ける」：動作の継続を表す「し続ける」：「～し終える」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			花子は踊りを三時間練習し続けた。	花子は踊りを三時間練習し終えた。														
+CV207					《「し続ける」：動作の継続を表す「し続ける」：「～し終える」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			太郎はプールで三十分間泳ぎ続けた。	太郎はプールで三十分間泳ぎ終えた。														
+CV208					《「し続ける」：動作の継続を表す「し続ける」：「～し終える」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			花子はパソコンの画面を一日中見続けた。	花子はパソコンの画面を一日中見終えた。														
+CV209					《「し続ける」：動作の継続を表す「し続ける」：「～し終える」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			その会社の業績は一年間上がり続けた。	その会社の業績は一年間上がり終えた。														
+CV210					《「し続ける」：動作の継続を表す「し続ける」：「～し終える」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			部長は二時間歌い続けた。	部長は二時間歌い終えた。														
+CV211					《「し続ける」：動作の継続を表す「し続ける」：「～し出す」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			花子は踊りを三時間練習し続けた。	花子は踊りを三時間練習し出した。														
+CV212					《「し続ける」：動作の継続を表す「し続ける」：「～し出す」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			太郎はプールで三十分間泳ぎ続けた。	太郎はプールで三十分間泳ぎ出した。														
+CV213					《「し続ける」：動作の継続を表す「し続ける」：「～し出す」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			花子はパソコンの画面を一日中見続けた。	花子はパソコンの画面を一日中見出した。														
+CV214					《「し続ける」：動作の継続を表す「し続ける」：「～し出す」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			その会社の業績は一年間上がり続けた。	その会社の業績は一年間上がり出した。														
+CV215					《「し続ける」：動作の継続を表す「し続ける」：「～し出す」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			部長は二時間歌い続けた。	部長は二時間歌い出した。														
+CV216					《「し続ける」：動作の継続を表す「し続ける」：「～し始めた」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			花子は踊りを三時間練習し続けた。	花子は踊りを三時間練習し始めた。														
+CV217					《「し続ける」：動作の継続を表す「し続ける」：「～し始めた」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			太郎はプールで三十分間泳ぎ続けた。	太郎はプールで三十分間泳ぎ始めた。														
+CV218					《「し続ける」：動作の継続を表す「し続ける」：「～し始めた」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			花子はパソコンの画面を一日中見続けた。	花子はパソコンの画面を一日中見始めた。														
+CV219					《「し続ける」：動作の継続を表す「し続ける」：「～し始めた」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			その会社の業績は一年間上がり続けた。	その会社の業績は一年間上がり始めた。														
+CV220					《「し続ける」：動作の継続を表す「し続ける」：「～し始めた」への言い換え》		weakacceptable	"Compound verb, -situzukeru"			部長は二時間歌い続けた。	部長は二時間歌い始めた。														
+CV221					《「し続ける」：習慣の継続を表す「し続ける」：「し続ける」の削除》		yes	"Compound verb, -situzukeru"	entailment		太郎は膝の痛みに効くサプリメントを飲み続けた。	太郎は膝の痛みに効くサプリメントを飲んだ。														
+CV222					《「し続ける」：習慣の継続を表す「し続ける」：「し続ける」の削除》		yes	"Compound verb, -situzukeru"	entailment		花子は自然派の化粧品を使い続けた。	花子は自然派の化粧品を使った。														
+CV223					《「し続ける」：習慣の継続を表す「し続ける」：「し続ける」の削除》		yes	"Compound verb, -situzukeru"	entailment		その選手は雨の日も風の日も走り続けた。	その選手は雨の日も風の日も走った。														
+CV224					《「し続ける」：習慣の継続を表す「し続ける」：「し続ける」の削除》		yes	"Compound verb, -situzukeru"	entailment		太郎はスポーツジムに通い続けた。	太郎はスポーツジムに通った。														
+CV225					《「し続ける」：習慣の継続を表す「し続ける」：「し続ける」の削除》		yes	"Compound verb, -situzukeru"	entailment		花子は卒業後も友人と連絡を取り続けた。	花子は卒業後も友人と連絡を取った。														
+CV226					《「し続ける」：習慣の継続を表す「し続ける」：「している」への言い換え》		yes	"Compound verb, -situzukeru"	entailment		太郎は膝の痛みに効くサプリメントを飲み続けた。	太郎は膝の痛みに効くサプリメントを飲んでいた。														
+CV227					《「し続ける」：習慣の継続を表す「し続ける」：「している」への言い換え》		yes	"Compound verb, -situzukeru"	entailment		花子は自然派の化粧品を使い続けた。	花子は自然派の化粧品を使っていた。														
+CV228					《「し続ける」：習慣の継続を表す「し続ける」：「している」への言い換え》		yes	"Compound verb, -situzukeru"	entailment		その選手は雨の日も風の日も走り続けた。	その選手は雨の日も風の日も走っていた。														
+CV229					《「し続ける」：習慣の継続を表す「し続ける」：「している」への言い換え》		yes	"Compound verb, -situzukeru"	entailment		太郎はスポーツジムに通い続けた。	太郎はスポーツジムに通っていた。														
+CV230					《「し続ける」：習慣の継続を表す「し続ける」：「している」への言い換え》		yes	"Compound verb, -situzukeru"	entailment		花子は卒業後も友人と連絡を取り続けた。	花子は卒業後も友人と連絡を取っていた。														
+CV231					《「し続ける」：習慣の継続を表す「し続ける」：「～しかける」への言い換え》		unknown	"Compound verb, -situzukeru"			太郎は膝の痛みに効くサプリメントを飲み続けた。	太郎は膝の痛みに効くサプリメントを飲みかけた。														
+CV232					《「し続ける」：習慣の継続を表す「し続ける」：「～しかける」への言い換え》		unknown	"Compound verb, -situzukeru"			花子は自然派の化粧品を使い続けた。	花子は自然派の化粧品を使いかけた。														
+CV233					《「し続ける」：習慣の継続を表す「し続ける」：「～しかける」への言い換え》		unknown	"Compound verb, -situzukeru"			その選手は雨の日も風の日も走り続けた。	その選手は雨の日も風の日も走りかけた。														
+CV234					《「し続ける」：習慣の継続を表す「し続ける」：「～しかける」への言い換え》		unknown	"Compound verb, -situzukeru"			太郎はスポーツジムに通い続けた。	太郎はスポーツジムに通いかけた。														
+CV235					《「し続ける」：習慣の継続を表す「し続ける」：「～しかける」への言い換え》		unknown	"Compound verb, -situzukeru"			花子は卒業後も友人と連絡を取り続けた。	花子は卒業後も友人と連絡を取りかけた。														
+CV236					《「し続ける」：習慣の継続を表す「し続ける」：「～し終える」への言い換え》		unknown	"Compound verb, -situzukeru"			太郎は膝の痛みに効くサプリメントを飲み続けた。	太郎は膝の痛みに効くサプリメントを飲み終えた。														
+CV237					《「し続ける」：習慣の継続を表す「し続ける」：「～し終える」への言い換え》		unknown	"Compound verb, -situzukeru"			花子は自然派の化粧品を使い続けた。	花子は自然派の化粧品を使い終えた。														
+CV238					《「し続ける」：習慣の継続を表す「し続ける」：「～し終える」への言い換え》		unknown	"Compound verb, -situzukeru"			その選手は雨の日も風の日も走り続けた。	その選手は雨の日も風の日も走り終えた。														
+CV239					《「し続ける」：習慣の継続を表す「し続ける」：「～し終える」への言い換え》		unknown	"Compound verb, -situzukeru"			太郎はスポーツジムに通い続けた。	太郎はスポーツジムに通い終えた。														
+CV240					《「し続ける」：習慣の継続を表す「し続ける」：「～し終える」への言い換え》		unknown	"Compound verb, -situzukeru"			花子は卒業後も友人と連絡を取り続けた。	花子は卒業後も友人と連絡を取り終えた。														
+CV241					《「し続ける」：習慣の継続を表す「し続ける」：「～し出す」への言い換え》		unknown	"Compound verb, -situzukeru"			太郎は膝の痛みに効くサプリメントを飲み続けた。	太郎は膝の痛みに効くサプリメントを飲み出した。														
+CV242					《「し続ける」：習慣の継続を表す「し続ける」：「～し出す」への言い換え》		unknown	"Compound verb, -situzukeru"			花子は自然派の化粧品を使い続けた。	花子は自然派の化粧品を使い出した。														
+CV243					《「し続ける」：習慣の継続を表す「し続ける」：「～し出す」への言い換え》		unknown	"Compound verb, -situzukeru"			その選手は雨の日も風の日も走り続けた。	その選手は雨の日も風の日も走り出した。														
+CV244					《「し続ける」：習慣の継続を表す「し続ける」：「～し出す」への言い換え》		unknown	"Compound verb, -situzukeru"			太郎はスポーツジムに通い続けた。	太郎はスポーツジムに通い出した。														
+CV245					《「し続ける」：習慣の継続を表す「し続ける」：「～し出す」への言い換え》		unknown	"Compound verb, -situzukeru"			花子は卒業後も友人と連絡を取り続けた。	花子は卒業後も友人と連絡を取り出した。														
+CV246					《「し続ける」：習慣の継続を表す「し続ける」：「～し始めた」への言い換え》		unknown	"Compound verb, -situzukeru"			太郎は膝の痛みに効くサプリメントを飲み続けた。	太郎は膝の痛みに効くサプリメントを飲み始めた。														
+CV247					《「し続ける」：習慣の継続を表す「し続ける」：「～し始めた」への言い換え》		unknown	"Compound verb, -situzukeru"			花子は自然派の化粧品を使い続けた。	花子は自然派の化粧品を使い始めた。														
+CV248					《「し続ける」：習慣の継続を表す「し続ける」：「～し始めた」への言い換え》		unknown	"Compound verb, -situzukeru"			その選手は雨の日も風の日も走り続けた。	その選手は雨の日も風の日も走り始めた。														
+CV249					《「し続ける」：習慣の継続を表す「し続ける」：「～し始めた」への言い換え》		unknown	"Compound verb, -situzukeru"			太郎はスポーツジムに通い続けた。	太郎はスポーツジムに通い始めた。														
+CV250					《「し続ける」：習慣の継続を表す「し続ける」：「～し始めた」への言い換え》		unknown	"Compound verb, -situzukeru"			花子は卒業後も友人と連絡を取り続けた。	花子は卒業後も友人と連絡を取り始めた。														
+CV251					《「し終える」：動作の終了を表す「し終える」：「し終える」の削除》		yes	"Compound verb, -sioeru"	entailment		カルガモの親子は道路を渡り終えた。	カルガモの親子は道路を渡った。														
+CV252					《「し終える」：動作の終了を表す「し終える」：「し終える」の削除》		yes	"Compound verb, -sioeru"	entailment		太郎は図書館で借りてきた本を読み終えた。	太郎は図書館で借りてきた本を読んだ。														
+CV253					《「し終える」：動作の終了を表す「し終える」：「し終える」の削除》		yes	"Compound verb, -sioeru"	entailment		その学生は早々と試験問題を解き終えた。	その学生は早々と試験問題を解いた。														
+CV254					《「し終える」：動作の終了を表す「し終える」：「し終える」の削除》		yes	"Compound verb, -sioeru"	entailment		花子は部屋を掃除し終えた。	花子は部屋を掃除した。														
+CV255					《「し終える」：動作の終了を表す「し終える」：「し終える」の削除》		yes	"Compound verb, -sioeru"	entailment		部長は得意の曲を歌い終えた。	部長は得意の曲を歌った。														
+CV256					《「し終える」：動作の終了を表す「し終える」：「している」への言い換え》		yes	"Compound verb, -sioeru"	entailment		カルガモの親子は道路を渡り終えた。	カルガモの親子は道路を渡っていた。														
+CV257					《「し終える」：動作の終了を表す「し終える」：「している」への言い換え》		yes	"Compound verb, -sioeru"	entailment		太郎は図書館で借りてきた本を読み終えた。	太郎は図書館で借りてきた本を読んでいた。														
+CV258					《「し終える」：動作の終了を表す「し終える」：「している」への言い換え》		yes	"Compound verb, -sioeru"	entailment		その学生は早々と試験問題を解き終えた。	その学生は早々と試験問題を解いていた。														
+CV259					《「し終える」：動作の終了を表す「し終える」：「している」への言い換え》		yes	"Compound verb, -sioeru"	entailment		花子は部屋を掃除し終えた。	花子は部屋を掃除していた。														
+CV260					《「し終える」：動作の終了を表す「し終える」：「している」への言い換え》		yes	"Compound verb, -sioeru"	entailment		部長は得意の曲を歌い終えた。	部長は得意の曲を歌っていた。														
+CV261					《「し終える」：動作の終了を表す「し終える」：「～し終わる」への言い換え》		yes	"Compound verb, -sioeru"	entailment		カルガモの親子は道路を渡り終えた。	カルガモの親子は道路を渡り終わった。														
+CV262					《「し終える」：動作の終了を表す「し終える」：「～し終わる」への言い換え》		yes	"Compound verb, -sioeru"	entailment		太郎は図書館で借りてきた本を読み終えた。	太郎は図書館で借りてきた本を読み終わった。														
+CV263					《「し終える」：動作の終了を表す「し終える」：「～し終わる」への言い換え》		yes	"Compound verb, -sioeru"	entailment		その学生は早々と試験問題を解き終えた。	その学生は早々と試験問題を解き終わった。														
+CV264					《「し終える」：動作の終了を表す「し終える」：「～し終わる」への言い換え》		yes	"Compound verb, -sioeru"	entailment		花子は部屋を掃除し終えた。	花子は部屋を掃除し終わった。														
+CV265					《「し終える」：動作の終了を表す「し終える」：「～し終わる」への言い換え》		yes	"Compound verb, -sioeru"	entailment		部長は得意の曲を歌い終えた。	部長は得意の曲を歌い終わった。														
+CV266					《「し終える」：動作の終了を表す「し終える」：「～し出す」への言い換え》		no	"Compound verb, -sioeru"	entailment		カルガモの親子は道路を渡り終えた。	カルガモの親子は道路を渡り出した。														
+CV267					《「し終える」：動作の終了を表す「し終える」：「～し出す」への言い換え》		no	"Compound verb, -sioeru"	entailment		太郎は図書館で借りてきた本を読み終えた。	太郎は図書館で借りてきた本を読み出した。														
+CV268					《「し終える」：動作の終了を表す「し終える」：「～し出す」への言い換え》		no	"Compound verb, -sioeru"	entailment		その学生は早々と試験問題を解き終えた。	その学生は早々と試験問題を解き出した。														
+CV269					《「し終える」：動作の終了を表す「し終える」：「～し出す」への言い換え》		no	"Compound verb, -sioeru"	entailment		花子は部屋を掃除し終えた。	花子は部屋を掃除し出した。														
+CV270					《「し終える」：動作の終了を表す「し終える」：「～し出す」への言い換え》		no	"Compound verb, -sioeru"	entailment		部長は得意の曲を歌い終えた。	部長は得意の曲を歌い出した。														
+CV271					《「し終える」：動作の終了を表す「し終える」：「～し続ける」への言い換え》		no	"Compound verb, -sioeru"	entailment		カルガモの親子は道路を渡り終えた。	カルガモの親子は道路を渡り続けた。														
+CV272					《「し終える」：動作の終了を表す「し終える」：「～し続ける」への言い換え》		no	"Compound verb, -sioeru"	entailment		太郎は図書館で借りてきた本を読み終えた。	太郎は図書館で借りてきた本を読み続けた。														
+CV273					《「し終える」：動作の終了を表す「し終える」：「～し続ける」への言い換え》		no	"Compound verb, -sioeru"	entailment		その学生は早々と試験問題を解き終えた。	その学生は早々と試験問題を解き続けた。														
+CV274					《「し終える」：動作の終了を表す「し終える」：「～し続ける」への言い換え》		no	"Compound verb, -sioeru"	entailment		花子は部屋を掃除し終えた。	花子は部屋を掃除し続けた。														
+CV275					《「し終える」：動作の終了を表す「し終える」：「～し続ける」への言い換え》		no	"Compound verb, -sioeru"	entailment		部長は得意の曲を歌い終えた。	部長は得意の曲を歌い続けた。														
+CV276					《「し終わる」：動作の終了を表す「し終わる」：「し終わる」の削除》		yes	"Compound verb, -siowaru"	entailment		カルガモの親子は道路を渡り終わった。	カルガモの親子は道路を渡った。														
+CV277					《「し終わる」：動作の終了を表す「し終わる」：「し終わる」の削除》		yes	"Compound verb, -siowaru"	entailment		太郎は図書館で借りてきた本を読み終わった。	太郎は図書館で借りてきた本を読んだ。														
+CV278					《「し終わる」：動作の終了を表す「し終わる」：「し終わる」の削除》		yes	"Compound verb, -siowaru"	entailment		その学生は早々と試験問題を解き終わった。	その学生は早々と試験問題を解いた。														
+CV279					《「し終わる」：動作の終了を表す「し終わる」：「し終わる」の削除》		yes	"Compound verb, -siowaru"	entailment		花子は部屋を掃除し終わった。	花子は部屋を掃除した。														
+CV280					《「し終わる」：動作の終了を表す「し終わる」：「し終わる」の削除》		yes	"Compound verb, -siowaru"	entailment		部長は得意の曲を歌い終わった。	部長は得意の曲を歌った。														
+CV281					《「し終わる」：動作の終了を表す「し終わる」：「している」への言い換え》		yes	"Compound verb, -siowaru"	entailment		カルガモの親子は道路を渡り終わった。	カルガモの親子は道路を渡っていた。														
+CV282					《「し終わる」：動作の終了を表す「し終わる」：「している」への言い換え》		yes	"Compound verb, -siowaru"	entailment		太郎は図書館で借りてきた本を読み終わった。	太郎は図書館で借りてきた本を読んでいた。														
+CV283					《「し終わる」：動作の終了を表す「し終わる」：「している」への言い換え》		yes	"Compound verb, -siowaru"	entailment		その学生は早々と試験問題を解き終わった。	その学生は早々と試験問題を解いていた。														
+CV284					《「し終わる」：動作の終了を表す「し終わる」：「している」への言い換え》		yes	"Compound verb, -siowaru"	entailment		花子は部屋を掃除し終わった。	花子は部屋を掃除していた。														
+CV285					《「し終わる」：動作の終了を表す「し終わる」：「している」への言い換え》		yes	"Compound verb, -siowaru"	entailment		部長は得意の曲を歌い終わった。	部長は得意の曲を歌っていた。														
+CV286					《「し終わる」：動作の終了を表す「し終わる」：「～し終える」への言い換え》		yes	"Compound verb, -siowaru"	entailment		カルガモの親子は道路を渡り終わった。	カルガモの親子は道路を渡り終えた。														
+CV287					《「し終わる」：動作の終了を表す「し終わる」：「～し終える」への言い換え》		yes	"Compound verb, -siowaru"	entailment		太郎は図書館で借りてきた本を読み終わった。	太郎は図書館で借りてきた本を読み終えた。														
+CV288					《「し終わる」：動作の終了を表す「し終わる」：「～し終える」への言い換え》		yes	"Compound verb, -siowaru"	entailment		その学生は早々と試験問題を解き終わった。	その学生は早々と試験問題を解き終えた。														
+CV289					《「し終わる」：動作の終了を表す「し終わる」：「～し終える」への言い換え》		yes	"Compound verb, -siowaru"	entailment		花子は部屋を掃除し終わった。	花子は部屋を掃除し終えた。														
+CV290					《「し終わる」：動作の終了を表す「し終わる」：「～し終える」への言い換え》		no	"Compound verb, -siowaru"	entailment		部長は得意の曲を歌い終わった。	部長は得意の曲を歌い終えた。														
+CV291					《「し終わる」：動作の終了を表す「し終わる」：「～し出す」への言い換え》		no	"Compound verb, -siowaru"	entailment		カルガモの親子は道路を渡り終わった。	カルガモの親子は道路を渡り出した。														
+CV292					《「し終わる」：動作の終了を表す「し終わる」：「～し出す」への言い換え》		no	"Compound verb, -siowaru"	entailment		太郎は図書館で借りてきた本を読み終わった。	太郎は図書館で借りてきた本を読み出した。														
+CV293					《「し終わる」：動作の終了を表す「し終わる」：「～し出す」への言い換え》		no	"Compound verb, -siowaru"	entailment		その学生は早々と試験問題を解き終わった。	その学生は早々と試験問題を解き出した。														
+CV294					《「し終わる」：動作の終了を表す「し終わる」：「～し出す」への言い換え》		no	"Compound verb, -siowaru"	entailment		花子は部屋を掃除し終わった。	花子は部屋を掃除し出した。														
+CV295					《「し終わる」：動作の終了を表す「し終わる」：「～し出す」への言い換え》		no	"Compound verb, -siowaru"	entailment		部長は得意の曲を歌い終わった。	部長は得意の曲を歌い出した。														
+CV296					《「し終わる」：動作の終了を表す「し終わる」：「～し続ける」への言い換え》		no	"Compound verb, -siowaru"	entailment		カルガモの親子は道路を渡り終わった。	カルガモの親子は道路を渡り続けた。														
+CV297					《「し終わる」：動作の終了を表す「し終わる」：「～し続ける」への言い換え》		no	"Compound verb, -siowaru"	entailment		太郎は図書館で借りてきた本を読み終わった。	太郎は図書館で借りてきた本を読み続けた。														
+CV298					《「し終わる」：動作の終了を表す「し終わる」：「～し続ける」への言い換え》		no	"Compound verb, -siowaru"	entailment		その学生は早々と試験問題を解き終わった。	その学生は早々と試験問題を解き続けた。														
+CV299					《「し終わる」：動作の終了を表す「し終わる」：「～し続ける」への言い換え》		no	"Compound verb, -siowaru"	entailment		花子は部屋を掃除し終わった。	花子は部屋を掃除し続けた。														
+CV300					《「し終わる」：動作の終了を表す「し終わる」：「～し続ける」への言い換え》		no	"Compound verb, -siowaru"	entailment		部長は得意の曲を歌い終わった。	部長は得意の曲を歌い続けた。														
+CV301					《「しまくる」：頻度の多さを表す「しまくる」：「しまくる」の削除》		yes	"Compound verb, -simakuru"	entailment		その生徒は学校の授業をサボりまくった。	その生徒は学校の授業をサボった。														
+CV302					《「しまくる」：頻度の多さを表す「しまくる」：「しまくる」の削除》		yes	"Compound verb, -simakuru"	entailment		太郎は洋服屋でスーツを試着しまくった。	太郎は洋服屋でスーツを試着した。														
+CV303					《「しまくる」：頻度の多さを表す「しまくる」：「しまくる」の削除》		yes	"Compound verb, -simakuru"	entailment		花子は海外旅行中に写真を撮りまくった。	花子は海外旅行中に写真を撮った。														
+CV304					《「しまくる」：頻度の多さを表す「しまくる」：「しまくる」の削除》		yes	"Compound verb, -simakuru"	entailment		部長は得意の演歌を歌いまくった。	部長は得意の演歌を歌った。														
+CV305					《「しまくる」：頻度の多さを表す「しまくる」：「しまくる」の削除》		yes	"Compound verb, -simakuru"	entailment		太郎は好きなアイドルの出るイベントに行きまくった。	太郎は好きなアイドルの出るイベントに行った。														
+CV306					《「しまくる」：頻度の多さを表す「しまくる」：「何度も～する」への言い換え》		yes	"Compound verb, -simakuru"	entailment		その生徒は学校の授業をサボりまくった。	その生徒は学校の授業を何度もサボった。														
+CV307					《「しまくる」：頻度の多さを表す「しまくる」：「何度も～する」への言い換え》		yes	"Compound verb, -simakuru"	entailment		太郎は洋服屋でスーツを試着しまくった。	太郎は洋服屋でスーツを何度も試着した。														
+CV308					《「しまくる」：頻度の多さを表す「しまくる」：「何度も～する」への言い換え》		yes	"Compound verb, -simakuru"	entailment		花子は海外旅行中に写真を撮りまくった。	花子は海外旅行中に写真を何度も撮った。														
+CV309					《「しまくる」：頻度の多さを表す「しまくる」：「何度も～する」への言い換え》		yes	"Compound verb, -simakuru"	entailment		部長は得意の演歌を歌いまくった。	部長は得意の演歌を何度も歌った。														
+CV310					《「しまくる」：頻度の多さを表す「しまくる」：「何度も～する」への言い換え》		yes	"Compound verb, -simakuru"	entailment		太郎は好きなアイドルの出るイベントに行きまくった。	太郎は好きなアイドルの出るイベントに何度も行った。														
+CV311					《「しまくる」：頻度の多さを表す「しまくる」：「～し続ける」への言い換え》		yes	"Compound verb, -simakuru"	entailment		その生徒は学校の授業をサボりまくった。	その生徒は学校の授業をサボり続けた。														
+CV312					《「しまくる」：頻度の多さを表す「しまくる」：「～し続ける」への言い換え》		yes	"Compound verb, -simakuru"	entailment		太郎は洋服屋でスーツを試着しまくった。	太郎は洋服屋でスーツを試着し続けた。														
+CV313					《「しまくる」：頻度の多さを表す「しまくる」：「～し続ける」への言い換え》		yes	"Compound verb, -simakuru"	entailment		花子は海外旅行中に写真を撮りまくった。	花子は海外旅行中に写真を撮り続けた。														
+CV314					《「しまくる」：頻度の多さを表す「しまくる」：「～し続ける」への言い換え》		yes	"Compound verb, -simakuru"	entailment		部長は得意の演歌を歌いまくった。	部長は得意の演歌を歌い続けた。														
+CV315					《「しまくる」：頻度の多さを表す「しまくる」：「～し続ける」への言い換え》		yes	"Compound verb, -simakuru"	entailment		太郎は好きなアイドルの出るイベントに行きまくった。	太郎は好きなアイドルの出るイベントに行き続けた。														
+CV316					《「しまくる」：頻度の多さを表す「しまくる」：「一度だけ～する」への言い換え》		no	"Compound verb, -simakuru"	entailment		その生徒は学校の授業をサボりまくった。	その生徒は学校の授業を一度だけサボった。														
+CV317					《「しまくる」：頻度の多さを表す「しまくる」：「一度だけ～する」への言い換え》		no	"Compound verb, -simakuru"	entailment		太郎は洋服屋でスーツを試着しまくった。	太郎は洋服屋でスーツを一度だけ試着した。														
+CV318					《「しまくる」：頻度の多さを表す「しまくる」：「一度だけ～する」への言い換え》		no	"Compound verb, -simakuru"	entailment		花子は海外旅行中に写真を撮りまくった。	花子は海外旅行中に写真を一度だけ撮った。														
+CV319					《「しまくる」：頻度の多さを表す「しまくる」：「一度だけ～する」への言い換え》		no	"Compound verb, -simakuru"	entailment		部長は得意の演歌を歌いまくった。	部長は得意の演歌を一度だけ歌った。														
+CV320					《「しまくる」：頻度の多さを表す「しまくる」：「一度だけ～する」への言い換え》		no	"Compound verb, -simakuru"	entailment		太郎は好きなアイドルの出るイベントに行きまくった。	太郎は好きなアイドルの出るイベントに一度だけ行った。														
+CV321					《「しまくる」：程度の大きさを表す「しまくる」：「しまくる」の削除》		yes	"Compound verb, -simakuru"	entailment		花子は焼肉屋の食べ放題で骨付きカルビを食べまくった。	花子は焼肉屋の食べ放題で骨付きカルビを食べた。														
+CV322					《「しまくる」：程度の大きさを表す「しまくる」：「しまくる」の削除》		yes	"Compound verb, -simakuru"	entailment		先週の日曜日、太郎はデパートで買い物をしまくった。	先週の日曜日、太郎はデパートで買い物をした。														
+CV323					《「しまくる」：程度の大きさを表す「しまくる」：「しまくる」の削除》		yes	"Compound verb, -simakuru"	entailment		社長は新入社員の態度の悪さに怒りまくった。	社長は新入社員の態度の悪さに怒った。														
+CV324					《「しまくる」：程度の大きさを表す「しまくる」：「しまくる」の削除》		yes	"Compound verb, -simakuru"	entailment		地震で部屋が揺れまくった。	地震で部屋が揺れた。														
+CV325					《「しまくる」：程度の大きさを表す「しまくる」：「しまくる」の削除》		yes	"Compound verb, -simakuru"	entailment		太郎は愛車を改造しまくった。	太郎は愛車を改造した。														
+CV326					《「しまくる」：程度の大きさを表す「しまくる」：「たくさん/ひどく/大幅に～する」への言い換え》		yes	"Compound verb, -simakuru"	entailment		花子は焼肉屋の食べ放題で骨付きカルビを食べまくった。	花子は焼肉屋の食べ放題で骨付きカルビをたくさん食べた。														
+CV327					《「しまくる」：程度の大きさを表す「しまくる」：「たくさん/ひどく/大幅に～する」への言い換え》		yes	"Compound verb, -simakuru"	entailment		先週の日曜日、太郎はデパートで買い物をしまくった。	先週の日曜日、太郎はデパートでたくさん買い物をした。														
+CV328					《「しまくる」：程度の大きさを表す「しまくる」：「たくさん/ひどく/大幅に～する」への言い換え》		yes	"Compound verb, -simakuru"	entailment		社長は新入社員の態度の悪さに怒りまくった。	社長は新入社員の態度の悪さにひどく怒った。														
+CV329					《「しまくる」：程度の大きさを表す「しまくる」：「たくさん/ひどく/大幅に～する」への言い換え》		yes	"Compound verb, -simakuru"	entailment		地震で部屋が揺れまくった。	地震で部屋がひどく揺れた。														
+CV330					《「しまくる」：程度の大きさを表す「しまくる」：「たくさん/ひどく/大幅に～する」への言い換え》		yes	"Compound verb, -simakuru"	entailment		太郎は愛車を改造しまくった。	太郎は愛車を大幅に改造した。														
+CV331					《「しまくる」：程度の大きさを表す「しまくる」：「～し続ける」への言い換え》		yes	"Compound verb, -simakuru"	entailment		花子は焼肉屋の食べ放題で骨付きカルビを食べまくった。	花子は焼肉屋の食べ放題で骨付きカルビを食べ続けた。														
+CV332					《「しまくる」：程度の大きさを表す「しまくる」：「～し続ける」への言い換え》		yes	"Compound verb, -simakuru"	entailment		先週の日曜日、太郎はデパートで買い物をしまくった。	先週の日曜日、太郎はデパートで買い物をし続けた。														
+CV333					《「しまくる」：程度の大きさを表す「しまくる」：「～し続ける」への言い換え》		unknown	"Compound verb, -simakuru"			社長は新入社員の態度の悪さに怒りまくった。	社長は新入社員の態度の悪さに怒り続けた。														
+CV334					《「しまくる」：程度の大きさを表す「しまくる」：「～し続ける」への言い換え》		unknown	"Compound verb, -simakuru"			地震で部屋が揺れまくった。	地震で部屋が揺れ続けた。														
+CV335					《「しまくる」：程度の大きさを表す「しまくる」：「～し続ける」への言い換え》		unknown	"Compound verb, -simakuru"			太郎は愛車を改造しまくった。	太郎は愛車を改造し続けた。														
+CV336					《「しまくる」：程度の大きさを表す「しまくる」：「少し～する」への言い換え》		no	"Compound verb, -simakuru"	entailment		花子は焼肉屋の食べ放題で骨付きカルビを食べまくった。	花子は焼肉屋の食べ放題で骨付きカルビを少し食べた。														
+CV337					《「しまくる」：程度の大きさを表す「しまくる」：「少し～する」への言い換え》		no	"Compound verb, -simakuru"	entailment		先週の日曜日、太郎はデパートで買い物をしまくった。	先週の日曜日、太郎はデパートで少し買い物をした。														
+CV338					《「しまくる」：程度の大きさを表す「しまくる」：「少し～する」への言い換え》		no	"Compound verb, -simakuru"	entailment		社長は新入社員の態度の悪さに怒りまくった。	社長は新入社員の態度の悪さに少し怒った。														
+CV339					《「しまくる」：程度の大きさを表す「しまくる」：「少し～する」への言い換え》		no	"Compound verb, -simakuru"	entailment		地震で部屋が揺れまくった。	地震で部屋が少し揺れた。														
+CV340					《「しまくる」：程度の大きさを表す「しまくる」：「少し～する」への言い換え》		no	"Compound verb, -simakuru"	entailment		太郎は愛車を改造しまくった。	太郎は愛車を少し改造した。														
+CV341					《「し切る」：行為の完遂を表す「し切る」：「し切る」の削除》		yes	"Compound verb, -sikiru"	entailment		カルガモの親子は道路を渡り切った。	カルガモの親子は道路を渡った。														
+CV342					《「し切る」：行為の完遂を表す「し切る」：「し切る」の削除》		yes	"Compound verb, -sikiru"	entailment		花子は大量の焼肉を食べ切った。	花子は大量の焼肉を食べた。														
+CV343					《「し切る」：行為の完遂を表す「し切る」：「し切る」の削除》		yes	"Compound verb, -sikiru"	entailment		その学生は試験問題を解き切った。	その学生は試験問題を解いた。														
+CV344					《「し切る」：行為の完遂を表す「し切る」：「し切る」の削除》		yes	"Compound verb, -sikiru"	entailment		太郎はフルマラソンを走り切った。	太郎はフルマラソンを走った。														
+CV345					《「し切る」：行為の完遂を表す「し切る」：「し切る」の削除》		yes	"Compound verb, -sikiru"	entailment		冷蔵庫に余っていた野菜を使い切った。	冷蔵庫に余っていた野菜を使った。														
+CV346					《「し切る」：行為の完遂を表す「し切る」：「～し終える」への言い換え》		yes	"Compound verb, -sikiru"	entailment		カルガモの親子は道路を渡り切った。	カルガモの親子は道路を渡り終えた。														
+CV347					《「し切る」：行為の完遂を表す「し切る」：「～し終える」への言い換え》		yes	"Compound verb, -sikiru"	entailment		花子は大量の焼肉を食べ切った。	花子は大量の焼肉を食べ終えた。														
+CV348					《「し切る」：行為の完遂を表す「し切る」：「～し終える」への言い換え》		yes	"Compound verb, -sikiru"	entailment		その学生は試験問題を解き切った。	その学生は試験問題を解き終えた。														
+CV349					《「し切る」：行為の完遂を表す「し切る」：「～し終える」への言い換え》		yes	"Compound verb, -sikiru"	entailment		太郎はフルマラソンを走り切った。	太郎はフルマラソンを走り終えた。														
+CV350					《「し切る」：行為の完遂を表す「し切る」：「～し終える」への言い換え》		yes	"Compound verb, -sikiru"	entailment		冷蔵庫に余っていた野菜を使い切った。	冷蔵庫に余っていた野菜を使い終えた。														
+CV351					《「し切る」：行為の完遂を表す「し切る」：「～し終わる」への言い換え》		yes	"Compound verb, -sikiru"	entailment		カルガモの親子は道路を渡り切った。	カルガモの親子は道路を渡り終わった。														
+CV352					《「し切る」：行為の完遂を表す「し切る」：「～し終わる」への言い換え》		yes	"Compound verb, -sikiru"	entailment		花子は大量の焼肉を食べ切った。	花子は大量の焼肉を食べ終わった。														
+CV353					《「し切る」：行為の完遂を表す「し切る」：「～し終わる」への言い換え》		yes	"Compound verb, -sikiru"	entailment		その学生は試験問題を解き切った。	その学生は試験問題を解き終わった。														
+CV354					《「し切る」：行為の完遂を表す「し切る」：「～し終わる」への言い換え》		yes	"Compound verb, -sikiru"	entailment		太郎はフルマラソンを走り切った。	太郎はフルマラソンを走り終わった。														
+CV355					《「し切る」：行為の完遂を表す「し切る」：「～し終わる」への言い換え》		yes	"Compound verb, -sikiru"	entailment		冷蔵庫に余っていた野菜を使い切った。	冷蔵庫に余っていた野菜を使い終わった。														
+CV356					《「し切る」：行為の完遂を表す「し切る」：「～し出す」への言い換え》		no	"Compound verb, -sikiru"	entailment		カルガモの親子は道路を渡り切った。	カルガモの親子は道路を渡り出した。														
+CV357					《「し切る」：行為の完遂を表す「し切る」：「～し出す」への言い換え》		no	"Compound verb, -sikiru"	entailment		花子は大量の焼肉を食べ切った。	花子は大量の焼肉を食べ出した。														
+CV358					《「し切る」：行為の完遂を表す「し切る」：「～し出す」への言い換え》		no	"Compound verb, -sikiru"	entailment		その学生は試験問題を解き切った。	その学生は試験問題を解き出した。														
+CV359					《「し切る」：行為の完遂を表す「し切る」：「～し出す」への言い換え》		no	"Compound verb, -sikiru"	entailment		太郎はフルマラソンを走り切った。	太郎はフルマラソンを走り出した。														
+CV360					《「し切る」：行為の完遂を表す「し切る」：「～し出す」への言い換え》		no	"Compound verb, -sikiru"	entailment		冷蔵庫に余っていた野菜を使い切った。	冷蔵庫に余っていた野菜を使い出した。														
+CV361					《「し切る」：行為の完遂を表す「し切る」：「～し続ける」への言い換え》		no	"Compound verb, -sikiru"	entailment		カルガモの親子は道路を渡り切った。	カルガモの親子は道路を渡り続けた。														
+CV362					《「し切る」：行為の完遂を表す「し切る」：「～し続ける」への言い換え》		no	"Compound verb, -sikiru"	entailment		花子は大量の焼肉を食べ切った。	花子は大量の焼肉を食べ続けた。														
+CV363					《「し切る」：行為の完遂を表す「し切る」：「～し続ける」への言い換え》		no	"Compound verb, -sikiru"	entailment		その学生は試験問題を解き切った。	その学生は試験問題を解き続けた。														
+CV364					《「し切る」：行為の完遂を表す「し切る」：「～し続ける」への言い換え》		no	"Compound verb, -sikiru"	entailment		太郎はフルマラソンを走り切った。	太郎はフルマラソンを走り続けた。														
+CV365					《「し切る」：行為の完遂を表す「し切る」：「～し続ける」への言い換え》		no	"Compound verb, -sikiru"	entailment		冷蔵庫に余っていた野菜を使い切った。	冷蔵庫に余っていた野菜を使い続けた。														
+CV366					《「し切る」：行為の完遂を表す「し切る」：「～し尽くす」への言い換え》		weakacceptable	"Compound verb, -sikiru"			カルガモの親子は道路を渡り切った。	カルガモの親子は道路を渡り尽くした。														
+CV367					《「し切る」：行為の完遂を表す「し切る」：「～し尽くす」への言い換え》		yes	"Compound verb, -sikiru"	entailment		花子は大量の焼肉を食べ切った。	花子は大量の焼肉を食べ尽くした。														
+CV368					《「し切る」：行為の完遂を表す「し切る」：「～し尽くす」への言い換え》		yes	"Compound verb, -sikiru"	entailment		その学生は試験問題を解き切った。	その学生は試験問題を解き尽くした。														
+CV369					《「し切る」：行為の完遂を表す「し切る」：「～し尽くす」への言い換え》		yes	"Compound verb, -sikiru"	entailment		太郎はフルマラソンを走り切った。	太郎はフルマラソンを走り尽くした。														
+CV370					《「し切る」：行為の完遂を表す「し切る」：「～し尽くす」への言い換え》		yes	"Compound verb, -sikiru"	entailment		冷蔵庫に余っていた野菜を使い切った。	冷蔵庫に余っていた野菜を使い尽くした。														
+CV371					《「し切る」：行為の完遂を表す「し切る」：「～し抜く」への言い換え》		weakacceptable	"Compound verb, -sikiru"			カルガモの親子は道路を渡り切った。	カルガモの親子は道路を渡り抜いた。														
+CV372					《「し切る」：行為の完遂を表す「し切る」：「～し抜く」への言い換え》		yes	"Compound verb, -sikiru"	entailment		花子は大量の焼肉を食べ切った。	花子は大量の焼肉を食べ抜いた。														
+CV373					《「し切る」：行為の完遂を表す「し切る」：「～し抜く」への言い換え》		weakacceptable	"Compound verb, -sikiru"			その学生は試験問題を解き切った。	その学生は試験問題を解き抜いた。														
+CV374					《「し切る」：行為の完遂を表す「し切る」：「～し抜く」への言い換え》		yes	"Compound verb, -sikiru"	entailment		太郎はフルマラソンを走り切った。	太郎はフルマラソンを走り抜いた。														
+CV375					《「し切る」：行為の完遂を表す「し切る」：「～し抜く」への言い換え》		weakacceptable	"Compound verb, -sikiru"			冷蔵庫に余っていた野菜を使い切った。	冷蔵庫に余っていた野菜を使い抜いた。														
+CV376					《「し切る」：極限状態を表す「し切る」：「し切る」の削除》		yes	"Compound verb, -sikiru"	entailment		その学生は面接官の前で緊張し切っている。	その学生は面接官の前で緊張している。														
+CV377					《「し切る」：極限状態を表す「し切る」：「し切る」の削除》		yes	"Compound verb, -sikiru"	entailment		社長は今月の売り上げに満足し切っている。	社長は今月の売り上げに満足している。														
+CV378					《「し切る」：極限状態を表す「し切る」：「し切る」の削除》		yes	"Compound verb, -sikiru"	entailment		その国の政治は何年も前から腐敗し切っていた。	その国の政治は何年も前から腐敗していた。														
+CV379					《「し切る」：極限状態を表す「し切る」：「し切る」の削除》		yes	"Compound verb, -sikiru"	entailment		洗濯物が乾き切っている。	洗濯物が乾いている。														
+CV380					《「し切る」：極限状態を表す「し切る」：「し切る」の削除》		yes	"Compound verb, -sikiru"	entailment		太郎は残業続きで疲れ切っていた。	太郎は残業続きで疲れていた。														
+CV381					《「し切る」：極限状態を表す「し切る」：「～し終える」への言い換え》		unacceptable	"Compound verb, -sikiru"			その学生は面接官の前で緊張し切っている。	その学生は面接官の前で緊張し終えている。														
+CV382					《「し切る」：極限状態を表す「し切る」：「～し終える」への言い換え》		unacceptable	"Compound verb, -sikiru"			社長は今月の売り上げに満足し切っている。	社長は今月の売り上げに満足し終えている。														
+CV383					《「し切る」：極限状態を表す「し切る」：「～し終える」への言い換え》		unacceptable	"Compound verb, -sikiru"			その国の政治は何年も前から腐敗し切っていた。	その国の政治は何年も前から腐敗し終えていた。														
+CV384					《「し切る」：極限状態を表す「し切る」：「～し終える」への言い換え》		weakacceptable	"Compound verb, -sikiru"			洗濯物が乾き切っている。	洗濯物が乾き終えている。														
+CV385					《「し切る」：極限状態を表す「し切る」：「～し終える」への言い換え》		unacceptable	"Compound verb, -sikiru"			太郎は残業続きで疲れ切っていた。	太郎は残業続きで疲れ終えていた。														
+CV386					《「し切る」：極限状態を表す「し切る」：「～し終わる」への言い換え》		unacceptable	"Compound verb, -sikiru"			その学生は面接官の前で緊張し切っている。	その学生は面接官の前で緊張し終わっている。														
+CV387					《「し切る」：極限状態を表す「し切る」：「～し終わる」への言い換え》		unacceptable	"Compound verb, -sikiru"			社長は今月の売り上げに満足し切っている。	社長は今月の売り上げに満足し終わっている。														
+CV388					《「し切る」：極限状態を表す「し切る」：「～し終わる」への言い換え》		unacceptable	"Compound verb, -sikiru"			その国の政治は何年も前から腐敗し切っていた。	その国の政治は何年も前から腐敗し終わっていた。														
+CV389					《「し切る」：極限状態を表す「し切る」：「～し終わる」への言い換え》		weakacceptable	"Compound verb, -sikiru"			洗濯物が乾き切っている。	洗濯物が乾き終わっている。														
+CV390					《「し切る」：極限状態を表す「し切る」：「～し終わる」への言い換え》		unacceptable	"Compound verb, -sikiru"			太郎は残業続きで疲れ切っていた。	太郎は残業続きで疲れ終わっていた。														
+CV391					《「し切る」：極限状態を表す「し切る」：「～し出す」への言い換え》		no	"Compound verb, -sikiru"	entailment		その学生は面接官の前で緊張し切っている。	その学生は面接官の前で緊張し出している。														
+CV392					《「し切る」：極限状態を表す「し切る」：「～し出す」への言い換え》		no	"Compound verb, -sikiru"	entailment		社長は今月の売り上げに満足し切っている。	社長は今月の売り上げに満足し出している。														
+CV393					《「し切る」：極限状態を表す「し切る」：「～し出す」への言い換え》		no	"Compound verb, -sikiru"	entailment		その国の政治は何年も前から腐敗し切っていた。	その国の政治は何年も前から腐敗し出していた。														
+CV394					《「し切る」：極限状態を表す「し切る」：「～し出す」への言い換え》		no	"Compound verb, -sikiru"	entailment		洗濯物が乾き切っている。	洗濯物が乾き出している。														
+CV395					《「し切る」：極限状態を表す「し切る」：「～し出す」への言い換え》		no	"Compound verb, -sikiru"	entailment		太郎は残業続きで疲れ切っていた。	太郎は残業続きで疲れ出していた。														
+CV396					《「し切る」：極限状態を表す「し切る」：「～し続ける」への言い換え》		unknown	"Compound verb, -sikiru"			その学生は面接官の前で緊張し切っている。	その学生は面接官の前で緊張し続けている。														
+CV397					《「し切る」：極限状態を表す「し切る」：「～し続ける」への言い換え》		unknown	"Compound verb, -sikiru"			社長は今月の売り上げに満足し切っている。	社長は今月の売り上げに満足し続けている。														
+CV398					《「し切る」：極限状態を表す「し切る」：「～し続ける」への言い換え》		unknown	"Compound verb, -sikiru"			その国の政治は何年も前から腐敗し切っていた。	その国の政治は何年も前から腐敗し続けていた。														
+CV399					《「し切る」：極限状態を表す「し切る」：「～し続ける」への言い換え》		unknown	"Compound verb, -sikiru"			洗濯物が乾き切っている。	洗濯物が乾き続けている。														
+CV400					《「し切る」：極限状態を表す「し切る」：「～し続ける」への言い換え》		unknown	"Compound verb, -sikiru"			太郎は残業続きで疲れ切っていた。	太郎は残業続きで疲れ続けていた。														
+CV401					《「し切る」：極限状態を表す「し切る」：「～し尽くす」への言い換え》		weakacceptable	"Compound verb, -sikiru"			その学生は面接官の前で緊張し切っている。	その学生は面接官の前で緊張し尽くしている。														
+CV402					《「し切る」：極限状態を表す「し切る」：「～し尽くす」への言い換え》		weakacceptable	"Compound verb, -sikiru"			社長は今月の売り上げに満足し切っている。	社長は今月の売り上げに満足し尽くしている。														
+CV403					《「し切る」：極限状態を表す「し切る」：「～し尽くす」への言い換え》		yes	"Compound verb, -sikiru"	entailment		その国の政治は何年も前から腐敗し切っていた。	その国の政治は何年も前から腐敗し尽くしていた。														
+CV404					《「し切る」：極限状態を表す「し切る」：「～し尽くす」への言い換え》		yes	"Compound verb, -sikiru"	entailment		洗濯物が乾き切っている。	洗濯物が乾き尽くしている。														
+CV405					《「し切る」：極限状態を表す「し切る」：「～し尽くす」への言い換え》		weakacceptable	"Compound verb, -sikiru"			太郎は残業続きで疲れ切っていた。	太郎は残業続きで疲れ尽くしていた。														
+CV406					《「し切る」：極限状態を表す「し切る」：「～し抜く」への言い換え》		unacceptable	"Compound verb, -sikiru"			その学生は面接官の前で緊張し切っている。	その学生は面接官の前で緊張し抜いている。														
+CV407					《「し切る」：極限状態を表す「し切る」：「～し抜く」への言い換え》		unacceptable	"Compound verb, -sikiru"			社長は今月の売り上げに満足し切っている。	社長は今月の売り上げに満足し抜いている。														
+CV408					《「し切る」：極限状態を表す「し切る」：「～し抜く」への言い換え》		unacceptable	"Compound verb, -sikiru"			その国の政治は何年も前から腐敗し切っていた。	その国の政治は何年も前から腐敗し抜いていた。														
+CV409					《「し切る」：極限状態を表す「し切る」：「～し抜く」への言い換え》		unacceptable	"Compound verb, -sikiru"			洗濯物が乾き切っている。	洗濯物が乾き抜いている。														
+CV410					《「し切る」：極限状態を表す「し切る」：「～し抜く」への言い換え》		unacceptable	"Compound verb, -sikiru"			太郎は残業続きで疲れ切っていた。	太郎は残業続きで疲れ抜いていた。														
+CV411					《「し尽くす」：行為の完遂を表す「し尽くす」：「し尽くす」の削除》		yes	"Compound verb, -situkusu"	entailment		花子は家にある食べ物を食べ尽くした。	花子は家にある食べ物を食べた。														
+CV412					《「し尽くす」：行為の完遂を表す「し尽くす」：「し尽くす」の削除》		yes	"Compound verb, -situkusu"	entailment		刑事はその事件について調べ尽くした。	刑事はその事件について調べた。														
+CV413					《「し尽くす」：行為の完遂を表す「し尽くす」：「し尽くす」の削除》		yes	"Compound verb, -situkusu"	entailment		太郎は貯金を使い尽くした。	太郎は貯金を使った。														
+CV414					《「し尽くす」：行為の完遂を表す「し尽くす」：「し尽くす」の削除》		yes	"Compound verb, -situkusu"	entailment		その作家は書きたいことを書き尽くした。	その作家は書きたいことを書いた。														
+CV415					《「し尽くす」：行為の完遂を表す「し尽くす」：「し尽くす」の削除》		yes	"Compound verb, -situkusu"	entailment		群衆が広場を埋め尽くした。	群衆が広場を埋めた。														
+CV416					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し終える」への言い換え》		yes	"Compound verb, -situkusu"	entailment		花子は家にある食べ物を食べ尽くした。	花子は家にある食べ物を食べ終えた。														
+CV417					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し終える」への言い換え》		yes	"Compound verb, -situkusu"	entailment		刑事はその事件について調べ尽くした。	刑事はその事件について調べ終えた。														
+CV418					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し終える」への言い換え》		yes	"Compound verb, -situkusu"	entailment		太郎は貯金を使い尽くした。	太郎は貯金を使い終えた。														
+CV419					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し終える」への言い換え》		yes	"Compound verb, -situkusu"	entailment		その作家は書きたいことを書き尽くした。	その作家は書きたいことを書き終えた。														
+CV420					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し終える」への言い換え》		weakacceptable	"Compound verb, -situkusu"			群衆が広場を埋め尽くした。	群衆が広場を埋め終えた。														
+CV421					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し終わる」への言い換え》		yes	"Compound verb, -situkusu"	entailment		花子は家にある食べ物を食べ尽くした。	花子は家にある食べ物を食べ終わった。														
+CV422					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し終わる」への言い換え》		yes	"Compound verb, -situkusu"	entailment		刑事はその事件について調べ尽くした。	刑事はその事件について調べ終わった。														
+CV423					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し終わる」への言い換え》		yes	"Compound verb, -situkusu"	entailment		太郎は貯金を使い尽くした。	太郎は貯金を使い終わった。														
+CV424					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し終わる」への言い換え》		yes	"Compound verb, -situkusu"	entailment		その作家は書きたいことを書き尽くした。	その作家は書きたいことを書き終わった。														
+CV425					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し終わる」への言い換え》		weakacceptable	"Compound verb, -situkusu"			群衆が広場を埋め尽くした。	群衆が広場を埋め終わった。														
+CV426					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し出す」への言い換え》		no	"Compound verb, -situkusu"	entailment		花子は家にある食べ物を食べ尽くした。	花子は家にある食べ物を食べ出した。														
+CV427					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し出す」への言い換え》		no	"Compound verb, -situkusu"	entailment		刑事はその事件について調べ尽くした。	刑事はその事件について調べ出した。														
+CV428					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し出す」への言い換え》		no	"Compound verb, -situkusu"	entailment		太郎は貯金を使い尽くした。	太郎は貯金を使い出した。														
+CV429					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し出す」への言い換え》		no	"Compound verb, -situkusu"	entailment		その作家は書きたいことを書き尽くした。	その作家は書きたいことを書き出した。														
+CV430					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し出す」への言い換え》		no	"Compound verb, -situkusu"	entailment		群衆が広場を埋め尽くした。	群衆が広場を埋め出した。														
+CV431					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し続ける」への言い換え》		unknown	"Compound verb, -situkusu"			花子は家にある食べ物を食べ尽くした。	花子は家にある食べ物を食べ続けた。														
+CV432					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し続ける」への言い換え》		unknown	"Compound verb, -situkusu"			刑事はその事件について調べ尽くした。	刑事はその事件について調べ続けた。														
+CV433					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し続ける」への言い換え》		unknown	"Compound verb, -situkusu"			太郎は貯金を使い尽くした。	太郎は貯金を使い続けた。														
+CV434					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し続ける」への言い換え》		unknown	"Compound verb, -situkusu"			その作家は書きたいことを書き尽くした。	その作家は書きたいことを書き続けた。														
+CV435					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し続ける」への言い換え》		unknown	"Compound verb, -situkusu"			群衆が広場を埋め尽くした。	群衆が広場を埋め続けた。														
+CV436					《「し尽くす」：行為の完遂を表す「し尽くす」：「すべて～する」への言い換え》		yes	"Compound verb, -situkusu"	entailment		花子は家にある食べ物を食べ尽くした。	花子は家にある食べ物をすべて食べた。														
+CV437					《「し尽くす」：行為の完遂を表す「し尽くす」：「すべて～する」への言い換え》		yes	"Compound verb, -situkusu"	entailment		刑事はその事件について調べ尽くした。	刑事はその事件についてすべて調べた。														
+CV438					《「し尽くす」：行為の完遂を表す「し尽くす」：「すべて～する」への言い換え》		yes	"Compound verb, -situkusu"	entailment		太郎は貯金を使い尽くした。	太郎は貯金をすべて使った。														
+CV439					《「し尽くす」：行為の完遂を表す「し尽くす」：「すべて～する」への言い換え》		yes	"Compound verb, -situkusu"	entailment		その作家は書きたいことを書き尽くした。	その作家は書きたいことをすべて書いた。														
+CV440					《「し尽くす」：行為の完遂を表す「し尽くす」：「すべて～する」への言い換え》		yes	"Compound verb, -situkusu"	entailment		群衆が広場を埋め尽くした。	群衆が広場をすべて埋めた。														
+CV441					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し切る」への言い換え》		yes	"Compound verb, -situkusu"	entailment		花子は家にある食べ物を食べ尽くした。	花子は家にある食べ物を食べ切った。														
+CV442					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し切る」への言い換え》		yes	"Compound verb, -situkusu"	entailment		刑事はその事件について調べ尽くした。	刑事はその事件について調べ切った。														
+CV443					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し切る」への言い換え》		yes	"Compound verb, -situkusu"	entailment		太郎は貯金を使い尽くした。	太郎は貯金を使い切った。														
+CV444					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し切る」への言い換え》		yes	"Compound verb, -situkusu"	entailment		その作家は書きたいことを書き尽くした。	その作家は書きたいことを書き切った。														
+CV445					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し切る」への言い換え》		weakacceptable	"Compound verb, -situkusu"			群衆が広場を埋め尽くした。	群衆が広場を埋め切った。														
+CV446					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し抜く」への言い換え》		weakacceptable	"Compound verb, -situkusu"			花子は家にある食べ物を食べ尽くした。	花子は家にある食べ物を食べ抜いた。														
+CV447					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し抜く」への言い換え》		yes	"Compound verb, -situkusu"			刑事はその事件について調べ尽くした。	刑事はその事件について調べ抜いた。														
+CV448					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し抜く」への言い換え》		weakacceptable	"Compound verb, -situkusu"			太郎は貯金を使い尽くした。	太郎は貯金を使い抜いた。														
+CV449					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し抜く」への言い換え》		weakacceptable	"Compound verb, -situkusu"			その作家は書きたいことを書き尽くした。	その作家は書きたいことを書き抜いた。														
+CV450					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し抜く」への言い換え》		weakacceptable	"Compound verb, -situkusu"			群衆が広場を埋め尽くした。	群衆が広場を埋め抜いた。														
+CV451					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し通す」への言い換え》		weakacceptable	"Compound verb, -situkusu"			花子は家にある食べ物を食べ尽くした。	花子は家にある食べ物を食べ通した。														
+CV452					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し通す」への言い換え》		weakacceptable	"Compound verb, -situkusu"			刑事はその事件について調べ尽くした。	刑事はその事件について調べ通した。														
+CV453					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し通す」への言い換え》		weakacceptable	"Compound verb, -situkusu"			太郎は貯金を使い尽くした。	太郎は貯金を使い通した。														
+CV454					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し通す」への言い換え》		weakacceptable	"Compound verb, -situkusu"			その作家は書きたいことを書き尽くした。	その作家は書きたいことを書き通した。														
+CV455					《「し尽くす」：行為の完遂を表す「し尽くす」：「～し通す」への言い換え》		weakacceptable	"Compound verb, -situkusu"			群衆が広場を埋め尽くした。	群衆が広場を埋め通した。														
+CV456					《「し通す」：行為の完遂を表す「し通す」：「し通す」の削除》		yes	"Compound verb, -sitoosu"	entailment		容疑者は取り調べに対して黙秘をし通した。	容疑者は取り調べに対して黙秘をした。														
+CV457					《「し通す」：行為の完遂を表す「し通す」：「し通す」の削除》		yes	"Compound verb, -sitoosu"	entailment		太郎は自分の意志を貫き通した。	太郎は自分の意志を貫いた。														
+CV458					《「し通す」：行為の完遂を表す「し通す」：「し通す」の削除》		yes	"Compound verb, -sitoosu"	entailment		その父親は家族を守り通した。	その父親は家族を守った。														
+CV459					《「し通す」：行為の完遂を表す「し通す」：「し通す」の削除》		yes	"Compound verb, -sitoosu"	entailment		花子は嘘をつき通した。	花子は嘘をついた。														
+CV460					《「し通す」：行為の完遂を表す「し通す」：「し通す」の削除》		yes	"Compound verb, -sitoosu"	entailment		その冒険家は長い道のりを歩き通した。	その冒険家は長い道のりを歩いた。														
+CV461					《「し通す」：行為の完遂を表す「し通す」：「～し終える」への言い換え》		weakacceptable	"Compound verb, -sitoosu"			容疑者は取り調べに対して黙秘をし通した。	容疑者は取り調べに対して黙秘をし終えた。														
+CV462					《「し通す」：行為の完遂を表す「し通す」：「～し終える」への言い換え》		weakacceptable	"Compound verb, -sitoosu"			太郎は自分の意志を貫き通した。	太郎は自分の意志を貫き終えた。														
+CV463					《「し通す」：行為の完遂を表す「し通す」：「～し終える」への言い換え》		weakacceptable	"Compound verb, -sitoosu"			その父親は家族を守り通した。	その父親は家族を守り終えた。														
+CV464					《「し通す」：行為の完遂を表す「し通す」：「～し終える」への言い換え》		weakacceptable	"Compound verb, -sitoosu"			花子は嘘をつき通した。	花子は嘘をつき終えた。														
+CV465					《「し通す」：行為の完遂を表す「し通す」：「～し終える」への言い換え》		weakacceptable	"Compound verb, -sitoosu"			その冒険家は長い道のりを歩き通した。	その冒険家は長い道のりを歩き終えた。														
+CV466					《「し通す」：行為の完遂を表す「し通す」：「～し出す」への言い換え》		no	"Compound verb, -sitoosu"	entailment		容疑者は取り調べに対して黙秘をし通した。	容疑者は取り調べに対して黙秘をし出した。														
+CV467					《「し通す」：行為の完遂を表す「し通す」：「～し出す」への言い換え》		no	"Compound verb, -sitoosu"	entailment		太郎は自分の意志を貫き通した。	太郎は自分の意志を貫き出した。														
+CV468					《「し通す」：行為の完遂を表す「し通す」：「～し出す」への言い換え》		no	"Compound verb, -sitoosu"	entailment		その父親は家族を守り通した。	その父親は家族を守り出した。														
+CV469					《「し通す」：行為の完遂を表す「し通す」：「～し出す」への言い換え》		no	"Compound verb, -sitoosu"	entailment		花子は嘘をつき通した。	花子は嘘をつき出した。														
+CV470					《「し通す」：行為の完遂を表す「し通す」：「～し出す」への言い換え》		no	"Compound verb, -sitoosu"	entailment		その冒険家は長い道のりを歩き通した。	その冒険家は長い道のりを歩き出した。														
+CV471					《「し通す」：行為の完遂を表す「し通す」：「～し続ける」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		容疑者は取り調べに対して黙秘をし通した。	容疑者は取り調べに対して黙秘をし続けた。														
+CV472					《「し通す」：行為の完遂を表す「し通す」：「～し続ける」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		太郎は自分の意志を貫き通した。	太郎は自分の意志を貫き続けた。														
+CV473					《「し通す」：行為の完遂を表す「し通す」：「～し続ける」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		その父親は家族を守り通した。	その父親は家族を守り続けた。														
+CV474					《「し通す」：行為の完遂を表す「し通す」：「～し続ける」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		花子は嘘をつき通した。	花子は嘘をつき続けた。														
+CV475					《「し通す」：行為の完遂を表す「し通す」：「～し続ける」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		その冒険家は長い道のりを歩き通した。	その冒険家は長い道のりを歩き続けた。														
+CV476					《「し通す」：行為の完遂を表す「し通す」：「最後まで～する」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		容疑者は取り調べに対して黙秘をし通した。	容疑者は取り調べに対して最後まで黙秘をした。														
+CV477					《「し通す」：行為の完遂を表す「し通す」：「最後まで～する」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		太郎は自分の意志を貫き通した。	太郎は自分の意志を最後まで貫いた。														
+CV478					《「し通す」：行為の完遂を表す「し通す」：「最後まで～する」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		その父親は家族を守り通した。	その父親は家族を最後まで守った。														
+CV479					《「し通す」：行為の完遂を表す「し通す」：「最後まで～する」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		花子は嘘をつき通した。	花子は最後まで嘘をついた。														
+CV480					《「し通す」：行為の完遂を表す「し通す」：「最後まで～する」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		その冒険家は長い道のりを歩き通した。	その冒険家は長い道のりを最後まで歩いた。														
+CV481					《「し通す」：行為の完遂を表す「し通す」：「～し切る」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		容疑者は取り調べに対して黙秘をし通した。	容疑者は取り調べに対して黙秘をし切った。														
+CV482					《「し通す」：行為の完遂を表す「し通す」：「～し切る」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		太郎は自分の意志を貫き通した。	太郎は自分の意志を貫き切った。														
+CV483					《「し通す」：行為の完遂を表す「し通す」：「～し切る」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		その父親は家族を守り通した。	その父親は家族を守り切った。														
+CV484					《「し通す」：行為の完遂を表す「し通す」：「～し切る」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		花子は嘘をつき通した。	花子は嘘をつき切った。														
+CV485					《「し通す」：行為の完遂を表す「し通す」：「～し切る」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		その冒険家は長い道のりを歩き通した。	その冒険家は長い道のりを歩き切った。														
+CV486					《「し通す」：行為の完遂を表す「し通す」：「～し抜く」への言い換え》		weakacceptable	"Compound verb, -sitoosu"			容疑者は取り調べに対して黙秘をし通した。	容疑者は取り調べに対して黙秘をし抜いた。														
+CV487					《「し通す」：行為の完遂を表す「し通す」：「～し抜く」への言い換え》		weakacceptable	"Compound verb, -sitoosu"			太郎は自分の意志を貫き通した。	太郎は自分の意志を貫き抜いた。														
+CV488					《「し通す」：行為の完遂を表す「し通す」：「～し抜く」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		その父親は家族を守り通した。	その父親は家族を守り抜いた。														
+CV489					《「し通す」：行為の完遂を表す「し通す」：「～し抜く」への言い換え》		weakacceptable	"Compound verb, -sitoosu"			花子は嘘をつき通した。	花子は嘘をつき抜いた。														
+CV490					《「し通す」：行為の完遂を表す「し通す」：「～し抜く」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		その冒険家は長い道のりを歩き通した。	その冒険家は長い道のりを歩き抜いた。														
+CV491					《「し通す」：行為の完遂を表す「し通す」：「～し尽くす」への言い換え》		weakacceptable	"Compound verb, -sitoosu"			容疑者は取り調べに対して黙秘をし通した。	容疑者は取り調べに対して黙秘をし尽くした。														
+CV492					《「し通す」：行為の完遂を表す「し通す」：「～し尽くす」への言い換え》		weakacceptable	"Compound verb, -sitoosu"			太郎は自分の意志を貫き通した。	太郎は自分の意志を貫き尽くした。														
+CV493					《「し通す」：行為の完遂を表す「し通す」：「～し尽くす」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		その父親は家族を守り通した。	その父親は家族を守り尽くした。														
+CV494					《「し通す」：行為の完遂を表す「し通す」：「～し尽くす」への言い換え》		weakacceptable	"Compound verb, -sitoosu"			花子は嘘をつき通した。	花子は嘘をつき尽くした。														
+CV495					《「し通す」：行為の完遂を表す「し通す」：「～し尽くす」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		その冒険家は長い道のりを歩き通した。	その冒険家は長い道のりを歩き尽くした。														
+CV496					《「し通す」：行為の完遂を表す「し通す」：「努めて～する」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		容疑者は取り調べに対して黙秘をし通した。	容疑者は取り調べに対して努めて黙秘をした。														
+CV497					《「し通す」：行為の完遂を表す「し通す」：「努めて～する」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		太郎は自分の意志を貫き通した。	太郎は努めて自分の意志を貫いた。														
+CV498					《「し通す」：行為の完遂を表す「し通す」：「努めて～する」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		その父親は家族を守り通した。	その父親は努めて家族を守った。														
+CV499					《「し通す」：行為の完遂を表す「し通す」：「努めて～する」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		花子は嘘をつき通した。	花子は努めて嘘をついた。														
+CV500					《「し通す」：行為の完遂を表す「し通す」：「努めて～する」への言い換え》		yes	"Compound verb, -sitoosu"	entailment		その冒険家は長い道のりを歩き通した。	その冒険家は努めて長い道のりを歩いた。														
+CV501					《「し抜く」：行為の完遂を表す「し抜く」：「し抜く」の削除》		yes	"Compound verb, -sinuku"	entailment		その父親は家族を守り抜いた。	その父親は家族を守った。														
+CV502					《「し抜く」：行為の完遂を表す「し抜く」：「し抜く」の削除》		yes	"Compound verb, -sinuku"	entailment		そのチームは連戦に次ぐ連戦を戦い抜いた。	そのチームは連戦に次ぐ連戦を戦った。														
+CV503					《「し抜く」：行為の完遂を表す「し抜く」：「し抜く」の削除》		yes	"Compound verb, -sinuku"	entailment		その選手は42.195キロを走り抜いた。	その選手は42.195キロを走った。														
+CV504					《「し抜く」：行為の完遂を表す「し抜く」：「し抜く」の削除》		yes	"Compound verb, -sinuku"	entailment		花子は困難な時代を生き抜いた。	花子は困難な時代を生きた。														
+CV505					《「し抜く」：行為の完遂を表す「し抜く」：「し抜く」の削除》		yes	"Compound verb, -sinuku"	entailment		刑事はその事件について調べ抜いた。	刑事はその事件について調べた。														
+CV506					《「し抜く」：行為の完遂を表す「し抜く」：「～し終える」への言い換え》		weakacceptable	"Compound verb, -sinuku"			その父親は家族を守り抜いた。	その父親は家族を守り終えた。														
+CV507					《「し抜く」：行為の完遂を表す「し抜く」：「～し終える」への言い換え》		yes	"Compound verb, -sinuku"	entailment		そのチームは連戦に次ぐ連戦を戦い抜いた。	そのチームは連戦に次ぐ連戦を戦い終えた。														
+CV508					《「し抜く」：行為の完遂を表す「し抜く」：「～し終える」への言い換え》		yes	"Compound verb, -sinuku"	entailment		その選手は42.195キロを走り抜いた。	その選手は42.195キロを走り終えた。														
+CV509					《「し抜く」：行為の完遂を表す「し抜く」：「～し終える」への言い換え》		weakacceptable	"Compound verb, -sinuku"			花子は困難な時代を生き抜いた。	花子は困難な時代を生き終えた。														
+CV510					《「し抜く」：行為の完遂を表す「し抜く」：「～し終える」への言い換え》		yes	"Compound verb, -sinuku"	entailment		刑事はその事件について調べ抜いた。	刑事はその事件について調べ終えた。														
+CV511					《「し抜く」：行為の完遂を表す「し抜く」：「～し出す」への言い換え》		no	"Compound verb, -sinuku"	entailment		その父親は家族を守り抜いた。	その父親は家族を守り出した。														
+CV512					《「し抜く」：行為の完遂を表す「し抜く」：「～し出す」への言い換え》		no	"Compound verb, -sinuku"	entailment		そのチームは連戦に次ぐ連戦を戦い抜いた。	そのチームは連戦に次ぐ連戦を戦い出した。														
+CV513					《「し抜く」：行為の完遂を表す「し抜く」：「～し出す」への言い換え》		no	"Compound verb, -sinuku"	entailment		その選手は42.195キロを走り抜いた。	その選手は42.195キロを走り出した。														
+CV514					《「し抜く」：行為の完遂を表す「し抜く」：「～し出す」への言い換え》		no	"Compound verb, -sinuku"	entailment		花子は困難な時代を生き抜いた。	花子は困難な時代を生き出した。														
+CV515					《「し抜く」：行為の完遂を表す「し抜く」：「～し出す」への言い換え》		no	"Compound verb, -sinuku"	entailment		刑事はその事件について調べ抜いた。	刑事はその事件について調べ出した。														
+CV516					《「し抜く」：行為の完遂を表す「し抜く」：「～し続ける」への言い換え》		yes	"Compound verb, -sinuku"	entailment		その父親は家族を守り抜いた。	その父親は家族を守り続けた。														
+CV517					《「し抜く」：行為の完遂を表す「し抜く」：「～し続ける」への言い換え》		yes	"Compound verb, -sinuku"	entailment		そのチームは連戦に次ぐ連戦を戦い抜いた。	そのチームは連戦に次ぐ連戦を戦い続けた。														
+CV518					《「し抜く」：行為の完遂を表す「し抜く」：「～し続ける」への言い換え》		yes	"Compound verb, -sinuku"	entailment		その選手は42.195キロを走り抜いた。	その選手は42.195キロを走り続けた。														
+CV519					《「し抜く」：行為の完遂を表す「し抜く」：「～し続ける」への言い換え》		yes	"Compound verb, -sinuku"	entailment		花子は困難な時代を生き抜いた。	花子は困難な時代を生き続けた。														
+CV520					《「し抜く」：行為の完遂を表す「し抜く」：「～し続ける」への言い換え》		yes	"Compound verb, -sinuku"	entailment		刑事はその事件について調べ抜いた。	刑事はその事件について調べ続けた。														
+CV521					《「し抜く」：行為の完遂を表す「し抜く」：「最後まで～する」への言い換え》		yes	"Compound verb, -sinuku"	entailment		その父親は家族を守り抜いた。	その父親は家族を最後まで守った。														
+CV522					《「し抜く」：行為の完遂を表す「し抜く」：「最後まで～する」への言い換え》		yes	"Compound verb, -sinuku"	entailment		そのチームは連戦に次ぐ連戦を戦い抜いた。	そのチームは連戦に次ぐ連戦を最後まで戦った。														
+CV523					《「し抜く」：行為の完遂を表す「し抜く」：「最後まで～する」への言い換え》		yes	"Compound verb, -sinuku"	entailment		その選手は42.195キロを走り抜いた。	その選手は42.195キロを最後まで走った。														
+CV524					《「し抜く」：行為の完遂を表す「し抜く」：「最後まで～する」への言い換え》		yes	"Compound verb, -sinuku"	entailment		花子は困難な時代を生き抜いた。	花子は困難な時代を最後まで生きた。														
+CV525					《「し抜く」：行為の完遂を表す「し抜く」：「最後まで～する」への言い換え》		weakacceptable	"Compound verb, -sinuku"			刑事はその事件について調べ抜いた。	刑事はその事件について最後まで調べた。														
+CV526					《「し抜く」：行為の完遂を表す「し抜く」：「～し切る」への言い換え》		yes	"Compound verb, -sinuku"	entailment		その父親は家族を守り抜いた。	その父親は家族を守り切った。														
+CV527					《「し抜く」：行為の完遂を表す「し抜く」：「～し切る」への言い換え》		yes	"Compound verb, -sinuku"	entailment		そのチームは連戦に次ぐ連戦を戦い抜いた。	そのチームは連戦に次ぐ連戦を戦い切った。														
+CV528					《「し抜く」：行為の完遂を表す「し抜く」：「～し切る」への言い換え》		yes	"Compound verb, -sinuku"	entailment		その選手は42.195キロを走り抜いた。	その選手は42.195キロを走り切った。														
+CV529					《「し抜く」：行為の完遂を表す「し抜く」：「～し切る」への言い換え》		yes	"Compound verb, -sinuku"	entailment		花子は困難な時代を生き抜いた。	花子は困難な時代を生き切った。														
+CV530					《「し抜く」：行為の完遂を表す「し抜く」：「～し切る」への言い換え》		yes	"Compound verb, -sinuku"	entailment		刑事はその事件について調べ抜いた。	刑事はその事件について調べ切った。														
+CV531					《「し抜く」：行為の完遂を表す「し抜く」：「～し通す」への言い換え》		yes	"Compound verb, -sinuku"	entailment		その父親は家族を守り抜いた。	その父親は家族を守り通した。														
+CV532					《「し抜く」：行為の完遂を表す「し抜く」：「～し通す」への言い換え》		yes	"Compound verb, -sinuku"	entailment		そのチームは連戦に次ぐ連戦を戦い抜いた。	そのチームは連戦に次ぐ連戦を戦い通した。														
+CV533					《「し抜く」：行為の完遂を表す「し抜く」：「～し通す」への言い換え》		yes	"Compound verb, -sinuku"	entailment		その選手は42.195キロを走り抜いた。	その選手は42.195キロを走り通した。														
+CV534					《「し抜く」：行為の完遂を表す「し抜く」：「～し通す」への言い換え》		weakacceptable	"Compound verb, -sinuku"			花子は困難な時代を生き抜いた。	花子は困難な時代を生き通した。														
+CV535					《「し抜く」：行為の完遂を表す「し抜く」：「～し通す」への言い換え》		weakacceptable	"Compound verb, -sinuku"			刑事はその事件について調べ抜いた。	刑事はその事件について調べ通した。														
+CV536					《「し抜く」：行為の完遂を表す「し抜く」：「～し尽くす」への言い換え》		yes	"Compound verb, -sinuku"	entailment		その父親は家族を守り抜いた。	その父親は家族を守り尽くした。														
+CV537					《「し抜く」：行為の完遂を表す「し抜く」：「～し尽くす」への言い換え》		yes	"Compound verb, -sinuku"	entailment		そのチームは連戦に次ぐ連戦を戦い抜いた。	そのチームは連戦に次ぐ連戦を戦い尽くした。														
+CV538					《「し抜く」：行為の完遂を表す「し抜く」：「～し尽くす」への言い換え》		yes	"Compound verb, -sinuku"	entailment		その選手は42.195キロを走り抜いた。	その選手は42.195キロを走り尽くした。														
+CV539					《「し抜く」：行為の完遂を表す「し抜く」：「～し尽くす」への言い換え》		weakacceptable	"Compound verb, -sinuku"			花子は困難な時代を生き抜いた。	花子は困難な時代を生き尽くした。														
+CV540					《「し抜く」：行為の完遂を表す「し抜く」：「～し尽くす」への言い換え》		yes	"Compound verb, -sinuku"	entailment		刑事はその事件について調べ抜いた。	刑事はその事件について調べ尽くした。														
+CV541					《「し抜く」：行為の完遂を表す「し抜く」：「努めて～する」への言い換え》		yes	"Compound verb, -sinuku"	entailment		その父親は家族を守り抜いた。	その父親は努めて家族を守った。														
+CV542					《「し抜く」：行為の完遂を表す「し抜く」：「努めて～する」への言い換え》		yes	"Compound verb, -sinuku"	entailment		そのチームは連戦に次ぐ連戦を戦い抜いた。	そのチームは努めて連戦に次ぐ連戦を戦った。														
+CV543					《「し抜く」：行為の完遂を表す「し抜く」：「努めて～する」への言い換え》		yes	"Compound verb, -sinuku"	entailment		その選手は42.195キロを走り抜いた。	その選手は努めて42.195キロを走った。														
+CV544					《「し抜く」：行為の完遂を表す「し抜く」：「努めて～する」への言い換え》		yes	"Compound verb, -sinuku"	entailment		花子は困難な時代を生き抜いた。	花子は努めて困難な時代を生きた。														
+CV545					《「し抜く」：行為の完遂を表す「し抜く」：「努めて～する」への言い換え》		yes	"Compound verb, -sinuku"	entailment		刑事はその事件について調べ抜いた。	刑事は努めてその事件について調べた。														
+CV546					《「し抜く」：極度の状態を表す「し抜く」：「し抜く」の削除》		yes	"Compound verb, -sinuku"	entailment		シェフは食材にこだわり抜いた。	シェフは食材にこだわった。														
+CV547					《「し抜く」：極度の状態を表す「し抜く」：「し抜く」の削除》		yes	"Compound verb, -sinuku"	entailment		太郎はトレーニングで腹筋を鍛え抜いた。	太郎はトレーニングで腹筋を鍛えた。														
+CV548					《「し抜く」：極度の状態を表す「し抜く」：「し抜く」の削除》		yes	"Compound verb, -sinuku"	entailment		花子は理想と現実の間で悩み抜いた。	花子は理想と現実の間で悩んだ。														
+CV549					《「し抜く」：極度の状態を表す「し抜く」：「し抜く」の削除》		yes	"Compound verb, -sinuku"	entailment		地元の漁師はこのあたりの海のことを知り抜いている。	地元の漁師はこのあたりの海のことを知っている。														
+CV550					《「し抜く」：極度の状態を表す「し抜く」：「し抜く」の削除》		yes	"Compound verb, -sinuku"	entailment		社長は夫人に惚れ抜いていた。	社長は夫人に惚れていた。														
+CV551					《「し抜く」：極度の状態を表す「し抜く」：「～し終える」への言い換え》		unknown	"Compound verb, -sinuku"			シェフは食材にこだわり抜いた。	シェフは食材にこだわり終えた。														
+CV552					《「し抜く」：極度の状態を表す「し抜く」：「～し終える」への言い換え》		unknown	"Compound verb, -sinuku"			太郎はトレーニングで腹筋を鍛え抜いた。	太郎はトレーニングで腹筋を鍛え終えた。														
+CV553					《「し抜く」：極度の状態を表す「し抜く」：「～し終える」への言い換え》		unknown	"Compound verb, -sinuku"			花子は理想と現実の間で悩み抜いた。	花子は理想と現実の間で悩み終えた。														
+CV554					《「し抜く」：極度の状態を表す「し抜く」：「～し終える」への言い換え》		unknown	"Compound verb, -sinuku"			地元の漁師はこのあたりの海のことを知り抜いている。	地元の漁師はこのあたりの海のことを知り終えている。														
+CV555					《「し抜く」：極度の状態を表す「し抜く」：「～し終える」への言い換え》		unknown	"Compound verb, -sinuku"			社長は夫人に惚れ抜いていた。	社長は夫人に惚れ終えていた。														
+CV556					《「し抜く」：極度の状態を表す「し抜く」：「～し出す」への言い換え》		no	"Compound verb, -sinuku"	entailment		シェフは食材にこだわり抜いた。	シェフは食材にこだわり出した。														
+CV557					《「し抜く」：極度の状態を表す「し抜く」：「～し出す」への言い換え》		no	"Compound verb, -sinuku"	entailment		太郎はトレーニングで腹筋を鍛え抜いた。	太郎はトレーニングで腹筋を鍛え出した。														
+CV558					《「し抜く」：極度の状態を表す「し抜く」：「～し出す」への言い換え》		no	"Compound verb, -sinuku"	entailment		花子は理想と現実の間で悩み抜いた。	花子は理想と現実の間で悩み出した。														
+CV559					《「し抜く」：極度の状態を表す「し抜く」：「～し出す」への言い換え》		no	"Compound verb, -sinuku"	entailment		地元の漁師はこのあたりの海のことを知り抜いている。	地元の漁師はこのあたりの海のことを知り出している。														
+CV560					《「し抜く」：極度の状態を表す「し抜く」：「～し出す」への言い換え》		no	"Compound verb, -sinuku"	entailment		社長は夫人に惚れ抜いていた。	社長は夫人に惚れ出していた。														
+CV561					《「し抜く」：極度の状態を表す「し抜く」：「～し続ける」への言い換え》		unknown	"Compound verb, -sinuku"			シェフは食材にこだわり抜いた。	シェフは食材にこだわり続けた。														
+CV562					《「し抜く」：極度の状態を表す「し抜く」：「～し続ける」への言い換え》		unknown	"Compound verb, -sinuku"			太郎はトレーニングで腹筋を鍛え抜いた。	太郎はトレーニングで腹筋を鍛え続けた。														
+CV563					《「し抜く」：極度の状態を表す「し抜く」：「～し続ける」への言い換え》		unknown	"Compound verb, -sinuku"			花子は理想と現実の間で悩み抜いた。	花子は理想と現実の間で悩み続けた。														
+CV564					《「し抜く」：極度の状態を表す「し抜く」：「～し続ける」への言い換え》		weakacceptable	"Compound verb, -sinuku"			地元の漁師はこのあたりの海のことを知り抜いている。	地元の漁師はこのあたりの海のことを知り続けている。														
+CV565					《「し抜く」：極度の状態を表す「し抜く」：「～し続ける」への言い換え》		unacceptable	"Compound verb, -sinuku"			社長は夫人に惚れ抜いていた。	社長は夫人に惚れ続けていた。														
+CV566					《「し抜く」：極度の状態を表す「し抜く」：「非常に/大いに～する」への言い換え》		yes	"Compound verb, -sinuku"	entailment		シェフは食材にこだわり抜いた。	シェフは食材に非常にこだわった。														
+CV567					《「し抜く」：極度の状態を表す「し抜く」：「非常に/大いに～する」への言い換え》		yes	"Compound verb, -sinuku"	entailment		太郎はトレーニングで腹筋を鍛え抜いた。	太郎はトレーニングで非常に腹筋を鍛えた。														
+CV568					《「し抜く」：極度の状態を表す「し抜く」：「非常に/大いに～する」への言い換え》		yes	"Compound verb, -sinuku"	entailment		花子は理想と現実の間で悩み抜いた。	花子は理想と現実の間で非常に悩んだ。														
+CV569					《「し抜く」：極度の状態を表す「し抜く」：「非常に/大いに～する」への言い換え》		yes	"Compound verb, -sinuku"	entailment		地元の漁師はこのあたりの海のことを知り抜いている。	地元の漁師はこのあたりの海のことを大いに知っている。														
+CV570					《「し抜く」：極度の状態を表す「し抜く」：「非常に/大いに～する」への言い換え》		weakacceptable	"Compound verb, -sinuku"			社長は夫人に惚れ抜いていた。	社長は夫人に大いに惚れていた。														
+CV571					《「し抜く」：極度の状態を表す「し抜く」：「～し切る」への言い換え》		weakacceptable	"Compound verb, -sinuku"			シェフは食材にこだわり抜いた。	シェフは食材にこだわり切った。														
+CV572					《「し抜く」：極度の状態を表す「し抜く」：「～し切る」への言い換え》		weakacceptable	"Compound verb, -sinuku"			太郎はトレーニングで腹筋を鍛え抜いた。	太郎はトレーニングで腹筋を鍛え切った。														
+CV573					《「し抜く」：極度の状態を表す「し抜く」：「～し切る」への言い換え》		weakacceptable	"Compound verb, -sinuku"			花子は理想と現実の間で悩み抜いた。	花子は理想と現実の間で悩み切った。														
+CV574					《「し抜く」：極度の状態を表す「し抜く」：「～し切る」への言い換え》		weakacceptable	"Compound verb, -sinuku"			地元の漁師はこのあたりの海のことを知り抜いている。	地元の漁師はこのあたりの海のことを知り切っている。														
+CV575					《「し抜く」：極度の状態を表す「し抜く」：「～し切る」への言い換え》		weakacceptable	"Compound verb, -sinuku"			社長は夫人に惚れ抜いていた。	社長は夫人に惚れ切っていた。														
+CV576					《「し抜く」：極度の状態を表す「し抜く」：「～し通す」への言い換え》		unknown	"Compound verb, -sinuku"			シェフは食材にこだわり抜いた。	シェフは食材にこだわり通した。														
+CV577					《「し抜く」：極度の状態を表す「し抜く」：「～し通す」への言い換え》		weakacceptable	"Compound verb, -sinuku"			太郎はトレーニングで腹筋を鍛え抜いた。	太郎はトレーニングで腹筋を鍛え通した。														
+CV578					《「し抜く」：極度の状態を表す「し抜く」：「～し通す」への言い換え》		unknown	"Compound verb, -sinuku"			花子は理想と現実の間で悩み抜いた。	花子は理想と現実の間で悩み通した。														
+CV579					《「し抜く」：極度の状態を表す「し抜く」：「～し通す」への言い換え》		weakacceptable	"Compound verb, -sinuku"			地元の漁師はこのあたりの海のことを知り抜いている。	地元の漁師はこのあたりの海のことを知り通している。														
+CV580					《「し抜く」：極度の状態を表す「し抜く」：「～し通す」への言い換え》		weakacceptable	"Compound verb, -sinuku"			社長は夫人に惚れ抜いていた。	社長は夫人に惚れ通していた。														
+CV581					《「し抜く」：極度の状態を表す「し抜く」：「～し尽くす」への言い換え》		yes	"Compound verb, -sinuku"	entailment		シェフは食材にこだわり抜いた。	シェフは食材にこだわり尽くした。														
+CV582					《「し抜く」：極度の状態を表す「し抜く」：「～し尽くす」への言い換え》		yes	"Compound verb, -sinuku"	entailment		太郎はトレーニングで腹筋を鍛え抜いた。	太郎はトレーニングで腹筋を鍛え尽くした。														
+CV583					《「し抜く」：極度の状態を表す「し抜く」：「～し尽くす」への言い換え》		yes	"Compound verb, -sinuku"	entailment		花子は理想と現実の間で悩み抜いた。	花子は理想と現実の間で悩み尽くした。														
+CV584					《「し抜く」：極度の状態を表す「し抜く」：「～し尽くす」への言い換え》		yes	"Compound verb, -sinuku"	entailment		地元の漁師はこのあたりの海のことを知り抜いている。	地元の漁師はこのあたりの海のことを知り尽くしている。														
+CV585					《「し抜く」：極度の状態を表す「し抜く」：「～し尽くす」への言い換え》		yes	"Compound verb, -sinuku"	entailment		社長は夫人に惚れ抜いていた。	社長は夫人に惚れ尽くしていた。														
+CV586					《「しそびれる」：機会の損失を表す「しそびれる」：「しそびれる」の削除》		no	"Compound verb, -sisobireru"	entailment		花子は大好きなケーキを食べそびれた。	花子は大好きなケーキを食べた。														
+CV587					《「しそびれる」：機会の損失を表す「しそびれる」：「しそびれる」の削除》		no	"Compound verb, -sisobireru"	entailment		その社員は同僚に退職の挨拶をしそびれた。	その社員は同僚に退職の挨拶をした。														
+CV588					《「しそびれる」：機会の損失を表す「しそびれる」：「しそびれる」の削除》		no	"Compound verb, -sisobireru"	entailment		太郎は友人に手紙を出しそびれた。	太郎は友人に手紙を出した。														
+CV589					《「しそびれる」：機会の損失を表す「しそびれる」：「しそびれる」の削除》		no	"Compound verb, -sisobireru"	entailment		今日は買い物に行きそびれた。	今日は買い物に行った。														
+CV590					《「しそびれる」：機会の損失を表す「しそびれる」：「しそびれる」の削除》		no	"Compound verb, -sisobireru"	entailment		その店員は客に釣銭を渡しそびれた。	その店員は客に釣銭を渡した。														
+CV591					《「しそびれる」：機会の損失を表す「しそびれる」：「～する機会を逃した」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		花子は大好きなケーキを食べそびれた。	花子は大好きなケーキを食べる機会を逃した。														
+CV592					《「しそびれる」：機会の損失を表す「しそびれる」：「～する機会を逃した」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		その社員は同僚に退職の挨拶をしそびれた。	その社員は同僚に退職の挨拶をする機会を逃した。														
+CV593					《「しそびれる」：機会の損失を表す「しそびれる」：「～する機会を逃した」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		太郎は友人に手紙を出しそびれた。	太郎は友人に手紙を出す機会を逃した。														
+CV594					《「しそびれる」：機会の損失を表す「しそびれる」：「～する機会を逃した」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		今日は買い物に行きそびれた。	今日は買い物に行く機会を逃した。														
+CV595					《「しそびれる」：機会の損失を表す「しそびれる」：「～する機会を逃した」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		その店員は客に釣銭を渡しそびれた。	その店員は客に釣銭を渡す機会を逃した。														
+CV596					《「しそびれる」：機会の損失を表す「しそびれる」：「～するのに失敗した」への言い換え》		unknown	"Compound verb, -sisobireru"			花子は大好きなケーキを食べそびれた。	花子は大好きなケーキを食べるのに失敗した。														
+CV597					《「しそびれる」：機会の損失を表す「しそびれる」：「～するのに失敗した」への言い換え》		unknown	"Compound verb, -sisobireru"			その社員は同僚に退職の挨拶をしそびれた。	その社員は同僚に退職の挨拶をするのに失敗した。														
+CV598					《「しそびれる」：機会の損失を表す「しそびれる」：「～するのに失敗した」への言い換え》		unknown	"Compound verb, -sisobireru"			太郎は友人に手紙を出しそびれた。	太郎は友人に手紙を出すのに失敗した。														
+CV599					《「しそびれる」：機会の損失を表す「しそびれる」：「～するのに失敗した」への言い換え》		unknown	"Compound verb, -sisobireru"			今日は買い物に行きそびれた。	今日は買い物に行くのに失敗した。														
+CV600					《「しそびれる」：機会の損失を表す「しそびれる」：「～するのに失敗した」への言い換え》		unknown	"Compound verb, -sisobireru"			その店員は客に釣銭を渡しそびれた。	その店員は客に釣銭を渡すのに失敗した。														
+CV601					《「しそびれる」：機会の損失を表す「しそびれる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		花子は大好きなケーキを食べそびれた。	花子は大好きなケーキを食べるつもりだった。														
+CV602					《「しそびれる」：機会の損失を表す「しそびれる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		その社員は同僚に退職の挨拶をしそびれた。	その社員は同僚に退職の挨拶をするつもりだった。														
+CV603					《「しそびれる」：機会の損失を表す「しそびれる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		太郎は友人に手紙を出しそびれた。	太郎は友人に手紙を出すつもりだった。														
+CV604					《「しそびれる」：機会の損失を表す「しそびれる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		今日は買い物に行きそびれた。	今日は買い物に行くつもりだった。														
+CV605					《「しそびれる」：機会の損失を表す「しそびれる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		その店員は客に釣銭を渡しそびれた。	その店員は客に釣銭を渡すつもりだった。														
+CV606					《「しそびれる」：機会の損失を表す「しそびれる」：「～しそこねる」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		花子は大好きなケーキを食べそびれた。	花子は大好きなケーキを食べそこねた。														
+CV607					《「しそびれる」：機会の損失を表す「しそびれる」：「～しそこねる」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		その社員は同僚に退職の挨拶をしそびれた。	その社員は同僚に退職の挨拶をしそこねた。														
+CV608					《「しそびれる」：機会の損失を表す「しそびれる」：「～しそこねる」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		太郎は友人に手紙を出しそびれた。	太郎は友人に手紙を出しそこねた。														
+CV609					《「しそびれる」：機会の損失を表す「しそびれる」：「～しそこねる」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		今日は買い物に行きそびれた。	今日は買い物に行きそこねた。														
+CV610					《「しそびれる」：機会の損失を表す「しそびれる」：「～しそこねる」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		その店員は客に釣銭を渡しそびれた。	その店員は客に釣銭を渡しそこねた。														
+CV611					《「しそびれる」：機会の損失を表す「しそびれる」：「～しそこなう」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		花子は大好きなケーキを食べそびれた。	花子は大好きなケーキを食べそこなった。														
+CV612					《「しそびれる」：機会の損失を表す「しそびれる」：「～しそこなう」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		その社員は同僚に退職の挨拶をしそびれた。	その社員は同僚に退職の挨拶をしそこなった。														
+CV613					《「しそびれる」：機会の損失を表す「しそびれる」：「～しそこなう」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		太郎は友人に手紙を出しそびれた。	太郎は友人に手紙を出しそこなった。														
+CV614					《「しそびれる」：機会の損失を表す「しそびれる」：「～しそこなう」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		今日は買い物に行きそびれた。	今日は買い物に行きそこなった。														
+CV615					《「しそびれる」：機会の損失を表す「しそびれる」：「～しそこなう」への言い換え》		yes	"Compound verb, -sisobireru"	entailment		その店員は客に釣銭を渡しそびれた。	その店員は客に釣銭を渡しそこなった。														
+CV616					《「しそびれる」：機会の損失を表す「しそびれる」：「～し損じる」への言い換え》		weakacceptable	"Compound verb, -sisobireru"			花子は大好きなケーキを食べそびれた。	花子は大好きなケーキを食べ損じた。														
+CV617					《「しそびれる」：機会の損失を表す「しそびれる」：「～し損じる」への言い換え》		weakacceptable	"Compound verb, -sisobireru"			その社員は同僚に退職の挨拶をしそびれた。	その社員は同僚に退職の挨拶をし損じた。														
+CV618					《「しそびれる」：機会の損失を表す「しそびれる」：「～し損じる」への言い換え》		weakacceptable	"Compound verb, -sisobireru"			太郎は友人に手紙を出しそびれた。	太郎は友人に手紙を出し損じた。														
+CV619					《「しそびれる」：機会の損失を表す「しそびれる」：「～し損じる」への言い換え》		weakacceptable	"Compound verb, -sisobireru"			今日は買い物に行きそびれた。	今日は買い物に行き損じた。														
+CV620					《「しそびれる」：機会の損失を表す「しそびれる」：「～し損じる」への言い換え》		weakacceptable	"Compound verb, -sisobireru"			その店員は客に釣銭を渡しそびれた。	その店員は客に釣銭を渡し損じた。														
+CV621					《「しそびれる」：機会の損失を表す「しそびれる」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisobireru"			花子は大好きなケーキを食べそびれた。	花子は大好きなケーキを食べ忘れた。														
+CV622					《「しそびれる」：機会の損失を表す「しそびれる」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisobireru"			その社員は同僚に退職の挨拶をしそびれた。	その社員は同僚に退職の挨拶をし忘れた。														
+CV623					《「しそびれる」：機会の損失を表す「しそびれる」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisobireru"			太郎は友人に手紙を出しそびれた。	太郎は友人に手紙を出し忘れた。														
+CV624					《「しそびれる」：機会の損失を表す「しそびれる」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisobireru"			今日は買い物に行きそびれた。	今日は買い物に行き忘れた。														
+CV625					《「しそびれる」：機会の損失を表す「しそびれる」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisobireru"			その店員は客に釣銭を渡しそびれた。	その店員は客に釣銭を渡し忘れた。														
+CV626					《「しそこねる」：失敗を表す「しそこねる」：「しそこねる」の削除》		no	"Compound verb, -sisokoneru"	entailment		太郎は空港行きのバスに乗りそこねた。	太郎は空港行きのバスに乗った。														
+CV627					《「しそこねる」：失敗を表す「しそこねる」：「しそこねる」の削除》		no	"Compound verb, -sisokoneru"	entailment		その武将は天下を取りそこねた。	その武将は天下を取った。														
+CV628					《「しそこねる」：失敗を表す「しそこねる」：「しそこねる」の削除》		no	"Compound verb, -sisokoneru"	entailment		花子は出世のチャンスを掴みそこねた。	花子は出世のチャンスを掴んだ。														
+CV629					《「しそこねる」：失敗を表す「しそこねる」：「しそこねる」の削除》		no	"Compound verb, -sisokoneru"	entailment		回答者は正解を選びそこねた。	回答者は正解を選んだ。														
+CV630					《「しそこねる」：失敗を表す「しそこねる」：「しそこねる」の削除》		no	"Compound verb, -sisokoneru"	entailment		猫はネズミを捕まえそこねた。	猫はネズミを捕まえた。														
+CV631					《「しそこねる」：失敗を表す「しそこねる」：「～する機会を逃した」への言い換え》		unknown	"Compound verb, -sisokoneru"			太郎は空港行きのバスに乗りそこねた。	太郎は空港行きのバスに乗る機会を逃した。														
+CV632					《「しそこねる」：失敗を表す「しそこねる」：「～する機会を逃した」への言い換え》		unknown	"Compound verb, -sisokoneru"			その武将は天下を取りそこねた。	その武将は天下を取る機会を逃した。														
+CV633					《「しそこねる」：失敗を表す「しそこねる」：「～する機会を逃した」への言い換え》		unknown	"Compound verb, -sisokoneru"			花子は出世のチャンスを掴みそこねた。	花子は出世のチャンスを掴む機会を逃した。														
+CV634					《「しそこねる」：失敗を表す「しそこねる」：「～する機会を逃した」への言い換え》		unknown	"Compound verb, -sisokoneru"			回答者は正解を選びそこねた。	回答者は正解を選ぶ機会を逃した。														
+CV635					《「しそこねる」：失敗を表す「しそこねる」：「～する機会を逃した」への言い換え》		unknown	"Compound verb, -sisokoneru"			猫はネズミを捕まえそこねた。	猫はネズミを捕まえる機会を逃した。														
+CV636					《「しそこねる」：失敗を表す「しそこねる」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		太郎は空港行きのバスに乗りそこねた。	太郎は空港行きのバスに乗るのに失敗した。														
+CV637					《「しそこねる」：失敗を表す「しそこねる」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		その武将は天下を取りそこねた。	その武将は天下を取るのに失敗した。														
+CV638					《「しそこねる」：失敗を表す「しそこねる」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		花子は出世のチャンスを掴みそこねた。	花子は出世のチャンスを掴むのに失敗した。														
+CV639					《「しそこねる」：失敗を表す「しそこねる」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		回答者は正解を選びそこねた。	回答者は正解を選ぶのに失敗した。														
+CV640					《「しそこねる」：失敗を表す「しそこねる」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		猫はネズミを捕まえそこねた。	猫はネズミを捕まえるのに失敗した。														
+CV641					《「しそこねる」：失敗を表す「しそこねる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		太郎は空港行きのバスに乗りそこねた。	太郎は空港行きのバスに乗るつもりだった。														
+CV642					《「しそこねる」：失敗を表す「しそこねる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		その武将は天下を取りそこねた。	その武将は天下を取るつもりだった。														
+CV643					《「しそこねる」：失敗を表す「しそこねる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		花子は出世のチャンスを掴みそこねた。	花子は出世のチャンスを掴むつもりだった。														
+CV644					《「しそこねる」：失敗を表す「しそこねる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		回答者は正解を選びそこねた。	回答者は正解を選ぶつもりだった。														
+CV645					《「しそこねる」：失敗を表す「しそこねる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		猫はネズミを捕まえそこねた。	猫はネズミを捕まえるつもりだった。														
+CV646					《「しそこねる」：失敗を表す「しそこねる」：「～しそびれる」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		太郎は空港行きのバスに乗りそこねた。	太郎は空港行きのバスに乗りそびれた。														
+CV647					《「しそこねる」：失敗を表す「しそこねる」：「～しそびれる」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		その武将は天下を取りそこねた。	その武将は天下を取りそびれた。														
+CV648					《「しそこねる」：失敗を表す「しそこねる」：「～しそびれる」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		花子は出世のチャンスを掴みそこねた。	花子は出世のチャンスを掴みそびれた。														
+CV649					《「しそこねる」：失敗を表す「しそこねる」：「～しそびれる」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		回答者は正解を選びそこねた。	回答者は正解を選びそびれた。														
+CV650					《「しそこねる」：失敗を表す「しそこねる」：「～しそびれる」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		猫はネズミを捕まえそこねた。	猫はネズミを捕まえそびれた。														
+CV651					《「しそこねる」：失敗を表す「しそこねる」：「～しそこなう」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		太郎は空港行きのバスに乗りそこねた。	太郎は空港行きのバスに乗りそこなった。														
+CV652					《「しそこねる」：失敗を表す「しそこねる」：「～しそこなう」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		その武将は天下を取りそこねた。	その武将は天下を取りそこなった。														
+CV653					《「しそこねる」：失敗を表す「しそこねる」：「～しそこなう」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		花子は出世のチャンスを掴みそこねた。	花子は出世のチャンスを掴みそこなった。														
+CV654					《「しそこねる」：失敗を表す「しそこねる」：「～しそこなう」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		回答者は正解を選びそこねた。	回答者は正解を選びそこなった。														
+CV655					《「しそこねる」：失敗を表す「しそこねる」：「～しそこなう」への言い換え》		yes	"Compound verb, -sisokoneru"	entailment		猫はネズミを捕まえそこねた。	猫はネズミを捕まえそこなった。														
+CV656					《「しそこねる」：失敗を表す「しそこねる」：「～し損じる」への言い換え》		weakacceptable	"Compound verb, -sisokoneru"			太郎は空港行きのバスに乗りそこねた。	太郎は空港行きのバスに乗り損じた。														
+CV657					《「しそこねる」：失敗を表す「しそこねる」：「～し損じる」への言い換え》		weakacceptable	"Compound verb, -sisokoneru"			その武将は天下を取りそこねた。	その武将は天下を取り損じた。														
+CV658					《「しそこねる」：失敗を表す「しそこねる」：「～し損じる」への言い換え》		weakacceptable	"Compound verb, -sisokoneru"			花子は出世のチャンスを掴みそこねた。	花子は出世のチャンスを掴み損じた。														
+CV659					《「しそこねる」：失敗を表す「しそこねる」：「～し損じる」への言い換え》		weakacceptable	"Compound verb, -sisokoneru"			回答者は正解を選びそこねた。	回答者は正解を選び損じた。														
+CV660					《「しそこねる」：失敗を表す「しそこねる」：「～し損じる」への言い換え》		weakacceptable	"Compound verb, -sisokoneru"			猫はネズミを捕まえそこねた。	猫はネズミを捕まえ損じた。														
+CV661					《「しそこねる」：失敗を表す「しそこねる」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisokoneru"			太郎は空港行きのバスに乗りそこねた。	太郎は空港行きのバスに乗り忘れた。														
+CV662					《「しそこねる」：失敗を表す「しそこねる」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisokoneru"			その武将は天下を取りそこねた。	その武将は天下を取り忘れた。														
+CV663					《「しそこねる」：失敗を表す「しそこねる」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisokoneru"			花子は出世のチャンスを掴みそこねた。	花子は出世のチャンスを掴み忘れた。														
+CV664					《「しそこねる」：失敗を表す「しそこねる」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisokoneru"			回答者は正解を選びそこねた。	回答者は正解を選び忘れた。														
+CV665					《「しそこねる」：失敗を表す「しそこねる」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisokoneru"			猫はネズミを捕まえそこねた。	猫はネズミを捕まえ忘れた。														
+CV666					《「しそこなう」：失敗を表す「しそこなう」：「しそこなう」の削除》		no	"Compound verb, -sisokonau"	entailment		太郎は空港行きのバスに乗りそこなった。	太郎は空港行きのバスに乗った。														
+CV667					《「しそこなう」：失敗を表す「しそこなう」：「しそこなう」の削除》		no	"Compound verb, -sisokonau"	entailment		その武将は天下を取りそこなった。	その武将は天下を取った。														
+CV668					《「しそこなう」：失敗を表す「しそこなう」：「しそこなう」の削除》		no	"Compound verb, -sisokonau"	entailment		花子は出世のチャンスを掴みそこなった。	花子は出世のチャンスを掴んだ。														
+CV669					《「しそこなう」：失敗を表す「しそこなう」：「しそこなう」の削除》		no	"Compound verb, -sisokonau"	entailment		回答者は正解を選びそこなった。	回答者は正解を選んだ。														
+CV670					《「しそこなう」：失敗を表す「しそこなう」：「しそこなう」の削除》		no	"Compound verb, -sisokonau"	entailment		猫はネズミを捕まえそこなった。	猫はネズミを捕まえた。														
+CV671					《「しそこなう」：失敗を表す「しそこなう」：「～する機会を逃した」への言い換え》		unknown	"Compound verb, -sisokonau"			太郎は空港行きのバスに乗りそこなった。	太郎は空港行きのバスに乗る機会を逃した。														
+CV672					《「しそこなう」：失敗を表す「しそこなう」：「～する機会を逃した」への言い換え》		unknown	"Compound verb, -sisokonau"			その武将は天下を取りそこなった。	その武将は天下を取る機会を逃した。														
+CV673					《「しそこなう」：失敗を表す「しそこなう」：「～する機会を逃した」への言い換え》		unknown	"Compound verb, -sisokonau"			花子は出世のチャンスを掴みそこなった。	花子は出世のチャンスを掴む機会を逃した。														
+CV674					《「しそこなう」：失敗を表す「しそこなう」：「～する機会を逃した」への言い換え》		unknown	"Compound verb, -sisokonau"			回答者は正解を選びそこなった。	回答者は正解を選ぶ機会を逃した。														
+CV675					《「しそこなう」：失敗を表す「しそこなう」：「～する機会を逃した」への言い換え》		unknown	"Compound verb, -sisokonau"			猫はネズミを捕まえそこなった。	猫はネズミを捕まえる機会を逃した。														
+CV676					《「しそこなう」：失敗を表す「しそこなう」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		太郎は空港行きのバスに乗りそこなった。	太郎は空港行きのバスに乗るのに失敗した。														
+CV677					《「しそこなう」：失敗を表す「しそこなう」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		その武将は天下を取りそこなった。	その武将は天下を取るのに失敗した。														
+CV678					《「しそこなう」：失敗を表す「しそこなう」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		花子は出世のチャンスを掴みそこなった。	花子は出世のチャンスを掴むのに失敗した。														
+CV679					《「しそこなう」：失敗を表す「しそこなう」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		回答者は正解を選びそこなった。	回答者は正解を選ぶのに失敗した。														
+CV680					《「しそこなう」：失敗を表す「しそこなう」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		猫はネズミを捕まえそこなった。	猫はネズミを捕まえるのに失敗した。														
+CV681					《「しそこなう」：失敗を表す「しそこなう」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		太郎は空港行きのバスに乗りそこなった。	太郎は空港行きのバスに乗るつもりだった。														
+CV682					《「しそこなう」：失敗を表す「しそこなう」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		その武将は天下を取りそこなった。	その武将は天下を取るつもりだった。														
+CV683					《「しそこなう」：失敗を表す「しそこなう」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		花子は出世のチャンスを掴みそこなった。	花子は出世のチャンスを掴むつもりだった。														
+CV684					《「しそこなう」：失敗を表す「しそこなう」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		回答者は正解を選びそこなった。	回答者は正解を選ぶつもりだった。														
+CV685					《「しそこなう」：失敗を表す「しそこなう」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		猫はネズミを捕まえそこなった。	猫はネズミを捕まえるつもりだった。														
+CV686					《「しそこなう」：失敗を表す「しそこなう」：「～しそびれる」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		太郎は空港行きのバスに乗りそこなった。	太郎は空港行きのバスに乗りそびれた。														
+CV687					《「しそこなう」：失敗を表す「しそこなう」：「～しそびれる」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		その武将は天下を取りそこなった。	その武将は天下を取りそびれた。														
+CV688					《「しそこなう」：失敗を表す「しそこなう」：「～しそびれる」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		花子は出世のチャンスを掴みそこなった。	花子は出世のチャンスを掴みそびれた。														
+CV689					《「しそこなう」：失敗を表す「しそこなう」：「～しそびれる」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		回答者は正解を選びそこなった。	回答者は正解を選びそびれた。														
+CV690					《「しそこなう」：失敗を表す「しそこなう」：「～しそびれる」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		猫はネズミを捕まえそこなった。	猫はネズミを捕まえそびれた。														
+CV691					《「しそこなう」：失敗を表す「しそこなう」：「～しそこねる」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		太郎は空港行きのバスに乗りそこなった。	太郎は空港行きのバスに乗りそこねた。														
+CV692					《「しそこなう」：失敗を表す「しそこなう」：「～しそこねる」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		その武将は天下を取りそこなった。	その武将は天下を取りそこねた。														
+CV693					《「しそこなう」：失敗を表す「しそこなう」：「～しそこねる」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		花子は出世のチャンスを掴みそこなった。	花子は出世のチャンスを掴みそこねた。														
+CV694					《「しそこなう」：失敗を表す「しそこなう」：「～しそこねる」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		回答者は正解を選びそこなった。	回答者は正解を選びそこねた。														
+CV695					《「しそこなう」：失敗を表す「しそこなう」：「～しそこねる」への言い換え》		yes	"Compound verb, -sisokonau"	entailment		猫はネズミを捕まえそこなった。	猫はネズミを捕まえそこねた。														
+CV696					《「しそこなう」：失敗を表す「しそこなう」：「～し損じる」への言い換え》		weakacceptable	"Compound verb, -sisokonau"			太郎は空港行きのバスに乗りそこなった。	太郎は空港行きのバスに乗り損じた。														
+CV697					《「しそこなう」：失敗を表す「しそこなう」：「～し損じる」への言い換え》		weakacceptable	"Compound verb, -sisokonau"			その武将は天下を取りそこなった。	その武将は天下を取り損じた。														
+CV698					《「しそこなう」：失敗を表す「しそこなう」：「～し損じる」への言い換え》		weakacceptable	"Compound verb, -sisokonau"			花子は出世のチャンスを掴みそこなった。	花子は出世のチャンスを掴み損じた。														
+CV699					《「しそこなう」：失敗を表す「しそこなう」：「～し損じる」への言い換え》		weakacceptable	"Compound verb, -sisokonau"			回答者は正解を選びそこなった。	回答者は正解を選び損じた。														
+CV700					《「しそこなう」：失敗を表す「しそこなう」：「～し損じる」への言い換え》		weakacceptable	"Compound verb, -sisokonau"			猫はネズミを捕まえそこなった。	猫はネズミを捕まえ損じた。														
+CV701					《「しそこなう」：失敗を表す「しそこなう」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisokonau"			太郎は空港行きのバスに乗りそこなった。	太郎は空港行きのバスに乗り忘れた。														
+CV702					《「しそこなう」：失敗を表す「しそこなう」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisokonau"			その武将は天下を取りそこなった。	その武将は天下を取り忘れた。														
+CV703					《「しそこなう」：失敗を表す「しそこなう」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisokonau"			花子は出世のチャンスを掴みそこなった。	花子は出世のチャンスを掴み忘れた。														
+CV704					《「しそこなう」：失敗を表す「しそこなう」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisokonau"			回答者は正解を選びそこなった。	回答者は正解を選び忘れた。														
+CV705					《「しそこなう」：失敗を表す「しそこなう」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisokonau"			猫はネズミを捕まえそこなった。	猫はネズミを捕まえ忘れた。														
+CV706					《「し損じる」：失敗を表す「し損じる」：「し損じる」の削除》		no	"Compound verb, -sisonziru"	entailment		太郎は自分の住所を書き損じた。	太郎は自分の住所を書いた。														
+CV707					《「し損じる」：失敗を表す「し損じる」：「し損じる」の削除》		no	"Compound verb, -sisonziru"	entailment		そのカメラマンは貴重な映像を撮り損じた。	そのカメラマンは貴重な映像を撮った。														
+CV708					《「し損じる」：失敗を表す「し損じる」：「し損じる」の削除》		no	"Compound verb, -sisonziru"	entailment		その選手は甘い球を打ち損じた。	その選手は甘い球を打った。														
+CV709					《「し損じる」：失敗を表す「し損じる」：「し損じる」の削除》		no	"Compound verb, -sisonziru"	entailment		花子は電話をかけてきた相手の名前を聞き損じた。	花子は電話をかけてきた相手の名前を聞いた。														
+CV710					《「し損じる」：失敗を表す「し損じる」：「し損じる」の削除》		no	"Compound verb, -sisonziru"	entailment		その社員は上司の意向を確認し損じた。	その社員は上司の意向を確認した。														
+CV711					《「し損じる」：失敗を表す「し損じる」：「～する機会を逃した」への言い換え》		unknown	"Compound verb, -sisonziru"			太郎は自分の住所を書き損じた。	太郎は自分の住所を書く機会を逃した。														
+CV712					《「し損じる」：失敗を表す「し損じる」：「～する機会を逃した」への言い換え》		unknown	"Compound verb, -sisonziru"			そのカメラマンは貴重な映像を撮り損じた。	そのカメラマンは貴重な映像を撮る機会を逃した。														
+CV713					《「し損じる」：失敗を表す「し損じる」：「～する機会を逃した」への言い換え》		unknown	"Compound verb, -sisonziru"			その選手は甘い球を打ち損じた。	その選手は甘い球を打つ機会を逃した。														
+CV714					《「し損じる」：失敗を表す「し損じる」：「～する機会を逃した」への言い換え》		unknown	"Compound verb, -sisonziru"			花子は電話をかけてきた相手の名前を聞き損じた。	花子は電話をかけてきた相手の名前を聞く機会を逃した。														
+CV715					《「し損じる」：失敗を表す「し損じる」：「～する機会を逃した」への言い換え》		unknown	"Compound verb, -sisonziru"			その社員は上司の意向を確認し損じた。	その社員は上司の意向を確認する機会を逃した。														
+CV716					《「し損じる」：失敗を表す「し損じる」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		太郎は自分の住所を書き損じた。	太郎は自分の住所を書くのに失敗した。														
+CV717					《「し損じる」：失敗を表す「し損じる」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		そのカメラマンは貴重な映像を撮り損じた。	そのカメラマンは貴重な映像を撮るのに失敗した。														
+CV718					《「し損じる」：失敗を表す「し損じる」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		その選手は甘い球を打ち損じた。	その選手は甘い球を打つのに失敗した。														
+CV719					《「し損じる」：失敗を表す「し損じる」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		花子は電話をかけてきた相手の名前を聞き損じた。	花子は電話をかけてきた相手の名前を聞くのに失敗した。														
+CV720					《「し損じる」：失敗を表す「し損じる」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		その社員は上司の意向を確認し損じた。	その社員は上司の意向を確認するのに失敗した。														
+CV721					《「し損じる」：失敗を表す「し損じる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		太郎は自分の住所を書き損じた。	太郎は自分の住所を書くつもりだった。														
+CV722					《「し損じる」：失敗を表す「し損じる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		そのカメラマンは貴重な映像を撮り損じた。	そのカメラマンは貴重な映像を撮るつもりだった。														
+CV723					《「し損じる」：失敗を表す「し損じる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		その選手は甘い球を打ち損じた。	その選手は甘い球を打つつもりだった。														
+CV724					《「し損じる」：失敗を表す「し損じる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		花子は電話をかけてきた相手の名前を聞き損じた。	花子は電話をかけてきた相手の名前を聞くつもりだった。														
+CV725					《「し損じる」：失敗を表す「し損じる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		その社員は上司の意向を確認し損じた。	その社員は上司の意向を確認するつもりだった。														
+CV726					《「し損じる」：失敗を表す「し損じる」：「～しそびれる」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		太郎は自分の住所を書き損じた。	太郎は自分の住所を書きそびれた。														
+CV727					《「し損じる」：失敗を表す「し損じる」：「～しそびれる」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		そのカメラマンは貴重な映像を撮り損じた。	そのカメラマンは貴重な映像を撮りそびれた。														
+CV728					《「し損じる」：失敗を表す「し損じる」：「～しそびれる」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		その選手は甘い球を打ち損じた。	その選手は甘い球を打ちそびれた。														
+CV729					《「し損じる」：失敗を表す「し損じる」：「～しそびれる」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		花子は電話をかけてきた相手の名前を聞き損じた。	花子は電話をかけてきた相手の名前を聞きそびれた。														
+CV730					《「し損じる」：失敗を表す「し損じる」：「～しそびれる」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		その社員は上司の意向を確認し損じた。	その社員は上司の意向を確認しそびれた。														
+CV731					《「し損じる」：失敗を表す「し損じる」：「～しそこねる」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		太郎は自分の住所を書き損じた。	太郎は自分の住所を書きそこねた。														
+CV732					《「し損じる」：失敗を表す「し損じる」：「～しそこねる」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		そのカメラマンは貴重な映像を撮り損じた。	そのカメラマンは貴重な映像を撮りそこねた。														
+CV733					《「し損じる」：失敗を表す「し損じる」：「～しそこねる」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		その選手は甘い球を打ち損じた。	その選手は甘い球を打ちそこねた。														
+CV734					《「し損じる」：失敗を表す「し損じる」：「～しそこねる」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		花子は電話をかけてきた相手の名前を聞き損じた。	花子は電話をかけてきた相手の名前を聞きそこねた。														
+CV735					《「し損じる」：失敗を表す「し損じる」：「～しそこねる」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		その社員は上司の意向を確認し損じた。	その社員は上司の意向を確認しそこねた。														
+CV736					《「し損じる」：失敗を表す「し損じる」：「～しそこなう」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		太郎は自分の住所を書き損じた。	太郎は自分の住所を書きそこなった。														
+CV737					《「し損じる」：失敗を表す「し損じる」：「～しそこなう」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		そのカメラマンは貴重な映像を撮り損じた。	そのカメラマンは貴重な映像を撮りそこなった。														
+CV738					《「し損じる」：失敗を表す「し損じる」：「～しそこなう」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		その選手は甘い球を打ち損じた。	その選手は甘い球を打ちそこなった。														
+CV739					《「し損じる」：失敗を表す「し損じる」：「～しそこなう」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		花子は電話をかけてきた相手の名前を聞き損じた。	花子は電話をかけてきた相手の名前を聞きそこなった。														
+CV740					《「し損じる」：失敗を表す「し損じる」：「～しそこなう」への言い換え》		yes	"Compound verb, -sisonziru"	entailment		その社員は上司の意向を確認し損じた。	その社員は上司の意向を確認しそこなった。														
+CV741					《「し損じる」：失敗を表す「し損じる」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisonziru"			太郎は自分の住所を書き損じた。	太郎は自分の住所を書き忘れた。														
+CV742					《「し損じる」：失敗を表す「し損じる」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisonziru"			そのカメラマンは貴重な映像を撮り損じた。	そのカメラマンは貴重な映像を撮り忘れた。														
+CV743					《「し損じる」：失敗を表す「し損じる」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisonziru"			その選手は甘い球を打ち損じた。	その選手は甘い球を打ち忘れた。														
+CV744					《「し損じる」：失敗を表す「し損じる」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisonziru"			花子は電話をかけてきた相手の名前を聞き損じた。	花子は電話をかけてきた相手の名前を聞き忘れた。														
+CV745					《「し損じる」：失敗を表す「し損じる」：「～し忘れる」への言い換え》		unknown	"Compound verb, -sisonziru"			その社員は上司の意向を確認し損じた。	その社員は上司の意向を確認し忘れた。														
+CV746					《「し忘れる」：遅延を表す「し忘れる」：「し忘れる」の削除》		no	"Compound verb, -siwasureru"	entailment		先生は黒板を消し忘れた。	先生は黒板を消した。														
+CV747					《「し忘れる」：遅延を表す「し忘れる」：「し忘れる」の削除》		no	"Compound verb, -siwasureru"	entailment		その患者は薬を飲み忘れた。	その患者は薬を飲んだ。														
+CV748					《「し忘れる」：遅延を表す「し忘れる」：「し忘れる」の削除》		no	"Compound verb, -siwasureru"	entailment		太郎は手紙を投函し忘れた。	太郎は手紙を投函した。														
+CV749					《「し忘れる」：遅延を表す「し忘れる」：「し忘れる」の削除》		no	"Compound verb, -siwasureru"	entailment		花子はブログを更新し忘れた。	花子はブログを更新した。														
+CV750					《「し忘れる」：遅延を表す「し忘れる」：「し忘れる」の削除》		no	"Compound verb, -siwasureru"	entailment		家を出るときに電気を消し忘れた。	家を出るときに電気を消した。														
+CV751					《「し忘れる」：遅延を表す「し忘れる」：「～する機会を逃した」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		先生は黒板を消し忘れた。	先生は黒板を消す機会を逃した。														
+CV752					《「し忘れる」：遅延を表す「し忘れる」：「～する機会を逃した」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		その患者は薬を飲み忘れた。	その患者は薬を飲む機会を逃した。														
+CV753					《「し忘れる」：遅延を表す「し忘れる」：「～する機会を逃した」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		太郎は手紙を投函し忘れた。	太郎は手紙を投函する機会を逃した。														
+CV754					《「し忘れる」：遅延を表す「し忘れる」：「～する機会を逃した」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		花子はブログを更新し忘れた。	花子はブログを更新する機会を逃した。														
+CV755					《「し忘れる」：遅延を表す「し忘れる」：「～する機会を逃した」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		家を出るときに電気を消し忘れた。	家を出るときに電気を消す機会を逃した。														
+CV756					《「し忘れる」：遅延を表す「し忘れる」：「～するのに失敗した」への言い換え》		unknown	"Compound verb, -siwasureru"			先生は黒板を消し忘れた。	先生は黒板を消すのに失敗した。														
+CV757					《「し忘れる」：遅延を表す「し忘れる」：「～するのに失敗した」への言い換え》		unknown	"Compound verb, -siwasureru"			その患者は薬を飲み忘れた。	その患者は薬を飲むのに失敗した。														
+CV758					《「し忘れる」：遅延を表す「し忘れる」：「～するのに失敗した」への言い換え》		unknown	"Compound verb, -siwasureru"			太郎は手紙を投函し忘れた。	太郎は手紙を投函するのに失敗した。														
+CV759					《「し忘れる」：遅延を表す「し忘れる」：「～するのに失敗した」への言い換え》		unknown	"Compound verb, -siwasureru"			花子はブログを更新し忘れた。	花子はブログを更新するのに失敗した。														
+CV760					《「し忘れる」：遅延を表す「し忘れる」：「～するのに失敗した」への言い換え》		unknown	"Compound verb, -siwasureru"			家を出るときに電気を消し忘れた。	家を出るときに電気を消すのに失敗した。														
+CV761					《「し忘れる」：遅延を表す「し忘れる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		先生は黒板を消し忘れた。	先生は黒板を消すつもりだった。														
+CV762					《「し忘れる」：遅延を表す「し忘れる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		その患者は薬を飲み忘れた。	その患者は薬を飲むつもりだった。														
+CV763					《「し忘れる」：遅延を表す「し忘れる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		太郎は手紙を投函し忘れた。	太郎は手紙を投函するつもりだった。														
+CV764					《「し忘れる」：遅延を表す「し忘れる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		花子はブログを更新し忘れた。	花子はブログを更新するつもりだった。														
+CV765					《「し忘れる」：遅延を表す「し忘れる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		家を出るときに電気を消し忘れた。	家を出るときに電気を消すつもりだった。														
+CV766					《「し忘れる」：遅延を表す「し忘れる」：「～しそびれる」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		先生は黒板を消し忘れた。	先生は黒板を消しそびれた。														
+CV767					《「し忘れる」：遅延を表す「し忘れる」：「～しそびれる」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		その患者は薬を飲み忘れた。	その患者は薬を飲みそびれた。														
+CV768					《「し忘れる」：遅延を表す「し忘れる」：「～しそびれる」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		太郎は手紙を投函し忘れた。	太郎は手紙を投函しそびれた。														
+CV769					《「し忘れる」：遅延を表す「し忘れる」：「～しそびれる」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		花子はブログを更新し忘れた。	花子はブログを更新しそびれた。														
+CV770					《「し忘れる」：遅延を表す「し忘れる」：「～しそびれる」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		家を出るときに電気を消し忘れた。	家を出るときに電気を消しそびれた。														
+CV771					《「し忘れる」：遅延を表す「し忘れる」：「～しそこねる」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		先生は黒板を消し忘れた。	先生は黒板を消しそこねた。														
+CV772					《「し忘れる」：遅延を表す「し忘れる」：「～しそこねる」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		その患者は薬を飲み忘れた。	その患者は薬を飲みそこねた。														
+CV773					《「し忘れる」：遅延を表す「し忘れる」：「～しそこねる」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		太郎は手紙を投函し忘れた。	太郎は手紙を投函しそこねた。														
+CV774					《「し忘れる」：遅延を表す「し忘れる」：「～しそこねる」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		花子はブログを更新し忘れた。	花子はブログを更新しそこねた。														
+CV775					《「し忘れる」：遅延を表す「し忘れる」：「～しそこねる」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		家を出るときに電気を消し忘れた。	家を出るときに電気を消しそこねた。														
+CV776					《「し忘れる」：遅延を表す「し忘れる」：「～しそこなう」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		先生は黒板を消し忘れた。	先生は黒板を消しそこなった。														
+CV777					《「し忘れる」：遅延を表す「し忘れる」：「～しそこなう」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		その患者は薬を飲み忘れた。	その患者は薬を飲みそこなった。														
+CV778					《「し忘れる」：遅延を表す「し忘れる」：「～しそこなう」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		太郎は手紙を投函し忘れた。	太郎は手紙を投函しそこなった。														
+CV779					《「し忘れる」：遅延を表す「し忘れる」：「～しそこなう」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		花子はブログを更新し忘れた。	花子はブログを更新しそこなった。														
+CV780					《「し忘れる」：遅延を表す「し忘れる」：「～しそこなう」への言い換え》		yes	"Compound verb, -siwasureru"	entailment		家を出るときに電気を消し忘れた。	家を出るときに電気を消しそこなった。														
+CV781					《「し忘れる」：遅延を表す「し忘れる」：「～しそこなう」への言い換え》		weakacceptable	"Compound verb, -siwasureru"			先生は黒板を消し忘れた。	先生は黒板を消し損じた。														
+CV782					《「し忘れる」：遅延を表す「し忘れる」：「～しそこなう」への言い換え》		weakacceptable	"Compound verb, -siwasureru"			その患者は薬を飲み忘れた。	その患者は薬を飲み損じた。														
+CV783					《「し忘れる」：遅延を表す「し忘れる」：「～しそこなう」への言い換え》		weakacceptable	"Compound verb, -siwasureru"			太郎は手紙を投函し忘れた。	太郎は手紙を投函し損じた。														
+CV784					《「し忘れる」：遅延を表す「し忘れる」：「～しそこなう」への言い換え》		weakacceptable	"Compound verb, -siwasureru"			花子はブログを更新し忘れた。	花子はブログを更新し損じた。														
+CV785					《「し忘れる」：遅延を表す「し忘れる」：「～しそこなう」への言い換え》		weakacceptable	"Compound verb, -siwasureru"			家を出るときに電気を消し忘れた。	家を出るときに電気を消し損じた。														
+CV786					《「し遅れる」：遅延を表す「し遅れる」：「し遅れる」の削除》		no	"Compound verb, -siokureru"	entailment		太郎は空港行きのバスに乗り遅れた。	太郎は空港行きのバスに乗った。														
+CV787					《「し遅れる」：遅延を表す「し遅れる」：「し遅れる」の削除》		no	"Compound verb, -siokureru"	entailment		花子はゴミを出し遅れた。	花子はゴミを出した。														
+CV788					《「し遅れる」：遅延を表す「し遅れる」：「し遅れる」の削除》		no	"Compound verb, -siokureru"	entailment		雪が多かったので、梅の花が咲き遅れている。	雪が多かったので、梅の花が咲いている。														
+CV789					《「し遅れる」：遅延を表す「し遅れる」：「し遅れる」の削除》		no	"Compound verb, -siokureru"	entailment		子鹿は突然現れた熊から逃げ遅れた。	子鹿は突然現れた熊から逃げた。														
+CV790					《「し遅れる」：遅延を表す「し遅れる」：「し遅れる」の削除》		no	"Compound verb, -siokureru"	entailment		その投資家はドルを売り遅れた。	その投資家はドルを売った。														
+CV791					《「し遅れる」：遅延を表す「し遅れる」：「～する機会を逃した」への言い換え》		yes	"Compound verb, -siokureru"	entailment		太郎は空港行きのバスに乗り遅れた。	太郎は空港行きのバスに乗る機会を逃した。														
+CV792					《「し遅れる」：遅延を表す「し遅れる」：「～する機会を逃した」への言い換え》		yes	"Compound verb, -siokureru"	entailment		花子はゴミを出し遅れた。	花子はゴミを出す機会を逃した。														
+CV793					《「し遅れる」：遅延を表す「し遅れる」：「～する機会を逃した」への言い換え》		weakacceptable	"Compound verb, -siokureru"			雪が多かったので、梅の花が咲き遅れている。	雪が多かったので、梅の花が咲く機会を逃している。														
+CV794					《「し遅れる」：遅延を表す「し遅れる」：「～する機会を逃した」への言い換え》		yes	"Compound verb, -siokureru"	entailment		子鹿は突然現れた熊から逃げ遅れた。	子鹿は突然現れた熊から逃げる機会を逃した。														
+CV795					《「し遅れる」：遅延を表す「し遅れる」：「～する機会を逃した」への言い換え》		yes	"Compound verb, -siokureru"	entailment		その投資家はドルを売り遅れた。	その投資家はドルを売る機会を逃した。														
+CV796					《「し遅れる」：遅延を表す「し遅れる」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -siokureru"	entailment		太郎は空港行きのバスに乗り遅れた。	太郎は空港行きのバスに乗るのに失敗した。														
+CV797					《「し遅れる」：遅延を表す「し遅れる」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -siokureru"	entailment		花子はゴミを出し遅れた。	花子はゴミを出すのに失敗した。														
+CV798					《「し遅れる」：遅延を表す「し遅れる」：「～するのに失敗した」への言い換え》		weakacceptable	"Compound verb, -siokureru"			雪が多かったので、梅の花が咲き遅れている。	雪が多かったので、梅の花が咲くのに失敗している。														
+CV799					《「し遅れる」：遅延を表す「し遅れる」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -siokureru"	entailment		子鹿は突然現れた熊から逃げ遅れた。	子鹿は突然現れた熊から逃げるのに失敗した。														
+CV800					《「し遅れる」：遅延を表す「し遅れる」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -siokureru"	entailment		その投資家はドルを売り遅れた。	その投資家はドルを売るのに失敗した。														
+CV801					《「し遅れる」：遅延を表す「し遅れる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -siokureru"	entailment		太郎は空港行きのバスに乗り遅れた。	太郎は空港行きのバスに乗るつもりだった。														
+CV802					《「し遅れる」：遅延を表す「し遅れる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -siokureru"	entailment		花子はゴミを出し遅れた。	花子はゴミを出すつもりだった。														
+CV803					《「し遅れる」：遅延を表す「し遅れる」：「～するつもりだった」への言い換え》		unacceptable	"Compound verb, -siokureru"			雪が多かったので、梅の花が咲き遅れている。	雪が多かったので、梅の花が咲くつもりだった。														
+CV804					《「し遅れる」：遅延を表す「し遅れる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -siokureru"	entailment		子鹿は突然現れた熊から逃げ遅れた。	子鹿は突然現れた熊から逃げるつもりだった。														
+CV805					《「し遅れる」：遅延を表す「し遅れる」：「～するつもりだった」への言い換え》		yes	"Compound verb, -siokureru"	entailment		その投資家はドルを売り遅れた。	その投資家はドルを売るつもりだった。														
+CV806					《「し遅れる」：遅延を表す「し遅れる」：「～しそびれる」への言い換え》		yes	"Compound verb, -siokureru"	entailment		太郎は空港行きのバスに乗り遅れた。	太郎は空港行きのバスに乗りそびれた。														
+CV807					《「し遅れる」：遅延を表す「し遅れる」：「～しそびれる」への言い換え》		yes	"Compound verb, -siokureru"	entailment		花子はゴミを出し遅れた。	花子はゴミを出しそびれた。														
+CV808					《「し遅れる」：遅延を表す「し遅れる」：「～しそびれる」への言い換え》		weakacceptable	"Compound verb, -siokureru"			雪が多かったので、梅の花が咲き遅れている。	雪が多かったので、梅の花が咲きそびれている。														
+CV809					《「し遅れる」：遅延を表す「し遅れる」：「～しそびれる」への言い換え》		yes	"Compound verb, -siokureru"	entailment		子鹿は突然現れた熊から逃げ遅れた。	子鹿は突然現れた熊から逃げそびれた。														
+CV810					《「し遅れる」：遅延を表す「し遅れる」：「～しそびれる」への言い換え》		yes	"Compound verb, -siokureru"	entailment		その投資家はドルを売り遅れた。	その投資家はドルを売りそびれた。														
+CV811					《「し遅れる」：遅延を表す「し遅れる」：「～しそこねる」への言い換え》		yes	"Compound verb, -siokureru"	entailment		太郎は空港行きのバスに乗り遅れた。	太郎は空港行きのバスに乗りそこねた。														
+CV812					《「し遅れる」：遅延を表す「し遅れる」：「～しそこねる」への言い換え》		yes	"Compound verb, -siokureru"	entailment		花子はゴミを出し遅れた。	花子はゴミを出しそこねた。														
+CV813					《「し遅れる」：遅延を表す「し遅れる」：「～しそこねる」への言い換え》		weakacceptable	"Compound verb, -siokureru"			雪が多かったので、梅の花が咲き遅れている。	雪が多かったので、梅の花が咲きそこねている。														
+CV814					《「し遅れる」：遅延を表す「し遅れる」：「～しそこねる」への言い換え》		yes	"Compound verb, -siokureru"	entailment		子鹿は突然現れた熊から逃げ遅れた。	子鹿は突然現れた熊から逃げそこねた。														
+CV815					《「し遅れる」：遅延を表す「し遅れる」：「～しそこねる」への言い換え》		yes	"Compound verb, -siokureru"	entailment		その投資家はドルを売り遅れた。	その投資家はドルを売りそこねた。														
+CV816					《「し遅れる」：遅延を表す「し遅れる」：「～しそこなう」への言い換え》		yes	"Compound verb, -siokureru"	entailment		太郎は空港行きのバスに乗り遅れた。	太郎は空港行きのバスに乗りそこなった。														
+CV817					《「し遅れる」：遅延を表す「し遅れる」：「～しそこなう」への言い換え》		yes	"Compound verb, -siokureru"	entailment		花子はゴミを出し遅れた。	花子はゴミを出しそこなった。														
+CV818					《「し遅れる」：遅延を表す「し遅れる」：「～しそこなう」への言い換え》		weakacceptable	"Compound verb, -siokureru"			雪が多かったので、梅の花が咲き遅れている。	雪が多かったので、梅の花が咲きそこなっている。														
+CV819					《「し遅れる」：遅延を表す「し遅れる」：「～しそこなう」への言い換え》		yes	"Compound verb, -siokureru"	entailment		子鹿は突然現れた熊から逃げ遅れた。	子鹿は突然現れた熊から逃げそこなった。														
+CV820					《「し遅れる」：遅延を表す「し遅れる」：「～しそこなう」への言い換え》		yes	"Compound verb, -siokureru"	entailment		その投資家はドルを売り遅れた。	その投資家はドルを売りそこなった。														
+CV821					《「し遅れる」：遅延を表す「し遅れる」：「～しそこなう」への言い換え》		weakacceptable	"Compound verb, -siokureru"			太郎は空港行きのバスに乗り遅れた。	太郎は空港行きのバスに乗り損じた。														
+CV822					《「し遅れる」：遅延を表す「し遅れる」：「～しそこなう」への言い換え》		weakacceptable	"Compound verb, -siokureru"			花子はゴミを出し遅れた。	花子はゴミを出し損じた。														
+CV823					《「し遅れる」：遅延を表す「し遅れる」：「～しそこなう」への言い換え》		weakacceptable	"Compound verb, -siokureru"			雪が多かったので、梅の花が咲き遅れている。	雪が多かったので、梅の花が咲き損じている。														
+CV824					《「し遅れる」：遅延を表す「し遅れる」：「～しそこなう」への言い換え》		weakacceptable	"Compound verb, -siokureru"			子鹿は突然現れた熊から逃げ遅れた。	子鹿は突然現れた熊から逃げ損じた。														
+CV825					《「し遅れる」：遅延を表す「し遅れる」：「～しそこなう」への言い換え》		weakacceptable	"Compound verb, -siokureru"			その投資家はドルを売り遅れた。	その投資家はドルを売り損じた。														
+CV826					《「し間違える」：失敗を表す「し間違える」：「正しく～する」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		太郎は自分の住所を書き間違えた。	太郎は自分の住所を正しく書いた。														
+CV827					《「し間違える」：失敗を表す「し間違える」：「正しく～する」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		花子は電話をかけてきた相手の名前を聞き間違えた。	花子は電話をかけてきた相手の名前を正しく聞いた。														
+CV828					《「し間違える」：失敗を表す「し間違える」：「正しく～する」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		その旅行者は電車を乗り間違えた。	その旅行者は電車に正しく乗った。														
+CV829					《「し間違える」：失敗を表す「し間違える」：「正しく～する」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		その政治家は漢字を読み間違えた。	その政治家は漢字を正しく読んだ。														
+CV830					《「し間違える」：失敗を表す「し間違える」：「正しく～する」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		太郎は相手の名前を言い間違えた。	太郎は相手の名前を正しく言った。														
+CV831					《「し間違える」：失敗を表す「し間違える」：「～する機会を逃した」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		太郎は自分の住所を書き間違えた。	太郎は自分の住所を書く機会を逃した。														
+CV832					《「し間違える」：失敗を表す「し間違える」：「～する機会を逃した」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		花子は電話をかけてきた相手の名前を聞き間違えた。	花子は電話をかけてきた相手の名前を聞く機会を逃した。														
+CV833					《「し間違える」：失敗を表す「し間違える」：「～する機会を逃した」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		その旅行者は電車を乗り間違えた。	その旅行者は電車に乗る機会を逃した。														
+CV834					《「し間違える」：失敗を表す「し間違える」：「～する機会を逃した」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		その政治家は漢字を読み間違えた。	その政治家は漢字を読む機会を逃した。														
+CV835					《「し間違える」：失敗を表す「し間違える」：「～する機会を逃した」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		太郎は相手の名前を言い間違えた。	太郎は相手の名前を言う機会を逃した。														
+CV836					《「し間違える」：失敗を表す「し間違える」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		太郎は自分の住所を書き間違えた。	太郎は自分の住所を書くのに失敗した。														
+CV837					《「し間違える」：失敗を表す「し間違える」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		花子は電話をかけてきた相手の名前を聞き間違えた。	花子は電話をかけてきた相手の名前を聞くのに失敗した。														
+CV838					《「し間違える」：失敗を表す「し間違える」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		その旅行者は電車を乗り間違えた。	その旅行者は電車に乗るのに失敗した。														
+CV839					《「し間違える」：失敗を表す「し間違える」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		その政治家は漢字を読み間違えた。	その政治家は漢字を読むのに失敗した。														
+CV840					《「し間違える」：失敗を表す「し間違える」：「～するのに失敗した」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		太郎は相手の名前を言い間違えた。	太郎は相手の名前を言うのに失敗した。														
+CV841					《「し間違える」：失敗を表す「し間違える」：「～するつもりだった」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		太郎は自分の住所を書き間違えた。	太郎は自分の住所を書くつもりだった。														
+CV842					《「し間違える」：失敗を表す「し間違える」：「～するつもりだった」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		花子は電話をかけてきた相手の名前を聞き間違えた。	花子は電話をかけてきた相手の名前を聞くつもりだった。														
+CV843					《「し間違える」：失敗を表す「し間違える」：「～するつもりだった」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		その旅行者は電車を乗り間違えた。	その旅行者は電車に乗るつもりだった。														
+CV844					《「し間違える」：失敗を表す「し間違える」：「～するつもりだった」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		その政治家は漢字を読み間違えた。	その政治家は漢字を読むつもりだった。														
+CV845					《「し間違える」：失敗を表す「し間違える」：「～するつもりだった」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		太郎は相手の名前を言い間違えた。	太郎は相手の名前を言うつもりだった。														
+CV846					《「し間違える」：失敗を表す「し間違える」：「～しそびれる」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		太郎は自分の住所を書き間違えた。	太郎は自分の住所を書きそびれた。														
+CV847					《「し間違える」：失敗を表す「し間違える」：「～しそびれる」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		花子は電話をかけてきた相手の名前を聞き間違えた。	花子は電話をかけてきた相手の名前を聞きそびれた。														
+CV848					《「し間違える」：失敗を表す「し間違える」：「～しそびれる」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		その旅行者は電車を乗り間違えた。	その旅行者は電車に乗りそびれた。														
+CV849					《「し間違える」：失敗を表す「し間違える」：「～しそびれる」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		その政治家は漢字を読み間違えた。	その政治家は漢字を読みそびれた。														
+CV850					《「し間違える」：失敗を表す「し間違える」：「～しそびれる」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		太郎は相手の名前を言い間違えた。	太郎は相手の名前を言いそびれた。														
+CV851					《「し間違える」：失敗を表す「し間違える」：「～しそこねる」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		太郎は自分の住所を書き間違えた。	太郎は自分の住所を書きそこねた。														
+CV852					《「し間違える」：失敗を表す「し間違える」：「～しそこねる」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		花子は電話をかけてきた相手の名前を聞き間違えた。	花子は電話をかけてきた相手の名前を聞きそこねた。														
+CV853					《「し間違える」：失敗を表す「し間違える」：「～しそこねる」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		その旅行者は電車を乗り間違えた。	その旅行者は電車に乗りそこねた。														
+CV854					《「し間違える」：失敗を表す「し間違える」：「～しそこねる」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		その政治家は漢字を読み間違えた。	その政治家は漢字を読みそこねた。														
+CV855					《「し間違える」：失敗を表す「し間違える」：「～しそこねる」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		太郎は相手の名前を言い間違えた。	太郎は相手の名前を言いそこねた。														
+CV856					《「し間違える」：失敗を表す「し間違える」：「～しそこなう」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		太郎は自分の住所を書き間違えた。	太郎は自分の住所を書きそこなった。														
+CV857					《「し間違える」：失敗を表す「し間違える」：「～しそこなう」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		花子は電話をかけてきた相手の名前を聞き間違えた。	花子は電話をかけてきた相手の名前を聞きそこなった。														
+CV858					《「し間違える」：失敗を表す「し間違える」：「～しそこなう」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		その旅行者は電車を乗り間違えた。	その旅行者は電車に乗りそこなった。														
+CV859					《「し間違える」：失敗を表す「し間違える」：「～しそこなう」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		その政治家は漢字を読み間違えた。	その政治家は漢字を読みそこなった。														
+CV860					《「し間違える」：失敗を表す「し間違える」：「～しそこなう」への言い換え》		yes	"Compound verb, -simatigaeru"	entailment		太郎は相手の名前を言い間違えた。	太郎は相手の名前を言いそこなった。														
+CV861					《「し間違える」：失敗を表す「し間違える」：「～し忘れる」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		太郎は自分の住所を書き間違えた。	太郎は自分の住所を書き忘れた。														
+CV862					《「し間違える」：失敗を表す「し間違える」：「～し忘れる」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		花子は電話をかけてきた相手の名前を聞き間違えた。	花子は電話をかけてきた相手の名前を聞き忘れた。														
+CV863					《「し間違える」：失敗を表す「し間違える」：「～し忘れる」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		その旅行者は電車を乗り間違えた。	その旅行者は電車に乗り忘れた。														
+CV864					《「し間違える」：失敗を表す「し間違える」：「～し忘れる」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		その政治家は漢字を読み間違えた。	その政治家は漢字を読み忘れた。														
+CV865					《「し間違える」：失敗を表す「し間違える」：「～し忘れる」への言い換え》		no	"Compound verb, -simatigaeru"	entailment		太郎は相手の名前を言い間違えた。	太郎は相手の名前を言い忘れた。														
+CV866					《「しかねる」：不可能を表す「しかねる」：「しかねる」の削除》		no	"Compound verb, -sikaneru"	entailment		太郎は相手の真意を理解しかねた。	太郎は相手の真意を理解した。														
+CV867					《「しかねる」：不可能を表す「しかねる」：「しかねる」の削除》		no	"Compound verb, -sikaneru"	entailment		民衆は苦境に耐えかねた。	民衆は苦境に耐えた。														
+CV868					《「しかねる」：不可能を表す「しかねる」：「しかねる」の削除》		no	"Compound verb, -sikaneru"	entailment		花子は転職するかどうか決めかねた。	花子は転職するかどうか決めた。														
+CV869					《「しかねる」：不可能を表す「しかねる」：「しかねる」の削除》		no	"Compound verb, -sikaneru"	entailment		株主総会は社長の経営方針に同意しかねた。	株主総会は社長の経営方針に同意した。														
+CV870					《「しかねる」：不可能を表す「しかねる」：「しかねる」の削除》		no	"Compound verb, -sikaneru"	entailment		多くの人が税金の使われ方に納得しかねている。	多くの人が税金の使われ方に納得している。														
+CV871					《「しかねる」：不可能を表す「しかねる」：「～できない」への言い換え》		yes	"Compound verb, -sikaneru"	entailment		太郎は相手の真意を理解しかねた。	太郎は相手の真意を理解できなかった。														
+CV872					《「しかねる」：不可能を表す「しかねる」：「～できない」への言い換え》		yes	"Compound verb, -sikaneru"	entailment		民衆は苦境に耐えかねた。	民衆は苦境に耐えられなかった。														
+CV873					《「しかねる」：不可能を表す「しかねる」：「～できない」への言い換え》		yes	"Compound verb, -sikaneru"	entailment		花子は転職するかどうか決めかねた。	花子は転職するかどうか決められなかった。														
+CV874					《「しかねる」：不可能を表す「しかねる」：「～できない」への言い換え》		yes	"Compound verb, -sikaneru"	entailment		株主総会は社長の経営方針に同意しかねた。	株主総会は社長の経営方針に同意できなかった。														
+CV875					《「しかねる」：不可能を表す「しかねる」：「～できない」への言い換え》		yes	"Compound verb, -sikaneru"	entailment		多くの人が税金の使われ方に納得しかねている。	多くの人が税金の使われ方に納得できないでいる。														
+CV876					《「しかねる」：不可能を表す「しかねる」：「しあぐねる」への言い換え》		weakacceptable	"Compound verb, -sikaneru"			太郎は相手の真意を理解しかねた。	太郎は相手の真意を理解しあぐねた。														
+CV877					《「しかねる」：不可能を表す「しかねる」：「しあぐねる」への言い換え》		weakacceptable	"Compound verb, -sikaneru"			民衆は苦境に耐えかねた。	民衆は苦境に耐えあぐねた。														
+CV878					《「しかねる」：不可能を表す「しかねる」：「しあぐねる」への言い換え》		unknown	"Compound verb, -sikaneru"			花子は転職するかどうか決めかねた。	花子は転職するかどうか決めあぐねた。														
+CV879					《「しかねる」：不可能を表す「しかねる」：「しあぐねる」への言い換え》		weakacceptable	"Compound verb, -sikaneru"			株主総会は社長の経営方針に同意しかねた。	株主総会は社長の経営方針に同意しあぐねた。														
+CV880					《「しかねる」：不可能を表す「しかねる」：「しあぐねる」への言い換え》		weakacceptable	"Compound verb, -sikaneru"			多くの人が税金の使われ方に納得しかねている。	多くの人が税金の使われ方に納得しあぐねている。														
+CV881					《「しあぐねる」：不可能を表す「しあぐねる」：「うまく～する」への言い換え》		no	"Compound verb, -siaguneru"	entailment		太郎は次の引越し先を探しあぐねている。	太郎は次の引越し先をyまく探している。														
+CV882					《「しあぐねる」：不可能を表す「しあぐねる」：「うまく～する」への言い換え》		no	"Compound verb, -siaguneru"	entailment		日本代表はブラジル代表を相手に攻めあぐねていた。	日本代表はブラジル代表を相手にうまく攻めていた。														
+CV883					《「しあぐねる」：不可能を表す「しあぐねる」：「うまく～する」への言い換え》		no	"Compound verb, -siaguneru"	entailment		その社員は取引先からのメールに返事しあぐねている。	その社員は取引先からのメールにうまく返事した。														
+CV884					《「しあぐねる」：不可能を表す「しあぐねる」：「うまく～する」への言い換え》		no	"Compound verb, -siaguneru"	entailment		花子は転職するかどうか決めあぐねている。	花子は転職するかどうか決めている。														
+CV885					《「しあぐねる」：不可能を表す「しあぐねる」：「うまく～する」への言い換え》		no	"Compound verb, -siaguneru"	entailment		社長は良い案を考えあぐねている。	社長は良い案を考えている。														
+CV886					《「しあぐねる」：不可能を表す「しあぐねる」：「～できない」への言い換え》		yes	"Compound verb, -siaguneru"	entailment		太郎は次の引越し先を探しあぐねている。	太郎は次の引越し先を探せないでいる。														
+CV887					《「しあぐねる」：不可能を表す「しあぐねる」：「～できない」への言い換え》		yes	"Compound verb, -siaguneru"	entailment		日本代表はブラジル代表を相手に攻めあぐねていた。	日本代表はブラジル代表を相手に攻めることができずにいた。														
+CV888					《「しあぐねる」：不可能を表す「しあぐねる」：「～できない」への言い換え》		yes	"Compound verb, -siaguneru"	entailment		その社員は取引先からのメールに返事しあぐねている。	その社員は取引先からのメールに返事できないでいる。														
+CV889					《「しあぐねる」：不可能を表す「しあぐねる」：「～できない」への言い換え》		yes	"Compound verb, -siaguneru"	entailment		花子は転職するかどうか決めあぐねている。	花子は転職するかどうか決められずにいる。														
+CV890					《「しあぐねる」：不可能を表す「しあぐねる」：「～できない」への言い換え》		yes	"Compound verb, -siaguneru"	entailment		社長は良い案を考えあぐねている。	社長は良い案を考えることができずにいる。														
+CV891					《「しあぐねる」：不可能を表す「しあぐねる」：「しかねる」への言い換え》		yes	"Compound verb, -siaguneru"	entailment		太郎は次の引越し先を探しあぐねている。	太郎は次の引越し先を探しかねている。														
+CV892					《「しあぐねる」：不可能を表す「しあぐねる」：「しかねる」への言い換え》		yes	"Compound verb, -siaguneru"	entailment		日本代表はブラジル代表を相手に攻めあぐねていた。	日本代表はブラジル代表を相手に攻めかねていた。														
+CV893					《「しあぐねる」：不可能を表す「しあぐねる」：「しかねる」への言い換え》		yes	"Compound verb, -siaguneru"	entailment		その社員は取引先からのメールに返事しあぐねている。	その社員は取引先からのメールに返事しかねている。														
+CV894					《「しあぐねる」：不可能を表す「しあぐねる」：「しかねる」への言い換え》		yes	"Compound verb, -siaguneru"	entailment		花子は転職するかどうか決めあぐねている。	花子は転職するかどうか決めかねている。														
+CV895					《「しあぐねる」：不可能を表す「しあぐねる」：「しかねる」への言い換え》		yes	"Compound verb, -siaguneru"	entailment		社長は良い案を考えあぐねている。	社長は良い案を考えかねている。														
+CV896					《「し残す」：行為の未完了を表す「し残す」：「すべて/全部～する」への言い換え》		no	"Compound verb, -sinokosu"	entailment		太郎は夕食を食べ残した。	太郎は夕食を全部食べた。														
+CV897					《「し残す」：行為の未完了を表す「し残す」：「すべて/全部～する」への言い換え》		no	"Compound verb, -sinokosu"	entailment		その社員は割り当てられた仕事をやり残した。	その社員は割り当てられた仕事を全部やった。														
+CV898					《「し残す」：行為の未完了を表す「し残す」：「すべて/全部～する」への言い換え》		no	"Compound verb, -sinokosu"	entailment		そのトラックは荷物を積み残した。	そのトラックは荷物を全部積んだ。														
+CV899					《「し残す」：行為の未完了を表す「し残す」：「すべて/全部～する」への言い換え》		no	"Compound verb, -sinokosu"	entailment		花子は化粧水を使い残した。	花子は化粧水を全部使った。														
+CV900					《「し残す」：行為の未完了を表す「し残す」：「すべて/全部～する」への言い換え》		no	"Compound verb, -sinokosu"	entailment		先生はその問題の解き方について説明し残した。	先生はその問題の解き方についてすべて説明した。														
+CV901					《「し残す」：行為の未完了を表す「し残す」：「一部～する」への言い換え》		yes	"Compound verb, -sinokosu"	entailment		太郎は夕食を食べ残した。	太郎は夕食を一部食べた。														
+CV902					《「し残す」：行為の未完了を表す「し残す」：「一部～する」への言い換え》		yes	"Compound verb, -sinokosu"	entailment		その社員は割り当てられた仕事をやり残した。	その社員は割り当てられた仕事を一部やった。														
+CV903					《「し残す」：行為の未完了を表す「し残す」：「一部～する」への言い換え》		yes	"Compound verb, -sinokosu"	entailment		そのトラックは荷物を積み残した。	そのトラックは荷物を一部積んだ。														
+CV904					《「し残す」：行為の未完了を表す「し残す」：「一部～する」への言い換え》		yes	"Compound verb, -sinokosu"	entailment		花子は化粧水を使い残した。	花子は化粧水を一部使った。														
+CV905					《「し残す」：行為の未完了を表す「し残す」：「一部～する」への言い換え》		yes	"Compound verb, -sinokosu"	entailment		先生はその問題の解き方について説明し残した。	先生はその問題の解き方について一部説明した。														
+CV906					《「し残す」：存在の残存を表す「し残す」：「し残す」の削除》		yes	"Compound verb, -sinokosu"	entailment		その歴史家は激動の時代を記録し残した。	その歴史家は激動の時代を記録した。														
+CV907					《「し残す」：存在の残存を表す「し残す」：「し残す」の削除》		yes	"Compound verb, -sinokosu"	entailment		武将は息子たちに、力を合わせて国を治めるよう言い残した。	武将は息子たちに、力を合わせて国を治めるよう言った。														
+CV908					《「し残す」：存在の残存を表す「し残す」：「し残す」の削除》		yes	"Compound verb, -sinokosu"	entailment		モーツァルトは多くの名曲を作り残した。	モーツァルトは多くの名曲を作った。														
+CV909					《「し残す」：存在の残存を表す「し残す」：「し残す」の削除》		yes	"Compound verb, -sinokosu"	entailment		花子はノートの切れ端に短いメッセージを書き残した。	花子はノートの切れ端に短いメッセージを書いた。														
+CV910					《「し残す」：存在の残存を表す「し残す」：「し残す」の削除》		yes	"Compound verb, -sinokosu"	entailment		先人たちは貴重な文化財を守り残した。	先人たちは貴重な文化財を守った。														
+CV911					《「し残す」：存在の残存を表す「し残す」：「すべて/全部～する」への言い換え》		unknown	"Compound verb, -sinokosu"			その歴史家は激動の時代を記録し残した。	その歴史家は激動の時代をすべて記録した。														
+CV912					《「し残す」：存在の残存を表す「し残す」：「すべて/全部～する」への言い換え》		unacceptable	"Compound verb, -sinokosu"			武将は息子たちに、力を合わせて国を治めるよう言い残した。	武将は息子たちに、力を合わせて国を治めるよう全部言った。														
+CV913					《「し残す」：存在の残存を表す「し残す」：「すべて/全部～する」への言い換え》		unknown	"Compound verb, -sinokosu"			モーツァルトは多くの名曲を作り残した。	モーツァルトは多くの名曲を全部作った。														
+CV914					《「し残す」：存在の残存を表す「し残す」：「すべて/全部～する」への言い換え》		unknown	"Compound verb, -sinokosu"			花子はノートの切れ端に短いメッセージを書き残した。	花子はノートの切れ端に短いメッセージを全部書いた。														
+CV915					《「し残す」：存在の残存を表す「し残す」：「すべて/全部～する」への言い換え》		unknown	"Compound verb, -sinokosu"			先人たちは貴重な文化財を守り残した。	先人たちは貴重な文化財をすべて守った。														
+CV916					《「し残す」：存在の残存を表す「し残す」：「一部～する」への言い換え》		weakacceptable	"Compound verb, -sinokosu"			その歴史家は激動の時代を記録し残した。	その歴史家は激動の時代を一部記録した。														
+CV917					《「し残す」：存在の残存を表す「し残す」：「一部～する」への言い換え》		weakacceptable	"Compound verb, -sinokosu"			武将は息子たちに、力を合わせて国を治めるよう言い残した。	武将は息子たちに、力を合わせて国を治めるよう一部言った。														
+CV918					《「し残す」：存在の残存を表す「し残す」：「一部～する」への言い換え》		weakacceptable	"Compound verb, -sinokosu"			モーツァルトは多くの名曲を作り残した。	モーツァルトは多くの名曲を一部作った。														
+CV919					《「し残す」：存在の残存を表す「し残す」：「一部～する」への言い換え》		weakacceptable	"Compound verb, -sinokosu"			花子はノートの切れ端に短いメッセージを書き残した。	花子はノートの切れ端に短いメッセージを一部書いた。														
+CV920					《「し残す」：存在の残存を表す「し残す」：「一部～する」への言い換え》		weakacceptable	"Compound verb, -sinokosu"			先人たちは貴重な文化財を守り残した。	先人たちは貴重な文化財を一部守った。														
+CV921					《「しすぎる」：過剰であることを表す「しすぎる」：「しすぎる」の削除》		yes	"Compound verb, -sisugiru"	entailment		花子は海外旅行でお金を使いすぎた。	花子は海外旅行でお金を使った。														
+CV922					《「しすぎる」：過剰であることを表す「しすぎる」：「しすぎる」の削除》		yes	"Compound verb, -sisugiru"	entailment		太郎は昨晩ビールを飲みすぎた。	太郎は昨晩ビールを飲んだ。														
+CV923					《「しすぎる」：過剰であることを表す「しすぎる」：「しすぎる」の削除》		yes	"Compound verb, -sisugiru"	entailment		あの選手は筋トレをしすぎている。	あの選手は筋トレをしている。														
+CV924					《「しすぎる」：過剰であることを表す「しすぎる」：「しすぎる」の削除》		yes	"Compound verb, -sisugiru"	entailment		現代人は毎日の食事で塩分を摂りすぎている。	現代人は毎日の食事で塩分を摂っている。														
+CV925					《「しすぎる」：過剰であることを表す「しすぎる」：「しすぎる」の削除》		yes	"Compound verb, -sisugiru"	entailment		この商品の開発にはコストがかかりすぎている。	この商品の開発にはコストがかかっている。														
+CV926					《「しすぎる」：過剰であることを表す「しすぎる」：「適度に～する」への言い換え》		no	"Compound verb, -sisugiru"	entailment		花子は海外旅行でお金を使いすぎた。	花子は海外旅行で適度にお金を使った。														
+CV927					《「しすぎる」：過剰であることを表す「しすぎる」：「適度に～する」への言い換え》		no	"Compound verb, -sisugiru"	entailment		太郎は昨晩ビールを飲みすぎた。	太郎は昨晩ビールを適度に飲んだ。														
+CV928					《「しすぎる」：過剰であることを表す「しすぎる」：「適度に～する」への言い換え》		no	"Compound verb, -sisugiru"	entailment		あの選手は筋トレをしすぎている。	あの選手は適度に筋トレをしている。														
+CV929					《「しすぎる」：過剰であることを表す「しすぎる」：「適度に～する」への言い換え》		no	"Compound verb, -sisugiru"	entailment		現代人は毎日の食事で塩分を摂りすぎている。	現代人は毎日の食事で塩分を適度に摂っている。														
+CV930					《「しすぎる」：過剰であることを表す「しすぎる」：「適度に～する」への言い換え》		no	"Compound verb, -sisugiru"	entailment		この商品の開発にはコストがかかりすぎている。	この商品の開発には適度にコストがかかっている。														
+CV931					《「しすぎる」：過剰であることを表す「しすぎる」：「少しだけ～する」への言い換え》		no	"Compound verb, -sisugiru"	entailment		花子は海外旅行でお金を使いすぎた。	花子は海外旅行でお金を少しだけ使った。														
+CV932					《「しすぎる」：過剰であることを表す「しすぎる」：「少しだけ～する」への言い換え》		no	"Compound verb, -sisugiru"	entailment		太郎は昨晩ビールを飲みすぎた。	太郎は昨晩ビールを少しだけ飲んだ。														
+CV933					《「しすぎる」：過剰であることを表す「しすぎる」：「少しだけ～する」への言い換え》		no	"Compound verb, -sisugiru"	entailment		あの選手は筋トレをしすぎている。	あの選手は少しだけ筋トレをしている。														
+CV934					《「しすぎる」：過剰であることを表す「しすぎる」：「少しだけ～する」への言い換え》		no	"Compound verb, -sisugiru"	entailment		現代人は毎日の食事で塩分を摂りすぎている。	現代人は毎日の食事で塩分を少しだけ摂っている。														
+CV935					《「しすぎる」：過剰であることを表す「しすぎる」：「少しだけ～する」への言い換え》		no	"Compound verb, -sisugiru"	entailment		この商品の開発にはコストがかかりすぎている。	この商品の開発には少しだけコストがかかっている。														
+CV936					《「しすぎる」：過剰であることを表す「しすぎる」：「必要以上に～する」への言い換え》		yes	"Compound verb, -sisugiru"	entailment		花子は海外旅行でお金を使いすぎた。	花子は海外旅行でお金を必要以上に使った。														
+CV937					《「しすぎる」：過剰であることを表す「しすぎる」：「必要以上に～する」への言い換え》		yes	"Compound verb, -sisugiru"	entailment		太郎は昨晩ビールを飲みすぎた。	太郎は昨晩ビールを必要以上に飲んだ。														
+CV938					《「しすぎる」：過剰であることを表す「しすぎる」：「必要以上に～する」への言い換え》		yes	"Compound verb, -sisugiru"	entailment		あの選手は筋トレをしすぎている。	あの選手は必要以上に筋トレをしている。														
+CV939					《「しすぎる」：過剰であることを表す「しすぎる」：「必要以上に～する」への言い換え》		yes	"Compound verb, -sisugiru"	entailment		現代人は毎日の食事で塩分を摂りすぎている。	現代人は毎日の食事で塩分を必要以上に摂っている。														
+CV940					《「しすぎる」：過剰であることを表す「しすぎる」：「必要以上に～する」への言い換え》		yes	"Compound verb, -sisugiru"	entailment		この商品の開発にはコストがかかりすぎている。	この商品の開発には必要以上にコストがかかっている。														
+CV941					《「しすぎる」：過剰であることを表す「しすぎる」：「たくさん～する」への言い換え》		yes	"Compound verb, -sisugiru"	entailment		花子は海外旅行でお金を使いすぎた。	花子は海外旅行でお金をたくさん使った。														
+CV942					《「しすぎる」：過剰であることを表す「しすぎる」：「たくさん～する」への言い換え》		yes	"Compound verb, -sisugiru"	entailment		太郎は昨晩ビールを飲みすぎた。	太郎は昨晩ビールをたくさん飲んだ。														
+CV943					《「しすぎる」：過剰であることを表す「しすぎる」：「たくさん～する」への言い換え》		yes	"Compound verb, -sisugiru"	entailment		あの選手は筋トレをしすぎている。	あの選手はたくさん筋トレをしている。														
+CV944					《「しすぎる」：過剰であることを表す「しすぎる」：「たくさん～する」への言い換え》		yes	"Compound verb, -sisugiru"	entailment		現代人は毎日の食事で塩分を摂りすぎている。	現代人は毎日の食事で塩分をたくさん摂っている。														
+CV945					《「しすぎる」：過剰であることを表す「しすぎる」：「たくさん～する」への言い換え》		yes	"Compound verb, -sisugiru"	entailment		この商品の開発にはコストがかかりすぎている。	この商品の開発にはたくさんコストがかかっている。														
+CV946					《「しすぎる」：過剰であることを表す「しすぎる」：好ましくないという含意》		yes	"Compound verb, -sisugiru"	entailment		花子は海外旅行でお金を使いすぎた。	海外旅行での花子のお金の使い方は好ましくない。														
+CV947					《「しすぎる」：過剰であることを表す「しすぎる」：好ましくないという含意》		yes	"Compound verb, -sisugiru"	entailment		太郎は昨晩ビールを飲みすぎた。	昨晩の太郎のビールの飲み方は好ましくない。														
+CV948					《「しすぎる」：過剰であることを表す「しすぎる」：好ましくないという含意》		yes	"Compound verb, -sisugiru"	entailment		あの選手は筋トレをしすぎている。	あの選手の筋トレの仕方は好ましくない。														
+CV949					《「しすぎる」：過剰であることを表す「しすぎる」：好ましくないという含意》		yes	"Compound verb, -sisugiru"	entailment		現代人は毎日の食事で塩分を摂りすぎている。	現代人の毎日の食事での塩分の取り方は好ましくない。														
+CV950					《「しすぎる」：過剰であることを表す「しすぎる」：好ましくないという含意》		yes	"Compound verb, -sisugiru"	entailment		この商品の開発にはコストがかかりすぎている。	この商品へのコストのかかり方は好ましくない。														
+CV951					《「し直す」：やり直しを表す「し直す」：「し直す」の削除》		yes	"Compound verb, -sinaosu"	entailment		太郎は味噌汁を温め直した。	太郎は味噌汁を温めた。														
+CV952					《「し直す」：やり直しを表す「し直す」：「し直す」の削除》		yes	"Compound verb, -sinaosu"	entailment		その社員は報告書を書き直した。	その社員は報告書を書いた。														
+CV953					《「し直す」：やり直しを表す「し直す」：「し直す」の削除》		yes	"Compound verb, -sinaosu"	entailment		カメラマンは富士山の写真を撮り直した。	カメラマンは富士山の写真を撮った。														
+CV954					《「し直す」：やり直しを表す「し直す」：「し直す」の削除》		yes	"Compound verb, -sinaosu"	entailment		花子はフランス語を勉強し直した。	花子はフランス語を勉強した。														
+CV955					《「し直す」：やり直しを表す「し直す」：「し直す」の削除》		yes	"Compound verb, -sinaosu"	entailment		その会社は自社ビルを建て直した。	その会社は自社ビルを建てた。														
+CV956					《「し直す」：やり直しを表す「し直す」：過去に同じことをしていたという前提》		yes	"Compound verb, -sinaosu"	presupposition		太郎は味噌汁を温め直した。	太郎はその前にも味噌汁を温めていた。														
+CV957					《「し直す」：やり直しを表す「し直す」：過去に同じことをしていたという前提》		yes	"Compound verb, -sinaosu"	presupposition		その社員は報告書を書き直した。	その社員はその前にも報告書を書いていた。														
+CV958					《「し直す」：やり直しを表す「し直す」：過去に同じことをしていたという前提》		yes	"Compound verb, -sinaosu"	presupposition		カメラマンは富士山の写真を撮り直した。	カメラマンはその前にも富士山の写真を撮っていた。														
+CV959					《「し直す」：やり直しを表す「し直す」：過去に同じことをしていたという前提》		yes	"Compound verb, -sinaosu"	presupposition		花子はフランス語を勉強し直した。	花子はその前にもフランス語を勉強していた。														
+CV960					《「し直す」：やり直しを表す「し直す」：過去に同じことをしていたという前提》		yes	"Compound verb, -sinaosu"	presupposition		その会社は自社ビルを建て直した。	その会社はその前にも自社ビルを建てていた。														
+CV961					《「し直す」：やり直しを表す「し直す」：「もう一度～する」への言い換え》		yes	"Compound verb, -sinaosu"	entailment		太郎は味噌汁を温め直した。	太郎はもう一度味噌汁を温めた。														
+CV962					《「し直す」：やり直しを表す「し直す」：「もう一度～する」への言い換え》		yes	"Compound verb, -sinaosu"	entailment		その社員は報告書を書き直した。	その社員はもう一度報告書を書いた。														
+CV963					《「し直す」：やり直しを表す「し直す」：「もう一度～する」への言い換え》		yes	"Compound verb, -sinaosu"	entailment		カメラマンは富士山の写真を撮り直した。	カメラマンはもう一度富士山の写真を撮った。														
+CV964					《「し直す」：やり直しを表す「し直す」：「もう一度～する」への言い換え》		yes	"Compound verb, -sinaosu"	entailment		花子はフランス語を勉強し直した。	花子はもう一度フランス語を勉強した。														
+CV965					《「し直す」：やり直しを表す「し直す」：「もう一度～する」への言い換え》		yes	"Compound verb, -sinaosu"	entailment		その会社は自社ビルを建て直した。	その会社はもう一度自社ビルを建てた。														
+CV966					《「し直す」：やり直しを表す「し直す」：「新たに～する」への言い換え》		weakacceptable	"Compound verb, -sinaosu"			太郎は味噌汁を温め直した。	太郎は新たに味噌汁を温めた。														
+CV967					《「し直す」：やり直しを表す「し直す」：「新たに～する」への言い換え》		yes	"Compound verb, -sinaosu"	entailment		その社員は報告書を書き直した。	その社員は新たに報告書を書いた。														
+CV968					《「し直す」：やり直しを表す「し直す」：「新たに～する」への言い換え》		yes	"Compound verb, -sinaosu"	entailment		カメラマンは富士山の写真を撮り直した。	カメラマンは新たに富士山の写真を撮った。														
+CV969					《「し直す」：やり直しを表す「し直す」：「新たに～する」への言い換え》		yes	"Compound verb, -sinaosu"	entailment		花子はフランス語を勉強し直した。	花子は新たにフランス語を勉強した。														
+CV970					《「し直す」：やり直しを表す「し直す」：「新たに～する」への言い換え》		yes	"Compound verb, -sinaosu"	entailment		その会社は自社ビルを建て直した。	その会社は新たに自社ビルを建てた。														
+CV971					《「し直す」：やり直しを表す「し直す」：「一度だけ～する」への言い換え》		no	"Compound verb, -sinaosu"	entailment		太郎は味噌汁を温め直した。	太郎は一度だけ味噌汁を温めた。														
+CV972					《「し直す」：やり直しを表す「し直す」：「一度だけ～する」への言い換え》		no	"Compound verb, -sinaosu"	entailment		その社員は報告書を書き直した。	その社員は一度だけ報告書を書いた。														
+CV973					《「し直す」：やり直しを表す「し直す」：「一度だけ～する」への言い換え》		no	"Compound verb, -sinaosu"	entailment		カメラマンは富士山の写真を撮り直した。	カメラマンは一度だけ富士山の写真を撮った。														
+CV974					《「し直す」：やり直しを表す「し直す」：「一度だけ～する」への言い換え》		no	"Compound verb, -sinaosu"	entailment		花子はフランス語を勉強し直した。	花子は一度だけフランス語を勉強した。														
+CV975					《「し直す」：やり直しを表す「し直す」：「一度だけ～する」への言い換え》		no	"Compound verb, -sinaosu"	entailment		その会社は自社ビルを建て直した。	その会社は一度だけ自社ビルを建てた。														
+CV976					《「し慣れる」：習慣化していることを表す「し慣れる」：「し慣れる」の削除》		yes	"Compound verb, -sinareru"	entailment		その小学生はこの道を通い慣れている。	その小学生はこの道を通っている。														
+CV977					《「し慣れる」：習慣化していることを表す「し慣れる」：「し慣れる」の削除》		yes	"Compound verb, -sinareru"	entailment		太郎は強い酒を飲み慣れている。	太郎は強い酒を飲んでいる。														
+CV978					《「し慣れる」：習慣化していることを表す「し慣れる」：「し慣れる」の削除》		yes	"Compound verb, -sinareru"	entailment		花子は山道を歩き慣れている。	花子は山道を歩いている。														
+CV979					《「し慣れる」：習慣化していることを表す「し慣れる」：「し慣れる」の削除》		yes	"Compound verb, -sinareru"	entailment		大学の先生は難しい文章を読み慣れている。	大学の先生は難しい文章を読んでいる。														
+CV980					《「し慣れる」：習慣化していることを表す「し慣れる」：「し慣れる」の削除》		yes	"Compound verb, -sinareru"	entailment		花子は激辛料理を食べ慣れている。	花子は激辛料理を食べている。														
+CV981					《「し慣れる」：習慣化していることを表す「し慣れる」：「普段から～している」への言い換え》		yes	"Compound verb, -sinareru"	entailment		その小学生はこの道を通い慣れている。	その小学生は普段からこの道を通っている。														
+CV982					《「し慣れる」：習慣化していることを表す「し慣れる」：「普段から～している」への言い換え》		yes	"Compound verb, -sinareru"	entailment		太郎は強い酒を飲み慣れている。	太郎は普段から強い酒を飲んでいる。														
+CV983					《「し慣れる」：習慣化していることを表す「し慣れる」：「普段から～している」への言い換え》		yes	"Compound verb, -sinareru"	entailment		花子は山道を歩き慣れている。	花子は普段から山道を歩いている。														
+CV984					《「し慣れる」：習慣化していることを表す「し慣れる」：「普段から～している」への言い換え》		yes	"Compound verb, -sinareru"	entailment		大学の先生は難しい文章を読み慣れている。	大学の先生は普段から難しい文章を読んでいる。														
+CV985					《「し慣れる」：習慣化していることを表す「し慣れる」：「普段から～している」への言い換え》		yes	"Compound verb, -sinareru"	entailment		花子は激辛料理を食べ慣れている。	花子は普段から激辛料理を食べている。														
+CV986					《「し慣れる」：習慣化していることを表す「し慣れる」：「～ことに長けている」への言い換え》		weakacceptable	"Compound verb, -sinareru"			その小学生はこの道を通い慣れている。	その小学生はこの道を通うことに長けている。														
+CV987					《「し慣れる」：習慣化していることを表す「し慣れる」：「～ことに長けている」への言い換え》		weakacceptable	"Compound verb, -sinareru"			太郎は強い酒を飲み慣れている。	太郎は強い酒を飲むことに長けている。														
+CV988					《「し慣れる」：習慣化していることを表す「し慣れる」：「～ことに長けている」への言い換え》		yes	"Compound verb, -sinareru"	entailment		花子は山道を歩き慣れている。	花子は山道を歩くことに長けている。														
+CV989					《「し慣れる」：習慣化していることを表す「し慣れる」：「～ことに長けている」への言い換え》		yes	"Compound verb, -sinareru"	entailment		大学の先生は難しい文章を読み慣れている。	大学の先生は難しい文章を読むことに長けている。														
+CV990					《「し慣れる」：習慣化していることを表す「し慣れる」：「～ことに長けている」への言い換え》		weakacceptable	"Compound verb, -sinareru"			花子は激辛料理を食べ慣れている。	花子は激辛料理を食べることに長けている。														
+CV991					《「し慣れる」：習慣化していることを表す「し慣れる」：「あまり～したことがない」への言い換え》		no	"Compound verb, -sinareru"	entailment		その小学生はこの道を通い慣れている。	その小学生はあまりこの道を通ったことがない。														
+CV992					《「し慣れる」：習慣化していることを表す「し慣れる」：「あまり～したことがない」への言い換え》		no	"Compound verb, -sinareru"	entailment		太郎は強い酒を飲み慣れている。	太郎はあまり強い酒を飲んだことがない。														
+CV993					《「し慣れる」：習慣化していることを表す「し慣れる」：「あまり～したことがない」への言い換え》		no	"Compound verb, -sinareru"	entailment		花子は山道を歩き慣れている。	花子はあまり山道を歩いたことがない。														
+CV994					《「し慣れる」：習慣化していることを表す「し慣れる」：「あまり～したことがない」への言い換え》		no	"Compound verb, -sinareru"	entailment		大学の先生は難しい文章を読み慣れている。	大学の先生はあまり難しい文章を読んだことがない。														
+CV995					《「し慣れる」：習慣化していることを表す「し慣れる」：「あまり～したことがない」への言い換え》		no	"Compound verb, -sinareru"	entailment		花子は激辛料理を食べ慣れている。	花子はあまり激辛料理を食べたことがない。														
+CV996					《「し慣れる」：習慣化していることを表す「し慣れる」：「～のが苦手だ」への言い換え》		no	"Compound verb, -sinareru"	entailment		その小学生はこの道を通い慣れている。	その小学生はこの道を通うのが苦手だ。														
+CV997					《「し慣れる」：習慣化していることを表す「し慣れる」：「～のが苦手だ」への言い換え》		no	"Compound verb, -sinareru"	entailment		太郎は強い酒を飲み慣れている。	太郎は強い酒を飲むのが苦手だ。														
+CV998					《「し慣れる」：習慣化していることを表す「し慣れる」：「～のが苦手だ」への言い換え》		no	"Compound verb, -sinareru"	entailment		花子は山道を歩き慣れている。	花子は山道を歩くのが苦手だ。														
+CV999					《「し慣れる」：習慣化していることを表す「し慣れる」：「～のが苦手だ」への言い換え》		no	"Compound verb, -sinareru"	entailment		大学の先生は難しい文章を読み慣れている。	大学の先生は難しい文章を読むのが苦手だ。														
+CV1000					《「し慣れる」：習慣化していることを表す「し慣れる」：「～のが苦手だ」への言い換え》		no	"Compound verb, -sinareru"	entailment		花子は激辛料理を食べ慣れている。	花子は激辛料理を食べるのが苦手だ。														
+CV1001					《「し慣れる」：習慣化していることを表す「し慣れる」：「し飽きる」への言い換え》		unknown	"Compound verb, -sinareru"			その小学生はこの道を通い慣れている。	その小学生はこの道を通い飽きている。														
+CV1002					《「し慣れる」：習慣化していることを表す「し慣れる」：「し飽きる」への言い換え》		unknown	"Compound verb, -sinareru"			太郎は強い酒を飲み慣れている。	太郎は強い酒を飲み飽きている。														
+CV1003					《「し慣れる」：習慣化していることを表す「し慣れる」：「し飽きる」への言い換え》		unknown	"Compound verb, -sinareru"			花子は山道を歩き慣れている。	花子は山道を歩き飽きている。														
+CV1004					《「し慣れる」：習慣化していることを表す「し慣れる」：「し飽きる」への言い換え》		unknown	"Compound verb, -sinareru"			大学の先生は難しい文章を読み慣れている。	大学の先生は難しい文章を読み飽きている。														
+CV1005					《「し慣れる」：習慣化していることを表す「し慣れる」：「し飽きる」への言い換え》		unknown	"Compound verb, -sinareru"			花子は激辛料理を食べ慣れている。	花子は激辛料理を食べ飽きている。														
+CV1006					《「し慣れる」：習慣化していることを表す「し慣れる」：「しこなす」への言い換え》		weakacceptable	"Compound verb, -sinareru"			その小学生はこの道を通い慣れている。	その小学生はこの道を通いこなしている。														
+CV1007					《「し慣れる」：習慣化していることを表す「し慣れる」：「しこなす」への言い換え》		weakacceptable	"Compound verb, -sinareru"			太郎は強い酒を飲み慣れている。	太郎は強い酒を飲みこなしている。														
+CV1008					《「し慣れる」：習慣化していることを表す「し慣れる」：「しこなす」への言い換え》		weakacceptable	"Compound verb, -sinareru"			花子は山道を歩き慣れている。	花子は山道を歩きこなしている。														
+CV1009					《「し慣れる」：習慣化していることを表す「し慣れる」：「しこなす」への言い換え》		unknown	"Compound verb, -sinareru"			大学の先生は難しい文章を読み慣れている。	大学の先生は難しい文章を読みこなしている。														
+CV1010					《「し慣れる」：習慣化していることを表す「し慣れる」：「しこなす」への言い換え》		weakacceptable	"Compound verb, -sinareru"			花子は激辛料理を食べ慣れている。	花子は激辛料理を食べこなしている。														
+CV1011					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「し飽きる」の削除》		yes	"Compound verb, -siakiru"	entailment		その社員は同僚の愚痴を聞き飽きた。	その社員は同僚の愚痴を聞いた。														
+CV1012					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「し飽きる」の削除》		yes	"Compound verb, -siakiru"	entailment		花子は高級な料理を食べ飽きた。	花子は高級な料理を食べた。														
+CV1013					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「し飽きる」の削除》		yes	"Compound verb, -siakiru"	entailment		太郎は田舎の風景を見飽きた。	太郎は田舎の風景を見た。														
+CV1014					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「し飽きる」の削除》		yes	"Compound verb, -siakiru"	entailment		その子供は家の中で遊び飽きた。	その子供は家の中で遊んだ。														
+CV1015					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「し飽きる」の削除》		yes	"Compound verb, -siakiru"	entailment		花子はミステリー小説を読み飽きた。	花子はミステリー小説を読んだ。														
+CV1016					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「たくさん～する」への言い換え》		yes	"Compound verb, -siakiru"	entailment		その社員は同僚の愚痴を聞き飽きた。	その社員は同僚の愚痴をたくさん聞いた。														
+CV1017					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「たくさん～する」への言い換え》		yes	"Compound verb, -siakiru"	entailment		花子は高級な料理を食べ飽きた。	花子は高級な料理をたくさん食べた。														
+CV1018					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「たくさん～する」への言い換え》		yes	"Compound verb, -siakiru"	entailment		太郎は田舎の風景を見飽きた。	太郎は田舎の風景をたくさん見た。														
+CV1019					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「たくさん～する」への言い換え》		yes	"Compound verb, -siakiru"	entailment		その子供は家の中で遊び飽きた。	その子供は家の中でたくさん遊んだ。														
+CV1020					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「たくさん～する」への言い換え》		yes	"Compound verb, -siakiru"	entailment		花子はミステリー小説を読み飽きた。	花子はミステリー小説をたくさん読んだ。														
+CV1021					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「もっと～したがっている」への言い換え》		no	"Compound verb, -siakiru"	entailment		その社員は同僚の愚痴を聞き飽きた。	その社員は同僚の愚痴をもっと聞きたがっている。														
+CV1022					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「もっと～したがっている」への言い換え》		no	"Compound verb, -siakiru"	entailment		花子は高級な料理を食べ飽きた。	花子は高級な料理をもっと食べたがっている。														
+CV1023					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「もっと～したがっている」への言い換え》		no	"Compound verb, -siakiru"	entailment		太郎は田舎の風景を見飽きた。	太郎は田舎の風景をもっと見たがっている。														
+CV1024					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「もっと～したがっている」への言い換え》		no	"Compound verb, -siakiru"	entailment		その子供は家の中で遊び飽きた。	その子供は家の中でもっと遊びたがっている。														
+CV1025					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「もっと～したがっている」への言い換え》		no	"Compound verb, -siakiru"	entailment		花子はミステリー小説を読み飽きた。	花子はミステリー小説をもっと読みたがっている。														
+CV1026					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「し慣れる」への言い換え》		unknown	"Compound verb, -siakiru"			その社員は同僚の愚痴を聞き飽きた。	その社員は同僚の愚痴を聞き慣れた。														
+CV1027					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「し慣れる」への言い換え》		unknown	"Compound verb, -siakiru"			花子は高級な料理を食べ飽きた。	花子は高級な料理を食べ慣れた。														
+CV1028					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「し慣れる」への言い換え》		unknown	"Compound verb, -siakiru"			太郎は田舎の風景を見飽きた。	太郎は田舎の風景を見慣れた。														
+CV1029					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「し慣れる」への言い換え》		unknown	"Compound verb, -siakiru"			その子供は家の中で遊び飽きた。	その子供は家の中で遊び慣れた。														
+CV1030					《「し飽きる」：同じことの繰り返しに嫌気が差していることを表す「し飽きる」：「し慣れる」への言い換え》		unknown	"Compound verb, -siakiru"			花子はミステリー小説を読み飽きた。	花子はミステリー小説を読み慣れた。														
+CV1031					《「しこなす」：技量が高いことを表す「しこなす」：「しこなす」の削除》		yes	"Compound verb, -sikonasu"	entailment		その騎手は暴れ馬を乗りこなしている。	その騎手は暴れ馬に乗っている。														
+CV1032					《「しこなす」：技量が高いことを表す「しこなす」：「しこなす」の削除》		yes	"Compound verb, -sikonasu"	entailment		彼女は古い服を着こなしている。	彼女は古い服を着ている。														
+CV1033					《「しこなす」：技量が高いことを表す「しこなす」：「しこなす」の削除》		yes	"Compound verb, -sikonasu"	entailment		そのピアニストは難しい曲を弾きこなした。	そのピアニストは難しい曲を弾いた。														
+CV1034					《「しこなす」：技量が高いことを表す「しこなす」：「しこなす」の削除》		yes	"Compound verb, -sikonasu"	entailment		私の祖父はスマートフォンとパソコンを使いこなしている。	私の祖父はスマートフォンとパソコンを使っている。														
+CV1035					《「しこなす」：技量が高いことを表す「しこなす」：「しこなす」の削除》		yes	"Compound verb, -sikonasu"	entailment		花子はシャンソンを歌いこなした。	花子はシャンソンを歌った。														
+CV1036					《「しこなす」：技量が高いことを表す「しこなす」：「上手に～する」への言い換え》		yes	"Compound verb, -sikonasu"	entailment		その騎手は暴れ馬を乗りこなしている。	その騎手は暴れ馬に上手に乗っている。														
+CV1037					《「しこなす」：技量が高いことを表す「しこなす」：「上手に～する」への言い換え》		yes	"Compound verb, -sikonasu"	entailment		彼女は古い服を着こなしている。	彼女は古い服を上手に着ている。														
+CV1038					《「しこなす」：技量が高いことを表す「しこなす」：「上手に～する」への言い換え》		yes	"Compound verb, -sikonasu"	entailment		そのピアニストは難しい曲を弾きこなした。	そのピアニストは難しい曲を上手に弾いた。														
+CV1039					《「しこなす」：技量が高いことを表す「しこなす」：「上手に～する」への言い換え》		yes	"Compound verb, -sikonasu"	entailment		私の祖父はスマートフォンとパソコンを使いこなしている。	私の祖父はスマートフォンとパソコンを上手に使っている。														
+CV1040					《「しこなす」：技量が高いことを表す「しこなす」：「上手に～する」への言い換え》		yes	"Compound verb, -sikonasu"	entailment		花子はシャンソンを歌いこなした。	花子はシャンソンを上手に歌った。														
+CV1041					《「しこなす」：技量が高いことを表す「しこなす」：「～のが苦手だ」への言い換え》		no	"Compound verb, -sikonasu"	entailment		その騎手は暴れ馬を乗りこなしている。	その騎手は暴れ馬に乗るのが苦手だ。														
+CV1042					《「しこなす」：技量が高いことを表す「しこなす」：「～のが苦手だ」への言い換え》		no	"Compound verb, -sikonasu"	entailment		彼女は古い服を着こなしている。	彼女は古い服を着るのが苦手だ。														
+CV1043					《「しこなす」：技量が高いことを表す「しこなす」：「～のが苦手だ」への言い換え》		no	"Compound verb, -sikonasu"	entailment		そのピアニストは難しい曲を弾きこなした。	そのピアニストは難しい曲を弾くのが苦手だ。														
+CV1044					《「しこなす」：技量が高いことを表す「しこなす」：「～のが苦手だ」への言い換え》		no	"Compound verb, -sikonasu"	entailment		私の祖父はスマートフォンとパソコンを使いこなしている。	私の祖父はスマートフォンとパソコンを使うのが苦手だ。														
+CV1045					《「しこなす」：技量が高いことを表す「しこなす」：「～のが苦手だ」への言い換え》		no	"Compound verb, -sikonasu"	entailment		花子はシャンソンを歌いこなした。	花子はシャンソンを歌うのが苦手だ。														
+CV1046					《「しこなす」：技量が高いことを表す「しこなす」：「し慣れる」への言い換え》		unknown	"Compound verb, -sikonasu"			その騎手は暴れ馬を乗りこなしている。	その騎手は暴れ馬を乗り慣れている。														
+CV1047					《「しこなす」：技量が高いことを表す「しこなす」：「し慣れる」への言い換え》		unknown	"Compound verb, -sikonasu"			彼女は古い服を着こなしている。	彼女は古い服を着慣れている。														
+CV1048					《「しこなす」：技量が高いことを表す「しこなす」：「し慣れる」への言い換え》		unknown	"Compound verb, -sikonasu"			そのピアニストは難しい曲を弾きこなした。	そのピアニストは難しい曲を弾き慣れた。														
+CV1049					《「しこなす」：技量が高いことを表す「しこなす」：「し慣れる」への言い換え》		yes	"Compound verb, -sikonasu"	entailment		私の祖父はスマートフォンとパソコンを使いこなしている。	私の祖父はスマートフォンとパソコンを使い慣れている。														
+CV1050					《「しこなす」：技量が高いことを表す「しこなす」：「し慣れる」への言い換え》		unknown	"Compound verb, -sikonasu"			花子はシャンソンを歌いこなした。	花子はシャンソンを歌い慣れた。														
+CV1051					《「し合う」：相互になされる行為を表す「し合う」：一方から他方への行為の含意》		yes	"Compound verb, -siau"	entailment		太郎と花子はプレゼントを贈り合った。	太郎は花子にプレゼントを贈った。														
+CV1052					《「し合う」：相互になされる行為を表す「し合う」：一方から他方への行為の含意》		yes	"Compound verb, -siau"	entailment		夫と妻は大声で罵り合った。	夫は妻を大声で罵った。														
+CV1053					《「し合う」：相互になされる行為を表す「し合う」：一方から他方への行為の含意》		yes	"Compound verb, -siau"	entailment		太郎と花子は悩み事を相談し合った。	太郎は花子に悩み事を相談した。														
+CV1054					《「し合う」：相互になされる行為を表す「し合う」：一方から他方への行為の含意》		yes	"Compound verb, -siau"	entailment		A社とB社はノウハウを提供し合っている。	A社はB社にノウハウを提供している。														
+CV1055					《「し合う」：相互になされる行為を表す「し合う」：一方から他方への行為の含意》		yes	"Compound verb, -siau"	entailment		太郎と花子は信頼し合っている。	太郎は花子を信頼している。														
+CV1056					《「し合う」：相互になされる行為を表す「し合う」：一方から他方への行為の含意》		yes	"Compound verb, -siau"	entailment		太郎と花子はプレゼントを贈り合った。	花子は太郎にプレゼントを贈った。														
+CV1057					《「し合う」：相互になされる行為を表す「し合う」：一方から他方への行為の含意》		yes	"Compound verb, -siau"	entailment		夫と妻は大声で罵り合った。	妻は夫を大声で罵った。														
+CV1058					《「し合う」：相互になされる行為を表す「し合う」：一方から他方への行為の含意》		yes	"Compound verb, -siau"	entailment		太郎と花子は悩み事を相談し合った。	花子は太郎に悩み事を相談した。														
+CV1059					《「し合う」：相互になされる行為を表す「し合う」：一方から他方への行為の含意》		yes	"Compound verb, -siau"	entailment		A社とB社はノウハウを提供し合っている。	B社はA社にノウハウを提供している。														
+CV1060					《「し合う」：相互になされる行為を表す「し合う」：一方から他方への行為の含意》		yes	"Compound verb, -siau"	entailment		太郎と花子は信頼し合っている。	花子は太郎を信頼している。														
+CV1061					《「し合う」：相互になされる行為を表す「し合う」：「し合う」の削除》		weakacceptable	"Compound verb, -siau"			太郎と花子はプレゼントを贈り合った。	太郎と花子はプレゼントを贈った。														
+CV1062					《「し合う」：相互になされる行為を表す「し合う」：「し合う」の削除》		weakacceptable	"Compound verb, -siau"			夫と妻は大声で罵り合った。	夫と妻は大声で罵った。														
+CV1063					《「し合う」：相互になされる行為を表す「し合う」：「し合う」の削除》		weakacceptable	"Compound verb, -siau"			太郎と花子は悩み事を相談し合った。	太郎と花子は悩み事を相談した。														
+CV1064					《「し合う」：相互になされる行為を表す「し合う」：「し合う」の削除》		weakacceptable	"Compound verb, -siau"			A社とB社はノウハウを提供し合っている。	A社とB社はノウハウを提供している。														
+CV1065					《「し合う」：相互になされる行為を表す「し合う」：「し合う」の削除》		weakacceptable	"Compound verb, -siau"			太郎と花子は信頼し合っている。	太郎と花子は信頼している。														
+CV1066					《「し合う」：相互になされる行為を表す「し合う」：「お互いに（/を）～する」への言い換え》		yes	"Compound verb, -siau"	entailment		太郎と花子はプレゼントを贈り合った。	太郎と花子はお互いにプレゼントを贈った。														
+CV1067					《「し合う」：相互になされる行為を表す「し合う」：「お互いに（/を）～する」への言い換え》		yes	"Compound verb, -siau"	entailment		夫と妻は大声で罵り合った。	夫と妻はお互いを大声で罵った。														
+CV1068					《「し合う」：相互になされる行為を表す「し合う」：「お互いに（/を）～する」への言い換え》		yes	"Compound verb, -siau"	entailment		太郎と花子は悩み事を相談し合った。	太郎と花子はお互いに悩み事を相談した。														
+CV1069					《「し合う」：相互になされる行為を表す「し合う」：「お互いに（/を）～する」への言い換え》		yes	"Compound verb, -siau"	entailment		A社とB社はノウハウを提供し合っている。	A社とB社はお互いにノウハウを提供している。														
+CV1070					《「し合う」：相互になされる行為を表す「し合う」：「お互いに（/を）～する」への言い換え》		yes	"Compound verb, -siau"	entailment		太郎と花子は信頼し合っている。	太郎と花子はお互いを信頼している。														
+CV1071					《「し合う」：相互になされる行為を表す「し合う」：「～は」と「～と」の語順の入れ替え》		yes	"Compound verb, -siau"	entailment		太郎と花子はプレゼントを贈り合った。	太郎は花子とプレゼントを贈り合った。														
+CV1072					《「し合う」：相互になされる行為を表す「し合う」：「～は」と「～と」の語順の入れ替え》		yes	"Compound verb, -siau"	entailment		夫と妻は大声で罵り合った。	夫は妻と大声で罵り合った。														
+CV1073					《「し合う」：相互になされる行為を表す「し合う」：「～は」と「～と」の語順の入れ替え》		yes	"Compound verb, -siau"	entailment		太郎と花子は悩み事を相談し合った。	太郎は花子と悩み事を相談し合った。														
+CV1074					《「し合う」：相互になされる行為を表す「し合う」：「～は」と「～と」の語順の入れ替え》		yes	"Compound verb, -siau"	entailment		A社とB社はノウハウを提供し合っている。	A社はB社とノウハウを提供し合っている。														
+CV1075					《「し合う」：相互になされる行為を表す「し合う」：「～は」と「～と」の語順の入れ替え》		yes	"Compound verb, -siau"	entailment		太郎と花子は信頼し合っている。	太郎は花子と信頼し合っている。														
+CV1076					《「し得る」：可能性を表す「し得る」：「し得る」の削除》		unknown	"Compound verb, -siuru"			あの社員のミスは大問題に発展し得る。	あの社員のミスは大問題に発展する。														
+CV1077					《「し得る」：可能性を表す「し得る」：「し得る」の削除》		unknown	"Compound verb, -siuru"			日本は再び世界一の経済大国になり得る。	日本は再び世界一の経済大国になる。														
+CV1078					《「し得る」：可能性を表す「し得る」：「し得る」の削除》		unknown	"Compound verb, -siuru"			日々の点検を怠っていると事故が起こり得る。	日々の点検を怠っていると事故が起こる。														
+CV1079					《「し得る」：可能性を表す「し得る」：「し得る」の削除》		unknown	"Compound verb, -siuru"			太郎が実力を出せばチャンピオンに勝利し得る。	太郎が実力を出せばチャンピオンに勝利する。														
+CV1080					《「し得る」：可能性を表す「し得る」：「し得る」の削除》		unknown	"Compound verb, -siuru"			花子の発言は誤解され得る。	花子の発言は誤解される。														
+CV1081					《「し得る」：可能性を表す「し得る」：「ことはあり得る」への言い換え》		yes	"Compound verb, -siuru"	entailment		あの社員のミスは大問題に発展し得る。	あの社員のミスが大問題に発展することはあり得る。														
+CV1082					《「し得る」：可能性を表す「し得る」：「ことはあり得る」への言い換え》		yes	"Compound verb, -siuru"	entailment		日本は再び世界一の経済大国になり得る。	日本が再び世界一の経済大国になることはあり得る。														
+CV1083					《「し得る」：可能性を表す「し得る」：「ことはあり得る」への言い換え》		yes	"Compound verb, -siuru"	entailment		日々の点検を怠っていると事故が起こり得る。	日々の点検を怠っていると事故が起こることはあり得る。														
+CV1084					《「し得る」：可能性を表す「し得る」：「ことはあり得る」への言い換え》		yes	"Compound verb, -siuru"	entailment		太郎が実力を出せばチャンピオンに勝利し得る。	太郎が実力を出せばチャンピオンに勝利することもあり得る。														
+CV1085					《「し得る」：可能性を表す「し得る」：「ことはあり得る」への言い換え》		yes	"Compound verb, -siuru"	entailment		花子の発言は誤解され得る。	花子の発言が誤解されることはあり得る。														
+CV1086					《「し得る」：可能性を表す「し得る」：「必ず」の追加》		unknown	"Compound verb, -siuru"			あの社員のミスは大問題に発展し得る。	あの社員のミスは必ず大問題に発展する。														
+CV1087					《「し得る」：可能性を表す「し得る」：「必ず」の追加》		unknown	"Compound verb, -siuru"			日本は再び世界一の経済大国になり得る。	日本は必ず再び世界一の経済大国になる。														
+CV1088					《「し得る」：可能性を表す「し得る」：「必ず」の追加》		unknown	"Compound verb, -siuru"			日々の点検を怠っていると事故が起こり得る。	日々の点検を怠っていると必ず事故が起こる。														
+CV1089					《「し得る」：可能性を表す「し得る」：「必ず」の追加》		unknown	"Compound verb, -siuru"			太郎が実力を出せばチャンピオンに勝利し得る。	太郎が実力を出せば必ずチャンピオンに勝利する。														
+CV1090					《「し得る」：可能性を表す「し得る」：「必ず」の追加》		unknown	"Compound verb, -siuru"			花子の発言は誤解され得る。	花子の発言は必ず誤解される。														
+CV1091					《「しつつある」：成就に近づいていることを表す「しつつある」：「しそうだ」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		新しい駅ビルが完成しつつある。	新しい駅ビルが完成しそうだ。														
+CV1092					《「しつつある」：成就に近づいていることを表す「しつつある」：「しそうだ」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		警察は犯人を追い詰めつつあった。	警察は犯人を追い詰めそうだった。														
+CV1093					《「しつつある」：成就に近づいていることを表す「しつつある」：「しそうだ」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		太郎は体調不良から回復しつつある。	太郎は体調不良から回復しそうだ。														
+CV1094					《「しつつある」：成就に近づいていることを表す「しつつある」：「しそうだ」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		テレビは人気がなくなりつつある。	テレビは人気がなくなりそうだ。														
+CV1095					《「しつつある」：成就に近づいていることを表す「しつつある」：「しそうだ」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		花子は失った信頼を取り戻しつつあった。	花子は失った信頼を取り戻しそうだった。														
+CV1096					《「しつつある」：成就に近づいていることを表す「しつつある」：「した」への言い換え》		unknown	"Compound verb, -situtuaru"			新しい駅ビルが完成しつつある。	新しい駅ビルが完成した。														
+CV1097					《「しつつある」：成就に近づいていることを表す「しつつある」：「した」への言い換え》		unknown	"Compound verb, -situtuaru"			警察は犯人を追い詰めつつあった。	警察は犯人を追い詰めた。														
+CV1098					《「しつつある」：成就に近づいていることを表す「しつつある」：「した」への言い換え》		unknown	"Compound verb, -situtuaru"			太郎は体調不良から回復しつつある。	太郎は体調不良から回復した。														
+CV1099					《「しつつある」：成就に近づいていることを表す「しつつある」：「した」への言い換え》		unknown	"Compound verb, -situtuaru"			テレビは人気がなくなりつつある。	テレビは人気がなくなった。														
+CV1100					《「しつつある」：成就に近づいていることを表す「しつつある」：「した」への言い換え》		unknown	"Compound verb, -situtuaru"			花子は失った信頼を取り戻しつつあった。	花子は失った信頼を取り戻した。														
+CV1101					《「しつつある」：傾向を表す「しつつある」：「しそうだ」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		日本の人口は減りつつある。	日本の人口は減りそうだ。														
+CV1102					《「しつつある」：傾向を表す「しつつある」：「しそうだ」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		台風が関東地方に近づきつつある。	台風が関東地方に近づきそうだ。														
+CV1103					《「しつつある」：傾向を表す「しつつある」：「しそうだ」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		太郎のピアノは上達しつつある。	太郎のピアノは上達しそうだ。														
+CV1104					《「しつつある」：傾向を表す「しつつある」：「しそうだ」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		部屋の温度が下がりつつある。	部屋の温度が下がりそうだ。														
+CV1105					《「しつつある」：傾向を表す「しつつある」：「しそうだ」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		業務の中で英語を使う場面が増えつつある。	業務の中で英語を使う場面が増えそうだ。														
+CV1106					《「しつつある」：傾向を表す「しつつある」：「した」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		日本の人口は減りつつある。	日本の人口は減った。														
+CV1107					《「しつつある」：傾向を表す「しつつある」：「した」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		台風が関東地方に近づきつつある。	台風が関東地方に近づいた。														
+CV1108					《「しつつある」：傾向を表す「しつつある」：「した」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		太郎のピアノは上達しつつある。	太郎のピアノは上達した。														
+CV1109					《「しつつある」：傾向を表す「しつつある」：「した」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		部屋の温度が下がりつつある。	部屋の温度が下がった。														
+CV1110					《「しつつある」：傾向を表す「しつつある」：「した」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		業務の中で英語を使う場面が増えつつある。	業務の中で英語を使う場面が増えた。														
+CV1111					《「しつつある」：傾向を表す「しつつある」：「～する傾向にある」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		日本の人口は減りつつある。	日本の人口は減る傾向にある。														
+CV1112					《「しつつある」：傾向を表す「しつつある」：「～する傾向にある」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		台風が関東地方に近づきつつある。	台風は関東地方に近づく傾向にある。														
+CV1113					《「しつつある」：傾向を表す「しつつある」：「～する傾向にある」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		太郎のピアノは上達しつつある。	太郎のピアノは上達する傾向にある。														
+CV1114					《「しつつある」：傾向を表す「しつつある」：「～する傾向にある」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		部屋の温度が下がりつつある。	部屋の温度は下がる傾向にある。														
+CV1115					《「しつつある」：傾向を表す「しつつある」：「～する傾向にある」への言い換え》		yes	"Compound verb, -situtuaru"	entailment		業務の中で英語を使う場面が増えつつある。	業務の中で英語を使う場面は増える傾向にある。				
+																										
