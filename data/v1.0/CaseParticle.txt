@@ -2122,7 +2122,7 @@ CP2121					s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ª`‚µ‚½“à—e‚Í`‚Æ‚¢‚¤‚±‚Æ‚¾v‚Ö‚
 CP2122					s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ªŒ¾‚Á‚½i/Žv‚Á‚½j“à—e‚Í`‚Æ‚¢‚¤‚±‚Æ‚¾v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -to"	entailment		ŽÐ’·‚ÍAæŒŽ‚©‚ç”„‚èã‚°‚ª‰º‚ª‚Á‚Ä‚¢‚é‚Æ˜b‚µ‚½B	ŽÐ’·‚ª˜b‚µ‚½‚±‚Æ‚ÍAæŒŽ‚©‚ç”„‚èã‚°‚ª‰º‚ª‚Á‚Ä‚¢‚é‚Æ‚¢‚¤‚±‚Æ‚¾B														
 CP2123					s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ªŒ¾‚Á‚½i/Žv‚Á‚½j“à—e‚Í`‚Æ‚¢‚¤‚±‚Æ‚¾v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -to"	entailment		‰ÔŽq‚Íe‚Éu¡“x‰ï‚Á‚Ä‚Ù‚µ‚¢l‚ª‚¢‚év‚ÆŒ¾‚Á‚½B	‰ÔŽq‚ªe‚ÉŒ¾‚Á‚½“à—e‚ÍAu¡“x‰ï‚Á‚Ä‚Ù‚µ‚¢l‚ª‚¢‚év‚Æ‚¢‚¤‚±‚Æ‚¾B														
 CP2124					s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ªŒ¾‚Á‚½i/Žv‚Á‚½j“à—e‚Í`‚Æ‚¢‚¤‚±‚Æ‚¾v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -to"	entailment		Ž„‚ÍŽ©•ª‚Ìl‚¦‚ª³‚µ‚¢‚ÆŽv‚¤B	Ž„‚ªŽv‚Á‚½“à—e‚ÍAŽ©•ª‚Ìl‚¦‚ª³‚µ‚¢‚Æ‚¢‚¤‚±‚Æ‚¾B														
-CP2125					s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ªŒ¾‚Á‚½i/Žv‚Á‚½j“à—e‚Í`‚Æ‚¢‚¤‚±‚Æ‚¾v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -to"	entailment		‚»‚ÌŒYŽ–‚ÍA”Æl‚Ì“®‹@‚ÍŽ„‰…‚É‚ ‚é‚Æl‚¦‚½B	‚»‚ÌŒYŽ–‚ªl‚¦‚½“à—e‚ÍA”Æl‚Ì“®‹@‚ÍŽ„‰…‚É‚È‚é‚Æ‚¢‚¤‚±‚Æ‚¾B														
+CP2125	CP2121	CP2122	CP2123	CP2124	s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ªŒ¾‚Á‚½i/Žv‚Á‚½j“à—e‚Í`‚Æ‚¢‚¤‚±‚Æ‚¾v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -to"	entailment		‚»‚ÌŒYŽ–‚ÍA”Æl‚Ì“®‹@‚ÍŽ„‰…‚É‚ ‚é‚Æl‚¦‚½B	‚»‚ÌŒYŽ–‚ªl‚¦‚½“à—e‚ÍA”Æl‚Ì“®‹@‚ÍŽ„‰…‚É‚È‚é‚Æ‚¢‚¤‚±‚Æ‚¾B														
 CP2126					s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ÆŒ¾‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -to"			‘¾˜Y‚Í‘²‹Æ•¶W‚ÉA«—ˆ‚ÍƒpƒCƒƒbƒg‚É‚È‚è‚½‚¢‚Æ‘‚¢‚½B	‘¾˜Y‚Í‘²‹Æ•¶W‚ÉA«—ˆ‚ÍƒpƒCƒƒbƒg‚É‚È‚è‚½‚¢‚ÆŒ¾‚Á‚Ä‘‚¢‚½B														
 CP2127					s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ÆŒ¾‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -to"			ŽÐ’·‚ÍAæŒŽ‚©‚ç”„‚èã‚°‚ª‰º‚ª‚Á‚Ä‚¢‚é‚Æ˜b‚µ‚½B	ŽÐ’·‚ÍAæŒŽ‚©‚ç”„‚èã‚°‚ª‰º‚ª‚Á‚Ä‚¢‚é‚ÆŒ¾‚Á‚Ä˜b‚µ‚½B														
 CP2128					s”­Œ¾‚âŽvl‚Ìˆø—p‚ð•\‚·u‚ÆvFu`‚ÆŒ¾‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -to"			‰ÔŽq‚Íe‚Éu¡“x‰ï‚Á‚Ä‚Ù‚µ‚¢l‚ª‚¢‚év‚ÆŒ¾‚Á‚½B	‰ÔŽq‚Íe‚Éu¡“x‰ï‚Á‚Ä‚Ù‚µ‚¢l‚ª‚¢‚év‚ÆŒ¾‚Á‚ÄŒ¾‚Á‚½B														
@@ -2862,4 +2862,1014 @@ CP2861					ssˆ×‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"
 CP2862					ssˆ×‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚±‚Ì‹@ŠÖ‚Íˆã—Ã]Ž–ŽÒ‚É‘Î‚µ‚ÄÅV‚Ìî•ñ‚ð“`‚¦‚Ä‚¢‚éB	‚±‚Ì‹@ŠÖ‚Íˆã—Ã]Ž–ŽÒ‚É‚¨‚¢‚ÄÅV‚Ìî•ñ‚ð“`‚¦‚Ä‚¢‚éB														
 CP2863					ssˆ×‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nitaisite"			‚»‚Ì‘‰ï‹cˆõ‚ÍV‚µ‚¢–@ˆÄ‚É‘Î‚µ‚Ä”½‘Î‚ð•\–¾‚µ‚½B	‚»‚Ì‘‰ï‹cˆõ‚ÍV‚µ‚¢–@ˆÄ‚É‚¨‚¢‚Ä”½‘Î‚ð•\–¾‚µ‚½B														
 CP2864					ssˆ×‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‘¾˜Y‚ÍŽ¿–â‚É‘Î‚µ‚ÄŽ¿–â‚Å“š‚¦‚½B	‘¾˜Y‚ÍŽ¿–â‚É‚¨‚¢‚ÄŽ¿–â‚Å“š‚¦‚½B														
-CP2865					ssˆ×‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nitaisite"			‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‘Î‚µ‚Ä‹êŒ¾‚ð’æ‚µ‚½B	‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‚¨‚¢‚Ä‹êŒ¾‚ð’æ‚µ‚½B		s˜b‘è‚ðŽæ‚èã‚°‚éu‚É‚Â‚¢‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦‚ª•sŽ©‘R‚É‚È‚é—át		weakacceptable	"Case Particle, -nituite"			‚»‚ÌˆãŽÒ‚ÍVŒ^ƒEƒCƒ‹ƒX‚Ì“Á’¥‚É‚Â‚¢‚Äà–¾‚µ‚½B	‚»‚ÌˆãŽÒ‚ÍVŒ^ƒEƒCƒ‹ƒX‚Ì“Á’¥‚ÉŠÖ‚µ‚Äà–¾‚µ‚½B													
+CP2865					ssˆ×‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nitaisite"			‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‘Î‚µ‚Ä‹êŒ¾‚ð’æ‚µ‚½B	‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‚¨‚¢‚Ä‹êŒ¾‚ð’æ‚µ‚½B														
+CP2866					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitaisite"	entailment	—p–@•ª—Þ‚ÌŽQlFƒOƒ‹[ƒv KANAMEi2007jw•¡‡•ŽŒ‚ª‚±‚ê‚Å‚í‚©‚éx‚Ð‚Â‚¶‘–[	‰ÔŽq‚ÍŽ©•ª‚Ì•êe‚É‘Î‚µ‚Ä•¡ŽG‚ÈŠ´î‚ð•ø‚¢‚Ä‚¢‚éB	‰ÔŽq‚ÍŽ©•ª‚Ì•êe‚É‚Â‚¢‚Ä•¡ŽG‚ÈŠ´î‚ð•ø‚¢‚Ä‚¢‚éB														
+CP2870					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitaisite"	entailment		¡‚ÌŽáŽÒ‚Ío¢‚É‘Î‚µ‚Ä‚ ‚Ü‚èŠÖS‚ª‚È‚¢B	¡‚ÌŽáŽÒ‚Ío¢‚É‚Â‚¢‚Ä‚ ‚Ü‚èŠÖS‚ª‚È‚¢B														
+CP2868					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitaisite"	entailment		‚»‚ÌŽÐˆõ‚Í‰ïŽÐ‚Ì•ûj‚É‘Î‚µ‚Ä‹^–â‚ðŽ‚Á‚Ä‚¢‚éB	‚»‚ÌŽÐˆõ‚Í‰ïŽÐ‚Ì•ûj‚É‚Â‚¢‚Ä‹^–â‚ðŽ‚Á‚Ä‚¢‚éB														
+CP2867					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚ÌãŽi‚ÍV“üŽÐˆõ‚É‘Î‚µ‚ÄŒµ‚µ‚¢B	‚»‚ÌãŽi‚ÍV“üŽÐˆõ‚É‚Â‚¢‚ÄŒµ‚µ‚¢B														
+CP2869					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‘¾˜Y‚Í‰‘Î–Ê‚Ìl‚É‘Î‚µ‚ÄŽ¸—ç‚È‘Ô“x‚ðŽæ‚Á‚½B	‘¾˜Y‚Í‰‘Î–Ê‚Ìl‚É‚Â‚¢‚ÄŽ¸—ç‚È‘Ô“x‚ðŽæ‚Á‚½B														
+CP2871					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitaisite"	entailment		‰ÔŽq‚ÍŽ©•ª‚Ì•êe‚É‘Î‚µ‚Ä•¡ŽG‚ÈŠ´î‚ð•ø‚¢‚Ä‚¢‚éB	‰ÔŽq‚ÍŽ©•ª‚Ì•êe‚ÉŠÖ‚µ‚Ä•¡ŽG‚ÈŠ´î‚ð•ø‚¢‚Ä‚¢‚éB														
+CP2872					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitaisite"	entailment		¡‚ÌŽáŽÒ‚Ío¢‚É‘Î‚µ‚Ä‚ ‚Ü‚èŠÖS‚ª‚È‚¢B	¡‚ÌŽáŽÒ‚Ío¢‚ÉŠÖ‚µ‚Ä‚ ‚Ü‚èŠÖS‚ª‚È‚¢B														
+CP2873					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitaisite"	entailment		‚»‚ÌŽÐˆõ‚Í‰ïŽÐ‚Ì•ûj‚É‘Î‚µ‚Ä‹^–â‚ðŽ‚Á‚Ä‚¢‚éB	‚»‚ÌŽÐˆõ‚Í‰ïŽÐ‚Ì•ûj‚ÉŠÖ‚µ‚Ä‹^–â‚ðŽ‚Á‚Ä‚¢‚éB														
+CP2874					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚ÌãŽi‚ÍV“üŽÐˆõ‚É‘Î‚µ‚ÄŒµ‚µ‚¢B	‚»‚ÌãŽi‚ÍV“üŽÐˆõ‚ÉŠÖ‚µ‚ÄŒµ‚µ‚¢B														
+CP2875					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‘¾˜Y‚Í‰‘Î–Ê‚Ìl‚É‘Î‚µ‚ÄŽ¸—ç‚È‘Ô“x‚ðŽæ‚Á‚½B	‘¾˜Y‚Í‰‘Î–Ê‚Ìl‚ÉŠÖ‚µ‚ÄŽ¸—ç‚È‘Ô“x‚ðŽæ‚Á‚½B														
+CP2876					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitaisite"	entailment		‰ÔŽq‚ÍŽ©•ª‚Ì•êe‚É‘Î‚µ‚Ä•¡ŽG‚ÈŠ´î‚ð•ø‚¢‚Ä‚¢‚éB	‰ÔŽq‚ÍŽ©•ª‚Ì•êe‚É•¡ŽG‚ÈŠ´î‚ð•ø‚¢‚Ä‚¢‚éB														
+CP2877					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitaisite"	entailment		¡‚ÌŽáŽÒ‚Ío¢‚É‘Î‚µ‚Ä‚ ‚Ü‚èŠÖS‚ª‚È‚¢B	¡‚ÌŽáŽÒ‚Ío¢‚É‚ ‚Ü‚èŠÖS‚ª‚È‚¢B														
+CP2878					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitaisite"	entailment		‚»‚ÌŽÐˆõ‚Í‰ïŽÐ‚Ì•ûj‚É‘Î‚µ‚Ä‹^–â‚ðŽ‚Á‚Ä‚¢‚éB	‚»‚ÌŽÐˆõ‚Í‰ïŽÐ‚Ì•ûj‚É‹^–â‚ðŽ‚Á‚Ä‚¢‚éB														
+CP2879					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitaisite"	entailment		‚»‚ÌãŽi‚ÍV“üŽÐˆõ‚É‘Î‚µ‚ÄŒµ‚µ‚¢B	‚»‚ÌãŽi‚ÍV“üŽÐˆõ‚ÉŒµ‚µ‚¢B														
+CP2880					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitaisite"	entailment		‘¾˜Y‚Í‰‘Î–Ê‚Ìl‚É‘Î‚µ‚ÄŽ¸—ç‚È‘Ô“x‚ðŽæ‚Á‚½B	‘¾˜Y‚Í‰‘Î–Ê‚Ìl‚ÉŽ¸—ç‚È‘Ô“x‚ðŽæ‚Á‚½B														
+CP2881					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‰ÔŽq‚ÍŽ©•ª‚Ì•êe‚É‘Î‚µ‚Ä•¡ŽG‚ÈŠ´î‚ð•ø‚¢‚Ä‚¢‚éB	‰ÔŽq‚ÍŽ©•ª‚Ì•êe‚É‚æ‚Á‚Ä•¡ŽG‚ÈŠ´î‚ð•ø‚¢‚Ä‚¢‚éB														
+CP2882					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			¡‚ÌŽáŽÒ‚Ío¢‚É‘Î‚µ‚Ä‚ ‚Ü‚èŠÖS‚ª‚È‚¢B	¡‚ÌŽáŽÒ‚Ío¢‚É‚æ‚Á‚Ä‚ ‚Ü‚èŠÖS‚ª‚È‚¢B														
+CP2883					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚ÌŽÐˆõ‚Í‰ïŽÐ‚Ì•ûj‚É‘Î‚µ‚Ä‹^–â‚ðŽ‚Á‚Ä‚¢‚éB	‚»‚ÌŽÐˆõ‚Í‰ïŽÐ‚Ì•ûj‚É‚æ‚Á‚Ä‹^–â‚ðŽ‚Á‚Ä‚¢‚éB														
+CP2884					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚ÌãŽi‚ÍV“üŽÐˆõ‚É‘Î‚µ‚ÄŒµ‚µ‚¢B	‚»‚ÌãŽi‚ÍV“üŽÐˆõ‚É‚æ‚Á‚ÄŒµ‚µ‚¢B														
+CP2885					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‘¾˜Y‚Í‰‘Î–Ê‚Ìl‚É‘Î‚µ‚ÄŽ¸—ç‚È‘Ô“x‚ðŽæ‚Á‚½B	‘¾˜Y‚Í‰‘Î–Ê‚Ìl‚É‚æ‚Á‚ÄŽ¸—ç‚È‘Ô“x‚ðŽæ‚Á‚½B														
+CP2886					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‰ÔŽq‚ÍŽ©•ª‚Ì•êe‚É‘Î‚µ‚Ä•¡ŽG‚ÈŠ´î‚ð•ø‚¢‚Ä‚¢‚éB	‰ÔŽq‚ÍŽ©•ª‚Ì•êe‚ð•¡ŽG‚ÈŠ´î‚ð•ø‚¢‚Ä‚¢‚éB														
+CP2887					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			¡‚ÌŽáŽÒ‚Ío¢‚É‘Î‚µ‚Ä‚ ‚Ü‚èŠÖS‚ª‚È‚¢B	¡‚ÌŽáŽÒ‚Ío¢‚ð‚ ‚Ü‚èŠÖS‚ª‚È‚¢B														
+CP2888					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚ÌŽÐˆõ‚Í‰ïŽÐ‚Ì•ûj‚É‘Î‚µ‚Ä‹^–â‚ðŽ‚Á‚Ä‚¢‚éB	‚»‚ÌŽÐˆõ‚Í‰ïŽÐ‚Ì•ûj‚ð‹^–â‚ðŽ‚Á‚Ä‚¢‚éB														
+CP2889					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚ÌãŽi‚ÍV“üŽÐˆõ‚É‘Î‚µ‚ÄŒµ‚µ‚¢B	‚»‚ÌãŽi‚ÍV“üŽÐˆõ‚ðŒµ‚µ‚¢B														
+CP2890					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‘¾˜Y‚Í‰‘Î–Ê‚Ìl‚É‘Î‚µ‚ÄŽ¸—ç‚È‘Ô“x‚ðŽæ‚Á‚½B	‘¾˜Y‚Í‰‘Î–Ê‚Ìl‚ðŽ¸—ç‚È‘Ô“x‚ðŽæ‚Á‚½B														
+CP2891					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‰ÔŽq‚ÍŽ©•ª‚Ì•êe‚É‘Î‚µ‚Ä•¡ŽG‚ÈŠ´î‚ð•ø‚¢‚Ä‚¢‚éB	‰ÔŽq‚ÍŽ©•ª‚Ì•êe‚Å•¡ŽG‚ÈŠ´î‚ð•ø‚¢‚Ä‚¢‚éB														
+CP2892					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			¡‚ÌŽáŽÒ‚Ío¢‚É‘Î‚µ‚Ä‚ ‚Ü‚èŠÖS‚ª‚È‚¢B	¡‚ÌŽáŽÒ‚Ío¢‚Å‚ ‚Ü‚èŠÖS‚ª‚È‚¢B														
+CP2893					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚ÌŽÐˆõ‚Í‰ïŽÐ‚Ì•ûj‚É‘Î‚µ‚Ä‹^–â‚ðŽ‚Á‚Ä‚¢‚éB	‚»‚ÌŽÐˆõ‚Í‰ïŽÐ‚Ì•ûj‚Å‹^–â‚ðŽ‚Á‚Ä‚¢‚éB														
+CP2894					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚ÌãŽi‚ÍV“üŽÐˆõ‚É‘Î‚µ‚ÄŒµ‚µ‚¢B	‚»‚ÌãŽi‚ÍV“üŽÐˆõ‚ÅŒµ‚µ‚¢B														
+CP2895					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‘¾˜Y‚Í‰‘Î–Ê‚Ìl‚É‘Î‚µ‚ÄŽ¸—ç‚È‘Ô“x‚ðŽæ‚Á‚½B	‘¾˜Y‚Í‰‘Î–Ê‚Ìl‚ÅŽ¸—ç‚È‘Ô“x‚ðŽæ‚Á‚½B														
+CP2896					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‰ÔŽq‚ÍŽ©•ª‚Ì•êe‚É‘Î‚µ‚Ä•¡ŽG‚ÈŠ´î‚ð•ø‚¢‚Ä‚¢‚éB	‰ÔŽq‚ÍŽ©•ª‚Ì•êe‚É‚¨‚¢‚Ä•¡ŽG‚ÈŠ´î‚ð•ø‚¢‚Ä‚¢‚éB														
+CP2897					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			¡‚ÌŽáŽÒ‚Ío¢‚É‘Î‚µ‚Ä‚ ‚Ü‚èŠÖS‚ª‚È‚¢B	¡‚ÌŽáŽÒ‚Ío¢‚É‚¨‚¢‚Ä‚ ‚Ü‚èŠÖS‚ª‚È‚¢B														
+CP2898					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚ÌŽÐˆõ‚Í‰ïŽÐ‚Ì•ûj‚É‘Î‚µ‚Ä‹^–â‚ðŽ‚Á‚Ä‚¢‚éB	‚»‚ÌŽÐˆõ‚Í‰ïŽÐ‚Ì•ûj‚É‚¨‚¢‚Ä‹^–â‚ðŽ‚Á‚Ä‚¢‚éB														
+CP2899					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚ÌãŽi‚ÍV“üŽÐˆõ‚É‘Î‚µ‚ÄŒµ‚µ‚¢B	‚»‚ÌãŽi‚ÍV“üŽÐˆõ‚É‚¨‚¢‚ÄŒµ‚µ‚¢B														
+CP2900					s‘Ô“x‚âŠ´î‚Ì‘ÎÛ‚ð•\‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‘¾˜Y‚Í‰‘Î–Ê‚Ìl‚É‘Î‚µ‚ÄŽ¸—ç‚È‘Ô“x‚ðŽæ‚Á‚½B	‘¾˜Y‚Í‰‘Î–Ê‚Ìl‚É‚¨‚¢‚ÄŽ¸—ç‚È‘Ô“x‚ðŽæ‚Á‚½B														
+CP2901					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"		—p–@•ª—Þ‚ÌŽQlFƒOƒ‹[ƒv KANAMEi2007jw•¡‡•ŽŒ‚ª‚±‚ê‚Å‚í‚©‚éx‚Ð‚Â‚¶‘–[	‰ä‚ªŽÐ‚Å‚ÍAŽÐ’·‚ªV¤•i‚ÌŠJ”­‚ÉÏ‹É“I‚È‚Ì‚É‘Î‚µ‚ÄA‘¼‚ÌŽÐˆõ‚ÍÁ‹É“I‚¾B	‰ä‚ªŽÐ‚Å‚ÍAŽÐ’·‚ªV¤•i‚ÌŠJ”­‚ÉÏ‹É“I‚È‚Ì‚É‚Â‚¢‚ÄA‘¼‚ÌŽÐˆõ‚ÍÁ‹É“I‚¾B														
+CP2902					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‰ÔŽq‚ÌŽo‚ªŠˆ”­‚È«Ši‚È‚Ì‚É‘Î‚µ‚ÄA‰ÔŽq‚Í‘ål‚µ‚¢«Ši‚¾B	‰ÔŽq‚ÌŽo‚ªŠˆ”­‚È«Ši‚È‚Ì‚É‚Â‚¢‚ÄA‰ÔŽq‚Í‘ål‚µ‚¢«Ši‚¾B														
+CP2903					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚Ì‹óŽè‰Æ‚Íu‚­ŠÔ‚É‘Îí‘ŠŽè‚É‘Î‚µ‚Ä‹——£‚ð‹l‚ß‚½B	‚»‚Ì‹óŽè‰Æ‚Íu‚­ŠÔ‚É‘Îí‘ŠŽè‚É‚Â‚¢‚Ä‹——£‚ð‹l‚ß‚½B														
+CP2904					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‘¾˜Y‚ÍƒAƒ“ƒeƒi‚ð’n–Ê‚É‘Î‚µ‚Ä…•½‚ÉÝ’u‚µ‚½B	‘¾˜Y‚ÍƒAƒ“ƒeƒi‚ð’n–Ê‚É‚Â‚¢‚Ä…•½‚ÉÝ’u‚µ‚½B														
+CP2905					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚ÌŽÏ•¨‚ÍAŽð1A»“œ1A‚Ý‚è‚ñ1‚É‘Î‚µ‚ÄÝ–û2‚®‚ç‚¢‚ÌŠ„‡‚Å–¡•t‚¯‚ð‚·‚é‚Æ—Ç‚¢B	‚»‚ÌŽÏ•¨‚ÍAŽð1A»“œ1A‚Ý‚è‚ñ1‚É‚Â‚¢‚ÄÝ–û2‚®‚ç‚¢‚ÌŠ„‡‚Å–¡•t‚¯‚ð‚·‚é‚Æ—Ç‚¢B														
+CP2906					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‰ä‚ªŽÐ‚Å‚ÍAŽÐ’·‚ªV¤•i‚ÌŠJ”­‚ÉÏ‹É“I‚È‚Ì‚É‘Î‚µ‚ÄA‘¼‚ÌŽÐˆõ‚ÍÁ‹É“I‚¾B	‰ä‚ªŽÐ‚Å‚ÍAŽÐ’·‚ªV¤•i‚ÌŠJ”­‚ÉÏ‹É“I‚È‚Ì‚ÉŠÖ‚µ‚ÄA‘¼‚ÌŽÐˆõ‚ÍÁ‹É“I‚¾B														
+CP2907					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‰ÔŽq‚ÌŽo‚ªŠˆ”­‚È«Ši‚È‚Ì‚É‘Î‚µ‚ÄA‰ÔŽq‚Í‘ål‚µ‚¢«Ši‚¾B	‰ÔŽq‚ÌŽo‚ªŠˆ”­‚È«Ši‚È‚Ì‚ÉŠÖ‚µ‚ÄA‰ÔŽq‚Í‘ål‚µ‚¢«Ši‚¾B														
+CP2908					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚Ì‹óŽè‰Æ‚Íu‚­ŠÔ‚É‘Îí‘ŠŽè‚É‘Î‚µ‚Ä‹——£‚ð‹l‚ß‚½B	‚»‚Ì‹óŽè‰Æ‚Íu‚­ŠÔ‚É‘Îí‘ŠŽè‚ÉŠÖ‚µ‚Ä‹——£‚ð‹l‚ß‚½B														
+CP2909					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‘¾˜Y‚ÍƒAƒ“ƒeƒi‚ð’n–Ê‚É‘Î‚µ‚Ä…•½‚ÉÝ’u‚µ‚½B	‘¾˜Y‚ÍƒAƒ“ƒeƒi‚ð’n–Ê‚ÉŠÖ‚µ‚Ä…•½‚ÉÝ’u‚µ‚½B														
+CP2910					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚ÌŽÏ•¨‚ÍAŽð1A»“œ1A‚Ý‚è‚ñ1‚É‘Î‚µ‚ÄÝ–û2‚®‚ç‚¢‚ÌŠ„‡‚Å–¡•t‚¯‚ð‚·‚é‚Æ—Ç‚¢B	‚»‚ÌŽÏ•¨‚ÍAŽð1A»“œ1A‚Ý‚è‚ñ1‚ÉŠÖ‚µ‚ÄÝ–û2‚®‚ç‚¢‚ÌŠ„‡‚Å–¡•t‚¯‚ð‚·‚é‚Æ—Ç‚¢B														
+CP2911					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitaisite"	entailment		‰ä‚ªŽÐ‚Å‚ÍAŽÐ’·‚ªV¤•i‚ÌŠJ”­‚ÉÏ‹É“I‚È‚Ì‚É‘Î‚µ‚ÄA‘¼‚ÌŽÐˆõ‚ÍÁ‹É“I‚¾B	‰ä‚ªŽÐ‚Å‚ÍAŽÐ’·‚ªV¤•i‚ÌŠJ”­‚ÉÏ‹É“I‚È‚Ì‚ÉA‘¼‚ÌŽÐˆõ‚ÍÁ‹É“I‚¾B														
+CP2912					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitaisite"	entailment		‰ÔŽq‚ÌŽo‚ªŠˆ”­‚È«Ši‚È‚Ì‚É‘Î‚µ‚ÄA‰ÔŽq‚Í‘ål‚µ‚¢«Ši‚¾B	‰ÔŽq‚ÌŽo‚ªŠˆ”­‚È«Ši‚È‚Ì‚ÉA‰ÔŽq‚Í‘ål‚µ‚¢«Ši‚¾B														
+CP2913					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚Ì‹óŽè‰Æ‚Íu‚­ŠÔ‚É‘Îí‘ŠŽè‚É‘Î‚µ‚Ä‹——£‚ð‹l‚ß‚½B	‚»‚Ì‹óŽè‰Æ‚Íu‚­ŠÔ‚É‘Îí‘ŠŽè‚É‹——£‚ð‹l‚ß‚½B														
+CP2914					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitaisite"	entailment		‘¾˜Y‚ÍƒAƒ“ƒeƒi‚ð’n–Ê‚É‘Î‚µ‚Ä…•½‚ÉÝ’u‚µ‚½B	‘¾˜Y‚ÍƒAƒ“ƒeƒi‚ð’n–Ê‚É…•½‚ÉÝ’u‚µ‚½B														
+CP2915					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitaisite"	entailment		‚»‚ÌŽÏ•¨‚ÍAŽð1A»“œ1A‚Ý‚è‚ñ1‚É‘Î‚µ‚ÄÝ–û2‚®‚ç‚¢‚ÌŠ„‡‚Å–¡•t‚¯‚ð‚·‚é‚Æ—Ç‚¢B	‚»‚ÌŽÏ•¨‚ÍAŽð1A»“œ1A‚Ý‚è‚ñ1‚ÉÝ–û2‚®‚ç‚¢‚ÌŠ„‡‚Å–¡•t‚¯‚ð‚·‚é‚Æ—Ç‚¢B														
+CP2916					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‰ä‚ªŽÐ‚Å‚ÍAŽÐ’·‚ªV¤•i‚ÌŠJ”­‚ÉÏ‹É“I‚È‚Ì‚É‘Î‚µ‚ÄA‘¼‚ÌŽÐˆõ‚ÍÁ‹É“I‚¾B	‰ä‚ªŽÐ‚Å‚ÍAŽÐ’·‚ªV¤•i‚ÌŠJ”­‚ÉÏ‹É“I‚È‚Ì‚É‚æ‚Á‚ÄA‘¼‚ÌŽÐˆõ‚ÍÁ‹É“I‚¾B														
+CP2917					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‰ÔŽq‚ÌŽo‚ªŠˆ”­‚È«Ši‚È‚Ì‚É‘Î‚µ‚ÄA‰ÔŽq‚Í‘ål‚µ‚¢«Ši‚¾B	‰ÔŽq‚ÌŽo‚ªŠˆ”­‚È«Ši‚È‚Ì‚É‚æ‚Á‚ÄA‰ÔŽq‚Í‘ål‚µ‚¢«Ši‚¾B														
+CP2918					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚Ì‹óŽè‰Æ‚Íu‚­ŠÔ‚É‘Îí‘ŠŽè‚É‘Î‚µ‚Ä‹——£‚ð‹l‚ß‚½B	‚»‚Ì‹óŽè‰Æ‚Íu‚­ŠÔ‚É‘Îí‘ŠŽè‚É‚æ‚Á‚Ä‹——£‚ð‹l‚ß‚½B														
+CP2919					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‘¾˜Y‚ÍƒAƒ“ƒeƒi‚ð’n–Ê‚É‘Î‚µ‚Ä…•½‚ÉÝ’u‚µ‚½B	‘¾˜Y‚ÍƒAƒ“ƒeƒi‚ð’n–Ê‚É‚æ‚Á‚Ä…•½‚ÉÝ’u‚µ‚½B														
+CP2920					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚ÌŽÏ•¨‚ÍAŽð1A»“œ1A‚Ý‚è‚ñ1‚É‘Î‚µ‚ÄÝ–û2‚®‚ç‚¢‚ÌŠ„‡‚Å–¡•t‚¯‚ð‚·‚é‚Æ—Ç‚¢B	‚»‚ÌŽÏ•¨‚ÍAŽð1A»“œ1A‚Ý‚è‚ñ1‚É‚æ‚Á‚ÄÝ–û2‚®‚ç‚¢‚ÌŠ„‡‚Å–¡•t‚¯‚ð‚·‚é‚Æ—Ç‚¢B														
+CP2921					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‰ä‚ªŽÐ‚Å‚ÍAŽÐ’·‚ªV¤•i‚ÌŠJ”­‚ÉÏ‹É“I‚È‚Ì‚É‘Î‚µ‚ÄA‘¼‚ÌŽÐˆõ‚ÍÁ‹É“I‚¾B	‰ä‚ªŽÐ‚Å‚ÍAŽÐ’·‚ªV¤•i‚ÌŠJ”­‚ÉÏ‹É“I‚È‚Ì‚ðA‘¼‚ÌŽÐˆõ‚ÍÁ‹É“I‚¾B														
+CP2922					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‰ÔŽq‚ÌŽo‚ªŠˆ”­‚È«Ši‚È‚Ì‚É‘Î‚µ‚ÄA‰ÔŽq‚Í‘ål‚µ‚¢«Ši‚¾B	‰ÔŽq‚ÌŽo‚ªŠˆ”­‚È«Ši‚È‚Ì‚ðA‰ÔŽq‚Í‘ål‚µ‚¢«Ši‚¾B														
+CP2923					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚Ì‹óŽè‰Æ‚Íu‚­ŠÔ‚É‘Îí‘ŠŽè‚É‘Î‚µ‚Ä‹——£‚ð‹l‚ß‚½B	‚»‚Ì‹óŽè‰Æ‚Íu‚­ŠÔ‚É‘Îí‘ŠŽè‚ð‹——£‚ð‹l‚ß‚½B														
+CP2924					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‘¾˜Y‚ÍƒAƒ“ƒeƒi‚ð’n–Ê‚É‘Î‚µ‚Ä…•½‚ÉÝ’u‚µ‚½B	‘¾˜Y‚ÍƒAƒ“ƒeƒi‚ð’n–Ê‚ð…•½‚ÉÝ’u‚µ‚½B														
+CP2925					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚ÌŽÏ•¨‚ÍAŽð1A»“œ1A‚Ý‚è‚ñ1‚É‘Î‚µ‚ÄÝ–û2‚®‚ç‚¢‚ÌŠ„‡‚Å–¡•t‚¯‚ð‚·‚é‚Æ—Ç‚¢B	‚»‚ÌŽÏ•¨‚ÍAŽð1A»“œ1A‚Ý‚è‚ñ1‚ðÝ–û2‚®‚ç‚¢‚ÌŠ„‡‚Å–¡•t‚¯‚ð‚·‚é‚Æ—Ç‚¢B														
+CP2926					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"Case Particle, -nitaisite"			‰ä‚ªŽÐ‚Å‚ÍAŽÐ’·‚ªV¤•i‚ÌŠJ”­‚ÉÏ‹É“I‚È‚Ì‚É‘Î‚µ‚ÄA‘¼‚ÌŽÐˆõ‚ÍÁ‹É“I‚¾B	‰ä‚ªŽÐ‚Å‚ÍAŽÐ’·‚ªV¤•i‚ÌŠJ”­‚ÉÏ‹É“I‚È‚Ì‚ÅA‘¼‚ÌŽÐˆõ‚ÍÁ‹É“I‚¾B														
+CP2927					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"Case Particle, -nitaisite"			‰ÔŽq‚ÌŽo‚ªŠˆ”­‚È«Ši‚È‚Ì‚É‘Î‚µ‚ÄA‰ÔŽq‚Í‘ål‚µ‚¢«Ši‚¾B	‰ÔŽq‚ÌŽo‚ªŠˆ”­‚È«Ši‚È‚Ì‚ÅA‰ÔŽq‚Í‘ål‚µ‚¢«Ši‚¾B														
+CP2928					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚Ì‹óŽè‰Æ‚Íu‚­ŠÔ‚É‘Îí‘ŠŽè‚É‘Î‚µ‚Ä‹——£‚ð‹l‚ß‚½B	‚»‚Ì‹óŽè‰Æ‚Íu‚­ŠÔ‚É‘Îí‘ŠŽè‚Å‹——£‚ð‹l‚ß‚½B														
+CP2929					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‘¾˜Y‚ÍƒAƒ“ƒeƒi‚ð’n–Ê‚É‘Î‚µ‚Ä…•½‚ÉÝ’u‚µ‚½B	‘¾˜Y‚ÍƒAƒ“ƒeƒi‚ð’n–Ê‚Å…•½‚ÉÝ’u‚µ‚½B														
+CP2930					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚ÌŽÏ•¨‚ÍAŽð1A»“œ1A‚Ý‚è‚ñ1‚É‘Î‚µ‚ÄÝ–û2‚®‚ç‚¢‚ÌŠ„‡‚Å–¡•t‚¯‚ð‚·‚é‚Æ—Ç‚¢B	‚»‚ÌŽÏ•¨‚ÍAŽð1A»“œ1A‚Ý‚è‚ñ1‚ÅÝ–û2‚®‚ç‚¢‚ÌŠ„‡‚Å–¡•t‚¯‚ð‚·‚é‚Æ—Ç‚¢B														
+CP2931					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‰ä‚ªŽÐ‚Å‚ÍAŽÐ’·‚ªV¤•i‚ÌŠJ”­‚ÉÏ‹É“I‚È‚Ì‚É‘Î‚µ‚ÄA‘¼‚ÌŽÐˆõ‚ÍÁ‹É“I‚¾B	‰ä‚ªŽÐ‚Å‚ÍAŽÐ’·‚ªV¤•i‚ÌŠJ”­‚ÉÏ‹É“I‚È‚Ì‚É‚¨‚¢‚ÄA‘¼‚ÌŽÐˆõ‚ÍÁ‹É“I‚¾B														
+CP2932					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‰ÔŽq‚ÌŽo‚ªŠˆ”­‚È«Ši‚È‚Ì‚É‘Î‚µ‚ÄA‰ÔŽq‚Í‘ål‚µ‚¢«Ši‚¾B	‰ÔŽq‚ÌŽo‚ªŠˆ”­‚È«Ši‚È‚Ì‚É‚¨‚¢‚ÄA‰ÔŽq‚Í‘ål‚µ‚¢«Ši‚¾B														
+CP2933					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚Ì‹óŽè‰Æ‚Íu‚­ŠÔ‚É‘Îí‘ŠŽè‚É‘Î‚µ‚Ä‹——£‚ð‹l‚ß‚½B	‚»‚Ì‹óŽè‰Æ‚Íu‚­ŠÔ‚É‘Îí‘ŠŽè‚É‚¨‚¢‚Ä‹——£‚ð‹l‚ß‚½B														
+CP2934					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‘¾˜Y‚ÍƒAƒ“ƒeƒi‚ð’n–Ê‚É‘Î‚µ‚Ä…•½‚ÉÝ’u‚µ‚½B	‘¾˜Y‚ÍƒAƒ“ƒeƒi‚ð’n–Ê‚É‚¨‚¢‚Ä…•½‚ÉÝ’u‚µ‚½B														
+CP2935					s“ñ‚Â‚ÌŽ–•¿‚ð”ä‚×‚Ä‚»‚ÌŠÖŒW‚ðŽ¦‚·u‚É‘Î‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitaisite"			‚»‚ÌŽÏ•¨‚ÍAŽð1A»“œ1A‚Ý‚è‚ñ1‚É‘Î‚µ‚ÄÝ–û2‚®‚ç‚¢‚ÌŠ„‡‚Å–¡•t‚¯‚ð‚·‚é‚Æ—Ç‚¢B	‚»‚ÌŽÏ•¨‚ÍAŽð1A»“œ1A‚Ý‚è‚ñ1‚É‚¨‚¢‚ÄÝ–û2‚®‚ç‚¢‚ÌŠ„‡‚Å–¡•t‚¯‚ð‚·‚é‚Æ—Ç‚¢B														
+CP2936					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		ŽŽŒ±‚ÌŒ‹‰Ê‚Í‘–Ê‚ð‚à‚Á‚Ä’Ê’m‚¢‚½‚µ‚Ü‚·B	ŽŽŒ±‚ÌŒ‹‰Ê‚Í‘–Ê‚Å’Ê’m‚¢‚½‚µ‚Ü‚·B														
+CP2937					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			“–‘IŽÒ‚Ì”­•\‚ÍÜ•i‚Ì”­‘—‚ð‚à‚Á‚Ä‘ã‚¦‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B	“–‘IŽÒ‚Ì”­•\‚ÍÜ•i‚Ì”­‘—‚Å‘ã‚¦‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B														
+CP2938					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‰ÔŽq‚Ìà“¾‚ð‚à‚Á‚Ä‚µ‚Ä‚àA‘¾˜Y‚Ìl‚¦‚ð•Ï‚¦‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B	‰ÔŽq‚Ìà“¾‚Å‚àA‘¾˜Y‚Ìl‚¦‚ð•Ï‚¦‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B														
+CP2939					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		µ‘Ò‹q‚Í”Žè‚ð‚à‚Á‚ÄV˜YV•w‚ðŒ}‚¦‚½B	µ‘Ò‹q‚Í”Žè‚ÅV˜YV•w‚ðŒ}‚¦‚½B														
+CP2940					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		–\—Í‚É‘Î‚µ‚Ä–\—Í‚ð‚à‚Á‚Ä•ñ‚¢‚Ä‚Í‚È‚ç‚È‚¢B	–\—Í‚É‘Î‚µ‚Ä–\—Í‚Å•ñ‚¢‚Ä‚Í‚È‚ç‚È‚¢B														
+CP2941					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"	entailment		ŽŽŒ±‚ÌŒ‹‰Ê‚Í‘–Ê‚ð‚à‚Á‚Ä’Ê’m‚¢‚½‚µ‚Ü‚·B	ŽŽŒ±‚ÌŒ‹‰Ê‚Í‘–Ê‚É’Ê’m‚¢‚½‚µ‚Ü‚·B														
+CP2942					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			“–‘IŽÒ‚Ì”­•\‚ÍÜ•i‚Ì”­‘—‚ð‚à‚Á‚Ä‘ã‚¦‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B	“–‘IŽÒ‚Ì”­•\‚ÍÜ•i‚Ì”­‘—‚É‘ã‚¦‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B														
+CP2943					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"	entailment		‰ÔŽq‚Ìà“¾‚ð‚à‚Á‚Ä‚µ‚Ä‚àA‘¾˜Y‚Ìl‚¦‚ð•Ï‚¦‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B	‰ÔŽq‚Ìà“¾‚É‚µ‚Ä‚àA‘¾˜Y‚Ìl‚¦‚ð•Ï‚¦‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B														
+CP2944					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"	entailment		µ‘Ò‹q‚Í”Žè‚ð‚à‚Á‚ÄV˜YV•w‚ðŒ}‚¦‚½B	µ‘Ò‹q‚Í”Žè‚ÉV˜YV•w‚ðŒ}‚¦‚½B														
+CP2945					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"	entailment		–\—Í‚É‘Î‚µ‚Ä–\—Í‚ð‚à‚Á‚Ä•ñ‚¢‚Ä‚Í‚È‚ç‚È‚¢B	–\—Í‚É‘Î‚µ‚Ä–\—Í‚É•ñ‚¢‚Ä‚Í‚È‚ç‚È‚¢B														
+CP2946					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðŽg‚Á‚Ä/`‚ð—p‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		ŽŽŒ±‚ÌŒ‹‰Ê‚Í‘–Ê‚ð‚à‚Á‚Ä’Ê’m‚¢‚½‚µ‚Ü‚·B	ŽŽŒ±‚ÌŒ‹‰Ê‚Í‘–Ê‚ð—p‚¢‚Ä’Ê’m‚¢‚½‚µ‚Ü‚·B														
+CP2947					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðŽg‚Á‚Ä/`‚ð—p‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			“–‘IŽÒ‚Ì”­•\‚ÍÜ•i‚Ì”­‘—‚ð‚à‚Á‚Ä‘ã‚¦‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B	“–‘IŽÒ‚Ì”­•\‚ÍÜ•i‚Ì”­‘—‚ð—p‚¢‚Ä‘ã‚¦‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B														
+CP2948					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðŽg‚Á‚Ä/`‚ð—p‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			‰ÔŽq‚Ìà“¾‚ð‚à‚Á‚Ä‚µ‚Ä‚àA‘¾˜Y‚Ìl‚¦‚ð•Ï‚¦‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B	‰ÔŽq‚Ìà“¾‚ð—p‚¢‚Ä‚àA‘¾˜Y‚Ìl‚¦‚ð•Ï‚¦‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B														
+CP2949					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðŽg‚Á‚Ä/`‚ð—p‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			µ‘Ò‹q‚Í”Žè‚ð‚à‚Á‚ÄV˜YV•w‚ðŒ}‚¦‚½B	µ‘Ò‹q‚Í”Žè‚ð—p‚¢‚ÄV˜YV•w‚ðŒ}‚¦‚½B														
+CP2950					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðŽg‚Á‚Ä/`‚ð—p‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		–\—Í‚É‘Î‚µ‚Ä–\—Í‚ð‚à‚Á‚Ä•ñ‚¢‚Ä‚Í‚È‚ç‚È‚¢B	–\—Í‚É‘Î‚µ‚Ä–\—Í‚ð—p‚¢‚Ä•ñ‚¢‚Ä‚Í‚È‚ç‚È‚¢B														
+CP2951					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðª‹’‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			ŽŽŒ±‚ÌŒ‹‰Ê‚Í‘–Ê‚ð‚à‚Á‚Ä’Ê’m‚¢‚½‚µ‚Ü‚·B	ŽŽŒ±‚ÌŒ‹‰Ê‚Í‘–Ê‚ðª‹’‚É’Ê’m‚¢‚½‚µ‚Ü‚·B														
+CP2952					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðª‹’‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			“–‘IŽÒ‚Ì”­•\‚ÍÜ•i‚Ì”­‘—‚ð‚à‚Á‚Ä‘ã‚¦‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B	“–‘IŽÒ‚Ì”­•\‚ÍÜ•i‚Ì”­‘—‚ðª‹’‚É‘ã‚¦‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B														
+CP2953					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðª‹’‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			‰ÔŽq‚Ìà“¾‚ð‚à‚Á‚Ä‚µ‚Ä‚àA‘¾˜Y‚Ìl‚¦‚ð•Ï‚¦‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B	‰ÔŽq‚Ìà“¾‚ðª‹’‚É‚µ‚Ä‚àA‘¾˜Y‚Ìl‚¦‚ð•Ï‚¦‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B														
+CP2954					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðª‹’‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			µ‘Ò‹q‚Í”Žè‚ð‚à‚Á‚ÄV˜YV•w‚ðŒ}‚¦‚½B	µ‘Ò‹q‚Í”Žè‚ðª‹’‚ÉV˜YV•w‚ðŒ}‚¦‚½B														
+CP2955					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðª‹’‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			–\—Í‚É‘Î‚µ‚Ä–\—Í‚ð‚à‚Á‚Ä•ñ‚¢‚Ä‚Í‚È‚ç‚È‚¢B	–\—Í‚É‘Î‚µ‚Ä–\—Í‚ðª‹’‚É•ñ‚¢‚Ä‚Í‚È‚ç‚È‚¢B														
+CP2956					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ð‚à‚Æ‚É‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			ŽŽŒ±‚ÌŒ‹‰Ê‚Í‘–Ê‚ð‚à‚Á‚Ä’Ê’m‚¢‚½‚µ‚Ü‚·B	ŽŽŒ±‚ÌŒ‹‰Ê‚Í‘–Ê‚ð‚à‚Æ‚É‚µ‚Ä’Ê’m‚¢‚½‚µ‚Ü‚·B														
+CP2957					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ð‚à‚Æ‚É‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			“–‘IŽÒ‚Ì”­•\‚ÍÜ•i‚Ì”­‘—‚ð‚à‚Á‚Ä‘ã‚¦‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B	“–‘IŽÒ‚Ì”­•\‚ÍÜ•i‚Ì”­‘—‚ð‚à‚Æ‚É‚µ‚Ä‘ã‚¦‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B														
+CP2958					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ð‚à‚Æ‚É‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			‰ÔŽq‚Ìà“¾‚ð‚à‚Á‚Ä‚µ‚Ä‚àA‘¾˜Y‚Ìl‚¦‚ð•Ï‚¦‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B	‰ÔŽq‚Ìà“¾‚ð‚à‚Æ‚É‚µ‚Ä‚µ‚Ä‚àA‘¾˜Y‚Ìl‚¦‚ð•Ï‚¦‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B														
+CP2959					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ð‚à‚Æ‚É‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			µ‘Ò‹q‚Í”Žè‚ð‚à‚Á‚ÄV˜YV•w‚ðŒ}‚¦‚½B	µ‘Ò‹q‚Í”Žè‚ð‚à‚Æ‚É‚µ‚ÄV˜YV•w‚ðŒ}‚¦‚½B														
+CP2960					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ð‚à‚Æ‚É‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			–\—Í‚É‘Î‚µ‚Ä–\—Í‚ð‚à‚Á‚Ä•ñ‚¢‚Ä‚Í‚È‚ç‚È‚¢B	–\—Í‚É‘Î‚µ‚Ä–\—Í‚ð‚à‚Æ‚É‚µ‚Ä•ñ‚¢‚Ä‚Í‚È‚ç‚È‚¢B														
+CP2961					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		ŽŽŒ±‚ÌŒ‹‰Ê‚Í‘–Ê‚ð‚à‚Á‚Ä’Ê’m‚¢‚½‚µ‚Ü‚·B	ŽŽŒ±‚ÌŒ‹‰Ê‚Í‘–Ê‚É‚Ä’Ê’m‚¢‚½‚µ‚Ü‚·B														
+CP2962					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		“–‘IŽÒ‚Ì”­•\‚ÍÜ•i‚Ì”­‘—‚ð‚à‚Á‚Ä‘ã‚¦‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B	“–‘IŽÒ‚Ì”­•\‚ÍÜ•i‚Ì”­‘—‚É‚Ä‘ã‚¦‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B														
+CP2963					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			‰ÔŽq‚Ìà“¾‚ð‚à‚Á‚Ä‚µ‚Ä‚àA‘¾˜Y‚Ìl‚¦‚ð•Ï‚¦‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B	‰ÔŽq‚Ìà“¾‚É‚Ä‚àA‘¾˜Y‚Ìl‚¦‚ð•Ï‚¦‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B														
+CP2964					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			µ‘Ò‹q‚Í”Žè‚ð‚à‚Á‚ÄV˜YV•w‚ðŒ}‚¦‚½B	µ‘Ò‹q‚Í”Žè‚É‚ÄV˜YV•w‚ðŒ}‚¦‚½B														
+CP2965					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			–\—Í‚É‘Î‚µ‚Ä–\—Í‚ð‚à‚Á‚Ä•ñ‚¢‚Ä‚Í‚È‚ç‚È‚¢B	–\—Í‚É‘Î‚µ‚Ä–\—Í‚É‚Ä•ñ‚¢‚Ä‚Í‚È‚ç‚È‚¢B														
+CP2966					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		ŽŽŒ±‚ÌŒ‹‰Ê‚Í‘–Ê‚ð‚à‚Á‚Ä’Ê’m‚¢‚½‚µ‚Ü‚·B	ŽŽŒ±‚ÌŒ‹‰Ê‚Í‘–Ê‚É‚æ‚Á‚Ä’Ê’m‚¢‚½‚µ‚Ü‚·B														
+CP2967					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		“–‘IŽÒ‚Ì”­•\‚ÍÜ•i‚Ì”­‘—‚ð‚à‚Á‚Ä‘ã‚¦‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B	“–‘IŽÒ‚Ì”­•\‚ÍÜ•i‚Ì”­‘—‚É‚æ‚Á‚Ä‘ã‚¦‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B														
+CP2968					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‰ÔŽq‚Ìà“¾‚ð‚à‚Á‚Ä‚µ‚Ä‚àA‘¾˜Y‚Ìl‚¦‚ð•Ï‚¦‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B	‰ÔŽq‚Ìà“¾‚É‚æ‚Á‚Ä‚µ‚Ä‚àA‘¾˜Y‚Ìl‚¦‚ð•Ï‚¦‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B														
+CP2969					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		µ‘Ò‹q‚Í”Žè‚ð‚à‚Á‚ÄV˜YV•w‚ðŒ}‚¦‚½B	µ‘Ò‹q‚Í”Žè‚É‚æ‚Á‚ÄV˜YV•w‚ðŒ}‚¦‚½B														
+CP2970					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		–\—Í‚É‘Î‚µ‚Ä–\—Í‚ð‚à‚Á‚Ä•ñ‚¢‚Ä‚Í‚È‚ç‚È‚¢B	–\—Í‚É‘Î‚µ‚Ä–\—Í‚É‚æ‚Á‚Ä•ñ‚¢‚Ä‚Í‚È‚ç‚È‚¢B														
+CP2971					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		ŽŽŒ±‚ÌŒ‹‰Ê‚Í‘–Ê‚ð‚à‚Á‚Ä’Ê’m‚¢‚½‚µ‚Ü‚·B	ŽŽŒ±‚ÌŒ‹‰Ê‚Í‘–Ê‚É‚¨‚¢‚Ä’Ê’m‚¢‚½‚µ‚Ü‚·B														
+CP2972					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		“–‘IŽÒ‚Ì”­•\‚ÍÜ•i‚Ì”­‘—‚ð‚à‚Á‚Ä‘ã‚¦‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B	“–‘IŽÒ‚Ì”­•\‚ÍÜ•i‚Ì”­‘—‚É‚¨‚¢‚Ä‘ã‚¦‚³‚¹‚Ä‚¢‚½‚¾‚«‚Ü‚·B														
+CP2973					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			‰ÔŽq‚Ìà“¾‚ð‚à‚Á‚Ä‚µ‚Ä‚àA‘¾˜Y‚Ìl‚¦‚ð•Ï‚¦‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B	‰ÔŽq‚Ìà“¾‚É‚¨‚¢‚Ä‚àA‘¾˜Y‚Ìl‚¦‚ð•Ï‚¦‚é‚±‚Æ‚Í‚Å‚«‚È‚©‚Á‚½B														
+CP2974					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			µ‘Ò‹q‚Í”Žè‚ð‚à‚Á‚ÄV˜YV•w‚ðŒ}‚¦‚½B	µ‘Ò‹q‚Í”Žè‚É‚¨‚¢‚ÄV˜YV•w‚ðŒ}‚¦‚½B														
+CP2975					sŽè’i‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			–\—Í‚É‘Î‚µ‚Ä–\—Í‚ð‚à‚Á‚Ä•ñ‚¢‚Ä‚Í‚È‚ç‚È‚¢B	–\—Í‚É‘Î‚µ‚Ä–\—Í‚É‚¨‚¢‚Ä•ñ‚¢‚Ä‚Í‚È‚ç‚È‚¢B														
+CP2976					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚±‚ÌƒT[ƒrƒX‚Íð”NŒÜŒŽ‚ð‚à‚Á‚Ä’âŽ~‚µ‚Ü‚µ‚½B	‚±‚ÌƒT[ƒrƒX‚Íð”NŒÜŒŽ‚Å’âŽ~‚µ‚Ü‚µ‚½B														
+CP2977					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚»‚Ì‘IŽè‚Í¡ƒV[ƒYƒ“‚ð‚à‚Á‚ÄŒ»–ð‚©‚çˆø‘Þ‚·‚éB	‚»‚Ì‘IŽè‚Í¡ƒV[ƒYƒ“‚ÅŒ»–ð‚©‚çˆø‘Þ‚·‚éB														
+CP2978					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		Ž„‚Í‹ãŒŽŽO\“ú‚ð‚à‚Á‚Ä‹cˆõ‚ðŽ«E‚¢‚½‚µ‚Ü‚·B	Ž„‚Í‹ãŒŽŽO\“ú‚Å‹cˆõ‚ðŽ«E‚¢‚½‚µ‚Ü‚·B														
+CP2979					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚»‚ÌŽ{Ý‚Í•½¬Œ³”N‚Ì‹ãŒŽ‚ð‚à‚Á‚Ä•ÂŠÙ‚µ‚½B	‚»‚ÌŽ{Ý‚Í•½¬Œ³”N‚Ì‹ãŒŽ‚Å•ÂŠÙ‚µ‚½B														
+CP2980					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		–{“ú‚Ì‰c‹Æ‚ÍŒßŒã‹ãŽž‚ð‚à‚Á‚ÄI—¹‚¢‚½‚µ‚Ü‚·B	–{“ú‚Ì‰c‹Æ‚ÍŒßŒã‹ãŽž‚ÅI—¹‚¢‚½‚µ‚Ü‚·B														
+CP2981					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚±‚ÌƒT[ƒrƒX‚Íð”NŒÜŒŽ‚ð‚à‚Á‚Ä’âŽ~‚µ‚Ü‚µ‚½B	‚±‚ÌƒT[ƒrƒX‚Íð”NŒÜŒŽ‚É’âŽ~‚µ‚Ü‚µ‚½B														
+CP2982					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚»‚Ì‘IŽè‚Í¡ƒV[ƒYƒ“‚ð‚à‚Á‚ÄŒ»–ð‚©‚çˆø‘Þ‚·‚éB	‚»‚Ì‘IŽè‚Í¡ƒV[ƒYƒ“‚ÉŒ»–ð‚©‚çˆø‘Þ‚·‚éB														
+CP2983					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		Ž„‚Í‹ãŒŽŽO\“ú‚ð‚à‚Á‚Ä‹cˆõ‚ðŽ«E‚¢‚½‚µ‚Ü‚·B	Ž„‚Í‹ãŒŽŽO\“ú‚É‹cˆõ‚ðŽ«E‚¢‚½‚µ‚Ü‚·B														
+CP2984					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚»‚ÌŽ{Ý‚Í•½¬Œ³”N‚Ì‹ãŒŽ‚ð‚à‚Á‚Ä•ÂŠÙ‚µ‚½B	‚»‚ÌŽ{Ý‚Í•½¬Œ³”N‚Ì‹ãŒŽ‚É•ÂŠÙ‚µ‚½B														
+CP2985					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		–{“ú‚Ì‰c‹Æ‚ÍŒßŒã‹ãŽž‚ð‚à‚Á‚ÄI—¹‚¢‚½‚µ‚Ü‚·B	–{“ú‚Ì‰c‹Æ‚ÍŒßŒã‹ãŽž‚ÉI—¹‚¢‚½‚µ‚Ü‚·B														
+CP2986					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðŽg‚Á‚Ä/`‚ð—p‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			‚±‚ÌƒT[ƒrƒX‚Íð”NŒÜŒŽ‚ð‚à‚Á‚Ä’âŽ~‚µ‚Ü‚µ‚½B	‚±‚ÌƒT[ƒrƒX‚Íð”NŒÜŒŽ‚ð—p‚¢‚Ä’âŽ~‚µ‚Ü‚µ‚½B														
+CP2987					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðŽg‚Á‚Ä/`‚ð—p‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			‚»‚Ì‘IŽè‚Í¡ƒV[ƒYƒ“‚ð‚à‚Á‚ÄŒ»–ð‚©‚çˆø‘Þ‚·‚éB	‚»‚Ì‘IŽè‚Í¡ƒV[ƒYƒ“‚ð—p‚¢‚ÄŒ»–ð‚©‚çˆø‘Þ‚·‚éB														
+CP2988					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðŽg‚Á‚Ä/`‚ð—p‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			Ž„‚Í‹ãŒŽŽO\“ú‚ð‚à‚Á‚Ä‹cˆõ‚ðŽ«E‚¢‚½‚µ‚Ü‚·B	Ž„‚Í‹ãŒŽŽO\“ú‚ð—p‚¢‚Ä‹cˆõ‚ðŽ«E‚¢‚½‚µ‚Ü‚·B														
+CP2989					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðŽg‚Á‚Ä/`‚ð—p‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			‚»‚ÌŽ{Ý‚Í•½¬Œ³”N‚Ì‹ãŒŽ‚ð‚à‚Á‚Ä•ÂŠÙ‚µ‚½B	‚»‚ÌŽ{Ý‚Í•½¬Œ³”N‚Ì‹ãŒŽ‚ð—p‚¢‚Ä•ÂŠÙ‚µ‚½B														
+CP2990					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðŽg‚Á‚Ä/`‚ð—p‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			–{“ú‚Ì‰c‹Æ‚ÍŒßŒã‹ãŽž‚ð‚à‚Á‚ÄI—¹‚¢‚½‚µ‚Ü‚·B	–{“ú‚Ì‰c‹Æ‚ÍŒßŒã‹ãŽž‚ð—p‚¢‚ÄI—¹‚¢‚½‚µ‚Ü‚·B														
+CP2991					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðª‹’‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			‚±‚ÌƒT[ƒrƒX‚Íð”NŒÜŒŽ‚ð‚à‚Á‚Ä’âŽ~‚µ‚Ü‚µ‚½B	‚±‚ÌƒT[ƒrƒX‚Íð”NŒÜŒŽ‚ðª‹’‚É’âŽ~‚µ‚Ü‚µ‚½B														
+CP2992					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðª‹’‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			‚»‚Ì‘IŽè‚Í¡ƒV[ƒYƒ“‚ð‚à‚Á‚ÄŒ»–ð‚©‚çˆø‘Þ‚·‚éB	‚»‚Ì‘IŽè‚Í¡ƒV[ƒYƒ“‚ðª‹’‚ÉŒ»–ð‚©‚çˆø‘Þ‚·‚éB														
+CP2993					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðª‹’‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			Ž„‚Í‹ãŒŽŽO\“ú‚ð‚à‚Á‚Ä‹cˆõ‚ðŽ«E‚¢‚½‚µ‚Ü‚·B	Ž„‚Í‹ãŒŽŽO\“ú‚ðª‹’‚É‹cˆõ‚ðŽ«E‚¢‚½‚µ‚Ü‚·B														
+CP2994					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðª‹’‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			‚»‚ÌŽ{Ý‚Í•½¬Œ³”N‚Ì‹ãŒŽ‚ð‚à‚Á‚Ä•ÂŠÙ‚µ‚½B	‚»‚ÌŽ{Ý‚Í•½¬Œ³”N‚Ì‹ãŒŽ‚ðª‹’‚É•ÂŠÙ‚µ‚½B														
+CP2995					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðª‹’‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			–{“ú‚Ì‰c‹Æ‚ÍŒßŒã‹ãŽž‚ð‚à‚Á‚ÄI—¹‚¢‚½‚µ‚Ü‚·B	–{“ú‚Ì‰c‹Æ‚ÍŒßŒã‹ãŽž‚ðª‹’‚ÉI—¹‚¢‚½‚µ‚Ü‚·B														
+CP2996					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ð‚à‚Æ‚É‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			‚±‚ÌƒT[ƒrƒX‚Íð”NŒÜŒŽ‚ð‚à‚Á‚Ä’âŽ~‚µ‚Ü‚µ‚½B	‚±‚ÌƒT[ƒrƒX‚Íð”NŒÜŒŽ‚ð‚à‚Æ‚É‚µ‚Ä’âŽ~‚µ‚Ü‚µ‚½B														
+CP2997					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ð‚à‚Æ‚É‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			‚»‚Ì‘IŽè‚Í¡ƒV[ƒYƒ“‚ð‚à‚Á‚ÄŒ»–ð‚©‚çˆø‘Þ‚·‚éB	‚»‚Ì‘IŽè‚Í¡ƒV[ƒYƒ“‚ð‚à‚Æ‚É‚µ‚ÄŒ»–ð‚©‚çˆø‘Þ‚·‚éB														
+CP2998					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ð‚à‚Æ‚É‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			Ž„‚Í‹ãŒŽŽO\“ú‚ð‚à‚Á‚Ä‹cˆõ‚ðŽ«E‚¢‚½‚µ‚Ü‚·B	Ž„‚Í‹ãŒŽŽO\“ú‚ð‚à‚Æ‚É‚µ‚Ä‹cˆõ‚ðŽ«E‚¢‚½‚µ‚Ü‚·B														
+CP2999					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ð‚à‚Æ‚É‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			‚»‚ÌŽ{Ý‚Í•½¬Œ³”N‚Ì‹ãŒŽ‚ð‚à‚Á‚Ä•ÂŠÙ‚µ‚½B	‚»‚ÌŽ{Ý‚Í•½¬Œ³”N‚Ì‹ãŒŽ‚ð‚à‚Æ‚É‚µ‚Ä•ÂŠÙ‚µ‚½B														
+CP3000					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ð‚à‚Æ‚É‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			–{“ú‚Ì‰c‹Æ‚ÍŒßŒã‹ãŽž‚ð‚à‚Á‚ÄI—¹‚¢‚½‚µ‚Ü‚·B	–{“ú‚Ì‰c‹Æ‚ÍŒßŒã‹ãŽž‚ð‚à‚Æ‚É‚µ‚ÄI—¹‚¢‚½‚µ‚Ü‚·B														
+CP3001					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚±‚ÌƒT[ƒrƒX‚Íð”NŒÜŒŽ‚ð‚à‚Á‚Ä’âŽ~‚µ‚Ü‚µ‚½B	‚±‚ÌƒT[ƒrƒX‚Íð”NŒÜŒŽ‚É‚Ä’âŽ~‚µ‚Ü‚µ‚½B														
+CP3002					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚»‚Ì‘IŽè‚Í¡ƒV[ƒYƒ“‚ð‚à‚Á‚ÄŒ»–ð‚©‚çˆø‘Þ‚·‚éB	‚»‚Ì‘IŽè‚Í¡ƒV[ƒYƒ“‚É‚ÄŒ»–ð‚©‚çˆø‘Þ‚·‚éB														
+CP3003					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		Ž„‚Í‹ãŒŽŽO\“ú‚ð‚à‚Á‚Ä‹cˆõ‚ðŽ«E‚¢‚½‚µ‚Ü‚·B	Ž„‚Í‹ãŒŽŽO\“ú‚É‚Ä‹cˆõ‚ðŽ«E‚¢‚½‚µ‚Ü‚·B														
+CP3004					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚»‚ÌŽ{Ý‚Í•½¬Œ³”N‚Ì‹ãŒŽ‚ð‚à‚Á‚Ä•ÂŠÙ‚µ‚½B	‚»‚ÌŽ{Ý‚Í•½¬Œ³”N‚Ì‹ãŒŽ‚É‚Ä•ÂŠÙ‚µ‚½B														
+CP3005					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		–{“ú‚Ì‰c‹Æ‚ÍŒßŒã‹ãŽž‚ð‚à‚Á‚ÄI—¹‚¢‚½‚µ‚Ü‚·B	–{“ú‚Ì‰c‹Æ‚ÍŒßŒã‹ãŽž‚É‚ÄI—¹‚¢‚½‚µ‚Ü‚·B														
+CP3006					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			‚±‚ÌƒT[ƒrƒX‚Íð”NŒÜŒŽ‚ð‚à‚Á‚Ä’âŽ~‚µ‚Ü‚µ‚½B	‚±‚ÌƒT[ƒrƒX‚Íð”NŒÜŒŽ‚É‚æ‚Á‚Ä’âŽ~‚µ‚Ü‚µ‚½B														
+CP3007					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			‚»‚Ì‘IŽè‚Í¡ƒV[ƒYƒ“‚ð‚à‚Á‚ÄŒ»–ð‚©‚çˆø‘Þ‚·‚éB	‚»‚Ì‘IŽè‚Í¡ƒV[ƒYƒ“‚É‚æ‚Á‚ÄŒ»–ð‚©‚çˆø‘Þ‚·‚éB														
+CP3008					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			Ž„‚Í‹ãŒŽŽO\“ú‚ð‚à‚Á‚Ä‹cˆõ‚ðŽ«E‚¢‚½‚µ‚Ü‚·B	Ž„‚Í‹ãŒŽŽO\“ú‚É‚æ‚Á‚Ä‹cˆõ‚ðŽ«E‚¢‚½‚µ‚Ü‚·B														
+CP3009					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			‚»‚ÌŽ{Ý‚Í•½¬Œ³”N‚Ì‹ãŒŽ‚ð‚à‚Á‚Ä•ÂŠÙ‚µ‚½B	‚»‚ÌŽ{Ý‚Í•½¬Œ³”N‚Ì‹ãŒŽ‚É‚æ‚Á‚Ä•ÂŠÙ‚µ‚½B														
+CP3010					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			–{“ú‚Ì‰c‹Æ‚ÍŒßŒã‹ãŽž‚ð‚à‚Á‚ÄI—¹‚¢‚½‚µ‚Ü‚·B	–{“ú‚Ì‰c‹Æ‚ÍŒßŒã‹ãŽž‚É‚æ‚Á‚ÄI—¹‚¢‚½‚µ‚Ü‚·B														
+CP3011					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			‚±‚ÌƒT[ƒrƒX‚Íð”NŒÜŒŽ‚ð‚à‚Á‚Ä’âŽ~‚µ‚Ü‚µ‚½B	‚±‚ÌƒT[ƒrƒX‚Íð”NŒÜŒŽ‚É‚¨‚¢‚Ä’âŽ~‚µ‚Ü‚µ‚½B														
+CP3012					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			‚»‚Ì‘IŽè‚Í¡ƒV[ƒYƒ“‚ð‚à‚Á‚ÄŒ»–ð‚©‚çˆø‘Þ‚·‚éB	‚»‚Ì‘IŽè‚Í¡ƒV[ƒYƒ“‚É‚¨‚¢‚ÄŒ»–ð‚©‚çˆø‘Þ‚·‚éB														
+CP3013					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			Ž„‚Í‹ãŒŽŽO\“ú‚ð‚à‚Á‚Ä‹cˆõ‚ðŽ«E‚¢‚½‚µ‚Ü‚·B	Ž„‚Í‹ãŒŽŽO\“ú‚É‚¨‚¢‚Ä‹cˆõ‚ðŽ«E‚¢‚½‚µ‚Ü‚·B														
+CP3014					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			‚»‚ÌŽ{Ý‚Í•½¬Œ³”N‚Ì‹ãŒŽ‚ð‚à‚Á‚Ä•ÂŠÙ‚µ‚½B	‚»‚ÌŽ{Ý‚Í•½¬Œ³”N‚Ì‹ãŒŽ‚É‚¨‚¢‚Ä•ÂŠÙ‚µ‚½B														
+CP3015					sŠúŒÀ‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			–{“ú‚Ì‰c‹Æ‚ÍŒßŒã‹ãŽž‚ð‚à‚Á‚ÄI—¹‚¢‚½‚µ‚Ü‚·B	–{“ú‚Ì‰c‹Æ‚ÍŒßŒã‹ãŽž‚É‚¨‚¢‚ÄI—¹‚¢‚½‚µ‚Ü‚·B														
+CP3016					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			‚»‚ÌˆãŽÒ‚Í‰ÈŠw“I‚ÈŽÀŒ±Œ‹‰Ê‚ð‚à‚Á‚ÄAŽ¡—Ã–@‚ÌˆÀ‘S«‚ðŽå’£‚µ‚½B	‚»‚ÌˆãŽÒ‚Í‰ÈŠw“I‚ÈŽÀŒ±Œ‹‰Ê‚ÅAŽ¡—Ã–@‚ÌˆÀ‘S«‚ðŽå’£‚µ‚½B														
+CP3017					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			Œ»‘ãŽÐ‰ï‚Å‚ÍA‰½‚ð‚à‚Á‚ÄuÅ’áŒÀ“x‚Ì¶Šˆ‚ð‚µ‚Ä‚¢‚év‚ÆŒ¾‚¦‚é‚Ì‚©B	Œ»‘ãŽÐ‰ï‚Å‚ÍA‰½‚ÅuÅ’áŒÀ“x‚Ì¶Šˆ‚ð‚µ‚Ä‚¢‚év‚ÆŒ¾‚¦‚é‚Ì‚©B														
+CP3018					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			ŽÐ’·‚Í‚í‚¸‚©‚µ‚©‚È‚¢¬Œ÷‚ÌŠm—¦‚ð‚à‚Á‚ÄAƒvƒƒWƒFƒNƒg‚Ì„i‚ðŒˆ’è‚µ‚½B	ŽÐ’·‚Í‚í‚¸‚©‚µ‚©‚È‚¢¬Œ÷‚ÌŠm—¦‚ÅAƒvƒƒWƒFƒNƒg‚Ì„i‚ðŒˆ’è‚µ‚½B														
+CP3019					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚»‚ÌŠwŽÒ‚ÍŒ¾Œê‚Ì—L–³‚ð‚à‚Á‚ÄlŠÔ‚Æ‚»‚Ì‘¼‚Ì“®•¨‚ð‹æ•Ê‚µ‚Ä‚¢‚éB	‚»‚ÌŠwŽÒ‚ÍŒ¾Œê‚Ì—L–³‚ÅlŠÔ‚Æ‚»‚Ì‘¼‚Ì“®•¨‚ð‹æ•Ê‚µ‚Ä‚¢‚éB														
+CP3020					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚±‚Ì‰ï‹c‚Å‚ÍA‰ß”¼”‚ÌoÈŽÒ‚ÌŽ^”Û‚ð‚à‚Á‚Ä‹cŒˆ‚·‚éB	‚±‚Ì‰ï‹c‚Å‚ÍA‰ß”¼”‚ÌoÈŽÒ‚ÌŽ^”Û‚Å‹cŒˆ‚·‚éB														
+CP3021					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			‚»‚ÌˆãŽÒ‚Í‰ÈŠw“I‚ÈŽÀŒ±Œ‹‰Ê‚ð‚à‚Á‚ÄAŽ¡—Ã–@‚ÌˆÀ‘S«‚ðŽå’£‚µ‚½B	‚»‚ÌˆãŽÒ‚Í‰ÈŠw“I‚ÈŽÀŒ±Œ‹‰Ê‚ÉAŽ¡—Ã–@‚ÌˆÀ‘S«‚ðŽå’£‚µ‚½B														
+CP3022					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			Œ»‘ãŽÐ‰ï‚Å‚ÍA‰½‚ð‚à‚Á‚ÄuÅ’áŒÀ“x‚Ì¶Šˆ‚ð‚µ‚Ä‚¢‚év‚ÆŒ¾‚¦‚é‚Ì‚©B	Œ»‘ãŽÐ‰ï‚Å‚ÍA‰½‚ÉuÅ’áŒÀ“x‚Ì¶Šˆ‚ð‚µ‚Ä‚¢‚év‚ÆŒ¾‚¦‚é‚Ì‚©B														
+CP3023					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			ŽÐ’·‚Í‚í‚¸‚©‚µ‚©‚È‚¢¬Œ÷‚ÌŠm—¦‚ð‚à‚Á‚ÄAƒvƒƒWƒFƒNƒg‚Ì„i‚ðŒˆ’è‚µ‚½B	ŽÐ’·‚Í‚í‚¸‚©‚µ‚©‚È‚¢¬Œ÷‚ÌŠm—¦‚ÉAƒvƒƒWƒFƒNƒg‚Ì„i‚ðŒˆ’è‚µ‚½B														
+CP3024					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			‚»‚ÌŠwŽÒ‚ÍŒ¾Œê‚Ì—L–³‚ð‚à‚Á‚ÄlŠÔ‚Æ‚»‚Ì‘¼‚Ì“®•¨‚ð‹æ•Ê‚µ‚Ä‚¢‚éB	‚»‚ÌŠwŽÒ‚ÍŒ¾Œê‚Ì—L–³‚ÉlŠÔ‚Æ‚»‚Ì‘¼‚Ì“®•¨‚ð‹æ•Ê‚µ‚Ä‚¢‚éB														
+CP3025					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omotte"			‚±‚Ì‰ï‹c‚Å‚ÍA‰ß”¼”‚ÌoÈŽÒ‚ÌŽ^”Û‚ð‚à‚Á‚Ä‹cŒˆ‚·‚éB	‚±‚Ì‰ï‹c‚Å‚ÍA‰ß”¼”‚ÌoÈŽÒ‚ÌŽ^”Û‚É‹cŒˆ‚·‚éB														
+CP3026					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðŽg‚Á‚Ä/`‚ð—p‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			‚»‚ÌˆãŽÒ‚Í‰ÈŠw“I‚ÈŽÀŒ±Œ‹‰Ê‚ð‚à‚Á‚ÄAŽ¡—Ã–@‚ÌˆÀ‘S«‚ðŽå’£‚µ‚½B	‚»‚ÌˆãŽÒ‚Í‰ÈŠw“I‚ÈŽÀŒ±Œ‹‰Ê‚ð—p‚¢‚ÄAŽ¡—Ã–@‚ÌˆÀ‘S«‚ðŽå’£‚µ‚½B														
+CP3027					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðŽg‚Á‚Ä/`‚ð—p‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			Œ»‘ãŽÐ‰ï‚Å‚ÍA‰½‚ð‚à‚Á‚ÄuÅ’áŒÀ“x‚Ì¶Šˆ‚ð‚µ‚Ä‚¢‚év‚ÆŒ¾‚¦‚é‚Ì‚©B	Œ»‘ãŽÐ‰ï‚Å‚ÍA‰½‚ð—p‚¢‚ÄuÅ’áŒÀ“x‚Ì¶Šˆ‚ð‚µ‚Ä‚¢‚év‚ÆŒ¾‚¦‚é‚Ì‚©B														
+CP3028					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðŽg‚Á‚Ä/`‚ð—p‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			ŽÐ’·‚Í‚í‚¸‚©‚µ‚©‚È‚¢¬Œ÷‚ÌŠm—¦‚ð‚à‚Á‚ÄAƒvƒƒWƒFƒNƒg‚Ì„i‚ðŒˆ’è‚µ‚½B	ŽÐ’·‚Í‚í‚¸‚©‚µ‚©‚È‚¢¬Œ÷‚ÌŠm—¦‚ð—p‚¢‚ÄAƒvƒƒWƒFƒNƒg‚Ì„i‚ðŒˆ’è‚µ‚½B														
+CP3029					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðŽg‚Á‚Ä/`‚ð—p‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			‚»‚ÌŠwŽÒ‚ÍŒ¾Œê‚Ì—L–³‚ð‚à‚Á‚ÄlŠÔ‚Æ‚»‚Ì‘¼‚Ì“®•¨‚ð‹æ•Ê‚µ‚Ä‚¢‚éB	‚»‚ÌŠwŽÒ‚ÍŒ¾Œê‚Ì—L–³‚ð—p‚¢‚ÄlŠÔ‚Æ‚»‚Ì‘¼‚Ì“®•¨‚ð‹æ•Ê‚µ‚Ä‚¢‚éB														
+CP3030					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðŽg‚Á‚Ä/`‚ð—p‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			‚±‚Ì‰ï‹c‚Å‚ÍA‰ß”¼”‚ÌoÈŽÒ‚ÌŽ^”Û‚ð‚à‚Á‚Ä‹cŒˆ‚·‚éB	‚±‚Ì‰ï‹c‚Å‚ÍA‰ß”¼”‚ÌoÈŽÒ‚ÌŽ^”Û‚ð—p‚¢‚Ä‹cŒˆ‚·‚éB														
+CP3031					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðª‹’‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚»‚ÌˆãŽÒ‚Í‰ÈŠw“I‚ÈŽÀŒ±Œ‹‰Ê‚ð‚à‚Á‚ÄAŽ¡—Ã–@‚ÌˆÀ‘S«‚ðŽå’£‚µ‚½B	‚»‚ÌˆãŽÒ‚Í‰ÈŠw“I‚ÈŽÀŒ±Œ‹‰Ê‚ðª‹’‚ÉAŽ¡—Ã–@‚ÌˆÀ‘S«‚ðŽå’£‚µ‚½B														
+CP3032					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðª‹’‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		Œ»‘ãŽÐ‰ï‚Å‚ÍA‰½‚ð‚à‚Á‚ÄuÅ’áŒÀ“x‚Ì¶Šˆ‚ð‚µ‚Ä‚¢‚év‚ÆŒ¾‚¦‚é‚Ì‚©B	Œ»‘ãŽÐ‰ï‚Å‚ÍA‰½‚ðª‹’‚ÉuÅ’áŒÀ“x‚Ì¶Šˆ‚ð‚µ‚Ä‚¢‚év‚ÆŒ¾‚¦‚é‚Ì‚©B														
+CP3033					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðª‹’‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		ŽÐ’·‚Í‚í‚¸‚©‚µ‚©‚È‚¢¬Œ÷‚ÌŠm—¦‚ð‚à‚Á‚ÄAƒvƒƒWƒFƒNƒg‚Ì„i‚ðŒˆ’è‚µ‚½B	ŽÐ’·‚Í‚í‚¸‚©‚µ‚©‚È‚¢¬Œ÷‚ÌŠm—¦‚ðª‹’‚ÉAƒvƒƒWƒFƒNƒg‚Ì„i‚ðŒˆ’è‚µ‚½B														
+CP3034					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðª‹’‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚»‚ÌŠwŽÒ‚ÍŒ¾Œê‚Ì—L–³‚ð‚à‚Á‚ÄlŠÔ‚Æ‚»‚Ì‘¼‚Ì“®•¨‚ð‹æ•Ê‚µ‚Ä‚¢‚éB	‚»‚ÌŠwŽÒ‚ÍŒ¾Œê‚Ì—L–³‚ðª‹’‚ÉlŠÔ‚Æ‚»‚Ì‘¼‚Ì“®•¨‚ð‹æ•Ê‚µ‚Ä‚¢‚éB														
+CP3035					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ðª‹’‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			‚±‚Ì‰ï‹c‚Å‚ÍA‰ß”¼”‚ÌoÈŽÒ‚ÌŽ^”Û‚ð‚à‚Á‚Ä‹cŒˆ‚·‚éB	‚±‚Ì‰ï‹c‚Å‚ÍA‰ß”¼”‚ÌoÈŽÒ‚ÌŽ^”Û‚ðª‹’‚É‹cŒˆ‚·‚éB														
+CP3036					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ð‚à‚Æ‚É‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚»‚ÌˆãŽÒ‚Í‰ÈŠw“I‚ÈŽÀŒ±Œ‹‰Ê‚ð‚à‚Á‚ÄAŽ¡—Ã–@‚ÌˆÀ‘S«‚ðŽå’£‚µ‚½B	‚»‚ÌˆãŽÒ‚Í‰ÈŠw“I‚ÈŽÀŒ±Œ‹‰Ê‚ð‚à‚Æ‚É‚µ‚ÄAŽ¡—Ã–@‚ÌˆÀ‘S«‚ðŽå’£‚µ‚½B														
+CP3037					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ð‚à‚Æ‚É‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		Œ»‘ãŽÐ‰ï‚Å‚ÍA‰½‚ð‚à‚Á‚ÄuÅ’áŒÀ“x‚Ì¶Šˆ‚ð‚µ‚Ä‚¢‚év‚ÆŒ¾‚¦‚é‚Ì‚©B	Œ»‘ãŽÐ‰ï‚Å‚ÍA‰½‚ð‚à‚Æ‚É‚µ‚ÄuÅ’áŒÀ“x‚Ì¶Šˆ‚ð‚µ‚Ä‚¢‚év‚ÆŒ¾‚¦‚é‚Ì‚©B														
+CP3038					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ð‚à‚Æ‚É‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		ŽÐ’·‚Í‚í‚¸‚©‚µ‚©‚È‚¢¬Œ÷‚ÌŠm—¦‚ð‚à‚Á‚ÄAƒvƒƒWƒFƒNƒg‚Ì„i‚ðŒˆ’è‚µ‚½B	ŽÐ’·‚Í‚í‚¸‚©‚µ‚©‚È‚¢¬Œ÷‚ÌŠm—¦‚ð‚à‚Æ‚É‚µ‚ÄAƒvƒƒWƒFƒNƒg‚Ì„i‚ðŒˆ’è‚µ‚½B														
+CP3039					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ð‚à‚Æ‚É‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚»‚ÌŠwŽÒ‚ÍŒ¾Œê‚Ì—L–³‚ð‚à‚Á‚ÄlŠÔ‚Æ‚»‚Ì‘¼‚Ì“®•¨‚ð‹æ•Ê‚µ‚Ä‚¢‚éB	‚»‚ÌŠwŽÒ‚ÍŒ¾Œê‚Ì—L–³‚ð‚à‚Æ‚É‚µ‚ÄlŠÔ‚Æ‚»‚Ì‘¼‚Ì“®•¨‚ð‹æ•Ê‚µ‚Ä‚¢‚éB														
+CP3040					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu`‚ð‚à‚Æ‚É‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚±‚Ì‰ï‹c‚Å‚ÍA‰ß”¼”‚ÌoÈŽÒ‚ÌŽ^”Û‚ð‚à‚Á‚Ä‹cŒˆ‚·‚éB	‚±‚Ì‰ï‹c‚Å‚ÍA‰ß”¼”‚ÌoÈŽÒ‚ÌŽ^”Û‚ð‚à‚Æ‚É‚µ‚Ä‹cŒˆ‚·‚éB														
+CP3041					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			‚»‚ÌˆãŽÒ‚Í‰ÈŠw“I‚ÈŽÀŒ±Œ‹‰Ê‚ð‚à‚Á‚ÄAŽ¡—Ã–@‚ÌˆÀ‘S«‚ðŽå’£‚µ‚½B	‚»‚ÌˆãŽÒ‚Í‰ÈŠw“I‚ÈŽÀŒ±Œ‹‰Ê‚É‚ÄAŽ¡—Ã–@‚ÌˆÀ‘S«‚ðŽå’£‚µ‚½B														
+CP3042					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			Œ»‘ãŽÐ‰ï‚Å‚ÍA‰½‚ð‚à‚Á‚ÄuÅ’áŒÀ“x‚Ì¶Šˆ‚ð‚µ‚Ä‚¢‚év‚ÆŒ¾‚¦‚é‚Ì‚©B	Œ»‘ãŽÐ‰ï‚Å‚ÍA‰½‚É‚ÄuÅ’áŒÀ“x‚Ì¶Šˆ‚ð‚µ‚Ä‚¢‚év‚ÆŒ¾‚¦‚é‚Ì‚©B														
+CP3043					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			ŽÐ’·‚Í‚í‚¸‚©‚µ‚©‚È‚¢¬Œ÷‚ÌŠm—¦‚ð‚à‚Á‚ÄAƒvƒƒWƒFƒNƒg‚Ì„i‚ðŒˆ’è‚µ‚½B	ŽÐ’·‚Í‚í‚¸‚©‚µ‚©‚È‚¢¬Œ÷‚ÌŠm—¦‚É‚ÄAƒvƒƒWƒFƒNƒg‚Ì„i‚ðŒˆ’è‚µ‚½B														
+CP3044					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚»‚ÌŠwŽÒ‚ÍŒ¾Œê‚Ì—L–³‚ð‚à‚Á‚ÄlŠÔ‚Æ‚»‚Ì‘¼‚Ì“®•¨‚ð‹æ•Ê‚µ‚Ä‚¢‚éB	‚»‚ÌŠwŽÒ‚ÍŒ¾Œê‚Ì—L–³‚É‚ÄlŠÔ‚Æ‚»‚Ì‘¼‚Ì“®•¨‚ð‹æ•Ê‚µ‚Ä‚¢‚éB														
+CP3045					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚±‚Ì‰ï‹c‚Å‚ÍA‰ß”¼”‚ÌoÈŽÒ‚ÌŽ^”Û‚ð‚à‚Á‚Ä‹cŒˆ‚·‚éB	‚±‚Ì‰ï‹c‚Å‚ÍA‰ß”¼”‚ÌoÈŽÒ‚ÌŽ^”Û‚É‚Ä‹cŒˆ‚·‚éB														
+CP3046					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚»‚ÌˆãŽÒ‚Í‰ÈŠw“I‚ÈŽÀŒ±Œ‹‰Ê‚ð‚à‚Á‚ÄAŽ¡—Ã–@‚ÌˆÀ‘S«‚ðŽå’£‚µ‚½B	‚»‚ÌˆãŽÒ‚Í‰ÈŠw“I‚ÈŽÀŒ±Œ‹‰Ê‚É‚æ‚Á‚ÄAŽ¡—Ã–@‚ÌˆÀ‘S«‚ðŽå’£‚µ‚½B														
+CP3047					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		Œ»‘ãŽÐ‰ï‚Å‚ÍA‰½‚ð‚à‚Á‚ÄuÅ’áŒÀ“x‚Ì¶Šˆ‚ð‚µ‚Ä‚¢‚év‚ÆŒ¾‚¦‚é‚Ì‚©B	Œ»‘ãŽÐ‰ï‚Å‚ÍA‰½‚É‚æ‚Á‚ÄuÅ’áŒÀ“x‚Ì¶Šˆ‚ð‚µ‚Ä‚¢‚év‚ÆŒ¾‚¦‚é‚Ì‚©B														
+CP3048					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		ŽÐ’·‚Í‚í‚¸‚©‚µ‚©‚È‚¢¬Œ÷‚ÌŠm—¦‚ð‚à‚Á‚ÄAƒvƒƒWƒFƒNƒg‚Ì„i‚ðŒˆ’è‚µ‚½B	ŽÐ’·‚Í‚í‚¸‚©‚µ‚©‚È‚¢¬Œ÷‚ÌŠm—¦‚É‚æ‚Á‚ÄAƒvƒƒWƒFƒNƒg‚Ì„i‚ðŒˆ’è‚µ‚½B														
+CP3049					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚»‚ÌŠwŽÒ‚ÍŒ¾Œê‚Ì—L–³‚ð‚à‚Á‚ÄlŠÔ‚Æ‚»‚Ì‘¼‚Ì“®•¨‚ð‹æ•Ê‚µ‚Ä‚¢‚éB	‚»‚ÌŠwŽÒ‚ÍŒ¾Œê‚Ì—L–³‚É‚æ‚Á‚ÄlŠÔ‚Æ‚»‚Ì‘¼‚Ì“®•¨‚ð‹æ•Ê‚µ‚Ä‚¢‚éB														
+CP3050					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚±‚Ì‰ï‹c‚Å‚ÍA‰ß”¼”‚ÌoÈŽÒ‚ÌŽ^”Û‚ð‚à‚Á‚Ä‹cŒˆ‚·‚éB	‚±‚Ì‰ï‹c‚Å‚ÍA‰ß”¼”‚ÌoÈŽÒ‚ÌŽ^”Û‚É‚æ‚Á‚Ä‹cŒˆ‚·‚éB														
+CP3051					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			‚»‚ÌˆãŽÒ‚Í‰ÈŠw“I‚ÈŽÀŒ±Œ‹‰Ê‚ð‚à‚Á‚ÄAŽ¡—Ã–@‚ÌˆÀ‘S«‚ðŽå’£‚µ‚½B	‚»‚ÌˆãŽÒ‚Í‰ÈŠw“I‚ÈŽÀŒ±Œ‹‰Ê‚É‚¨‚¢‚ÄAŽ¡—Ã–@‚ÌˆÀ‘S«‚ðŽå’£‚µ‚½B														
+CP3052					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			Œ»‘ãŽÐ‰ï‚Å‚ÍA‰½‚ð‚à‚Á‚ÄuÅ’áŒÀ“x‚Ì¶Šˆ‚ð‚µ‚Ä‚¢‚év‚ÆŒ¾‚¦‚é‚Ì‚©B	Œ»‘ãŽÐ‰ï‚Å‚ÍA‰½‚É‚¨‚¢‚ÄuÅ’áŒÀ“x‚Ì¶Šˆ‚ð‚µ‚Ä‚¢‚év‚ÆŒ¾‚¦‚é‚Ì‚©B														
+CP3053					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			ŽÐ’·‚Í‚í‚¸‚©‚µ‚©‚È‚¢¬Œ÷‚ÌŠm—¦‚ð‚à‚Á‚ÄAƒvƒƒWƒFƒNƒg‚Ì„i‚ðŒˆ’è‚µ‚½B	ŽÐ’·‚Í‚í‚¸‚©‚µ‚©‚È‚¢¬Œ÷‚ÌŠm—¦‚É‚¨‚¢‚ÄAƒvƒƒWƒFƒNƒg‚Ì„i‚ðŒˆ’è‚µ‚½B														
+CP3054					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omotte"	entailment		‚»‚ÌŠwŽÒ‚ÍŒ¾Œê‚Ì—L–³‚ð‚à‚Á‚ÄlŠÔ‚Æ‚»‚Ì‘¼‚Ì“®•¨‚ð‹æ•Ê‚µ‚Ä‚¢‚éB	‚»‚ÌŠwŽÒ‚ÍŒ¾Œê‚Ì—L–³‚É‚¨‚¢‚ÄlŠÔ‚Æ‚»‚Ì‘¼‚Ì“®•¨‚ð‹æ•Ê‚µ‚Ä‚¢‚éB														
+CP3055					sŠî€Eª‹’‚ð•\‚·u‚ð‚à‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omotte"			‚±‚Ì‰ï‹c‚Å‚ÍA‰ß”¼”‚ÌoÈŽÒ‚ÌŽ^”Û‚ð‚à‚Á‚Ä‹cŒˆ‚·‚éB	‚±‚Ì‰ï‹c‚Å‚ÍA‰ß”¼”‚ÌoÈŽÒ‚ÌŽ^”Û‚É‚¨‚¢‚Ä‹cŒˆ‚·‚éB														
+CP3056					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment	ŽQlF—é–Ø’q”ü(2006)uu`‚Æ‚µ‚ÄvÄlvAw“Œ‹žŠO‘Œê‘åŠw—¯Šw¶“ú–{Œê‹³ˆçƒZƒ“ƒ^[˜_Wx32:1-17B	‘¾˜Y‚ÍogŒ§‚ÌŠÏŒõ‘åŽg‚Æ‚µ‚ÄŠˆ“®‚µ‚Ä‚¢‚éB	‘¾˜Y‚ÍogŒ§‚ÌŠÏŒõ‘åŽg‚Æ‚¢‚¤—§ê‚ÅŠˆ“®‚µ‚Ä‚¢‚éB														
+CP3057					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‚»‚Ìƒ^ƒŒƒ“ƒg‚ÍV”Ô‘g‚ÉƒAƒVƒXƒ^ƒ“ƒg‚Æ‚µ‚Ä‰Á“ü‚µ‚½B	‚»‚Ìƒ^ƒŒƒ“ƒg‚ÍV”Ô‘g‚ÉƒAƒVƒXƒ^ƒ“ƒg‚Æ‚¢‚¤—§ê‚Å‰Á“ü‚µ‚½B														
+CP3058					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‚»‚ÌˆãŽÒ‚ÍŒöO‰q¶‚Ìê–å‰Æ‚Æ‚µ‚Ä‘‚ÌŠ´õÇ‘Îô‚É‚Â‚¢‚ÄˆÓŒ©‚ðq‚×‚½B	‚»‚ÌˆãŽÒ‚ÍŒöO‰q¶‚Ìê–å‰Æ‚Æ‚¢‚¤—§ê‚Å‘‚ÌŠ´õÇ‘Îô‚É‚Â‚¢‚ÄˆÓŒ©‚ðq‚×‚½B														
+CP3059					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‚»‚ÌŒö‰€‚ÍA’nˆæZ–¯‚ÌŒe‚¢‚Ìê‚Æ‚µ‚Ä‹@”\‚µ‚Ä‚¢‚éB	‚»‚ÌŒö‰€‚ÍA’nˆæZ–¯‚ÌŒe‚¢‚Ìê‚Æ‚¢‚¤–¼–Ú‚Å‹@”\‚µ‚Ä‚¢‚éB														
+CP3060					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		¬–ì–…Žq‚ÍŒ­ä@Žg‚Æ‚µ‚Ää@‚É”hŒ­‚³‚ê‚½B	¬–ì–…Žq‚ÍŒ­“‚Žg‚Æ‚¢‚¤—§ê‚Åä@‚É”hŒ­‚³‚ê‚½B														
+CP3061					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		yes	"Case Particle, -tosite"	entailment		‘¾˜Y‚ÍogŒ§‚ÌŠÏŒõ‘åŽg‚Æ‚µ‚ÄŠˆ“®‚µ‚Ä‚¢‚éB	‘¾˜Y‚ÍogŒ§‚ÌŠÏŒõ‘åŽg‚Å‚ ‚éB														
+CP3062					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		yes	"Case Particle, -tosite"	entailment		‚»‚Ìƒ^ƒŒƒ“ƒg‚ÍV”Ô‘g‚ÉƒAƒVƒXƒ^ƒ“ƒg‚Æ‚µ‚Ä‰Á“ü‚µ‚½B	‚»‚Ìƒ^ƒŒƒ“ƒg‚ÍV”Ô‘g‚ÌƒAƒVƒXƒ^ƒ“ƒg‚Å‚ ‚éB														
+CP3063					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		yes	"Case Particle, -tosite"	entailment		‚»‚ÌˆãŽÒ‚ÍŒöO‰q¶‚Ìê–å‰Æ‚Æ‚µ‚Ä‘‚ÌŠ´õÇ‘Îô‚É‚Â‚¢‚ÄˆÓŒ©‚ðq‚×‚½B	‚»‚ÌˆãŽÒ‚ÍŒöO‰q¶‚Ìê–å‰Æ‚Å‚ ‚éB														
+CP3064					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		yes	"Case Particle, -tosite"	entailment		‚»‚ÌŒö‰€‚ÍA’nˆæZ–¯‚ÌŒe‚¢‚Ìê‚Æ‚µ‚Ä‹@”\‚µ‚Ä‚¢‚éB	‚»‚ÌŒö‰€‚Í’nˆæZ–¯‚ÌŒe‚¢‚Ìê‚Å‚ ‚éB														
+CP3065					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		yes	"Case Particle, -tosite"	entailment		¬–ì–…Žq‚ÍŒ­ä@Žg‚Æ‚µ‚Ää@‚É”hŒ­‚³‚ê‚½B	¬–ì–…Žq‚ÍŒ­ä@Žg‚Å‚ ‚éB														
+CP3066					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‘¾˜Y‚ÍogŒ§‚ÌŠÏŒõ‘åŽg‚Æ‚µ‚ÄŠˆ“®‚µ‚Ä‚¢‚éB	‘¾˜Y‚ÍogŒ§‚ÌŠÏŒõ‘åŽg‚Å‚ ‚é‚È‚ç‚ÎŠˆ“®‚µ‚Ä‚¢‚éB														
+CP3067					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ìƒ^ƒŒƒ“ƒg‚ÍV”Ô‘g‚ÉƒAƒVƒXƒ^ƒ“ƒg‚Æ‚µ‚Ä‰Á“ü‚µ‚½B	‚»‚Ìƒ^ƒŒƒ“ƒg‚ÍV”Ô‘g‚ÉƒAƒVƒXƒ^ƒ“ƒg‚Å‚ ‚é‚È‚ç‚Î‰Á“ü‚µ‚½B														
+CP3068					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚ÌˆãŽÒ‚ÍŒöO‰q¶‚Ìê–å‰Æ‚Æ‚µ‚Ä‘‚ÌŠ´õÇ‘Îô‚É‚Â‚¢‚ÄˆÓŒ©‚ðq‚×‚½B	‚»‚ÌˆãŽÒ‚ÍŒöO‰q¶‚Ìê–å‰Æ‚Å‚ ‚é‚È‚ç‚Î‘‚ÌŠ´õÇ‘Îô‚É‚Â‚¢‚ÄˆÓŒ©‚ðq‚×‚½B														
+CP3069					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚ÌŒö‰€‚ÍA’nˆæZ–¯‚ÌŒe‚¢‚Ìê‚Æ‚µ‚Ä‹@”\‚µ‚Ä‚¢‚éB	‚»‚ÌŒö‰€‚ÍA’nˆæZ–¯‚ÌŒe‚¢‚Ìê‚Å‚ ‚é‚È‚ç‚Î‹@”\‚µ‚Ä‚¢‚éB														
+CP3070					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			¬–ì–…Žq‚ÍŒ­ä@Žg‚Æ‚µ‚Ää@‚É”hŒ­‚³‚ê‚½B	¬–ì–…Žq‚ÍŒ­ä@Žg‚Å‚ ‚é‚È‚ç‚Îä@‚É”hŒ­‚³‚ê‚½B														
+CP3071					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‘¾˜Y‚ÍogŒ§‚ÌŠÏŒõ‘åŽg‚Æ‚µ‚ÄŠˆ“®‚µ‚Ä‚¢‚éB	‘¾˜Y‚ÍogŒ§‚ÌŠÏŒõ‘åŽg‚ÅŠˆ“®‚µ‚Ä‚¢‚éB														
+CP3072					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‚»‚Ìƒ^ƒŒƒ“ƒg‚ÍV”Ô‘g‚ÉƒAƒVƒXƒ^ƒ“ƒg‚Æ‚µ‚Ä‰Á“ü‚µ‚½B	‚»‚Ìƒ^ƒŒƒ“ƒg‚ÍV”Ô‘g‚ÉƒAƒVƒXƒ^ƒ“ƒg‚Å‰Á“ü‚µ‚½B														
+CP3073					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‚»‚ÌˆãŽÒ‚ÍŒöO‰q¶‚Ìê–å‰Æ‚Æ‚µ‚Ä‘‚ÌŠ´õÇ‘Îô‚É‚Â‚¢‚ÄˆÓŒ©‚ðq‚×‚½B	‚»‚ÌˆãŽÒ‚ÍŒöO‰q¶‚Ìê–å‰Æ‚Å‘‚ÌŠ´õÇ‘Îô‚É‚Â‚¢‚ÄˆÓŒ©‚ðq‚×‚½B														
+CP3074					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‚»‚ÌŒö‰€‚ÍA’nˆæZ–¯‚ÌŒe‚¢‚Ìê‚Æ‚µ‚Ä‹@”\‚µ‚Ä‚¢‚éB	‚»‚ÌŒö‰€‚ÍA’nˆæZ–¯‚ÌŒe‚¢‚Ìê‚Å‹@”\‚µ‚Ä‚¢‚éB														
+CP3075					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			¬–ì–…Žq‚ÍŒ­ä@Žg‚Æ‚µ‚Ää@‚É”hŒ­‚³‚ê‚½B	¬–ì–…Žq‚ÍŒ­ä@Žg‚Åä@‚É”hŒ­‚³‚ê‚½B														
+CP3076					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‘¾˜Y‚ÍogŒ§‚ÌŠÏŒõ‘åŽg‚Æ‚µ‚ÄŠˆ“®‚µ‚Ä‚¢‚éB	‘¾˜Y‚ÍogŒ§‚ÌŠÏŒõ‘åŽg‚ÉŠˆ“®‚µ‚Ä‚¢‚éB														
+CP3077					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ìƒ^ƒŒƒ“ƒg‚ÍV”Ô‘g‚ÉƒAƒVƒXƒ^ƒ“ƒg‚Æ‚µ‚Ä‰Á“ü‚µ‚½B	‚»‚Ìƒ^ƒŒƒ“ƒg‚ÍV”Ô‘g‚ÉƒAƒVƒXƒ^ƒ“ƒg‚É‰Á“ü‚µ‚½B														
+CP3078					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚ÌˆãŽÒ‚ÍŒöO‰q¶‚Ìê–å‰Æ‚Æ‚µ‚Ä‘‚ÌŠ´õÇ‘Îô‚É‚Â‚¢‚ÄˆÓŒ©‚ðq‚×‚½B	‚»‚ÌˆãŽÒ‚ÍŒöO‰q¶‚Ìê–å‰Æ‚É‘‚ÌŠ´õÇ‘Îô‚É‚Â‚¢‚ÄˆÓŒ©‚ðq‚×‚½B														
+CP3079					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚ÌŒö‰€‚ÍA’nˆæZ–¯‚ÌŒe‚¢‚Ìê‚Æ‚µ‚Ä‹@”\‚µ‚Ä‚¢‚éB	‚»‚ÌŒö‰€‚ÍA’nˆæZ–¯‚ÌŒe‚¢‚Ìê‚É‹@”\‚µ‚Ä‚¢‚éB														
+CP3080					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			¬–ì–…Žq‚ÍŒ­ä@Žg‚Æ‚µ‚Ää@‚É”hŒ­‚³‚ê‚½B	¬–ì–…Žq‚ÍŒ­ä@Žg‚Éä@‚É”hŒ­‚³‚ê‚½B														
+CP3081					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‘¾˜Y‚ÍogŒ§‚ÌŠÏŒõ‘åŽg‚Æ‚µ‚ÄŠˆ“®‚µ‚Ä‚¢‚éB	‘¾˜Y‚ÍogŒ§‚ÌŠÏŒõ‘åŽg‚Æ‚µ‚Ü‚µ‚ÄŠˆ“®‚µ‚Ä‚¢‚Ü‚·B														
+CP3082					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ìƒ^ƒŒƒ“ƒg‚ÍV”Ô‘g‚ÉƒAƒVƒXƒ^ƒ“ƒg‚Æ‚µ‚Ä‰Á“ü‚µ‚½B	‚»‚Ìƒ^ƒŒƒ“ƒg‚ÍV”Ô‘g‚ÉƒAƒVƒXƒ^ƒ“ƒg‚Æ‚µ‚Ü‚µ‚Ä‰Á“ü‚µ‚Ü‚µ‚½B														
+CP3083					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚ÌˆãŽÒ‚ÍŒöO‰q¶‚Ìê–å‰Æ‚Æ‚µ‚Ä‘‚ÌŠ´õÇ‘Îô‚É‚Â‚¢‚ÄˆÓŒ©‚ðq‚×‚½B	‚»‚ÌˆãŽÒ‚ÍŒöO‰q¶‚Ìê–å‰Æ‚Æ‚µ‚Ü‚µ‚Ä‘‚ÌŠ´õÇ‘Îô‚É‚Â‚¢‚ÄˆÓŒ©‚ðq‚×‚Ü‚µ‚½B														
+CP3084					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚ÌŒö‰€‚ÍA’nˆæZ–¯‚ÌŒe‚¢‚Ìê‚Æ‚µ‚Ä‹@”\‚µ‚Ä‚¢‚éB	‚»‚ÌŒö‰€‚ÍA’nˆæZ–¯‚ÌŒe‚¢‚Ìê‚Æ‚µ‚Ü‚µ‚Ä‹@”\‚µ‚Ä‚¢‚Ü‚·B														
+CP3085					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			¬–ì–…Žq‚ÍŒ­ä@Žg‚Æ‚µ‚Ää@‚É”hŒ­‚³‚ê‚½B	¬–ì–…Žq‚ÍŒ­ä@Žg‚Æ‚µ‚Ü‚µ‚Ää@‚É”hŒ­‚³‚ê‚Ü‚µ‚½B														
+CP3086					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‘¾˜Y‚ÍogŒ§‚ÌŠÏŒõ‘åŽg‚Æ‚µ‚ÄŠˆ“®‚µ‚Ä‚¢‚éB	‘¾˜Y‚ÍogŒ§‚ÌŠÏŒõ‘åŽg‚É‚Æ‚Á‚ÄŠˆ“®‚µ‚Ä‚¢‚éB														
+CP3087					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ìƒ^ƒŒƒ“ƒg‚ÍV”Ô‘g‚ÉƒAƒVƒXƒ^ƒ“ƒg‚Æ‚µ‚Ä‰Á“ü‚µ‚½B	‚»‚Ìƒ^ƒŒƒ“ƒg‚ÍV”Ô‘g‚ÉƒAƒVƒXƒ^ƒ“ƒg‚É‚Æ‚Á‚Ä‰Á“ü‚µ‚½B														
+CP3088					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚ÌˆãŽÒ‚ÍŒöO‰q¶‚Ìê–å‰Æ‚Æ‚µ‚Ä‘‚ÌŠ´õÇ‘Îô‚É‚Â‚¢‚ÄˆÓŒ©‚ðq‚×‚½B	‚»‚ÌˆãŽÒ‚ÍŒöO‰q¶‚Ìê–å‰Æ‚É‚Æ‚Á‚Ä‘‚ÌŠ´õÇ‘Îô‚É‚Â‚¢‚ÄˆÓŒ©‚ðq‚×‚½B														
+CP3089					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚ÌŒö‰€‚ÍA’nˆæZ–¯‚ÌŒe‚¢‚Ìê‚Æ‚µ‚Ä‹@”\‚µ‚Ä‚¢‚éB	‚»‚ÌŒö‰€‚ÍA’nˆæZ–¯‚ÌŒe‚¢‚Ìê‚É‚Æ‚Á‚Ä‹@”\‚µ‚Ä‚¢‚éB														
+CP3090					sŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Ä‘¶ÝEs“®‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			¬–ì–…Žq‚ÍŒ­ä@Žg‚Æ‚µ‚Ää@‚É”hŒ­‚³‚ê‚½B	¬–ì–…Žq‚ÍŒ­ä@Žg‚É‚Æ‚Á‚Ää@‚É”hŒ­‚³‚ê‚½B														
+CP3091					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment	ŽQlF—é–Ø’q”ü(2006)uu`‚Æ‚µ‚ÄvÄlvAw“Œ‹žŠO‘Œê‘åŠw—¯Šw¶“ú–{Œê‹³ˆçƒZƒ“ƒ^[˜_Wx32:1-17B	‘¾˜Y‚Í‘æ“ñŠO‘Œê‚Æ‚µ‚Äƒtƒ‰ƒ“ƒXŒê‚ð—šC‚µ‚½B	‘¾˜Y‚Í‘æ“ñŠO‘Œê‚Æ‚¢‚¤–¼–Ú‚Åƒtƒ‰ƒ“ƒXŒê‚ð—šC‚µ‚½B														
+CP3092					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‰ÔŽq‚Í•ÛŒìŒ¢‚ðV‚µ‚¢‰Æ‘°‚Æ‚µ‚ÄŒ}‚¦“ü‚ê‚½B	‰ÔŽq‚Í•ÛŒìŒ¢‚ð‰Æ‘°‚Æ‚¢‚¤—§ê‚ÅŒ}‚¦“ü‚ê‚½B														
+CP3093					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‚»‚Ìæ‹q‚Í¬‚³‚Èƒgƒ‰ƒ“ƒN‚ðŽè‰×•¨‚Æ‚µ‚Ä‹@“à‚ÉŽ‚¿ž‚ñ‚¾B	‚»‚Ìæ‹q‚Í¬‚³‚Èƒgƒ‰ƒ“ƒN‚ðŽè‰×•¨‚Æ‚¢‚¤–¼–Ú‚Å‹@“à‚ÉŽ‚¿ž‚ñ‚¾B	1783”NAƒCƒMƒŠƒX‚ÍƒAƒƒŠƒJ‡O‘‚ðŽåŒ ‘‰Æ‚Æ‚µ‚Ä”F‚ß‚½B	1783”NAƒCƒMƒŠƒX‚ÍƒAƒƒŠƒJ‡O‘‚ðŽåŒ ‘‰Æ‚¢‚¤—§ê‚Å”F‚ß‚½B												
+CP3094					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‚»‚Ì”Ô‘g‚Íl‹CƒAƒCƒhƒ‹‚ð“Á•ÊƒQƒXƒg‚Æ‚µ‚Äµ‚¢‚½B	‚»‚Ì”Ô‘g‚Íl‹CƒAƒCƒhƒ‹‚ð“Á•ÊƒQƒXƒg‚Æ‚¢‚¤—§ê‚Åµ‚¢‚½B														
+CP3095					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‚»‚Ì‰ÌŽè‚ÍV‹È‚ðŽµ–‡–Ú‚ÌƒVƒ“ƒOƒ‹‚Æ‚µ‚Ä”­”„‚µ‚½B	‚»‚Ì‰ÌŽè‚ÍV‹È‚ðŽµ–‡–Ú‚ÌƒVƒ“ƒOƒ‹‚Æ‚¢‚¤–¼–Ú‚Å”­”„‚µ‚½B														
+CP3096					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unknown	"Case Particle, -tosite"			‘¾˜Y‚Í‘æ“ñŠO‘Œê‚Æ‚µ‚Äƒtƒ‰ƒ“ƒXŒê‚ð—šC‚µ‚½B	ƒtƒ‰ƒ“ƒXŒê‚Í‘æ“ñŠO‘Œê‚Å‚ ‚éB														
+CP3097					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unknown	"Case Particle, -tosite"			‰ÔŽq‚Í•ÛŒìŒ¢‚ðV‚µ‚¢‰Æ‘°‚Æ‚µ‚ÄŒ}‚¦“ü‚ê‚½B	•ÛŒìŒ¢‚ÍV‚µ‚¢‰Æ‘°‚Å‚ ‚éB														
+CP3098					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unknown	"Case Particle, -tosite"			‚»‚Ìæ‹q‚Í¬‚³‚Èƒgƒ‰ƒ“ƒN‚ðŽè‰×•¨‚Æ‚µ‚Ä‹@“à‚ÉŽ‚¿ž‚ñ‚¾B	¬‚³‚Èƒgƒ‰ƒ“ƒN‚ÍŽè‰×•¨‚Å‚ ‚éB														
+CP3099					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unknown	"Case Particle, -tosite"			‚»‚Ì”Ô‘g‚Íl‹CƒAƒCƒhƒ‹‚ð“Á•ÊƒQƒXƒg‚Æ‚µ‚Äµ‚¢‚½B	l‹CƒAƒCƒhƒ‹‚Í“Á•ÊƒQƒXƒg‚Å‚ ‚éB														
+CP3100					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unknown	"Case Particle, -tosite"			‚»‚Ì‰ÌŽè‚ÍV‹È‚ðŽµ–‡–Ú‚ÌƒVƒ“ƒOƒ‹‚Æ‚µ‚Ä”­”„‚µ‚½B	V‹È‚ÍŽµ–‡–Ú‚ÌƒVƒ“ƒOƒ‹‚Å‚ ‚éB														
+CP3101					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFŽåŒê‚É‚Æ‚Á‚Ä‚Ì–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unknown	"Case Particle, -tosite"			‘¾˜Y‚Í‘æ“ñŠO‘Œê‚Æ‚µ‚Äƒtƒ‰ƒ“ƒXŒê‚ð—šC‚µ‚½B	‘¾˜Y‚É‚Æ‚Á‚ÄAƒtƒ‰ƒ“ƒXŒê‚Í‘æ“ñŠO‘Œê‚Å‚ ‚éB														
+CP3102					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFŽåŒê‚É‚Æ‚Á‚Ä‚Ì–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unknown	"Case Particle, -tosite"			‰ÔŽq‚Í•ÛŒìŒ¢‚ðV‚µ‚¢‰Æ‘°‚Æ‚µ‚ÄŒ}‚¦“ü‚ê‚½B	‰ÔŽq‚É‚Æ‚Á‚ÄA•ÛŒìŒ¢‚ÍV‚µ‚¢‰Æ‘°‚Å‚ ‚éB														
+CP3103					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFŽåŒê‚É‚Æ‚Á‚Ä‚Ì–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unknown	"Case Particle, -tosite"			‚»‚Ìæ‹q‚Í¬‚³‚Èƒgƒ‰ƒ“ƒN‚ðŽè‰×•¨‚Æ‚µ‚Ä‹@“à‚ÉŽ‚¿ž‚ñ‚¾B	‚»‚Ìæ‹q‚É‚Æ‚Á‚ÄA¬‚³‚Èƒgƒ‰ƒ“ƒN‚ÍŽè‰×•¨‚Å‚ ‚éB														
+CP3104					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFŽåŒê‚É‚Æ‚Á‚Ä‚Ì–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unknown	"Case Particle, -tosite"			‚»‚Ì”Ô‘g‚Íl‹CƒAƒCƒhƒ‹‚ð“Á•ÊƒQƒXƒg‚Æ‚µ‚Äµ‚¢‚½B	‚»‚Ì”Ô‘g‚É‚Æ‚Á‚ÄAl‹CƒAƒCƒhƒ‹‚Í“Á•ÊƒQƒXƒg‚Å‚ ‚éB														
+CP3105					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFŽåŒê‚É‚Æ‚Á‚Ä‚Ì–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unknown	"Case Particle, -tosite"			‚»‚Ì‰ÌŽè‚ÍV‹È‚ðŽµ–‡–Ú‚ÌƒVƒ“ƒOƒ‹‚Æ‚µ‚Ä”­”„‚µ‚½B	‚»‚Ì‰ÌŽè‚É‚Æ‚Á‚ÄAV‹È‚ÍŽµ–‡–Ú‚ÌƒVƒ“ƒOƒ‹‚Å‚ ‚éB														
+CP3106					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‘¾˜Y‚Í‘æ“ñŠO‘Œê‚Æ‚µ‚Äƒtƒ‰ƒ“ƒXŒê‚ð—šC‚µ‚½B	‘¾˜Y‚Í‘æ“ñŠO‘Œê‚Å‚ ‚é‚È‚ç‚Îƒtƒ‰ƒ“ƒXŒê‚ð—šC‚µ‚½B														
+CP3107					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‰ÔŽq‚Í•ÛŒìŒ¢‚ðV‚µ‚¢‰Æ‘°‚Æ‚µ‚ÄŒ}‚¦“ü‚ê‚½B	‰ÔŽq‚Í•ÛŒìŒ¢‚ðV‚µ‚¢‰Æ‘°‚Å‚ ‚é‚È‚ç‚ÎŒ}‚¦“ü‚ê‚½B														
+CP3108					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ìæ‹q‚Í¬‚³‚Èƒgƒ‰ƒ“ƒN‚ðŽè‰×•¨‚Æ‚µ‚Ä‹@“à‚ÉŽ‚¿ž‚ñ‚¾B	‚»‚Ìæ‹q‚Í¬‚³‚Èƒgƒ‰ƒ“ƒN‚ðŽè‰×•¨‚Å‚ ‚é‚È‚ç‚Î‹@“à‚ÉŽ‚¿ž‚ñ‚¾B														
+CP3109					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ì”Ô‘g‚Íl‹CƒAƒCƒhƒ‹‚ð“Á•ÊƒQƒXƒg‚Æ‚µ‚Äµ‚¢‚½B	‚»‚Ì”Ô‘g‚Íl‹CƒAƒCƒhƒ‹‚ð“Á•ÊƒQƒXƒg‚Å‚ ‚é‚È‚ç‚Îµ‚¢‚½B														
+CP3110					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ì‰ÌŽè‚ÍV‹È‚ðŽµ–‡–Ú‚ÌƒVƒ“ƒOƒ‹‚Æ‚µ‚Ä”­”„‚µ‚½B	‚»‚Ì‰ÌŽè‚ÍV‹È‚ðŽµ–‡–Ú‚ÌƒVƒ“ƒOƒ‹‚Å‚ ‚é‚È‚ç‚Î”­”„‚µ‚½B														
+CP3111					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‘¾˜Y‚Í‘æ“ñŠO‘Œê‚Æ‚µ‚Äƒtƒ‰ƒ“ƒXŒê‚ð—šC‚µ‚½B	‘¾˜Y‚Í‘æ“ñŠO‘Œê‚Åƒtƒ‰ƒ“ƒXŒê‚ð—šC‚µ‚½B														
+CP3112					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"Case Particle, -tosite"			‰ÔŽq‚Í•ÛŒìŒ¢‚ðV‚µ‚¢‰Æ‘°‚Æ‚µ‚ÄŒ}‚¦“ü‚ê‚½B	‰ÔŽq‚Í•ÛŒìŒ¢‚ðV‚µ‚¢‰Æ‘°‚ÅŒ}‚¦“ü‚ê‚½B														
+CP3113					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‚»‚Ìæ‹q‚Í¬‚³‚Èƒgƒ‰ƒ“ƒN‚ðŽè‰×•¨‚Æ‚µ‚Ä‹@“à‚ÉŽ‚¿ž‚ñ‚¾B	‚»‚Ìæ‹q‚Í¬‚³‚Èƒgƒ‰ƒ“ƒN‚ðŽè‰×•¨‚Å‹@“à‚ÉŽ‚¿ž‚ñ‚¾B														
+CP3114					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‚»‚Ì”Ô‘g‚Íl‹CƒAƒCƒhƒ‹‚ð“Á•ÊƒQƒXƒg‚Æ‚µ‚Äµ‚¢‚½B	‚»‚Ì”Ô‘g‚Íl‹CƒAƒCƒhƒ‹‚ð“Á•ÊƒQƒXƒg‚Åµ‚¢‚½B														
+CP3115					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‚»‚Ì‰ÌŽè‚ÍV‹È‚ðŽµ–‡–Ú‚ÌƒVƒ“ƒOƒ‹‚Æ‚µ‚Ä”­”„‚µ‚½B	‚»‚Ì‰ÌŽè‚ÍV‹È‚ðŽµ–‡–Ú‚ÌƒVƒ“ƒOƒ‹‚Å”­”„‚µ‚½B														
+CP3116					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‘¾˜Y‚Í‘æ“ñŠO‘Œê‚Æ‚µ‚Äƒtƒ‰ƒ“ƒXŒê‚ð—šC‚µ‚½B	‘¾˜Y‚Í‘æ“ñŠO‘Œê‚Éƒtƒ‰ƒ“ƒXŒê‚ð—šC‚µ‚½B														
+CP3117					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‰ÔŽq‚Í•ÛŒìŒ¢‚ðV‚µ‚¢‰Æ‘°‚Æ‚µ‚ÄŒ}‚¦“ü‚ê‚½B	‰ÔŽq‚Í•ÛŒìŒ¢‚ðV‚µ‚¢‰Æ‘°‚ÉŒ}‚¦“ü‚ê‚½B														
+CP3118					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ìæ‹q‚Í¬‚³‚Èƒgƒ‰ƒ“ƒN‚ðŽè‰×•¨‚Æ‚µ‚Ä‹@“à‚ÉŽ‚¿ž‚ñ‚¾B	‚»‚Ìæ‹q‚Í¬‚³‚Èƒgƒ‰ƒ“ƒN‚ðŽè‰×•¨‚É‹@“à‚ÉŽ‚¿ž‚ñ‚¾B														
+CP3119					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‚»‚Ì”Ô‘g‚Íl‹CƒAƒCƒhƒ‹‚ð“Á•ÊƒQƒXƒg‚Æ‚µ‚Äµ‚¢‚½B	‚»‚Ì”Ô‘g‚Íl‹CƒAƒCƒhƒ‹‚ð“Á•ÊƒQƒXƒg‚Éµ‚¢‚½B														
+CP3120					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ì‰ÌŽè‚ÍV‹È‚ðŽµ–‡–Ú‚ÌƒVƒ“ƒOƒ‹‚Æ‚µ‚Ä”­”„‚µ‚½B	‚»‚Ì‰ÌŽè‚ÍV‹È‚ðŽµ–‡–Ú‚ÌƒVƒ“ƒOƒ‹‚É”­”„‚µ‚½B														
+CP3121					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‘¾˜Y‚Í‘æ“ñŠO‘Œê‚Æ‚µ‚Äƒtƒ‰ƒ“ƒXŒê‚ð—šC‚µ‚½B	‘¾˜Y‚Í‘æ“ñŠO‘Œê‚Æ‚µ‚Ü‚µ‚Äƒtƒ‰ƒ“ƒXŒê‚ð—šC‚µ‚Ü‚µ‚½B														
+CP3122					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‰ÔŽq‚Í•ÛŒìŒ¢‚ðV‚µ‚¢‰Æ‘°‚Æ‚µ‚ÄŒ}‚¦“ü‚ê‚½B	‰ÔŽq‚Í•ÛŒìŒ¢‚ðV‚µ‚¢‰Æ‘°‚Æ‚µ‚Ü‚µ‚ÄŒ}‚¦“ü‚ê‚Ü‚µ‚½B														
+CP3123					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‚»‚Ìæ‹q‚Í¬‚³‚Èƒgƒ‰ƒ“ƒN‚ðŽè‰×•¨‚Æ‚µ‚Ä‹@“à‚ÉŽ‚¿ž‚ñ‚¾B	‚»‚Ìæ‹q‚Í¬‚³‚Èƒgƒ‰ƒ“ƒN‚ðŽè‰×•¨‚Æ‚µ‚Ü‚µ‚Ä‹@“à‚ÉŽ‚¿ž‚Ý‚Ü‚µ‚½B														
+CP3124					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‚»‚Ì”Ô‘g‚Íl‹CƒAƒCƒhƒ‹‚ð“Á•ÊƒQƒXƒg‚Æ‚µ‚Äµ‚¢‚½B	‚»‚Ì”Ô‘g‚Íl‹CƒAƒCƒhƒ‹‚ð“Á•ÊƒQƒXƒg‚Æ‚µ‚Ü‚µ‚Äµ‚«‚Ü‚µ‚½B														
+CP3125					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‚»‚Ì‰ÌŽè‚ÍV‹È‚ðŽµ–‡–Ú‚ÌƒVƒ“ƒOƒ‹‚Æ‚µ‚Ä”­”„‚µ‚½B	‚»‚Ì‰ÌŽè‚ÍV‹È‚ðŽµ–‡–Ú‚ÌƒVƒ“ƒOƒ‹‚Æ‚µ‚Ü‚µ‚Ä”­”„‚µ‚Ü‚µ‚½B														
+CP3126					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‘¾˜Y‚Í‘æ“ñŠO‘Œê‚Æ‚µ‚Äƒtƒ‰ƒ“ƒXŒê‚ð—šC‚µ‚½B	‘¾˜Y‚Í‘æ“ñŠO‘Œê‚É‚Æ‚Á‚Äƒtƒ‰ƒ“ƒXŒê‚ð—šC‚µ‚½B														
+CP3127					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‰ÔŽq‚Í•ÛŒìŒ¢‚ðV‚µ‚¢‰Æ‘°‚Æ‚µ‚ÄŒ}‚¦“ü‚ê‚½B	‰ÔŽq‚Í•ÛŒìŒ¢‚ðV‚µ‚¢‰Æ‘°‚É‚Æ‚Á‚ÄŒ}‚¦“ü‚ê‚½B														
+CP3128					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ìæ‹q‚Í¬‚³‚Èƒgƒ‰ƒ“ƒN‚ðŽè‰×•¨‚Æ‚µ‚Ä‹@“à‚ÉŽ‚¿ž‚ñ‚¾B	‚»‚Ìæ‹q‚Í¬‚³‚Èƒgƒ‰ƒ“ƒN‚ðŽè‰×•¨‚É‚Æ‚Á‚Ä‹@“à‚ÉŽ‚¿ž‚ñ‚¾B														
+CP3129					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ì”Ô‘g‚Íl‹CƒAƒCƒhƒ‹‚ð“Á•ÊƒQƒXƒg‚Æ‚µ‚Äµ‚¢‚½B	‚»‚Ì”Ô‘g‚Íl‹CƒAƒCƒhƒ‹‚ð“Á•ÊƒQƒXƒg‚É‚Æ‚Á‚Äµ‚¢‚½B														
+CP3130					ssˆ×‚Ì‘ÎÛ‚É‘Î‚µAŽ‘ŠiE—§êE–¼–Ú‚ðÝ’è‚µ‚Äsˆ×Es“®E‘Ô“x‚Ì‚ ‚è•û‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ì‰ÌŽè‚ÍV‹È‚ðŽµ–‡–Ú‚ÌƒVƒ“ƒOƒ‹‚Æ‚µ‚Ä”­”„‚µ‚½B	‚»‚Ì‰ÌŽè‚ÍV‹È‚ðŽµ–‡–Ú‚ÌƒVƒ“ƒOƒ‹‚É‚Æ‚Á‚Ä”­”„‚µ‚½B														
+CP3131					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"		ŽQlF—é–Ø’q”ü(2006)uu`‚Æ‚µ‚ÄvÄlvAw“Œ‹žŠO‘Œê‘åŠw—¯Šw¶“ú–{Œê‹³ˆçƒZƒ“ƒ^[˜_Wx32:1-17B	Œ‹Šj‚Í‚©‚Â‚Ä•sŽ¡‚Ì•a‚Æ‚µ‚Ä‹°‚ê‚ç‚ê‚Ä‚¢‚½B	Œ‹Šj‚Í‚©‚Â‚Ä•sŽ¡‚Ì•a‚Æ‚¢‚¤–¼–Ú‚Å‹°‚ê‚ç‚ê‚Ä‚¢‚½B														
+CP3132					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			ƒ}ƒbƒ^[ƒzƒ‹ƒ“‚ÍƒXƒCƒX‚ð‘ã•\‚·‚é–¼•ô‚Æ‚µ‚Ä’m‚ç‚ê‚Ä‚¢‚éB	ƒ}ƒbƒ^[ƒzƒ‹ƒ“‚ÍƒXƒCƒX‚ð‘ã•\‚·‚é–¼•ô‚Æ‚¢‚¤–¼–Ú‚Å’m‚ç‚ê‚Ä‚¢‚éB														
+CP3133					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‹ƒ^ƒ“‚Íå‘ä‚Ì–¼•¨‚Æ‚µ‚Äl‹C‚ª‚ ‚éB	‹ƒ^ƒ“‚Íå‘ä‚Ì–¼•¨‚Æ‚¢‚¤–¼–Ú‚Ål‹C‚ª‚ ‚éB														
+CP3134					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			ƒcƒoƒ‚Ì‘ƒ‚Í‚‹‰HÞ‚Æ‚µ‚Ä’¿d‚³‚ê‚Ä‚¢‚éB	ƒcƒoƒ‚Ì‘ƒ‚Í‚‹‰HÞ‚Æ‚¢‚¤–¼–Ú‚Å’¿d‚³‚ê‚Ä‚¢‚éB														
+CP3135					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‘¾˜Y‚É‚Æ‚Á‚Ä‰ÔŽq‚ÍãŽi‚Æ‚µ‚Ä—‘z“I‚¾‚Á‚½B	‘¾˜Y‚É‚Æ‚Á‚Ä‰ÔŽq‚ÍãŽi‚Æ‚¢‚¤—§ê‚Å—‘z“I‚¾‚Á‚½B														
+CP3136					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		yes	"Case Particle, -tosite"	entailment		Œ‹Šj‚Í‚©‚Â‚Ä•sŽ¡‚Ì•a‚Æ‚µ‚Ä‹°‚ê‚ç‚ê‚Ä‚¢‚½B	Œ‹Šj‚Í‚©‚Â‚Ä•sŽ¡‚Ì•a‚¾‚Á‚½B														
+CP3137					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		yes	"Case Particle, -tosite"	entailment		ƒ}ƒbƒ^[ƒzƒ‹ƒ“‚ÍƒXƒCƒX‚ð‘ã•\‚·‚é–¼•ô‚Æ‚µ‚Ä’m‚ç‚ê‚Ä‚¢‚éB	ƒ}ƒbƒ^[ƒzƒ‹ƒ“‚ÍƒXƒCƒX‚ð‘ã•\‚·‚é–¼•ô‚Å‚ ‚éB														
+CP3138					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		yes	"Case Particle, -tosite"	entailment		‹ƒ^ƒ“‚Íå‘ä‚Ì–¼•¨‚Æ‚µ‚Äl‹C‚ª‚ ‚éB	‹ƒ^ƒ“‚Íå‘ä‚Ì–¼•¨‚Å‚ ‚éB														
+CP3139					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		yes	"Case Particle, -tosite"	entailment		ƒcƒoƒ‚Ì‘ƒ‚Í‚‹‰HÞ‚Æ‚µ‚Ä’¿d‚³‚ê‚Ä‚¢‚éB	ƒcƒoƒ‚Ì‘ƒ‚Í‚‹‰HÞ‚Å‚ ‚éB														
+CP3140					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		yes	"Case Particle, -tosite"	entailment		‘¾˜Y‚É‚Æ‚Á‚Ä‰ÔŽq‚ÍãŽi‚Æ‚µ‚Ä—‘z“I‚¾‚Á‚½B	‘¾˜Y‚É‚Æ‚Á‚Ä‰ÔŽq‚ÍãŽi‚¾‚Á‚½B														
+CP3141					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			Œ‹Šj‚Í‚©‚Â‚Ä•sŽ¡‚Ì•a‚Æ‚µ‚Ä‹°‚ê‚ç‚ê‚Ä‚¢‚½B	Œ‹Šj‚Í‚©‚Â‚Ä•sŽ¡‚Ì•a‚Å‚ ‚é‚È‚ç‚Î‹°‚ê‚ç‚ê‚Ä‚¢‚½B														
+CP3142					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			ƒ}ƒbƒ^[ƒzƒ‹ƒ“‚ÍƒXƒCƒX‚ð‘ã•\‚·‚é–¼•ô‚Æ‚µ‚Ä’m‚ç‚ê‚Ä‚¢‚éB	ƒ}ƒbƒ^[ƒzƒ‹ƒ“‚ÍƒXƒCƒX‚ð‘ã•\‚·‚é–¼•ô‚Å‚ ‚é‚È‚ç‚Î’m‚ç‚ê‚Ä‚¢‚éB														
+CP3143					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‹ƒ^ƒ“‚Íå‘ä‚Ì–¼•¨‚Æ‚µ‚Äl‹C‚ª‚ ‚éB	‹ƒ^ƒ“‚Íå‘ä‚Ì–¼•¨‚Å‚ ‚é‚È‚ç‚Îl‹C‚ª‚ ‚éB														
+CP3144					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			ƒcƒoƒ‚Ì‘ƒ‚Í‚‹‰HÞ‚Æ‚µ‚Ä’¿d‚³‚ê‚Ä‚¢‚éB	ƒcƒoƒ‚Ì‘ƒ‚Í‚‹‰HÞ‚Å‚ ‚é‚È‚ç‚Î’¿d‚³‚ê‚Ä‚¢‚éB														
+CP3145					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‘¾˜Y‚É‚Æ‚Á‚Ä‰ÔŽq‚ÍãŽi‚Æ‚µ‚Ä—‘z“I‚¾‚Á‚½B	‘¾˜Y‚É‚Æ‚Á‚Ä‰ÔŽq‚ÍãŽi‚Å‚ ‚é‚È‚ç‚Î—‘z“I‚¾‚Á‚½B														
+CP3146					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			Œ‹Šj‚Í‚©‚Â‚Ä•sŽ¡‚Ì•a‚Æ‚µ‚Ä‹°‚ê‚ç‚ê‚Ä‚¢‚½B	Œ‹Šj‚Í‚©‚Â‚Ä•sŽ¡‚Ì•a‚Å‹°‚ê‚ç‚ê‚Ä‚¢‚½B														
+CP3147					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			ƒ}ƒbƒ^[ƒzƒ‹ƒ“‚ÍƒXƒCƒX‚ð‘ã•\‚·‚é–¼•ô‚Æ‚µ‚Ä’m‚ç‚ê‚Ä‚¢‚éB	ƒ}ƒbƒ^[ƒzƒ‹ƒ“‚ÍƒXƒCƒX‚ð‘ã•\‚·‚é–¼•ô‚Å’m‚ç‚ê‚Ä‚¢‚éB														
+CP3148					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‹ƒ^ƒ“‚Íå‘ä‚Ì–¼•¨‚Æ‚µ‚Äl‹C‚ª‚ ‚éB	‹ƒ^ƒ“‚Íå‘ä‚Ì–¼•¨‚Ål‹C‚ª‚ ‚éB														
+CP3149					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			ƒcƒoƒ‚Ì‘ƒ‚Í‚‹‰HÞ‚Æ‚µ‚Ä’¿d‚³‚ê‚Ä‚¢‚éB	ƒcƒoƒ‚Ì‘ƒ‚Í‚‹‰HÞ‚Å’¿d‚³‚ê‚Ä‚¢‚éB														
+CP3150					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‘¾˜Y‚É‚Æ‚Á‚Ä‰ÔŽq‚ÍãŽi‚Æ‚µ‚Ä—‘z“I‚¾‚Á‚½B	‘¾˜Y‚É‚Æ‚Á‚Ä‰ÔŽq‚ÍãŽi‚Å—‘z“I‚¾‚Á‚½B														
+CP3151					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			Œ‹Šj‚Í‚©‚Â‚Ä•sŽ¡‚Ì•a‚Æ‚µ‚Ä‹°‚ê‚ç‚ê‚Ä‚¢‚½B	Œ‹Šj‚Í‚©‚Â‚Ä•sŽ¡‚Ì•a‚É‹°‚ê‚ç‚ê‚Ä‚¢‚½B														
+CP3152					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			ƒ}ƒbƒ^[ƒzƒ‹ƒ“‚ÍƒXƒCƒX‚ð‘ã•\‚·‚é–¼•ô‚Æ‚µ‚Ä’m‚ç‚ê‚Ä‚¢‚éB	ƒ}ƒbƒ^[ƒzƒ‹ƒ“‚ÍƒXƒCƒX‚ð‘ã•\‚·‚é–¼•ô‚É’m‚ç‚ê‚Ä‚¢‚éB														
+CP3153					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‹ƒ^ƒ“‚Íå‘ä‚Ì–¼•¨‚Æ‚µ‚Äl‹C‚ª‚ ‚éB	‹ƒ^ƒ“‚Íå‘ä‚Ì–¼•¨‚Él‹C‚ª‚ ‚éB														
+CP3154					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			ƒcƒoƒ‚Ì‘ƒ‚Í‚‹‰HÞ‚Æ‚µ‚Ä’¿d‚³‚ê‚Ä‚¢‚éB	ƒcƒoƒ‚Ì‘ƒ‚Í‚‹‰HÞ‚É’¿d‚³‚ê‚Ä‚¢‚éB														
+CP3155					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‘¾˜Y‚É‚Æ‚Á‚Ä‰ÔŽq‚ÍãŽi‚Æ‚µ‚Ä—‘z“I‚¾‚Á‚½B	‘¾˜Y‚É‚Æ‚Á‚Ä‰ÔŽq‚ÍãŽi‚É—‘z“I‚¾‚Á‚½B														
+CP3156					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			Œ‹Šj‚Í‚©‚Â‚Ä•sŽ¡‚Ì•a‚Æ‚µ‚Ä‹°‚ê‚ç‚ê‚Ä‚¢‚½B	Œ‹Šj‚Í‚©‚Â‚Ä•sŽ¡‚Ì•a‚Æ‚µ‚Ü‚µ‚Ä‹°‚ê‚ç‚ê‚Ä‚¢‚Ü‚µ‚½B														
+CP3157					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			ƒ}ƒbƒ^[ƒzƒ‹ƒ“‚ÍƒXƒCƒX‚ð‘ã•\‚·‚é–¼•ô‚Æ‚µ‚Ä’m‚ç‚ê‚Ä‚¢‚éB	ƒ}ƒbƒ^[ƒzƒ‹ƒ“‚ÍƒXƒCƒX‚ð‘ã•\‚·‚é–¼•ô‚Æ‚µ‚Ü‚µ‚Ä’m‚ç‚ê‚Ä‚¢‚Ü‚·B														
+CP3158					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‹ƒ^ƒ“‚Íå‘ä‚Ì–¼•¨‚Æ‚µ‚Äl‹C‚ª‚ ‚éB	‹ƒ^ƒ“‚Íå‘ä‚Ì–¼•¨‚Æ‚µ‚Ü‚µ‚Äl‹C‚ª‚ ‚è‚Ü‚·B														
+CP3159					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			ƒcƒoƒ‚Ì‘ƒ‚Í‚‹‰HÞ‚Æ‚µ‚Ä’¿d‚³‚ê‚Ä‚¢‚éB	ƒcƒoƒ‚Ì‘ƒ‚Í‚‹‰HÞ‚Æ‚µ‚Ü‚µ‚Ä’¿d‚³‚ê‚Ä‚¢‚Ü‚·B														
+CP3160					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‘¾˜Y‚É‚Æ‚Á‚Ä‰ÔŽq‚ÍãŽi‚Æ‚µ‚Ä—‘z“I‚¾‚Á‚½B	‘¾˜Y‚É‚Æ‚Á‚Ä‰ÔŽq‚ÍãŽi‚Æ‚µ‚Ü‚µ‚Ä—‘z“I‚Å‚µ‚½B														
+CP3161					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			Œ‹Šj‚Í‚©‚Â‚Ä•sŽ¡‚Ì•a‚Æ‚µ‚Ä‹°‚ê‚ç‚ê‚Ä‚¢‚½B	Œ‹Šj‚Í‚©‚Â‚Ä•sŽ¡‚Ì•a‚É‚Æ‚Á‚Ä‹°‚ê‚ç‚ê‚Ä‚¢‚½B														
+CP3162					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			ƒ}ƒbƒ^[ƒzƒ‹ƒ“‚ÍƒXƒCƒX‚ð‘ã•\‚·‚é–¼•ô‚Æ‚µ‚Ä’m‚ç‚ê‚Ä‚¢‚éB	ƒ}ƒbƒ^[ƒzƒ‹ƒ“‚ÍƒXƒCƒX‚ð‘ã•\‚·‚é–¼•ô‚É‚Æ‚Á‚Ä’m‚ç‚ê‚Ä‚¢‚éB														
+CP3163					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‹ƒ^ƒ“‚Íå‘ä‚Ì–¼•¨‚Æ‚µ‚Äl‹C‚ª‚ ‚éB	‹ƒ^ƒ“‚Íå‘ä‚Ì–¼•¨‚É‚Æ‚Á‚Äl‹C‚ª‚ ‚éB														
+CP3164					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			ƒcƒoƒ‚Ì‘ƒ‚Í‚‹‰HÞ‚Æ‚µ‚Ä’¿d‚³‚ê‚Ä‚¢‚éB	ƒcƒoƒ‚Ì‘ƒ‚Í‚‹‰HÞ‚É‚Æ‚Á‚Ä’¿d‚³‚ê‚Ä‚¢‚éB														
+CP3165					sŽå‘è‚Ìˆê‘¤–Ê‚É‚Â‚¢‚Ä‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ð•\‚·u‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‘¾˜Y‚É‚Æ‚Á‚Ä‰ÔŽq‚ÍãŽi‚Æ‚µ‚Ä—‘z“I‚¾‚Á‚½B	‘¾˜Y‚É‚Æ‚Á‚Ä‰ÔŽq‚ÍãŽi‚É‚Æ‚Á‚Ä—‘z“I‚¾‚Á‚½B														
+CP3166					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"		ŽQlF—é–Ø’q”ü(2006)uu`‚Æ‚µ‚ÄvÄlvAw“Œ‹žŠO‘Œê‘åŠw—¯Šw¶“ú–{Œê‹³ˆçƒZƒ“ƒ^[˜_Wx32:1-17B	Œ_–ñ‚Éˆá”½‚·‚é‚Ì‚ÍAŽÐ‰ïl‚Æ‚µ‚Ä‚ ‚é‚Ü‚¶‚«sˆ×‚¾B	Œ_–ñ‚Éˆá”½‚·‚é‚Ì‚ÍAŽÐ‰ïl‚Æ‚¢‚¤—§ê‚Å‚ ‚é‚Ü‚¶‚«sˆ×‚¾B														
+CP3167					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			ŽÀŒ±Œ‹‰Ê‚ðs‘¢‚·‚é‚È‚ÇAŒ¤‹†ŽÒ‚Æ‚µ‚Ä‹–‚³‚ê‚È‚¢B	ŽÀŒ±Œ‹‰Ê‚ðs‘¢‚·‚é‚È‚ÇAŒ¤‹†ŽÒ‚Æ‚¢‚¤—§ê‚Å‹–‚³‚ê‚È‚¢B														
+CP3168					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			¶“k‚É•ª‚©‚è‚â‚·‚¢Žö‹Æ‚ðS‚ª‚¯‚é‚±‚Æ‚ÍA‹³Žt‚Æ‚µ‚Ä“–‘R‚Ì‚±‚Æ‚¾B	¶“k‚É•ª‚©‚è‚â‚·‚¢Žö‹Æ‚ðS‚ª‚¯‚é‚±‚Æ‚ÍA‹³Žt‚Æ‚¢‚¤—§ê‚Å“–‘R‚Ì‚±‚Æ‚¾B														
+CP3169					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			ƒ‚ƒ`ƒx[ƒVƒ‡ƒ“‚ðã‚°‚¸‚ÉŽŽ‡‚É—Õ‚Þ‚Ì‚ÍAƒvƒ‚Æ‚µ‚Ä’p‚¸‚©‚µ‚¢‚±‚Æ‚¾B	ƒ‚ƒ`ƒx[ƒVƒ‡ƒ“‚ðã‚°‚¸‚ÉŽŽ‡‚É—Õ‚Þ‚Ì‚ÍAƒvƒ‚Æ‚¢‚¤—§ê‚Å’p‚¸‚©‚µ‚¢‚±‚Æ‚¾B														
+CP3170					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			ŒÝ‚¢‚É•‚¯‡‚¤‚Ì‚ÍAlŠÔ‚Æ‚µ‚Ä“–‚½‚è‘O‚Ìsˆ×‚¾B	ŒÝ‚¢‚É•‚¯‡‚¤‚Ì‚ÍAlŠÔ‚Æ‚¢‚¤—§ê‚Å“–‚½‚è‘O‚Ìsˆ×‚¾B														
+CP3171					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unknown	"Case Particle, -tosite"			Œ_–ñ‚Éˆá”½‚·‚é‚Ì‚ÍAŽÐ‰ïl‚Æ‚µ‚Ä‚ ‚é‚Ü‚¶‚«sˆ×‚¾B	Œ_–ñ‚Éˆá”½‚·‚é‚Ì‚ÍŽÐ‰ïl‚Å‚ ‚éB														
+CP3172					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unknown	"Case Particle, -tosite"			ŽÀŒ±Œ‹‰Ê‚ðs‘¢‚·‚é‚È‚ÇAŒ¤‹†ŽÒ‚Æ‚µ‚Ä‹–‚³‚ê‚È‚¢B	ŽÀŒ±Œ‹‰Ê‚ðs‘¢‚·‚é‚Ì‚ÍŒ¤‹†ŽÒ‚Å‚ ‚éB														
+CP3173					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unknown	"Case Particle, -tosite"			¶“k‚É•ª‚©‚è‚â‚·‚¢Žö‹Æ‚ðS‚ª‚¯‚é‚±‚Æ‚ÍA‹³Žt‚Æ‚µ‚Ä“–‘R‚Ì‚±‚Æ‚¾B	¶“k‚É•ª‚©‚è‚â‚·‚¢Žö‹Æ‚ðS‚ª‚¯‚é‚Ì‚Í‹³Žt‚Å‚ ‚éB														
+CP3174					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unknown	"Case Particle, -tosite"			ƒ‚ƒ`ƒx[ƒVƒ‡ƒ“‚ðã‚°‚¸‚ÉŽŽ‡‚É—Õ‚Þ‚Ì‚ÍAƒvƒ‚Æ‚µ‚Ä’p‚¸‚©‚µ‚¢‚±‚Æ‚¾B	ƒ‚ƒ`ƒx[ƒVƒ‡ƒ“‚ðã‚°‚¸‚ÉŽŽ‡‚É—Õ‚Þ‚Ì‚Íƒvƒ‚Å‚ ‚éB														
+CP3175					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unknown	"Case Particle, -tosite"			ŒÝ‚¢‚É•‚¯‡‚¤‚Ì‚ÍAlŠÔ‚Æ‚µ‚Ä“–‚½‚è‘O‚Ìsˆ×‚¾B	ŒÝ‚¢‚É•‚¯‡‚¤‚Ì‚ÍlŠÔ‚Å‚ ‚éB														
+CP3176					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		Œ_–ñ‚Éˆá”½‚·‚é‚Ì‚ÍAŽÐ‰ïl‚Æ‚µ‚Ä‚ ‚é‚Ü‚¶‚«sˆ×‚¾B	Œ_–ñ‚Éˆá”½‚·‚é‚Ì‚ÍAŽÐ‰ïl‚Å‚ ‚é‚È‚ç‚Î‚ ‚é‚Ü‚¶‚«sˆ×‚¾B														
+CP3177					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		ŽÀŒ±Œ‹‰Ê‚ðs‘¢‚·‚é‚È‚ÇAŒ¤‹†ŽÒ‚Æ‚µ‚Ä‹–‚³‚ê‚È‚¢B	ŽÀŒ±Œ‹‰Ê‚ðs‘¢‚·‚é‚È‚ÇAŒ¤‹†ŽÒ‚Å‚ ‚é‚È‚ç‚Î‹–‚³‚ê‚È‚¢B														
+CP3178					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		¶“k‚É•ª‚©‚è‚â‚·‚¢Žö‹Æ‚ðS‚ª‚¯‚é‚±‚Æ‚ÍA‹³Žt‚Æ‚µ‚Ä“–‘R‚Ì‚±‚Æ‚¾B	¶“k‚É•ª‚©‚è‚â‚·‚¢Žö‹Æ‚ðS‚ª‚¯‚é‚±‚Æ‚ÍA‹³Žt‚Å‚ ‚é‚È‚ç‚Î“–‘R‚Ì‚±‚Æ‚¾B														
+CP3179					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		ƒ‚ƒ`ƒx[ƒVƒ‡ƒ“‚ðã‚°‚¸‚ÉŽŽ‡‚É—Õ‚Þ‚Ì‚ÍAƒvƒ‚Æ‚µ‚Ä’p‚¸‚©‚µ‚¢‚±‚Æ‚¾B	ƒ‚ƒ`ƒx[ƒVƒ‡ƒ“‚ðã‚°‚¸‚ÉŽŽ‡‚É—Õ‚Þ‚Ì‚ÍAƒvƒ‚Å‚ ‚é‚È‚ç‚Î’p‚¸‚©‚µ‚¢‚±‚Æ‚¾B														
+CP3180					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		ŒÝ‚¢‚É•‚¯‡‚¤‚Ì‚ÍAlŠÔ‚Æ‚µ‚Ä“–‚½‚è‘O‚Ìsˆ×‚¾B	ŒÝ‚¢‚É•‚¯‡‚¤‚Ì‚ÍAlŠÔ‚Å‚ ‚é‚È‚ç‚Î“–‚½‚è‘O‚Ìsˆ×‚¾B														
+CP3181					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			Œ_–ñ‚Éˆá”½‚·‚é‚Ì‚ÍAŽÐ‰ïl‚Æ‚µ‚Ä‚ ‚é‚Ü‚¶‚«sˆ×‚¾B	Œ_–ñ‚Éˆá”½‚·‚é‚Ì‚ÍAŽÐ‰ïl‚Å‚ ‚é‚Ü‚¶‚«sˆ×‚¾B														
+CP3182					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			ŽÀŒ±Œ‹‰Ê‚ðs‘¢‚·‚é‚È‚ÇAŒ¤‹†ŽÒ‚Æ‚µ‚Ä‹–‚³‚ê‚È‚¢B	ŽÀŒ±Œ‹‰Ê‚ðs‘¢‚·‚é‚È‚ÇAŒ¤‹†ŽÒ‚Å‹–‚³‚ê‚È‚¢B														
+CP3183					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			¶“k‚É•ª‚©‚è‚â‚·‚¢Žö‹Æ‚ðS‚ª‚¯‚é‚±‚Æ‚ÍA‹³Žt‚Æ‚µ‚Ä“–‘R‚Ì‚±‚Æ‚¾B	¶“k‚É•ª‚©‚è‚â‚·‚¢Žö‹Æ‚ðS‚ª‚¯‚é‚±‚Æ‚ÍA‹³Žt‚Å“–‘R‚Ì‚±‚Æ‚¾B														
+CP3184					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			ƒ‚ƒ`ƒx[ƒVƒ‡ƒ“‚ðã‚°‚¸‚ÉŽŽ‡‚É—Õ‚Þ‚Ì‚ÍAƒvƒ‚Æ‚µ‚Ä’p‚¸‚©‚µ‚¢‚±‚Æ‚¾B	ƒ‚ƒ`ƒx[ƒVƒ‡ƒ“‚ðã‚°‚¸‚ÉŽŽ‡‚É—Õ‚Þ‚Ì‚ÍAƒvƒ‚Å’p‚¸‚©‚µ‚¢‚±‚Æ‚¾B														
+CP3185					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			ŒÝ‚¢‚É•‚¯‡‚¤‚Ì‚ÍAlŠÔ‚Æ‚µ‚Ä“–‚½‚è‘O‚Ìsˆ×‚¾B	ŒÝ‚¢‚É•‚¯‡‚¤‚Ì‚ÍAlŠÔ‚Å“–‚½‚è‘O‚Ìsˆ×‚¾B														
+CP3186					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		Œ_–ñ‚Éˆá”½‚·‚é‚Ì‚ÍAŽÐ‰ïl‚Æ‚µ‚Ä‚ ‚é‚Ü‚¶‚«sˆ×‚¾B	Œ_–ñ‚Éˆá”½‚·‚é‚Ì‚ÍAŽÐ‰ïl‚É‚ ‚é‚Ü‚¶‚«sˆ×‚¾B														
+CP3187					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			ŽÀŒ±Œ‹‰Ê‚ðs‘¢‚·‚é‚È‚ÇAŒ¤‹†ŽÒ‚Æ‚µ‚Ä‹–‚³‚ê‚È‚¢B	ŽÀŒ±Œ‹‰Ê‚ðs‘¢‚·‚é‚È‚ÇAŒ¤‹†ŽÒ‚É‹–‚³‚ê‚È‚¢B														
+CP3188					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			¶“k‚É•ª‚©‚è‚â‚·‚¢Žö‹Æ‚ðS‚ª‚¯‚é‚±‚Æ‚ÍA‹³Žt‚Æ‚µ‚Ä“–‘R‚Ì‚±‚Æ‚¾B	¶“k‚É•ª‚©‚è‚â‚·‚¢Žö‹Æ‚ðS‚ª‚¯‚é‚±‚Æ‚ÍA‹³Žt‚É“–‘R‚Ì‚±‚Æ‚¾B														
+CP3189					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			ƒ‚ƒ`ƒx[ƒVƒ‡ƒ“‚ðã‚°‚¸‚ÉŽŽ‡‚É—Õ‚Þ‚Ì‚ÍAƒvƒ‚Æ‚µ‚Ä’p‚¸‚©‚µ‚¢‚±‚Æ‚¾B	ƒ‚ƒ`ƒx[ƒVƒ‡ƒ“‚ðã‚°‚¸‚ÉŽŽ‡‚É—Õ‚Þ‚Ì‚ÍAƒvƒ‚É’p‚¸‚©‚µ‚¢‚±‚Æ‚¾B														
+CP3190					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			ŒÝ‚¢‚É•‚¯‡‚¤‚Ì‚ÍAlŠÔ‚Æ‚µ‚Ä“–‚½‚è‘O‚Ìsˆ×‚¾B	ŒÝ‚¢‚É•‚¯‡‚¤‚Ì‚ÍAlŠÔ‚É“–‚½‚è‘O‚Ìsˆ×‚¾B														
+CP3191					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		Œ_–ñ‚Éˆá”½‚·‚é‚Ì‚ÍAŽÐ‰ïl‚Æ‚µ‚Ä‚ ‚é‚Ü‚¶‚«sˆ×‚¾B	Œ_–ñ‚Éˆá”½‚·‚é‚Ì‚ÍAŽÐ‰ïl‚Æ‚µ‚Ü‚µ‚Ä‚ ‚é‚Ü‚¶‚«sˆ×‚Å‚·B														
+CP3192					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			ŽÀŒ±Œ‹‰Ê‚ðs‘¢‚·‚é‚È‚ÇAŒ¤‹†ŽÒ‚Æ‚µ‚Ä‹–‚³‚ê‚È‚¢B	ŽÀŒ±Œ‹‰Ê‚ðs‘¢‚·‚é‚È‚ÇAŒ¤‹†ŽÒ‚Æ‚µ‚Ü‚µ‚Ä‹–‚³‚ê‚Ü‚¹‚ñB														
+CP3193					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		¶“k‚É•ª‚©‚è‚â‚·‚¢Žö‹Æ‚ðS‚ª‚¯‚é‚±‚Æ‚ÍA‹³Žt‚Æ‚µ‚Ä“–‘R‚Ì‚±‚Æ‚¾B	¶“k‚É•ª‚©‚è‚â‚·‚¢Žö‹Æ‚ðS‚ª‚¯‚é‚±‚Æ‚ÍA‹³Žt‚Æ‚µ‚Ü‚µ‚Ä“–‘R‚Ì‚±‚Æ‚Å‚·B														
+CP3194					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		ƒ‚ƒ`ƒx[ƒVƒ‡ƒ“‚ðã‚°‚¸‚ÉŽŽ‡‚É—Õ‚Þ‚Ì‚ÍAƒvƒ‚Æ‚µ‚Ä’p‚¸‚©‚µ‚¢‚±‚Æ‚¾B	ƒ‚ƒ`ƒx[ƒVƒ‡ƒ“‚ðã‚°‚¸‚ÉŽŽ‡‚É—Õ‚Þ‚Ì‚ÍAƒvƒ‚Æ‚µ‚Ü‚µ‚Ä’p‚¸‚©‚µ‚¢‚±‚Æ‚Å‚·B														
+CP3195					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		ŒÝ‚¢‚É•‚¯‡‚¤‚Ì‚ÍAlŠÔ‚Æ‚µ‚Ä“–‚½‚è‘O‚Ìsˆ×‚¾B	ŒÝ‚¢‚É•‚¯‡‚¤‚Ì‚ÍAlŠÔ‚Æ‚µ‚Ü‚µ‚Ä“–‚½‚è‘O‚Ìsˆ×‚Å‚·B														
+CP3196					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		Œ_–ñ‚Éˆá”½‚·‚é‚Ì‚ÍAŽÐ‰ïl‚Æ‚µ‚Ä‚ ‚é‚Ü‚¶‚«sˆ×‚¾B	Œ_–ñ‚Éˆá”½‚·‚é‚Ì‚ÍAŽÐ‰ïl‚É‚Æ‚Á‚Ä‚ ‚é‚Ü‚¶‚«sˆ×‚¾B														
+CP3197					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		ŽÀŒ±Œ‹‰Ê‚ðs‘¢‚·‚é‚È‚ÇAŒ¤‹†ŽÒ‚Æ‚µ‚Ä‹–‚³‚ê‚È‚¢B	ŽÀŒ±Œ‹‰Ê‚ðs‘¢‚·‚é‚È‚ÇAŒ¤‹†ŽÒ‚É‚Æ‚Á‚Ä‹–‚³‚ê‚È‚¢B														
+CP3198					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		¶“k‚É•ª‚©‚è‚â‚·‚¢Žö‹Æ‚ðS‚ª‚¯‚é‚±‚Æ‚ÍA‹³Žt‚Æ‚µ‚Ä“–‘R‚Ì‚±‚Æ‚¾B	¶“k‚É•ª‚©‚è‚â‚·‚¢Žö‹Æ‚ðS‚ª‚¯‚é‚±‚Æ‚ÍA‹³Žt‚É‚Æ‚Á‚Ä“–‘R‚Ì‚±‚Æ‚¾B														
+CP3199					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		ƒ‚ƒ`ƒx[ƒVƒ‡ƒ“‚ðã‚°‚¸‚ÉŽŽ‡‚É—Õ‚Þ‚Ì‚ÍAƒvƒ‚Æ‚µ‚Ä’p‚¸‚©‚µ‚¢‚±‚Æ‚¾B	ƒ‚ƒ`ƒx[ƒVƒ‡ƒ“‚ðã‚°‚¸‚ÉŽŽ‡‚É—Õ‚Þ‚Ì‚ÍAƒvƒ‚É‚Æ‚Á‚Ä’p‚¸‚©‚µ‚¢‚±‚Æ‚¾B														
+CP3200					su‚ ‚é‚×‚«Žpv‚©‚ç‚Ì‰¿’l‚Ã‚¯EˆÓ–¡‚Ã‚¯‚ðs‚¤u‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		ŒÝ‚¢‚É•‚¯‡‚¤‚Ì‚ÍAlŠÔ‚Æ‚µ‚Ä“–‚½‚è‘O‚Ìsˆ×‚¾B	ŒÝ‚¢‚É•‚¯‡‚¤‚Ì‚ÍAlŠÔ‚É‚Æ‚Á‚Ä“–‚½‚è‘O‚Ìsˆ×‚¾B														
+CP3201					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"		ŽQlF—é–Ø’q”ü(2006)uu`‚Æ‚µ‚ÄvÄlvAw“Œ‹žŠO‘Œê‘åŠw—¯Šw¶“ú–{Œê‹³ˆçƒZƒ“ƒ^[˜_Wx32:1-17B	‚±‚Ì“X‚ÍAŠ´õÇ‘Îô‚Æ‚µ‚Ä“X“à‚ÌÁ“Å‚ðŽÀŽ{‚µ‚Ä‚¢‚éB	‚±‚Ì“X‚ÍAŠ´õÇ‘Îô‚Æ‚¢‚¤—§ê‚Å“X“à‚ÌÁ“Å‚ðŽÀŽ{‚µ‚Ä‚¢‚éB														
+CP3202					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ì‘IŽè‚ÍŽ©•ª‚È‚è‚Ì‚¯‚¶‚ß‚Æ‚µ‚Äˆø‘Þ‚ð”­•\‚µ‚½B	‚»‚Ì‘IŽè‚ÍŽ©•ª‚È‚è‚Ì‚¯‚¶‚ß‚Æ‚¢‚¤—§ê‚Åˆø‘Þ‚ð”­•\‚µ‚½B														
+CP3203					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ì‘‚Í‘‰ÆƒvƒƒWƒFƒNƒg‚Æ‚µ‚ÄÄ¶ˆã—Ã‚ÉŽæ‚è‘g‚ñ‚Å‚¢‚éB	‚»‚Ì‘‚Í‘‰ÆƒvƒƒWƒFƒNƒg‚Æ‚¢‚¤—§ê‚ÅÄ¶ˆã—Ã‚ÉŽæ‚è‘g‚ñ‚Å‚¢‚éB														
+CP3204					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ì•Ûˆç‰€‚Å‚ÍAŽqˆç‚ÄŽx‰‡‚ÌˆêŠÂ‚Æ‚µ‚Ä—a‚©‚è•Ûˆç‚ðs‚È‚Á‚Ä‚¢‚éB	‚»‚Ì•Ûˆç‰€‚Å‚ÍAŽqˆç‚ÄŽx‰‡‚ÌˆêŠÂ‚Æ‚¢‚¤—§ê‚Å—a‚©‚è•Ûˆç‚ðs‚È‚Á‚Ä‚¢‚éB														
+CP3205					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‰ÔŽq‚Í•›‹Æ‚Æ‚µ‚Ä•s“®ŽY“ŠŽ‘‚ð‚µ‚Ä‚¢‚éB	‰ÔŽq‚Í•›‹Æ‚Æ‚¢‚¤—§ê‚Å•s“®ŽY“ŠŽ‘‚ð‚µ‚Ä‚¢‚éB														
+CP3206					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unacceptable	"Case Particle, -tosite"			‚±‚Ì“X‚ÍAŠ´õÇ‘Îô‚Æ‚µ‚Ä“X“à‚ÌÁ“Å‚ðŽÀŽ{‚µ‚Ä‚¢‚éB	‚±‚Ì“X‚ÍŠ´õÇ‘Îô‚Å‚ ‚éB														
+CP3207					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unacceptable	"Case Particle, -tosite"			‚»‚Ì‘IŽè‚ÍŽ©•ª‚È‚è‚Ì‚¯‚¶‚ß‚Æ‚µ‚Äˆø‘Þ‚ð”­•\‚µ‚½B	‚»‚Ì‘IŽè‚ÍŽ©•ª‚È‚è‚Ì‚¯‚¶‚ß‚Å‚ ‚éB														
+CP3208					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unacceptable	"Case Particle, -tosite"			‚»‚Ì‘‚Í‘‰ÆƒvƒƒWƒFƒNƒg‚Æ‚µ‚ÄÄ¶ˆã—Ã‚ÉŽæ‚è‘g‚ñ‚Å‚¢‚éB	‚»‚Ì‘‚Í‘‰ÆƒvƒƒWƒFƒNƒg‚Å‚ ‚éB														
+CP3209					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unacceptable	"Case Particle, -tosite"			‚»‚Ì•Ûˆç‰€‚Å‚ÍAŽqˆç‚ÄŽx‰‡‚ÌˆêŠÂ‚Æ‚µ‚Ä—a‚©‚è•Ûˆç‚ðs‚È‚Á‚Ä‚¢‚éB	‚»‚Ì•Ûˆç‰€‚ÍŽqˆç‚ÄŽx‰‡‚ÌˆêŠÂ‚Å‚ ‚éB														
+CP3210					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvF–ðŠ„‚ð‚É‚È‚Á‚Ä‚¢‚é‚±‚Æ‚Ì„˜_t		unacceptable	"Case Particle, -tosite"			‰ÔŽq‚Í•›‹Æ‚Æ‚µ‚Ä•s“®ŽY“ŠŽ‘‚ð‚µ‚Ä‚¢‚éB	‰ÔŽq‚Í•›‹Æ‚Å‚ ‚éB														
+CP3211					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚±‚Ì“X‚ÍAŠ´õÇ‘Îô‚Æ‚µ‚Ä“X“à‚ÌÁ“Å‚ðŽÀŽ{‚µ‚Ä‚¢‚éB	‚±‚Ì“X‚ÍAŠ´õÇ‘Îô‚Å‚ ‚é‚È‚ç‚Î“X“à‚ÌÁ“Å‚ðŽÀŽ{‚µ‚Ä‚¢‚éB														
+CP3212					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ì‘IŽè‚ÍŽ©•ª‚È‚è‚Ì‚¯‚¶‚ß‚Æ‚µ‚Äˆø‘Þ‚ð”­•\‚µ‚½B	‚»‚Ì‘IŽè‚ÍŽ©•ª‚È‚è‚Ì‚¯‚¶‚ß‚Å‚ ‚é‚È‚ç‚Îˆø‘Þ‚ð”­•\‚µ‚½B														
+CP3213					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ì‘‚Í‘‰ÆƒvƒƒWƒFƒNƒg‚Æ‚µ‚ÄÄ¶ˆã—Ã‚ÉŽæ‚è‘g‚ñ‚Å‚¢‚éB	‚»‚Ì‘‚Í‘‰ÆƒvƒƒWƒFƒNƒg‚Å‚ ‚é‚È‚ç‚ÎÄ¶ˆã—Ã‚ÉŽæ‚è‘g‚ñ‚Å‚¢‚éB														
+CP3214					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ì•Ûˆç‰€‚Å‚ÍAŽqˆç‚ÄŽx‰‡‚ÌˆêŠÂ‚Æ‚µ‚Ä—a‚©‚è•Ûˆç‚ðs‚È‚Á‚Ä‚¢‚éB	‚»‚Ì•Ûˆç‰€‚Å‚ÍAŽqˆç‚ÄŽx‰‡‚ÌˆêŠÂ‚Å‚ ‚é‚È‚ç‚Î—a‚©‚è•Ûˆç‚ðs‚È‚Á‚Ä‚¢‚éB														
+CP3215					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‰ÔŽq‚Í•›‹Æ‚Æ‚µ‚Ä•s“®ŽY“ŠŽ‘‚ð‚µ‚Ä‚¢‚éB	‰ÔŽq‚Í•›‹Æ‚Å‚ ‚é‚È‚ç‚Î•s“®ŽY“ŠŽ‘‚ð‚µ‚Ä‚¢‚éB														
+CP3216					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‚±‚Ì“X‚ÍAŠ´õÇ‘Îô‚Æ‚µ‚Ä“X“à‚ÌÁ“Å‚ðŽÀŽ{‚µ‚Ä‚¢‚éB	‚±‚Ì“X‚ÍAŠ´õÇ‘Îô‚Å“X“à‚ÌÁ“Å‚ðŽÀŽ{‚µ‚Ä‚¢‚éB														
+CP3217					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‚»‚Ì‘IŽè‚ÍŽ©•ª‚È‚è‚Ì‚¯‚¶‚ß‚Æ‚µ‚Äˆø‘Þ‚ð”­•\‚µ‚½B	‚»‚Ì‘IŽè‚ÍŽ©•ª‚È‚è‚Ì‚¯‚¶‚ß‚Åˆø‘Þ‚ð”­•\‚µ‚½B														
+CP3218					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‚»‚Ì‘‚Í‘‰ÆƒvƒƒWƒFƒNƒg‚Æ‚µ‚ÄÄ¶ˆã—Ã‚ÉŽæ‚è‘g‚ñ‚Å‚¢‚éB	‚»‚Ì‘‚Í‘‰ÆƒvƒƒWƒFƒNƒg‚ÅÄ¶ˆã—Ã‚ÉŽæ‚è‘g‚ñ‚Å‚¢‚éB														
+CP3219					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‚»‚Ì•Ûˆç‰€‚Å‚ÍAŽqˆç‚ÄŽx‰‡‚ÌˆêŠÂ‚Æ‚µ‚Ä—a‚©‚è•Ûˆç‚ðs‚È‚Á‚Ä‚¢‚éB	‚»‚Ì•Ûˆç‰€‚Å‚ÍAŽqˆç‚ÄŽx‰‡‚ÌˆêŠÂ‚Å—a‚©‚è•Ûˆç‚ðs‚È‚Á‚Ä‚¢‚éB														
+CP3220					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‰ÔŽq‚Í•›‹Æ‚Æ‚µ‚Ä•s“®ŽY“ŠŽ‘‚ð‚µ‚Ä‚¢‚éB	‰ÔŽq‚Í•›‹Æ‚Å•s“®ŽY“ŠŽ‘‚ð‚µ‚Ä‚¢‚éB														
+CP3221					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‚±‚Ì“X‚ÍAŠ´õÇ‘Îô‚Æ‚µ‚Ä“X“à‚ÌÁ“Å‚ðŽÀŽ{‚µ‚Ä‚¢‚éB	‚±‚Ì“X‚ÍAŠ´õÇ‘Îô‚É“X“à‚ÌÁ“Å‚ðŽÀŽ{‚µ‚Ä‚¢‚éB														
+CP3222					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ì‘IŽè‚ÍŽ©•ª‚È‚è‚Ì‚¯‚¶‚ß‚Æ‚µ‚Äˆø‘Þ‚ð”­•\‚µ‚½B	‚»‚Ì‘IŽè‚ÍŽ©•ª‚È‚è‚Ì‚¯‚¶‚ß‚Éˆø‘Þ‚ð”­•\‚µ‚½B														
+CP3223					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ì‘‚Í‘‰ÆƒvƒƒWƒFƒNƒg‚Æ‚µ‚ÄÄ¶ˆã—Ã‚ÉŽæ‚è‘g‚ñ‚Å‚¢‚éB	‚»‚Ì‘‚Í‘‰ÆƒvƒƒWƒFƒNƒg‚ÉÄ¶ˆã—Ã‚ÉŽæ‚è‘g‚ñ‚Å‚¢‚éB														
+CP3224					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ì•Ûˆç‰€‚Å‚ÍAŽqˆç‚ÄŽx‰‡‚ÌˆêŠÂ‚Æ‚µ‚Ä—a‚©‚è•Ûˆç‚ðs‚È‚Á‚Ä‚¢‚éB	‚»‚Ì•Ûˆç‰€‚Å‚ÍAŽqˆç‚ÄŽx‰‡‚ÌˆêŠÂ‚É—a‚©‚è•Ûˆç‚ðs‚È‚Á‚Ä‚¢‚éB														
+CP3225					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‰ÔŽq‚Í•›‹Æ‚Æ‚µ‚Ä•s“®ŽY“ŠŽ‘‚ð‚µ‚Ä‚¢‚éB	‰ÔŽq‚Í•›‹Æ‚É•s“®ŽY“ŠŽ‘‚ð‚µ‚Ä‚¢‚éB														
+CP3226					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‚±‚Ì“X‚ÍAŠ´õÇ‘Îô‚Æ‚µ‚Ä“X“à‚ÌÁ“Å‚ðŽÀŽ{‚µ‚Ä‚¢‚éB	‚±‚Ì“X‚ÍAŠ´õÇ‘Îô‚Æ‚µ‚Ü‚µ‚Ä“X“à‚ÌÁ“Å‚ðŽÀŽ{‚µ‚Ä‚¢‚Ü‚·B														
+CP3227					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‚»‚Ì‘IŽè‚ÍŽ©•ª‚È‚è‚Ì‚¯‚¶‚ß‚Æ‚µ‚Äˆø‘Þ‚ð”­•\‚µ‚½B	‚»‚Ì‘IŽè‚ÍŽ©•ª‚È‚è‚Ì‚¯‚¶‚ß‚Æ‚µ‚Ü‚µ‚Äˆø‘Þ‚ð”­•\‚µ‚Ü‚µ‚½B														
+CP3228					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‚»‚Ì‘‚Í‘‰ÆƒvƒƒWƒFƒNƒg‚Æ‚µ‚ÄÄ¶ˆã—Ã‚ÉŽæ‚è‘g‚ñ‚Å‚¢‚éB	‚»‚Ì‘‚Í‘‰ÆƒvƒƒWƒFƒNƒg‚Æ‚µ‚Ü‚µ‚ÄÄ¶ˆã—Ã‚ÉŽæ‚è‘g‚ñ‚Å‚¢‚Ü‚·B														
+CP3229					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‚»‚Ì•Ûˆç‰€‚Å‚ÍAŽqˆç‚ÄŽx‰‡‚ÌˆêŠÂ‚Æ‚µ‚Ä—a‚©‚è•Ûˆç‚ðs‚È‚Á‚Ä‚¢‚éB	‚»‚Ì•Ûˆç‰€‚Å‚ÍAŽqˆç‚ÄŽx‰‡‚ÌˆêŠÂ‚Æ‚µ‚Ü‚µ‚Ä—a‚©‚è•Ûˆç‚ðs‚È‚Á‚Ä‚¢‚Ü‚·B														
+CP3230					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‰ÔŽq‚Í•›‹Æ‚Æ‚µ‚Ä•s“®ŽY“ŠŽ‘‚ð‚µ‚Ä‚¢‚éB	‰ÔŽq‚Í•›‹Æ‚Æ‚µ‚Ü‚µ‚Ä•s“®ŽY“ŠŽ‘‚ð‚µ‚Ä‚¢‚Ü‚·B														
+CP3231					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚±‚Ì“X‚ÍAŠ´õÇ‘Îô‚Æ‚µ‚Ä“X“à‚ÌÁ“Å‚ðŽÀŽ{‚µ‚Ä‚¢‚éB	‚±‚Ì“X‚ÍAŠ´õÇ‘Îô‚É‚Æ‚Á‚Ä“X“à‚ÌÁ“Å‚ðŽÀŽ{‚µ‚Ä‚¢‚éB														
+CP3232					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ì‘IŽè‚ÍŽ©•ª‚È‚è‚Ì‚¯‚¶‚ß‚Æ‚µ‚Äˆø‘Þ‚ð”­•\‚µ‚½B	‚»‚Ì‘IŽè‚ÍŽ©•ª‚È‚è‚Ì‚¯‚¶‚ß‚É‚Æ‚Á‚Äˆø‘Þ‚ð”­•\‚µ‚½B														
+CP3233					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ì‘‚Í‘‰ÆƒvƒƒWƒFƒNƒg‚Æ‚µ‚ÄÄ¶ˆã—Ã‚ÉŽæ‚è‘g‚ñ‚Å‚¢‚éB	‚»‚Ì‘‚Í‘‰ÆƒvƒƒWƒFƒNƒg‚É‚Æ‚Á‚ÄÄ¶ˆã—Ã‚ÉŽæ‚è‘g‚ñ‚Å‚¢‚éB														
+CP3234					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‚»‚Ì•Ûˆç‰€‚Å‚ÍAŽqˆç‚ÄŽx‰‡‚ÌˆêŠÂ‚Æ‚µ‚Ä—a‚©‚è•Ûˆç‚ðs‚È‚Á‚Ä‚¢‚éB	‚»‚Ì•Ûˆç‰€‚Å‚ÍAŽqˆç‚ÄŽx‰‡‚ÌˆêŠÂ‚É‚Æ‚Á‚Ä—a‚©‚è•Ûˆç‚ðs‚È‚Á‚Ä‚¢‚éB														
+CP3235					s‚ ‚éŠÏ“_‚©‚çqŒê‚Ì•\‚·sˆ×Es“®‚ð‹K’è‚·‚éu‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‰ÔŽq‚Í•›‹Æ‚Æ‚µ‚Ä•s“®ŽY“ŠŽ‘‚ð‚µ‚Ä‚¢‚éB	‰ÔŽq‚Í•›‹Æ‚É‚Æ‚Á‚Ä•s“®ŽY“ŠŽ‘‚ð‚µ‚Ä‚¢‚éB														
+CP3236					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"		ŽQlF—é–Ø’q”ü(2006)uu`‚Æ‚µ‚ÄvÄlvAw“Œ‹žŠO‘Œê‘åŠw—¯Šw¶“ú–{Œê‹³ˆçƒZƒ“ƒ^[˜_Wx32:1-17B	‘Û“I‚È‹Ù’£‚ª‚‚Ü‚ê‚ÎA“ú–{­•{‚Æ‚µ‚Ä‘Îô‚ðu‚¶‚´‚é‚ð“¾‚È‚¢B	‘Û“I‚È‹Ù’£‚ª‚‚Ü‚ê‚ÎA“ú–{­•{‚Æ‚¢‚¤—§ê‚Å‘Îô‚ðu‚¶‚´‚é‚ð“¾‚È‚¢B														
+CP3237					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			Œ§‚Æ‚µ‚Ä‘‹}‚É•â•‹à‚ðo‚·•K—v‚ª‚ ‚éB	Œ§‚Æ‚¢‚¤—§ê‚Å‘‹}‚É•â•‹à‚ðo‚·•K—v‚ª‚ ‚éB														
+CP3238					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‰ïŽÐ‚Æ‚µ‚ÄV»•i‚ÌŠJ”­‚É—Í‚ð“ü‚ê‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B	‰ïŽÐ‚Æ‚¢‚¤—§ê‚ÅV»•i‚ÌŠJ”­‚É—Í‚ð“ü‚ê‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B														
+CP3239					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			ˆÏˆõ‰ï‚Æ‚µ‚ÄA¡Œã‚Ì‘Î‰ž‚ð\•ª‚ÉŒŸ“¢‚µ‚Ä‚¢‚«‚½‚¢B	ˆÏˆõ‰ï‚Æ‚¢‚¤—§ê‚ÅA¡Œã‚Ì‘Î‰ž‚ð\•ª‚ÉŒŸ“¢‚µ‚Ä‚¢‚«‚½‚¢B														
+CP3240					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu`‚Æ‚¢‚¤—§ê/Ž‘Ši/–¼–Ú‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			˜J“­‘g‡‚Æ‚µ‚ÄA¡‰ñ‚ÌŒ‚É‚Â‚¢‚Äº–¾‚ðo‚µ‚½B	˜J“­‘g‡‚Æ‚¢‚¤—§ê‚ÅA¡‰ñ‚ÌŒ‚É‚Â‚¢‚Äº–¾‚ðo‚µ‚½B														
+CP3241					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Ív‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‘Û“I‚È‹Ù’£‚ª‚‚Ü‚ê‚ÎA“ú–{­•{‚Æ‚µ‚Ä‘Îô‚ðu‚¶‚´‚é‚ð“¾‚È‚¢B	‘Û“I‚È‹Ù’£‚ª‚‚Ü‚ê‚ÎA“ú–{­•{‚Í‘Îô‚ðu‚¶‚´‚é‚ð“¾‚È‚¢B														
+CP3242					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Ív‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		Œ§‚Æ‚µ‚Ä‘‹}‚É•â•‹à‚ðo‚·•K—v‚ª‚ ‚éB	Œ§‚Í‘‹}‚É•â•‹à‚ðo‚·•K—v‚ª‚ ‚éB														
+CP3243					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Ív‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‰ïŽÐ‚Æ‚µ‚ÄV»•i‚ÌŠJ”­‚É—Í‚ð“ü‚ê‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B	‰ïŽÐ‚ÍV»•i‚ÌŠJ”­‚É—Í‚ð“ü‚ê‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B														
+CP3244					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Ív‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		ˆÏˆõ‰ï‚Æ‚µ‚ÄA¡Œã‚Ì‘Î‰ž‚ð\•ª‚ÉŒŸ“¢‚µ‚Ä‚¢‚«‚½‚¢B	ˆÏˆõ‰ï‚ÍA¡Œã‚Ì‘Î‰ž‚ð\•ª‚ÉŒŸ“¢‚µ‚Ä‚¢‚«‚½‚¢B														
+CP3245					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Ív‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		˜J“­‘g‡‚Æ‚µ‚ÄA¡‰ñ‚ÌŒ‚É‚Â‚¢‚Äº–¾‚ðo‚µ‚½B	˜J“­‘g‡‚ÍA¡‰ñ‚ÌŒ‚É‚Â‚¢‚Äº–¾‚ðo‚µ‚½B														
+CP3246					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‘Û“I‚È‹Ù’£‚ª‚‚Ü‚ê‚ÎA“ú–{­•{‚Æ‚µ‚Ä‘Îô‚ðu‚¶‚´‚é‚ð“¾‚È‚¢B	‘Û“I‚È‹Ù’£‚ª‚‚Ü‚ê‚ÎA“ú–{­•{‚Å‚ ‚é‚È‚ç‚Î‘Îô‚ðu‚¶‚´‚é‚ð“¾‚È‚¢B														
+CP3247					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			Œ§‚Æ‚µ‚Ä‘‹}‚É•â•‹à‚ðo‚·•K—v‚ª‚ ‚éB	Œ§‚Å‚ ‚é‚È‚ç‚Î‘‹}‚É•â•‹à‚ðo‚·•K—v‚ª‚ ‚éB														
+CP3248					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			‰ïŽÐ‚Æ‚µ‚ÄV»•i‚ÌŠJ”­‚É—Í‚ð“ü‚ê‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B	‰ïŽÐ‚Å‚ ‚é‚È‚ç‚ÎV»•i‚ÌŠJ”­‚É—Í‚ð“ü‚ê‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B														
+CP3249					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			ˆÏˆõ‰ï‚Æ‚µ‚ÄA¡Œã‚Ì‘Î‰ž‚ð\•ª‚ÉŒŸ“¢‚µ‚Ä‚¢‚«‚½‚¢B	ˆÏˆõ‰ï‚Å‚ ‚é‚È‚ç‚ÎA¡Œã‚Ì‘Î‰ž‚ð\•ª‚ÉŒŸ“¢‚µ‚Ä‚¢‚«‚½‚¢B														
+CP3250					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Å‚ ‚é‚È‚ç‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			˜J“­‘g‡‚Æ‚µ‚ÄA¡‰ñ‚ÌŒ‚É‚Â‚¢‚Äº–¾‚ðo‚µ‚½B	˜J“­‘g‡‚Å‚ ‚é‚È‚ç‚ÎA¡‰ñ‚ÌŒ‚É‚Â‚¢‚Äº–¾‚ðo‚µ‚½B														
+CP3251					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‘Û“I‚È‹Ù’£‚ª‚‚Ü‚ê‚ÎA“ú–{­•{‚Æ‚µ‚Ä‘Îô‚ðu‚¶‚´‚é‚ð“¾‚È‚¢B	‘Û“I‚È‹Ù’£‚ª‚‚Ü‚ê‚ÎA“ú–{­•{‚Å‘Îô‚ðu‚¶‚´‚é‚ð“¾‚È‚¢B														
+CP3252					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -tosite"			Œ§‚Æ‚µ‚Ä‘‹}‚É•â•‹à‚ðo‚·•K—v‚ª‚ ‚éB	Œ§‚Å‘‹}‚É•â•‹à‚ðo‚·•K—v‚ª‚ ‚éB														
+CP3253					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‰ïŽÐ‚Æ‚µ‚ÄV»•i‚ÌŠJ”­‚É—Í‚ð“ü‚ê‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B	‰ïŽÐ‚ÅV»•i‚ÌŠJ”­‚É—Í‚ð“ü‚ê‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B														
+CP3254					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		ˆÏˆõ‰ï‚Æ‚µ‚ÄA¡Œã‚Ì‘Î‰ž‚ð\•ª‚ÉŒŸ“¢‚µ‚Ä‚¢‚«‚½‚¢B	ˆÏˆõ‰ï‚ÅA¡Œã‚Ì‘Î‰ž‚ð\•ª‚ÉŒŸ“¢‚µ‚Ä‚¢‚«‚½‚¢B														
+CP3255					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		˜J“­‘g‡‚Æ‚µ‚ÄA¡‰ñ‚ÌŒ‚É‚Â‚¢‚Äº–¾‚ðo‚µ‚½B	˜J“­‘g‡‚ÅA¡‰ñ‚ÌŒ‚É‚Â‚¢‚Äº–¾‚ðo‚µ‚½B														
+CP3256					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‘Û“I‚È‹Ù’£‚ª‚‚Ü‚ê‚ÎA“ú–{­•{‚Æ‚µ‚Ä‘Îô‚ðu‚¶‚´‚é‚ð“¾‚È‚¢B	‘Û“I‚È‹Ù’£‚ª‚‚Ü‚ê‚ÎA“ú–{­•{‚É‘Îô‚ðu‚¶‚´‚é‚ð“¾‚È‚¢B														
+CP3257					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -tosite"			Œ§‚Æ‚µ‚Ä‘‹}‚É•â•‹à‚ðo‚·•K—v‚ª‚ ‚éB	Œ§‚É‘‹}‚É•â•‹à‚ðo‚·•K—v‚ª‚ ‚éB														
+CP3258					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‰ïŽÐ‚Æ‚µ‚ÄV»•i‚ÌŠJ”­‚É—Í‚ð“ü‚ê‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B	‰ïŽÐ‚ÉV»•i‚ÌŠJ”­‚É—Í‚ð“ü‚ê‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B														
+CP3259					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			ˆÏˆõ‰ï‚Æ‚µ‚ÄA¡Œã‚Ì‘Î‰ž‚ð\•ª‚ÉŒŸ“¢‚µ‚Ä‚¢‚«‚½‚¢B	ˆÏˆõ‰ï‚ÉA¡Œã‚Ì‘Î‰ž‚ð\•ª‚ÉŒŸ“¢‚µ‚Ä‚¢‚«‚½‚¢B														
+CP3260					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -tosite"			˜J“­‘g‡‚Æ‚µ‚ÄA¡‰ñ‚ÌŒ‚É‚Â‚¢‚Äº–¾‚ðo‚µ‚½B	˜J“­‘g‡‚ÉA¡‰ñ‚ÌŒ‚É‚Â‚¢‚Äº–¾‚ðo‚µ‚½B														
+CP3261					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‘Û“I‚È‹Ù’£‚ª‚‚Ü‚ê‚ÎA“ú–{­•{‚Æ‚µ‚Ä‘Îô‚ðu‚¶‚´‚é‚ð“¾‚È‚¢B	‘Û“I‚È‹Ù’£‚ª‚‚Ü‚ê‚ÎA“ú–{­•{‚Æ‚µ‚Ü‚µ‚Ä‘Îô‚ðu‚¶‚´‚é‚ð“¾‚Ü‚¹‚ñB														
+CP3262					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		Œ§‚Æ‚µ‚Ä‘‹}‚É•â•‹à‚ðo‚·•K—v‚ª‚ ‚éB	Œ§‚Æ‚µ‚Ü‚µ‚Ä‘‹}‚É•â•‹à‚ðo‚·•K—v‚ª‚ ‚è‚Ü‚·B														
+CP3263					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		‰ïŽÐ‚Æ‚µ‚ÄV»•i‚ÌŠJ”­‚É—Í‚ð“ü‚ê‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B	‰ïŽÐ‚Æ‚µ‚Ü‚µ‚ÄV»•i‚ÌŠJ”­‚É—Í‚ð“ü‚ê‚È‚¯‚ê‚Î‚È‚è‚Ü‚¹‚ñB														
+CP3264					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		ˆÏˆõ‰ï‚Æ‚µ‚ÄA¡Œã‚Ì‘Î‰ž‚ð\•ª‚ÉŒŸ“¢‚µ‚Ä‚¢‚«‚½‚¢B	ˆÏˆõ‰ï‚Æ‚µ‚Ü‚µ‚ÄA¡Œã‚Ì‘Î‰ž‚ð\•ª‚ÉŒŸ“¢‚µ‚Ä‚¢‚«‚½‚¢‚ÆŽv‚¢‚Ü‚·B														
+CP3265					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚Æ‚µ‚Ü‚µ‚Äv{Œh‘Ì‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -tosite"	entailment		˜J“­‘g‡‚Æ‚µ‚ÄA¡‰ñ‚ÌŒ‚É‚Â‚¢‚Äº–¾‚ðo‚µ‚½B	˜J“­‘g‡‚Æ‚µ‚Ü‚µ‚ÄA¡‰ñ‚ÌŒ‚É‚Â‚¢‚Äº–¾‚ðo‚µ‚Ü‚µ‚½B														
+CP3266					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‘Û“I‚È‹Ù’£‚ª‚‚Ü‚ê‚ÎA“ú–{­•{‚Æ‚µ‚Ä‘Îô‚ðu‚¶‚´‚é‚ð“¾‚È‚¢B	‘Û“I‚È‹Ù’£‚ª‚‚Ü‚ê‚ÎA“ú–{­•{‚É‚Æ‚Á‚Ä‘Îô‚ðu‚¶‚´‚é‚ð“¾‚È‚¢B														
+CP3267					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			Œ§‚Æ‚µ‚Ä‘‹}‚É•â•‹à‚ðo‚·•K—v‚ª‚ ‚éB	Œ§‚É‚Æ‚Á‚Ä‘‹}‚É•â•‹à‚ðo‚·•K—v‚ª‚ ‚éB														
+CP3268					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			‰ïŽÐ‚Æ‚µ‚ÄV»•i‚ÌŠJ”­‚É—Í‚ð“ü‚ê‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B	‰ïŽÐ‚É‚Æ‚Á‚ÄV»•i‚ÌŠJ”­‚É—Í‚ð“ü‚ê‚È‚¯‚ê‚Î‚È‚ç‚È‚¢B														
+CP3269					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			ˆÏˆõ‰ï‚Æ‚µ‚ÄA¡Œã‚Ì‘Î‰ž‚ð\•ª‚ÉŒŸ“¢‚µ‚Ä‚¢‚«‚½‚¢B	ˆÏˆõ‰ï‚É‚Æ‚Á‚ÄA¡Œã‚Ì‘Î‰ž‚ð\•ª‚ÉŒŸ“¢‚µ‚Ä‚¢‚«‚½‚¢B														
+CP3270					ssˆ×‚ÌŽå‘Ì‚ð•\‚·u‚Æ‚µ‚ÄvFu‚É‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -tosite"			˜J“­‘g‡‚Æ‚µ‚ÄA¡‰ñ‚ÌŒ‚É‚Â‚¢‚Äº–¾‚ðo‚µ‚½B	˜J“­‘g‡‚É‚Æ‚Á‚ÄA¡‰ñ‚ÌŒ‚É‚Â‚¢‚Äº–¾‚ðo‚µ‚½B														
+CP3271					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu`‚É‚Æ‚Á‚Äv‚Ìíœt		unknown	"Case Particle, -nitotte"			‚±‚Ìƒnƒ“ƒJƒ`‚ÍA‰ÔŽq‚É‚Æ‚Á‚Ä‘åØ‚È‚à‚Ì‚¾B	‚±‚Ìƒnƒ“ƒJƒ`‚Í‘åØ‚È‚à‚Ì‚¾B														
+CP3272					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu`‚É‚Æ‚Á‚Äv‚Ìíœt		unknown	"Case Particle, -nitotte"			10ŒŽ9“ú‚ÍA‘¾˜Y‚É‚Æ‚Á‚Ä–Y‚ê‚ç‚ê‚È‚¢“ú‚É‚È‚Á‚½B	10ŒŽ9“ú‚Í–Y‚ê‚ç‚ê‚È‚¢“ú‚É‚È‚Á‚½B														
+CP3273					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu`‚É‚Æ‚Á‚Äv‚Ìíœt		unknown	"Case Particle, -nitotte"			Ì‚ÌŽq‹Ÿ‚½‚¿‚É‚Æ‚Á‚ÄA‹ó‚«’n‚Í‹Md‚È—V‚Ñê‚¾‚Á‚½B	‹ó‚«’n‚Í‹Md‚È—V‚Ñê‚¾‚Á‚½B														
+CP3274					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu`‚É‚Æ‚Á‚Äv‚Ìíœt		unknown	"Case Particle, -nitotte"			ŠØ‘Œê‚Í“ú–{l‚É‚Æ‚Á‚ÄŠw‚Ñ‚â‚·‚¢Œ¾Œê‚¾B	ŠØ‘Œê‚ÍŠw‚Ñ‚â‚·‚¢Œ¾Œê‚¾B														
+CP3275					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu`‚É‚Æ‚Á‚Äv‚Ìíœt		unknown	"Case Particle, -nitotte"			ŽÐ’·‚É‚Æ‚Á‚Ä‚ÍAˆê‰­‰~‚à‚Í‚µ‚½‹à‚É‰ß‚¬‚È‚¢B	ˆê‰­‰~‚à‚Í‚µ‚½‹à‚É‰ß‚¬‚È‚¢B														
+CP3276					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu‚©‚ç‚·‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitotte"	entailment		‚±‚Ìƒnƒ“ƒJƒ`‚ÍA‰ÔŽq‚É‚Æ‚Á‚Ä‘åØ‚È‚à‚Ì‚¾B	‚±‚Ìƒnƒ“ƒJƒ`‚ÍA‰ÔŽq‚©‚ç‚·‚ê‚Î‘åØ‚È‚à‚Ì‚¾B														
+CP3277					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu‚©‚ç‚·‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitotte"	entailment		10ŒŽ9“ú‚ÍA‘¾˜Y‚É‚Æ‚Á‚Ä–Y‚ê‚ç‚ê‚È‚¢“ú‚É‚È‚Á‚½B	10ŒŽ9“ú‚ÍA‘¾˜Y‚©‚ç‚·‚ê‚Î–Y‚ê‚ç‚ê‚È‚¢“ú‚É‚È‚Á‚½B														
+CP3278					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu‚©‚ç‚·‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitotte"	entailment		Ì‚ÌŽq‹Ÿ‚½‚¿‚É‚Æ‚Á‚ÄA‹ó‚«’n‚Í‹Md‚È—V‚Ñê‚¾‚Á‚½B	Ì‚ÌŽq‹Ÿ‚½‚¿‚©‚ç‚·‚ê‚ÎA‹ó‚«’n‚Í‹Md‚È—V‚Ñê‚¾‚Á‚½B														
+CP3279					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu‚©‚ç‚·‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitotte"	entailment		ŠØ‘Œê‚Í“ú–{l‚É‚Æ‚Á‚ÄŠw‚Ñ‚â‚·‚¢Œ¾Œê‚¾B	ŠØ‘Œê‚Í“ú–{l‚©‚ç‚·‚ê‚ÎŠw‚Ñ‚â‚·‚¢Œ¾Œê‚¾B														
+CP3280					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu‚©‚ç‚·‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitotte"	entailment		ŽÐ’·‚É‚Æ‚Á‚Ä‚ÍAˆê‰­‰~‚à‚Í‚µ‚½‹à‚É‰ß‚¬‚È‚¢B	ŽÐ’·‚©‚ç‚·‚ê‚ÎAˆê‰­‰~‚à‚Í‚µ‚½‹à‚É‰ß‚¬‚È‚¢B														
+CP3281					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu‚©‚çŒ©‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitotte"	entailment		‚±‚Ìƒnƒ“ƒJƒ`‚ÍA‰ÔŽq‚É‚Æ‚Á‚Ä‘åØ‚È‚à‚Ì‚¾B	‚±‚Ìƒnƒ“ƒJƒ`‚ÍA‰ÔŽq‚©‚çŒ©‚ê‚Î‘åØ‚È‚à‚Ì‚¾B														
+CP3282					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu‚©‚çŒ©‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitotte"	entailment		10ŒŽ9“ú‚ÍA‘¾˜Y‚É‚Æ‚Á‚Ä–Y‚ê‚ç‚ê‚È‚¢“ú‚É‚È‚Á‚½B	10ŒŽ9“ú‚ÍA‘¾˜Y‚©‚çŒ©‚ê‚Î–Y‚ê‚ç‚ê‚È‚¢“ú‚É‚È‚Á‚½B														
+CP3283					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu‚©‚çŒ©‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitotte"	entailment		Ì‚ÌŽq‹Ÿ‚½‚¿‚É‚Æ‚Á‚ÄA‹ó‚«’n‚Í‹Md‚È—V‚Ñê‚¾‚Á‚½B	Ì‚ÌŽq‹Ÿ‚½‚¿‚©‚çŒ©‚ê‚ÎA‹ó‚«’n‚Í‹Md‚È—V‚Ñê‚¾‚Á‚½B														
+CP3284					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu‚©‚çŒ©‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitotte"	entailment		ŠØ‘Œê‚Í“ú–{l‚É‚Æ‚Á‚ÄŠw‚Ñ‚â‚·‚¢Œ¾Œê‚¾B	ŠØ‘Œê‚Í“ú–{l‚©‚çŒ©‚ê‚ÎŠw‚Ñ‚â‚·‚¢Œ¾Œê‚¾B														
+CP3285					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu‚©‚çŒ©‚ê‚Îv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitotte"	entailment		ŽÐ’·‚É‚Æ‚Á‚Ä‚ÍAˆê‰­‰~‚à‚Í‚µ‚½‹à‚É‰ß‚¬‚È‚¢B	ŽÐ’·‚©‚çŒ©‚ê‚ÎAˆê‰­‰~‚à‚Í‚µ‚½‹à‚É‰ß‚¬‚È‚¢B														
+CP3286					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitotte"			‚±‚Ìƒnƒ“ƒJƒ`‚ÍA‰ÔŽq‚É‚Æ‚Á‚Ä‘åØ‚È‚à‚Ì‚¾B	‚±‚Ìƒnƒ“ƒJƒ`‚ÍA‰ÔŽq‚É‘åØ‚È‚à‚Ì‚¾B														
+CP3287					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nitotte"			10ŒŽ9“ú‚ÍA‘¾˜Y‚É‚Æ‚Á‚Ä–Y‚ê‚ç‚ê‚È‚¢“ú‚É‚È‚Á‚½B	10ŒŽ9“ú‚ÍA‘¾˜Y‚É–Y‚ê‚ç‚ê‚È‚¢“ú‚É‚È‚Á‚½B														
+CP3288					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nitotte"			Ì‚ÌŽq‹Ÿ‚½‚¿‚É‚Æ‚Á‚ÄA‹ó‚«’n‚Í‹Md‚È—V‚Ñê‚¾‚Á‚½B	Ì‚ÌŽq‹Ÿ‚½‚¿‚ÉA‹ó‚«’n‚Í‹Md‚È—V‚Ñê‚¾‚Á‚½B														
+CP3289					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitotte"	entailment		ŠØ‘Œê‚Í“ú–{l‚É‚Æ‚Á‚ÄŠw‚Ñ‚â‚·‚¢Œ¾Œê‚¾B	ŠØ‘Œê‚Í“ú–{l‚ÉŠw‚Ñ‚â‚·‚¢Œ¾Œê‚¾B														
+CP3290					s‚ ‚é—§ê‚©‚çŒ©‚½‰¿’l”»’f‚ð•\‚·u‚É‚Æ‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nitotte"	entailment		ŽÐ’·‚É‚Æ‚Á‚Ä‚ÍAˆê‰­‰~‚à‚Í‚µ‚½‹à‚É‰ß‚¬‚È‚¢B	ŽÐ’·‚É‚ÍAˆê‰­‰~‚à‚Í‚µ‚½‹à‚É‰ß‚¬‚È‚¢B														
+CP3291					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu‚É‚í‚½‚Á‚Äv‚Ìíœt		yes	"Case Particle, -niwatatte"	entailment		‚»‚ÌŠwŽÒ‚ÍˆêŽžŠÔ‚É‚í‚½‚Á‚ÄƒŒƒNƒ`ƒƒ[‚ðs‚Á‚½B	‚»‚ÌŠwŽÒ‚ÍˆêŽžŠÔAƒŒƒNƒ`ƒƒ[‚ðs‚Á‚½B														
+CP3292					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu‚É‚í‚½‚Á‚Äv‚Ìíœt		yes	"Case Particle, -niwatatte"	entailment		ƒŠƒ“ƒOã‚Å‚ÍAŽO\•ª‚É‚í‚½‚Á‚ÄŒƒ‚µ‚¢U–h‚ªŒJ‚èL‚°‚ç‚ê‚½B	ƒŠƒ“ƒOã‚Å‚ÍAŽO\•ªAŒƒ‚µ‚¢U–h‚ªŒJ‚èL‚°‚ç‚ê‚½B														
+CP3293					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu‚É‚í‚½‚Á‚Äv‚Ìíœt		yes	"Case Particle, -niwatatte"	entailment		‰ÔŽq‚Í’·”N‚É‚í‚½‚Á‚ÄŒo—‚ÌŽdŽ–‚É]Ž–‚µ‚Ä‚«‚½B	‰ÔŽq‚Í’·”NAŒo—‚ÌŽdŽ–‚É]Ž–‚µ‚Ä‚«‚½B														
+CP3294					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu‚É‚í‚½‚Á‚Äv‚Ìíœt		unacceptable	"Case Particle, -niwatatte"			‚»‚Ì­“}‚ÍŽO\”N‚Ì’·‚«‚É‚í‚½‚Á‚Ä­Œ ‚ð’S‚Á‚Ä‚«‚½B	‚»‚Ì­“}‚ÍŽO\”N‚Ì’·‚«A­Œ ‚ð’S‚Á‚Ä‚«‚½B														
+CP3295					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu‚É‚í‚½‚Á‚Äv‚Ìíœt		unacceptable	"Case Particle, -niwatatte"			‚»‚Ì‰f‰æ‚ÍŒÜ”N‚É‚í‚½‚Á‚Ä§ì‚³‚ê‚½B	‚»‚Ì‰f‰æ‚ÍŒÜ”NA§ì‚³‚ê‚½B														
+CP3296					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -niwatatte"			‚»‚ÌŠwŽÒ‚ÍˆêŽžŠÔ‚É‚í‚½‚Á‚ÄƒŒƒNƒ`ƒƒ[‚ðs‚Á‚½B	‚»‚ÌŠwŽÒ‚ÍˆêŽžŠÔ‚ÉƒŒƒNƒ`ƒƒ[‚ðs‚Á‚½B														
+CP3297					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -niwatatte"			ƒŠƒ“ƒOã‚Å‚ÍAŽO\•ª‚É‚í‚½‚Á‚ÄŒƒ‚µ‚¢U–h‚ªŒJ‚èL‚°‚ç‚ê‚½B	ƒŠƒ“ƒOã‚Å‚ÍAŽO\•ª‚ÉŒƒ‚µ‚¢U–h‚ªŒJ‚èL‚°‚ç‚ê‚½B														
+CP3298					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -niwatatte"			‰ÔŽq‚Í’·”N‚É‚í‚½‚Á‚ÄŒo—‚ÌŽdŽ–‚É]Ž–‚µ‚Ä‚«‚½B	‰ÔŽq‚Í’·”N‚ÉŒo—‚ÌŽdŽ–‚É]Ž–‚µ‚Ä‚«‚½B														
+CP3299					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -niwatatte"			‚»‚Ì­“}‚ÍŽO\”N‚Ì’·‚«‚É‚í‚½‚Á‚Ä­Œ ‚ð’S‚Á‚Ä‚«‚½B	‚»‚Ì­“}‚ÍŽO\”N‚Ì’·‚«‚É­Œ ‚ð’S‚Á‚Ä‚«‚½B														
+CP3300					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -niwatatte"			‚»‚Ì‰f‰æ‚ÍŒÜ”N‚É‚í‚½‚Á‚Ä§ì‚³‚ê‚½B	‚»‚Ì‰f‰æ‚ÍŒÜ”N‚É§ì‚³‚ê‚½B														
+CP3301					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"Case Particle, -niwatatte"			‚»‚ÌŠwŽÒ‚ÍˆêŽžŠÔ‚É‚í‚½‚Á‚ÄƒŒƒNƒ`ƒƒ[‚ðs‚Á‚½B	‚»‚ÌŠwŽÒ‚ÍˆêŽžŠÔ‚ÅƒŒƒNƒ`ƒƒ[‚ðs‚Á‚½B														
+CP3302					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niwatatte"			ƒŠƒ“ƒOã‚Å‚ÍAŽO\•ª‚É‚í‚½‚Á‚ÄŒƒ‚µ‚¢U–h‚ªŒJ‚èL‚°‚ç‚ê‚½B	ƒŠƒ“ƒOã‚Å‚ÍAŽO\•ª‚ÅŒƒ‚µ‚¢U–h‚ªŒJ‚èL‚°‚ç‚ê‚½B														
+CP3303					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -niwatatte"			‰ÔŽq‚Í’·”N‚É‚í‚½‚Á‚ÄŒo—‚ÌŽdŽ–‚É]Ž–‚µ‚Ä‚«‚½B	‰ÔŽq‚Í’·”N‚ÅŒo—‚ÌŽdŽ–‚É]Ž–‚µ‚Ä‚«‚½B														
+CP3304					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -niwatatte"			‚»‚Ì­“}‚ÍŽO\”N‚Ì’·‚«‚É‚í‚½‚Á‚Ä­Œ ‚ð’S‚Á‚Ä‚«‚½B	‚»‚Ì­“}‚ÍŽO\”N‚Ì’·‚«‚Å­Œ ‚ð’S‚Á‚Ä‚«‚½B														
+CP3305					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -niwatatte"			‚»‚Ì‰f‰æ‚ÍŒÜ”N‚É‚í‚½‚Á‚Ä§ì‚³‚ê‚½B	‚»‚Ì‰f‰æ‚ÍŒÜ”N‚Å§ì‚³‚ê‚½B														
+CP3306					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu`‚Í`‘±‚¢‚½v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niwatatte"	entailment		‚»‚ÌŠwŽÒ‚ÍˆêŽžŠÔ‚É‚í‚½‚Á‚ÄƒŒƒNƒ`ƒƒ[‚ðs‚Á‚½B	‚»‚ÌŠwŽÒ‚ÌƒŒƒNƒ`ƒƒ[‚ÍˆêŽžŠÔ‘±‚¢‚½B														
+CP3307					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu`‚Í`‘±‚¢‚½v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niwatatte"	entailment		ƒŠƒ“ƒOã‚Å‚ÍAŽO\•ª‚É‚í‚½‚Á‚ÄŒƒ‚µ‚¢U–h‚ªŒJ‚èL‚°‚ç‚ê‚½B	ƒŠƒ“ƒOã‚Å‚ÌŒƒ‚µ‚¢U–h‚ÍŽO\•ª‘±‚¢‚½B														
+CP3308					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu`‚Í`‘±‚¢‚½v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niwatatte"	entailment		‰ÔŽq‚Í’·”N‚É‚í‚½‚Á‚ÄŒo—‚ÌŽdŽ–‚É]Ž–‚µ‚Ä‚«‚½B	‰ÔŽq‚ÌŒo—‚ÌŽdŽ–‚Í’·”N‘±‚¢‚½B														
+CP3309					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu`‚Í`‘±‚¢‚½v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niwatatte"	entailment		‚»‚Ì­“}‚ÍŽO\”N‚Ì’·‚«‚É‚í‚½‚Á‚Ä­Œ ‚ð’S‚Á‚Ä‚«‚½B	‚»‚Ì­“}‚É‚æ‚é­Œ ‚ÍŽO\”N‘±‚¢‚½B														
+CP3310					so—ˆŽ–‚ªŽ‘±‚·‚éŠúŠÔ‚ð•\‚·u‚É‚í‚½‚Á‚ÄvFu`‚Í`‘±‚¢‚½v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niwatatte"	entailment		‚»‚Ì‰f‰æ‚ÍŒÜ”N‚É‚í‚½‚Á‚Ä§ì‚³‚ê‚½B	‚»‚Ì‰f‰æ‚Ì§ì‚ÍŒÜ”N‘±‚¢‚½B														
+CP3311					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚É‚ ‚½‚Á‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‘O‚ÉA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3312					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚É‚ ‚½‚Á‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚·‚é‘O‚ÉAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3313					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚É‚ ‚½‚Á‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‘O‚É“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3314					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ŠCŠO‚Ö‚Ì“nq‚É‚ ‚½‚Á‚Ä‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‘O‚É‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3315					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚É‚ ‚½‚Á‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚·‚é‘O‚ÉAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3316					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚É‚ ‚½‚Á‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é€”õ‚Æ‚µ‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3317					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚É‚ ‚½‚Á‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚·‚é€”õ‚Æ‚µ‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3318					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niatatte"			‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚É‚ ‚½‚Á‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚Ì€”õ‚Æ‚µ‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3319					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ŠCŠO‚Ö‚Ì“nq‚É‚ ‚½‚Á‚Ä‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‚Ì€”õ‚Æ‚µ‚Ä‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3320					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚É‚ ‚½‚Á‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚·‚é€”õ‚Æ‚µ‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3321					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‚ÉÛ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚É‚ ‚½‚Á‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚ÉÛ‚µ‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3322					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‚ÉÛ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚É‚ ‚½‚Á‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚·‚é‚ÉÛ‚µ‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3323					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‚ÉÛ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚É‚ ‚½‚Á‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚ÉÛ‚µ‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3324					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‚ÉÛ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ŠCŠO‚Ö‚Ì“nq‚É‚ ‚½‚Á‚Ä‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‚ÉÛ‚µ‚ÄAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3325					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‚ÉÛ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚É‚ ‚½‚Á‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚·‚é‚ÉÛ‚µ‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3326					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‚Éæ—§‚¿v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚É‚ ‚½‚Á‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚Éæ—§‚¿A‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3327					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‚Éæ—§‚¿v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚É‚ ‚½‚Á‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚·‚é‚Éæ—§‚¿AÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3328					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‚Éæ—§‚¿v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚É‚ ‚½‚Á‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚Éæ—§‚¿“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3329					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‚Éæ—§‚¿v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ŠCŠO‚Ö‚Ì“nq‚É‚ ‚½‚Á‚Ä‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‚Éæ—§‚¿AƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3330					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‚Éæ—§‚¿v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚É‚ ‚½‚Á‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚·‚é‚Éæ—§‚¿AŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3331					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚É‚ ‚½‚Á‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚Æ‚«‚ÉA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3332					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚É‚ ‚½‚Á‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚·‚é‚Æ‚«‚ÉAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3333					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚É‚ ‚½‚Á‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚Ì‚Æ‚«‚É“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3334					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ŠCŠO‚Ö‚Ì“nq‚É‚ ‚½‚Á‚Ä‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‚Ì‚Æ‚«‚ÉAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3335					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚É‚ ‚½‚Á‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚·‚é‚Æ‚«‚ÉAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3336					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -niatatte"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚É‚ ‚½‚Á‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚½Œã‚ÅA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3337					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -niatatte"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚É‚ ‚½‚Á‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚µ‚½Œã‚ÅAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3338					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -niatatte"	entailment		‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚É‚ ‚½‚Á‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚ÌŒã‚Å“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3339					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -niatatte"	entailment		ŠCŠO‚Ö‚Ì“nq‚É‚ ‚½‚Á‚Ä‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‚ÌŒã‚ÅAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3340					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚É‚ ‚½‚Á‚ÄvFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -niatatte"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚É‚ ‚½‚Á‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚µ‚½Œã‚ÅAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3341					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚ÉÛ‚µ‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‘O‚ÉA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3342					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚ÉÛ‚µ‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚·‚é‘O‚ÉAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3343					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚ÉÛ‚µ‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‘O‚É“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3344					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		ŠCŠO‚Ö‚Ì“nq‚ÉÛ‚µ‚Ä‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‘O‚É‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3345					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚ÉÛ‚µ‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚·‚é‘O‚ÉAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3346					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚ÉÛ‚µ‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é€”õ‚Æ‚µ‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3347					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚ÉÛ‚µ‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚·‚é€”õ‚Æ‚µ‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3348					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisaisite"			‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚ÉÛ‚µ‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚Ì€”õ‚Æ‚µ‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3349					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		ŠCŠO‚Ö‚Ì“nq‚ÉÛ‚µ‚Ä‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‚Ì€”õ‚Æ‚µ‚Ä‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3350					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚ÉÛ‚µ‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚·‚é€”õ‚Æ‚µ‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3351					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚É‚ ‚½‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚ÉÛ‚µ‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚É‚ ‚½‚Á‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3352					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚É‚ ‚½‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚ÉÛ‚µ‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚·‚é‚É‚ ‚½‚Á‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3353					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚É‚ ‚½‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚ÉÛ‚µ‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚É‚ ‚½‚Á‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3354					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚É‚ ‚½‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		ŠCŠO‚Ö‚Ì“nq‚ÉÛ‚µ‚Ä‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‚É‚ ‚½‚Á‚ÄAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3355					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚É‚ ‚½‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚ÉÛ‚µ‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚·‚é‚É‚ ‚½‚Á‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3356					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Éæ—§‚¿v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚ÉÛ‚µ‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚Éæ—§‚¿A‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3357					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Éæ—§‚¿v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚ÉÛ‚µ‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚·‚é‚Éæ—§‚¿AÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3358					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Éæ—§‚¿v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚ÉÛ‚µ‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚Éæ—§‚¿“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3359					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Éæ—§‚¿v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		ŠCŠO‚Ö‚Ì“nq‚ÉÛ‚µ‚Ä‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‚Éæ—§‚¿AƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3360					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Éæ—§‚¿v‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚ÉÛ‚µ‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚·‚é‚Éæ—§‚¿AŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3361					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚ÉÛ‚µ‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚Æ‚«‚ÉA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3362					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚ÉÛ‚µ‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚·‚é‚Æ‚«‚ÉAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3363					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚ÉÛ‚µ‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚Ì‚Æ‚«‚É“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3364					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		ŠCŠO‚Ö‚Ì“nq‚ÉÛ‚µ‚Ä‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‚Ì‚Æ‚«‚ÉAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3365					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚ÉÛ‚µ‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚·‚é‚Æ‚«‚ÉAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3366					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisaisite"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚ÉÛ‚µ‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚½Œã‚ÅA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3367					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisaisite"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚ÉÛ‚µ‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚µ‚½Œã‚ÅAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3368					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisaisite"	entailment		‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚ÉÛ‚µ‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚ÌŒã‚Å“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3369					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisaisite"	entailment		ŠCŠO‚Ö‚Ì“nq‚ÉÛ‚µ‚Ä‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‚ÌŒã‚ÅAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3370					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisaisite"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚ÉÛ‚µ‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚µ‚½Œã‚ÅAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3371					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"Case Particle, -nisaisite"			‚»‚Ì‘‚Å‚ÍAŠCŠO‚©‚ç‚Ì“ü‘‚ÉÛ‚µ‚ÄAƒƒNƒ`ƒ“‚ÌÚŽíØ–¾‘‚ª‹‚ß‚ç‚ê‚½B	‚»‚Ì‘‚Å‚ÍAŠCŠO‚©‚ç‚Ì“ü‘‚Ì‘O‚ÉAƒƒNƒ`ƒ“‚ÌÚŽíØ–¾‘‚ª‹‚ß‚ç‚ê‚½B														
+CP3372					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisaisite"	entailment		‚»‚Ì’c‘Ì‚ÍŽ©‘RÐŠQ‚ÉÛ‚µ‚ÄŽx‰‡‚ðŽÀŽ{‚µ‚Ä‚«‚½B	‚»‚Ì’c‘Ì‚ÍŽ©‘RÐŠQ‚Ì‘O‚ÉŽx‰‡‚ðŽÀŽ{‚µ‚Ä‚«‚½B														
+CP3373					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"Case Particle, -nisaisite"			‘¾˜Y‚Íe—F‚ÌŒ‹¥‚ÉÛ‚µ‚Ä‚¨j‚¢‚Ì•i‚ð‘¡‚Á‚½B	‘¾˜Y‚Íe—F‚ÌŒ‹¥‚Ì‘O‚É‚¨j‚¢‚Ì•i‚ð‘¡‚Á‚½B														
+CP3374					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisaisite"	entailment		‘åã‰Ä‚Ìw‚ÉÛ‚µ‚ÄAä‚Í‘SÄ‚µ‚½B	‘åã‰Ä‚Ìw‚Ì‘O‚ÉAä‚Í‘SÄ‚µ‚½B														
+CP3375					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"Case Particle, -nisaisite"			‚Z¶‚½‚¿‚ÍA‘²‹Æ‚ÉÛ‚µ‚Ä•êZ‚Éƒeƒ“ƒg‚ðŠñ‘¡‚µ‚½B	‚Z¶‚½‚¿‚ÍA‘²‹Æ‚Ì‘O‚É•êZ‚Éƒeƒ“ƒg‚ðŠñ‘¡‚µ‚½B														
+CP3376					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"Case Particle, -nisaisite"			‚»‚Ì‘‚Å‚ÍAŠCŠO‚©‚ç‚Ì“ü‘‚ÉÛ‚µ‚ÄAƒƒNƒ`ƒ“‚ÌÚŽíØ–¾‘‚ª‹‚ß‚ç‚ê‚½B	‚»‚Ì‘‚Å‚ÍAŠCŠO‚©‚ç‚Ì“ü‘‚Ì€”õ‚Æ‚µ‚ÄAƒƒNƒ`ƒ“‚ÌÚŽíØ–¾‘‚ª‹‚ß‚ç‚ê‚½B														
+CP3377					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisaisite"	entailment		‚»‚Ì’c‘Ì‚ÍŽ©‘RÐŠQ‚ÉÛ‚µ‚ÄŽx‰‡‚ðŽÀŽ{‚µ‚Ä‚«‚½B	‚»‚Ì’c‘Ì‚ÍŽ©‘RÐŠQ‚Ì€”õ‚Æ‚µ‚ÄŽx‰‡‚ðŽÀŽ{‚µ‚Ä‚«‚½B														
+CP3378					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"Case Particle, -nisaisite"			‘¾˜Y‚Íe—F‚ÌŒ‹¥‚ÉÛ‚µ‚Ä‚¨j‚¢‚Ì•i‚ð‘¡‚Á‚½B	‘¾˜Y‚Íe—F‚ÌŒ‹¥‚Ì€”õ‚Æ‚µ‚Ä‚¨j‚¢‚Ì•i‚ð‘¡‚Á‚½B														
+CP3379					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisaisite"	entailment		‘åã‰Ä‚Ìw‚ÉÛ‚µ‚ÄAä‚Í‘SÄ‚µ‚½B	‘åã‰Ä‚Ìw‚Ì€”õ‚Æ‚µ‚ÄAä‚Í‘SÄ‚µ‚½B														
+CP3380					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"Case Particle, -nisaisite"			‚Z¶‚½‚¿‚ÍA‘²‹Æ‚ÉÛ‚µ‚Ä•êZ‚Éƒeƒ“ƒg‚ðŠñ‘¡‚µ‚½B	‚Z¶‚½‚¿‚ÍA‘²‹Æ‚Ì€”õ‚Æ‚µ‚Ä•êZ‚Éƒeƒ“ƒg‚ðŠñ‘¡‚µ‚½B														
+CP3381					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚É‚ ‚½‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‚»‚Ì‘‚Å‚ÍAŠCŠO‚©‚ç‚Ì“ü‘‚ÉÛ‚µ‚ÄAƒƒNƒ`ƒ“‚ÌÚŽíØ–¾‘‚ª‹‚ß‚ç‚ê‚½B	‚»‚Ì‘‚Å‚ÍAŠCŠO‚©‚ç‚Ì“ü‘‚É‚ ‚½‚Á‚ÄAƒƒNƒ`ƒ“‚ÌÚŽíØ–¾‘‚ª‹‚ß‚ç‚ê‚½B														
+CP3382					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚É‚ ‚½‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisaisite"			‚»‚Ì’c‘Ì‚ÍŽ©‘RÐŠQ‚ÉÛ‚µ‚ÄŽx‰‡‚ðŽÀŽ{‚µ‚Ä‚«‚½B	‚»‚Ì’c‘Ì‚ÍŽ©‘RÐŠQ‚É‚ ‚½‚Á‚ÄŽx‰‡‚ðŽÀŽ{‚µ‚Ä‚«‚½B														
+CP3383					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚É‚ ‚½‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‘¾˜Y‚Íe—F‚ÌŒ‹¥‚ÉÛ‚µ‚Ä‚¨j‚¢‚Ì•i‚ð‘¡‚Á‚½B	‘¾˜Y‚Íe—F‚ÌŒ‹¥‚É‚ ‚½‚Á‚Ä‚¨j‚¢‚Ì•i‚ð‘¡‚Á‚½B														
+CP3384					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚É‚ ‚½‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisaisite"			‘åã‰Ä‚Ìw‚ÉÛ‚µ‚ÄAä‚Í‘SÄ‚µ‚½B	‘åã‰Ä‚Ìw‚É‚ ‚½‚Á‚ÄAä‚Í‘SÄ‚µ‚½B														
+CP3385					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚É‚ ‚½‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‚Z¶‚½‚¿‚ÍA‘²‹Æ‚ÉÛ‚µ‚Ä•êZ‚Éƒeƒ“ƒg‚ðŠñ‘¡‚µ‚½B	‚Z¶‚½‚¿‚ÍA‘²‹Æ‚É‚ ‚½‚Á‚Ä•êZ‚Éƒeƒ“ƒg‚ðŠñ‘¡‚µ‚½B														
+CP3386					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Éæ—§‚¿v‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"Case Particle, -nisaisite"			‚»‚Ì‘‚Å‚ÍAŠCŠO‚©‚ç‚Ì“ü‘‚ÉÛ‚µ‚ÄAƒƒNƒ`ƒ“‚ÌÚŽíØ–¾‘‚ª‹‚ß‚ç‚ê‚½B	‚»‚Ì‘‚Å‚ÍAŠCŠO‚©‚ç‚Ì“ü‘‚Éæ—§‚¿AƒƒNƒ`ƒ“‚ÌÚŽíØ–¾‘‚ª‹‚ß‚ç‚ê‚½B														
+CP3387					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Éæ—§‚¿v‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisaisite"	entailment		‚»‚Ì’c‘Ì‚ÍŽ©‘RÐŠQ‚ÉÛ‚µ‚ÄŽx‰‡‚ðŽÀŽ{‚µ‚Ä‚«‚½B	‚»‚Ì’c‘Ì‚ÍŽ©‘RÐŠQ‚Éæ—§‚¿Žx‰‡‚ðŽÀŽ{‚µ‚Ä‚«‚½B														
+CP3388					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Éæ—§‚¿v‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"Case Particle, -nisaisite"			‘¾˜Y‚Íe—F‚ÌŒ‹¥‚ÉÛ‚µ‚Ä‚¨j‚¢‚Ì•i‚ð‘¡‚Á‚½B	‘¾˜Y‚Íe—F‚ÌŒ‹¥‚Éæ—§‚¿‚¨j‚¢‚Ì•i‚ð‘¡‚Á‚½B														
+CP3389					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Éæ—§‚¿v‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisaisite"	entailment		‘åã‰Ä‚Ìw‚ÉÛ‚µ‚ÄAä‚Í‘SÄ‚µ‚½B	‘åã‰Ä‚Ìw‚Éæ—§‚¿Aä‚Í‘SÄ‚µ‚½B														
+CP3390					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Éæ—§‚¿v‚Ö‚ÌŒ¾‚¢Š·‚¦t		unknown	"Case Particle, -nisaisite"			‚Z¶‚½‚¿‚ÍA‘²‹Æ‚ÉÛ‚µ‚Ä•êZ‚Éƒeƒ“ƒg‚ðŠñ‘¡‚µ‚½B	‚Z¶‚½‚¿‚ÍA‘²‹Æ‚Éæ—§‚¿•êZ‚Éƒeƒ“ƒg‚ðŠñ‘¡‚µ‚½B														
+CP3391					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‚»‚Ì‘‚Å‚ÍAŠCŠO‚©‚ç‚Ì“ü‘‚ÉÛ‚µ‚ÄAƒƒNƒ`ƒ“‚ÌÚŽíØ–¾‘‚ª‹‚ß‚ç‚ê‚½B	‚»‚Ì‘‚Å‚ÍAŠCŠO‚©‚ç‚Ì“ü‘‚Ì‚Æ‚«‚ÉAƒƒNƒ`ƒ“‚ÌÚŽíØ–¾‘‚ª‹‚ß‚ç‚ê‚½B														
+CP3392					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‚»‚Ì’c‘Ì‚ÍŽ©‘RÐŠQ‚ÉÛ‚µ‚ÄŽx‰‡‚ðŽÀŽ{‚µ‚Ä‚«‚½B	‚»‚Ì’c‘Ì‚ÍŽ©‘RÐŠQ‚Ì‚Æ‚«‚ÉŽx‰‡‚ðŽÀŽ{‚µ‚Ä‚«‚½B														
+CP3393					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‘¾˜Y‚Íe—F‚ÌŒ‹¥‚ÉÛ‚µ‚Ä‚¨j‚¢‚Ì•i‚ð‘¡‚Á‚½B	‘¾˜Y‚Íe—F‚ÌŒ‹¥‚Ì‚Æ‚«‚É‚¨j‚¢‚Ì•i‚ð‘¡‚Á‚½B														
+CP3394					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‘åã‰Ä‚Ìw‚ÉÛ‚µ‚ÄAä‚Í‘SÄ‚µ‚½B	‘åã‰Ä‚Ìw‚Ì‚Æ‚«‚ÉAä‚Í‘SÄ‚µ‚½B														
+CP3395					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisaisite"	entailment		‚Z¶‚½‚¿‚ÍA‘²‹Æ‚ÉÛ‚µ‚Ä•êZ‚Éƒeƒ“ƒg‚ðŠñ‘¡‚µ‚½B	‚Z¶‚½‚¿‚ÍA‘²‹Æ‚Ì‚Æ‚«‚É•êZ‚Éƒeƒ“ƒg‚ðŠñ‘¡‚µ‚½B														
+CP3396					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisaisite"	entailment		‚»‚Ì‘‚Å‚ÍAŠCŠO‚©‚ç‚Ì“ü‘‚ÉÛ‚µ‚ÄAƒƒNƒ`ƒ“‚ÌÚŽíØ–¾‘‚ª‹‚ß‚ç‚ê‚½B	‚»‚Ì‘‚Å‚ÍAŠCŠO‚©‚ç‚Ì“ü‘‚ÌŒã‚ÅAƒƒNƒ`ƒ“‚ÌÚŽíØ–¾‘‚ª‹‚ß‚ç‚ê‚½B														
+CP3397					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisaisite"	entailment		‚»‚Ì’c‘Ì‚ÍŽ©‘RÐŠQ‚ÉÛ‚µ‚ÄŽx‰‡‚ðŽÀŽ{‚µ‚Ä‚«‚½B	‚»‚Ì’c‘Ì‚ÍŽ©‘RÐŠQ‚ÌŒã‚ÅŽx‰‡‚ðŽÀŽ{‚µ‚Ä‚«‚½B														
+CP3398					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisaisite"	entailment		‘¾˜Y‚Íe—F‚ÌŒ‹¥‚ÉÛ‚µ‚Ä‚¨j‚¢‚Ì•i‚ð‘¡‚Á‚½B	‘¾˜Y‚Íe—F‚ÌŒ‹¥‚ÌŒã‚Å‚¨j‚¢‚Ì•i‚ð‘¡‚Á‚½B														
+CP3399					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisaisite"	entailment		‘åã‰Ä‚Ìw‚ÉÛ‚µ‚ÄAä‚Í‘SÄ‚µ‚½B	‘åã‰Ä‚Ìw‚ÌŒã‚ÅAä‚Í‘SÄ‚µ‚½B														
+CP3400					s‚»‚Ì‚Æ‚«‚Ìó‹µ‚ð•\‚·u‚ÉÛ‚µ‚ÄvFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisaisite"	entailment		‚Z¶‚½‚¿‚ÍA‘²‹Æ‚ÉÛ‚µ‚Ä•êZ‚Éƒeƒ“ƒg‚ðŠñ‘¡‚µ‚½B	‚Z¶‚½‚¿‚ÍA‘²‹Æ‚ÌŒã‚Å•êZ‚Éƒeƒ“ƒg‚ðŠñ‘¡‚µ‚½B														
+CP3401					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚Éæ—§‚¿A‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‘O‚ÉA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3402					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚Éæ—§‚¿AÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚·‚é‘O‚ÉAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3403					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚Éæ—§‚¿“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‘O‚É“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3404					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ŠCŠO‚Ö‚Ì“nq‚Éæ—§‚¿‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‘O‚É‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3405					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‘O‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚Éæ—§‚¿AŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚·‚é‘O‚ÉAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3406					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚Éæ—§‚¿A‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é€”õ‚Æ‚µ‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3407					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚Éæ—§‚¿AÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚·‚é€”õ‚Æ‚µ‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3408					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niatatte"			‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚Éæ—§‚¿“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚Ì€”õ‚Æ‚µ‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3409					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ŠCŠO‚Ö‚Ì“nq‚Éæ—§‚¿‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‚Ì€”õ‚Æ‚µ‚Ä‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3410					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu€”õ‚Æ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚Éæ—§‚¿AŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚·‚é€”õ‚Æ‚µ‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3411					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‚ÉÛ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚Éæ—§‚¿A‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚ÉÛ‚µ‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3412					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‚ÉÛ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚Éæ—§‚¿AÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚·‚é‚ÉÛ‚µ‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3413					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‚ÉÛ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚Éæ—§‚¿“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚ÉÛ‚µ‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3414					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‚ÉÛ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ŠCŠO‚Ö‚Ì“nq‚Éæ—§‚¿‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‚ÉÛ‚µ‚ÄAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3415					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‚ÉÛ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚Éæ—§‚¿AŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚·‚é‚ÉÛ‚µ‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3416					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‚É‚ ‚½‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚Éæ—§‚¿A‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚É‚ ‚½‚Á‚ÄA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3417					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‚É‚ ‚½‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚Éæ—§‚¿AÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚·‚é‚É‚ ‚½‚Á‚ÄAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3418					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‚É‚ ‚½‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚Éæ—§‚¿“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚É‚ ‚½‚Á‚Ä“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3419					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‚É‚ ‚½‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ŠCŠO‚Ö‚Ì“nq‚Éæ—§‚¿‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‚É‚ ‚½‚Á‚ÄAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3420					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‚É‚ ‚½‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚Éæ—§‚¿AŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚·‚é‚É‚ ‚½‚Á‚ÄAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3421					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚Éæ—§‚¿A‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚Æ‚«‚ÉA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3422					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚Éæ—§‚¿AÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚·‚é‚Æ‚«‚ÉAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3423					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚Éæ—§‚¿“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚Ì‚Æ‚«‚É“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3424					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ŠCŠO‚Ö‚Ì“nq‚Éæ—§‚¿‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‚Ì‚Æ‚«‚ÉAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3425					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFu‚Æ‚«‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niatatte"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚Éæ—§‚¿AŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚·‚é‚Æ‚«‚ÉAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3426					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -niatatte"	entailment		‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚é‚Éæ—§‚¿A‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B	‰ÔŽq‚Í¬lŽ®‚ðŒ}‚¦‚½Œã‚ÅA‚‰¿‚ÈU‘³‚ðw“ü‚µ‚½B														
+CP3427					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -niatatte"	entailment		‘¾˜Y‚Í—£¥‚·‚é‚Éæ—§‚¿AÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B	‘¾˜Y‚Í—£¥‚µ‚½Œã‚ÅAÈ‚ÆàŽY‚Ì•ª—^‚É‚Â‚¢‚Ä˜b‚µ‡‚Á‚½B														
+CP3428					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -niatatte"	entailment		‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚Éæ—§‚¿“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B	‚»‚Ìƒ~ƒ…[ƒWƒVƒƒƒ“‚ÍA—ˆ“úŒö‰‰‚ÌŒã‚Å“ú–{‚Ìƒtƒ@ƒ“‚ÉŒü‚¯‚½ƒƒbƒZ[ƒW‚ð”­•\‚µ‚½B														
+CP3429					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -niatatte"	entailment		ŠCŠO‚Ö‚Ì“nq‚Éæ—§‚¿‚ÍAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB	ŠCŠO‚Ö‚Ì“nq‚ÌŒã‚ÅAƒpƒXƒ|[ƒg‚ªŠúŒÀØ‚ê‚É‚È‚Á‚Ä‚¢‚È‚¢‚©‚ðŠm”F‚·‚é•K—v‚ª‚ ‚éB														
+CP3430					sŽ–‘O‚Ìó‹µ‚ð•\‚·u‚Éæ—§‚¿vFuŒã‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -niatatte"	entailment		ˆø‚Á‰z‚µ‚ð‚·‚é‚Éæ—§‚¿AŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B	ˆø‚Á‰z‚µ‚ð‚µ‚½Œã‚ÅAŒÃ‚¢‰Æ‹ï‚ðˆ•ª‚µ‚½B														
+CP3431					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		î•ñŒöŠJ§“x‚ÍAŽs–¯‚Ì—v‹‚É‰ž‚¶‚Äs­•¶‘‚ðŠJŽ¦‚·‚é§“x‚Å‚ ‚éB	î•ñŒöŠJ§“x‚ÍAŽs–¯‚Ì—v‹‚É‚æ‚Á‚Äs­•¶‘‚ðŠJŽ¦‚·‚é§“x‚Å‚ ‚éB														
+CP3432					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‰ž‚¶‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB	ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‚æ‚Á‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB														
+CP3433					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		ŽžŠÔ‹‹‚ÍA‹Î–±ŽžŠÔ‚É‰ž‚¶‚ÄŽx‹‹‚³‚ê‚éB	ŽžŠÔ‹‹‚ÍA‹Î–±ŽžŠÔ‚É‚æ‚Á‚ÄŽx‹‹‚³‚ê‚éB														
+CP3434					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		Žq‹Ÿ‚Ì”­’B’iŠK‚É‰ž‚¶‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB	Žq‹Ÿ‚Ì”­’B’iŠK‚É‚æ‚Á‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB														
+CP3435					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‰ž‚¶‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB	ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‚æ‚Á‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3436					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niouzite"			î•ñŒöŠJ§“x‚ÍAŽs–¯‚Ì—v‹‚É‰ž‚¶‚Äs­•¶‘‚ðŠJŽ¦‚·‚é§“x‚Å‚ ‚éB	î•ñŒöŠJ§“x‚ÍAŽs–¯‚Ì—v‹‚É‡‚í‚¹‚Äs­•¶‘‚ðŠJŽ¦‚·‚é§“x‚Å‚ ‚éB														
+CP3437					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‰ž‚¶‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB	ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‡‚í‚¹‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB														
+CP3438					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		ŽžŠÔ‹‹‚ÍA‹Î–±ŽžŠÔ‚É‰ž‚¶‚ÄŽx‹‹‚³‚ê‚éB	ŽžŠÔ‹‹‚ÍA‹Î–±ŽžŠÔ‚É‡‚í‚¹‚ÄŽx‹‹‚³‚ê‚éB														
+CP3439					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		Žq‹Ÿ‚Ì”­’B’iŠK‚É‰ž‚¶‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB	Žq‹Ÿ‚Ì”­’B’iŠK‚É‡‚í‚¹‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB														
+CP3440					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‰ž‚¶‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB	ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‡‚í‚¹‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3441					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niouzite"			î•ñŒöŠJ§“x‚ÍAŽs–¯‚Ì—v‹‚É‰ž‚¶‚Äs­•¶‘‚ðŠJŽ¦‚·‚é§“x‚Å‚ ‚éB	î•ñŒöŠJ§“x‚ÍAŽs–¯‚Ì—v‹‚É‚¨‚¢‚Äs­•¶‘‚ðŠJŽ¦‚·‚é§“x‚Å‚ ‚éB														
+CP3442					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niouzite"			ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‰ž‚¶‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB	ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‚¨‚¢‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB														
+CP3443					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niouzite"			ŽžŠÔ‹‹‚ÍA‹Î–±ŽžŠÔ‚É‰ž‚¶‚ÄŽx‹‹‚³‚ê‚éB	ŽžŠÔ‹‹‚ÍA‹Î–±ŽžŠÔ‚É‚¨‚¢‚ÄŽx‹‹‚³‚ê‚éB														
+CP3444					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niouzite"			Žq‹Ÿ‚Ì”­’B’iŠK‚É‰ž‚¶‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB	Žq‹Ÿ‚Ì”­’B’iŠK‚É‚¨‚¢‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB														
+CP3445					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niouzite"			ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‰ž‚¶‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB	ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‚¨‚¢‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3446					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		î•ñŒöŠJ§“x‚ÍAŽs–¯‚Ì—v‹‚É‰ž‚¶‚Äs­•¶‘‚ðŠJŽ¦‚·‚é§“x‚Å‚ ‚éB	î•ñŒöŠJ§“x‚ÍAŽs–¯‚Ì—v‹‚Ås­•¶‘‚ðŠJŽ¦‚·‚é§“x‚Å‚ ‚éB														
+CP3447					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‰ž‚¶‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB	ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚Å‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB														
+CP3448					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		ŽžŠÔ‹‹‚ÍA‹Î–±ŽžŠÔ‚É‰ž‚¶‚ÄŽx‹‹‚³‚ê‚éB	ŽžŠÔ‹‹‚ÍA‹Î–±ŽžŠÔ‚ÅŽx‹‹‚³‚ê‚éB														
+CP3449					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niouzite"			Žq‹Ÿ‚Ì”­’B’iŠK‚É‰ž‚¶‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB	Žq‹Ÿ‚Ì”­’B’iŠK‚ÅAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB														
+CP3450					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niouzite"			ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‰ž‚¶‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB	ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚ÅA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3451					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		î•ñŒöŠJ§“x‚ÍAŽs–¯‚Ì—v‹‚É‰ž‚¶‚Äs­•¶‘‚ðŠJŽ¦‚·‚é§“x‚Å‚ ‚éB	î•ñŒöŠJ§“x‚ÍAŽs–¯‚Ì—v‹‚É‘Î‚µ‚Äs­•¶‘‚ðŠJŽ¦‚·‚é§“x‚Å‚ ‚éB														
+CP3452					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niouzite"			ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‰ž‚¶‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB	ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‘Î‚µ‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB														
+CP3453					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		ŽžŠÔ‹‹‚ÍA‹Î–±ŽžŠÔ‚É‰ž‚¶‚ÄŽx‹‹‚³‚ê‚éB	ŽžŠÔ‹‹‚ÍA‹Î–±ŽžŠÔ‚É‘Î‚µ‚ÄŽx‹‹‚³‚ê‚éB														
+CP3454					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niouzite"			Žq‹Ÿ‚Ì”­’B’iŠK‚É‰ž‚¶‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB	Žq‹Ÿ‚Ì”­’B’iŠK‚É‘Î‚µ‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB														
+CP3455					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niouzite"			ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‰ž‚¶‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB	ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‘Î‚µ‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3456					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		î•ñŒöŠJ§“x‚ÍAŽs–¯‚Ì—v‹‚É‰ž‚¶‚Äs­•¶‘‚ðŠJŽ¦‚·‚é§“x‚Å‚ ‚éB	î•ñŒöŠJ§“x‚ÍAŽs–¯‚Ì—v‹‚É]‚Á‚Äs­•¶‘‚ðŠJŽ¦‚·‚é§“x‚Å‚ ‚éB														
+CP3457					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‰ž‚¶‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB	ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É]‚Á‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB														
+CP3458					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		ŽžŠÔ‹‹‚ÍA‹Î–±ŽžŠÔ‚É‰ž‚¶‚ÄŽx‹‹‚³‚ê‚éB	ŽžŠÔ‹‹‚ÍA‹Î–±ŽžŠÔ‚É]‚Á‚ÄŽx‹‹‚³‚ê‚éB														
+CP3459					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		Žq‹Ÿ‚Ì”­’B’iŠK‚É‰ž‚¶‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB	Žq‹Ÿ‚Ì”­’B’iŠK‚É]‚Á‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB														
+CP3460					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‰ž‚¶‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB	ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É]‚Á‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3461					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		î•ñŒöŠJ§“x‚ÍAŽs–¯‚Ì—v‹‚É‰ž‚¶‚Äs­•¶‘‚ðŠJŽ¦‚·‚é§“x‚Å‚ ‚éB	î•ñŒöŠJ§“x‚ÍAŽs–¯‚Ì—v‹‚É‘¦‚µ‚Äs­•¶‘‚ðŠJŽ¦‚·‚é§“x‚Å‚ ‚éB														
+CP3462					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‰ž‚¶‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB	ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‘¦‚µ‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB														
+CP3463					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		ŽžŠÔ‹‹‚ÍA‹Î–±ŽžŠÔ‚É‰ž‚¶‚ÄŽx‹‹‚³‚ê‚éB	ŽžŠÔ‹‹‚ÍA‹Î–±ŽžŠÔ‚É‘¦‚µ‚ÄŽx‹‹‚³‚ê‚éB														
+CP3464					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		Žq‹Ÿ‚Ì”­’B’iŠK‚É‰ž‚¶‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB	Žq‹Ÿ‚Ì”­’B’iŠK‚É‘¦‚µ‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB														
+CP3465					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niouzite"	entailment		ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‰ž‚¶‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB	ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‘¦‚µ‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3466					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niouzite"			î•ñŒöŠJ§“x‚ÍAŽs–¯‚Ì—v‹‚É‰ž‚¶‚Äs­•¶‘‚ðŠJŽ¦‚·‚é§“x‚Å‚ ‚éB	î•ñŒöŠJ§“x‚ÍAŽs–¯‚Ì—v‹‚Ì‚Æ‚¨‚è‚És­•¶‘‚ðŠJŽ¦‚·‚é§“x‚Å‚ ‚éB														
+CP3467					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niouzite"			ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‰ž‚¶‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB	ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚Ì‚Æ‚¨‚è‚É‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB														
+CP3468					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niouzite"			ŽžŠÔ‹‹‚ÍA‹Î–±ŽžŠÔ‚É‰ž‚¶‚ÄŽx‹‹‚³‚ê‚éB	ŽžŠÔ‹‹‚ÍA‹Î–±ŽžŠÔ‚Ì‚Æ‚¨‚è‚ÉŽx‹‹‚³‚ê‚éB														
+CP3469					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niouzite"			Žq‹Ÿ‚Ì”­’B’iŠK‚É‰ž‚¶‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB	Žq‹Ÿ‚Ì”­’B’iŠK‚Ì‚Æ‚¨‚è‚ÉAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB														
+CP3470					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‰ž‚¶‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niouzite"			ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‰ž‚¶‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB	ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚Ì‚Æ‚¨‚è‚ÉA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3471					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			‰ä‚ªŽÐ‚ÍŽž‘ã‚É‡‚í‚¹‚Äi‰»‚µ‘±‚¯‚Ä‚«‚Ü‚µ‚½B	‰ä‚ªŽÐ‚ÍŽž‘ã‚É‚æ‚Á‚Äi‰»‚µ‘±‚¯‚Ä‚«‚Ü‚µ‚½B														
+CP3472					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niawasete"	entailment		ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‡‚í‚¹‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB	ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‚æ‚Á‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB														
+CP3473					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			ˆóü—pŽ†‚Ì‘å‚«‚³‚É‡‚í‚¹‚ÄAƒtƒ@ƒCƒ‹‚ðŠg‘å‚µ‚½B	ˆóü—pŽ†‚Ì‘å‚«‚³‚É‚æ‚Á‚ÄAƒtƒ@ƒCƒ‹‚ðŠg‘å‚µ‚½B														
+CP3474					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niawasete"	entailment		Žq‹Ÿ‚Ì”­’B’iŠK‚É‡‚í‚¹‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB	Žq‹Ÿ‚Ì”­’B’iŠK‚É‚æ‚Á‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB														
+CP3475					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niawasete"	entailment		ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‡‚í‚¹‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB	ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‚æ‚Á‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3476					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			‰ä‚ªŽÐ‚ÍŽž‘ã‚É‡‚í‚¹‚Äi‰»‚µ‘±‚¯‚Ä‚«‚Ü‚µ‚½B	‰ä‚ªŽÐ‚ÍŽž‘ã‚É‰ž‚¶‚Äi‰»‚µ‘±‚¯‚Ä‚«‚Ü‚µ‚½B														
+CP3477					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niawasete"	entailment		ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‡‚í‚¹‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB	ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‰ž‚¶‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB														
+CP3478					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			ˆóü—pŽ†‚Ì‘å‚«‚³‚É‡‚í‚¹‚ÄAƒtƒ@ƒCƒ‹‚ðŠg‘å‚µ‚½B	ˆóü—pŽ†‚Ì‘å‚«‚³‚É‰ž‚¶‚ÄAƒtƒ@ƒCƒ‹‚ðŠg‘å‚µ‚½B														
+CP3479					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niawasete"	entailment		Žq‹Ÿ‚Ì”­’B’iŠK‚É‡‚í‚¹‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB	Žq‹Ÿ‚Ì”­’B’iŠK‚É‰ž‚¶‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB														
+CP3480					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niawasete"	entailment		ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‡‚í‚¹‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB	ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‰ž‚¶‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3481					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			‰ä‚ªŽÐ‚ÍŽž‘ã‚É‡‚í‚¹‚Äi‰»‚µ‘±‚¯‚Ä‚«‚Ü‚µ‚½B	‰ä‚ªŽÐ‚ÍŽž‘ã‚É‚¨‚¢‚Äi‰»‚µ‘±‚¯‚Ä‚«‚Ü‚µ‚½B														
+CP3482					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‡‚í‚¹‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB	ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‚¨‚¢‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB														
+CP3483					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			ˆóü—pŽ†‚Ì‘å‚«‚³‚É‡‚í‚¹‚ÄAƒtƒ@ƒCƒ‹‚ðŠg‘å‚µ‚½B	ˆóü—pŽ†‚Ì‘å‚«‚³‚É‚¨‚¢‚ÄAƒtƒ@ƒCƒ‹‚ðŠg‘å‚µ‚½B														
+CP3484					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			Žq‹Ÿ‚Ì”­’B’iŠK‚É‡‚í‚¹‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB	Žq‹Ÿ‚Ì”­’B’iŠK‚É‚¨‚¢‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB														
+CP3485					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‡‚í‚¹‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB	ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‚¨‚¢‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3486					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -niawasete"			‰ä‚ªŽÐ‚ÍŽž‘ã‚É‡‚í‚¹‚Äi‰»‚µ‘±‚¯‚Ä‚«‚Ü‚µ‚½B	‰ä‚ªŽÐ‚ÍŽž‘ã‚Åi‰»‚µ‘±‚¯‚Ä‚«‚Ü‚µ‚½B														
+CP3487					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niawasete"	entailment		ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‡‚í‚¹‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB	ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚Å‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB														
+CP3488					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			ˆóü—pŽ†‚Ì‘å‚«‚³‚É‡‚í‚¹‚ÄAƒtƒ@ƒCƒ‹‚ðŠg‘å‚µ‚½B	ˆóü—pŽ†‚Ì‘å‚«‚³‚ÅAƒtƒ@ƒCƒ‹‚ðŠg‘å‚µ‚½B														
+CP3489					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			Žq‹Ÿ‚Ì”­’B’iŠK‚É‡‚í‚¹‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB	Žq‹Ÿ‚Ì”­’B’iŠK‚ÅAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB														
+CP3490					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‡‚í‚¹‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB	ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚ÅA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3491					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			‰ä‚ªŽÐ‚ÍŽž‘ã‚É‡‚í‚¹‚Äi‰»‚µ‘±‚¯‚Ä‚«‚Ü‚µ‚½B	‰ä‚ªŽÐ‚ÍŽž‘ã‚É‘Î‚µ‚Äi‰»‚µ‘±‚¯‚Ä‚«‚Ü‚µ‚½B														
+CP3492					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‡‚í‚¹‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB	ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‘Î‚µ‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB														
+CP3493					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			ˆóü—pŽ†‚Ì‘å‚«‚³‚É‡‚í‚¹‚ÄAƒtƒ@ƒCƒ‹‚ðŠg‘å‚µ‚½B	ˆóü—pŽ†‚Ì‘å‚«‚³‚É‘Î‚µ‚ÄAƒtƒ@ƒCƒ‹‚ðŠg‘å‚µ‚½B														
+CP3494					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			Žq‹Ÿ‚Ì”­’B’iŠK‚É‡‚í‚¹‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB	Žq‹Ÿ‚Ì”­’B’iŠK‚É‘Î‚µ‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB														
+CP3495					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‡‚í‚¹‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB	ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‘Î‚µ‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3496					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			‰ä‚ªŽÐ‚ÍŽž‘ã‚É‡‚í‚¹‚Äi‰»‚µ‘±‚¯‚Ä‚«‚Ü‚µ‚½B	‰ä‚ªŽÐ‚ÍŽž‘ã‚É]‚Á‚Äi‰»‚µ‘±‚¯‚Ä‚«‚Ü‚µ‚½B														
+CP3497					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niawasete"	entailment		ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‡‚í‚¹‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB	ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É]‚Á‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB														
+CP3498					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niawasete"	entailment		ˆóü—pŽ†‚Ì‘å‚«‚³‚É‡‚í‚¹‚ÄAƒtƒ@ƒCƒ‹‚ðŠg‘å‚µ‚½B	ˆóü—pŽ†‚Ì‘å‚«‚³‚É]‚Á‚ÄAƒtƒ@ƒCƒ‹‚ðŠg‘å‚µ‚½B														
+CP3499					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niawasete"	entailment		Žq‹Ÿ‚Ì”­’B’iŠK‚É‡‚í‚¹‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB	Žq‹Ÿ‚Ì”­’B’iŠK‚É]‚Á‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB														
+CP3500					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niawasete"	entailment		ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‡‚í‚¹‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB	ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É]‚Á‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3501					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niawasete"	entailment		‰ä‚ªŽÐ‚ÍŽž‘ã‚É‡‚í‚¹‚Äi‰»‚µ‘±‚¯‚Ä‚«‚Ü‚µ‚½B	‰ä‚ªŽÐ‚ÍŽž‘ã‚É‘¦‚µ‚Äi‰»‚µ‘±‚¯‚Ä‚«‚Ü‚µ‚½B														
+CP3502					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niawasete"	entailment		ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‡‚í‚¹‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB	ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‘¦‚µ‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB														
+CP3503					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			ˆóü—pŽ†‚Ì‘å‚«‚³‚É‡‚í‚¹‚ÄAƒtƒ@ƒCƒ‹‚ðŠg‘å‚µ‚½B	ˆóü—pŽ†‚Ì‘å‚«‚³‚É‘¦‚µ‚ÄAƒtƒ@ƒCƒ‹‚ðŠg‘å‚µ‚½B														
+CP3504					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niawasete"	entailment		Žq‹Ÿ‚Ì”­’B’iŠK‚É‡‚í‚¹‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB	Žq‹Ÿ‚Ì”­’B’iŠK‚É‘¦‚µ‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB														
+CP3505					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -niawasete"	entailment		ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‡‚í‚¹‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB	ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‘¦‚µ‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3506					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			‰ä‚ªŽÐ‚ÍŽž‘ã‚É‡‚í‚¹‚Äi‰»‚µ‘±‚¯‚Ä‚«‚Ü‚µ‚½B	‰ä‚ªŽÐ‚ÍŽž‘ã‚Ì‚Æ‚¨‚è‚Éi‰»‚µ‘±‚¯‚Ä‚«‚Ü‚µ‚½B														
+CP3507					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚É‡‚í‚¹‚Ä‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB	ƒfƒBƒi[ƒR[ƒX‚Ìƒƒjƒ…[‚ÍA—\ŽZ‚Ì‚Æ‚¨‚è‚É‘I‚Ô‚±‚Æ‚ª‚Å‚«‚éB														
+CP3508					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			ˆóü—pŽ†‚Ì‘å‚«‚³‚É‡‚í‚¹‚ÄAƒtƒ@ƒCƒ‹‚ðŠg‘å‚µ‚½B	ˆóü—pŽ†‚Ì‘å‚«‚³‚Ì‚Æ‚¨‚è‚ÉAƒtƒ@ƒCƒ‹‚ðŠg‘å‚µ‚½B														
+CP3509					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			Žq‹Ÿ‚Ì”­’B’iŠK‚É‡‚í‚¹‚ÄAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB	Žq‹Ÿ‚Ì”­’B’iŠK‚Ì‚Æ‚¨‚è‚ÉAŽw“±‚·‚é“à—e‚ª•Ï‚í‚éB														
+CP3510					sðŒ‚É‚æ‚é•Ï‰»‚ð•\‚·u‚É‡‚í‚¹‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -niawasete"			ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚É‡‚í‚¹‚ÄA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB	ƒ‰ƒCƒtƒXƒ^ƒCƒ‹‚Ì•Ï‰»‚Ì‚Æ‚¨‚è‚ÉA“­‚«•û‚àŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3511					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisokusite"	entailment		‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‘¦‚µ‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚ÉŠî‚Ã‚¢‚Ä‘‚©‚ê‚Ä‚¢‚éB														
+CP3512					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisokusite"	entailment		‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‘¦‚µ‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚ÉŠî‚Ã‚¢‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3513					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisokusite"	entailment		Žs‚Å‚ÍA–@—ß‚É‘¦‚µ‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚ÉŠî‚Ã‚¢‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3514					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisokusite"	entailment		Œ»ó‚É‘¦‚µ‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚ÉŠî‚Ã‚¢‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3515					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisokusite"	entailment		‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‘¦‚µ‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚ÉŠî‚Ã‚¢‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3516					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisokusite"	entailment		‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‘¦‚µ‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‚Ì‚Á‚Æ‚Á‚Ä‘‚©‚ê‚Ä‚¢‚éB														
+CP3517					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisokusite"	entailment		‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‘¦‚µ‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚Ì‚Á‚Æ‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3518					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisokusite"	entailment		Žs‚Å‚ÍA–@—ß‚É‘¦‚µ‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‚Ì‚Á‚Æ‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3519					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			Œ»ó‚É‘¦‚µ‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚É‚Ì‚Á‚Æ‚Á‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3520					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisokusite"	entailment		‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‘¦‚µ‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚Ì‚Á‚Æ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3521					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‘¦‚µ‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‚æ‚Á‚Ä‘‚©‚ê‚Ä‚¢‚éB														
+CP3522					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‘¦‚µ‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚æ‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3523					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			Žs‚Å‚ÍA–@—ß‚É‘¦‚µ‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‚æ‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3524					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			Œ»ó‚É‘¦‚µ‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚É‚æ‚Á‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3525					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‘¦‚µ‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚æ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3526					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‘¦‚µ‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‰ž‚¶‚Ä‘‚©‚ê‚Ä‚¢‚éB														
+CP3527					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‘¦‚µ‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‰ž‚¶‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3528					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			Žs‚Å‚ÍA–@—ß‚É‘¦‚µ‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‰ž‚¶‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3529					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisokusite"	entailment		Œ»ó‚É‘¦‚µ‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚É‰ž‚¶‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3530					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‘¦‚µ‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‰ž‚¶‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3531					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‘¦‚µ‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‚¨‚¢‚Ä‘‚©‚ê‚Ä‚¢‚éB														
+CP3532					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‘¦‚µ‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚¨‚¢‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3533					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			Žs‚Å‚ÍA–@—ß‚É‘¦‚µ‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‚¨‚¢‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3534					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			Œ»ó‚É‘¦‚µ‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚É‚¨‚¢‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3535					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‘¦‚µ‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚¨‚¢‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3536					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisokusite"			‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‘¦‚µ‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚Å‘‚©‚ê‚Ä‚¢‚éB														
+CP3537					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisokusite"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‘¦‚µ‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚Å—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3538					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisokusite"			Žs‚Å‚ÍA–@—ß‚É‘¦‚µ‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚Å”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3539					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisokusite"			Œ»ó‚É‘¦‚µ‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚ÅAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3540					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisokusite"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‘¦‚µ‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚ÅlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3541					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisokusite"			‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‘¦‚µ‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‘Î‚µ‚Ä‘‚©‚ê‚Ä‚¢‚éB														
+CP3542					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisokusite"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‘¦‚µ‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‘Î‚µ‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3543					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisokusite"			Žs‚Å‚ÍA–@—ß‚É‘¦‚µ‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‘Î‚µ‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3544					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			Œ»ó‚É‘¦‚µ‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚É‘Î‚µ‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3545					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisokusite"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‘¦‚µ‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‘Î‚µ‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3546					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‘¦‚µ‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É]‚Á‚Ä‘‚©‚ê‚Ä‚¢‚éB														
+CP3547					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisokusite"	entailment		‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‘¦‚µ‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É]‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3548					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisokusite"	entailment		Žs‚Å‚ÍA–@—ß‚É‘¦‚µ‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É]‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3549					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisokusite"	entailment		Œ»ó‚É‘¦‚µ‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚É]‚Á‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3550					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisokusite"	entailment		‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‘¦‚µ‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É]‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3551					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‘¦‚µ‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‡‚í‚¹‚Ä‘‚©‚ê‚Ä‚¢‚éB														
+CP3552					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‘¦‚µ‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‡‚í‚¹‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3553					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			Žs‚Å‚ÍA–@—ß‚É‘¦‚µ‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‡‚í‚¹‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3554					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			Œ»ó‚É‘¦‚µ‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚É‡‚í‚¹‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3555					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‘¦‚µ‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‡‚í‚¹‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3556					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisokusite"	entailment		‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‘¦‚µ‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚Ì‚Æ‚¨‚è‚É‘‚©‚ê‚Ä‚¢‚éB														
+CP3557					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‘¦‚µ‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚Ì‚Æ‚¨‚è‚É—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3558					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisokusite"	entailment		Žs‚Å‚ÍA–@—ß‚É‘¦‚µ‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚Ì‚Æ‚¨‚è‚É”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3559					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisokusite"			Œ»ó‚É‘¦‚µ‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚Ì‚Æ‚¨‚è‚ÉAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3560					sŠî€‚ð•\‚·u‚É‘¦‚µ‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisokusite"	entailment		‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‘¦‚µ‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚Ì‚Æ‚¨‚è‚ÉlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3561					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚É‚Ì‚Á‚Æ‚Á‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B	‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚ÉŠî‚Ã‚¢‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B														
+CP3562					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚É‚Ì‚Á‚Æ‚Á‚Äs‚í‚ê‚éB	‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚ÉŠî‚Ã‚¢‚Äs‚í‚ê‚éB														
+CP3563					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚Ì‚Á‚Æ‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚ÉŠî‚Ã‚¢‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3564					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		Žs‚Å‚ÍA–@—ß‚É‚Ì‚Á‚Æ‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚ÉŠî‚Ã‚¢‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3565					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚Ì‚Á‚Æ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚ÉŠî‚Ã‚¢‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3566					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚É‚Ì‚Á‚Æ‚Á‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B	‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚É‘¦‚µ‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B														
+CP3567					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚É‚Ì‚Á‚Æ‚Á‚Äs‚í‚ê‚éB	‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚É‘¦‚µ‚Äs‚í‚ê‚éB														
+CP3568					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚Ì‚Á‚Æ‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‘¦‚µ‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3569					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		Žs‚Å‚ÍA–@—ß‚É‚Ì‚Á‚Æ‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‘¦‚µ‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3570					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚Ì‚Á‚Æ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‘¦‚µ‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3571					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚É‚Ì‚Á‚Æ‚Á‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B	‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚É‚æ‚Á‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B														
+CP3572					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚É‚Ì‚Á‚Æ‚Á‚Äs‚í‚ê‚éB	‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚É‚æ‚Á‚Äs‚í‚ê‚éB														
+CP3573					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚Ì‚Á‚Æ‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚æ‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3574					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			Žs‚Å‚ÍA–@—ß‚É‚Ì‚Á‚Æ‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‚æ‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3575					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚Ì‚Á‚Æ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚æ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3576					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚É‚Ì‚Á‚Æ‚Á‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B	‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚É‰ž‚¶‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B														
+CP3577					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚É‚Ì‚Á‚Æ‚Á‚Äs‚í‚ê‚éB	‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚É‰ž‚¶‚Äs‚í‚ê‚éB														
+CP3578					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚Ì‚Á‚Æ‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‰ž‚¶‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3579					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		Žs‚Å‚ÍA–@—ß‚É‚Ì‚Á‚Æ‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‰ž‚¶‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3580					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚Ì‚Á‚Æ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‰ž‚¶‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3581					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚É‚Ì‚Á‚Æ‚Á‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B	‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚É‚¨‚¢‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B														
+CP3582					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚É‚Ì‚Á‚Æ‚Á‚Äs‚í‚ê‚éB	‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚É‚¨‚¢‚Äs‚í‚ê‚éB														
+CP3583					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚Ì‚Á‚Æ‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚¨‚¢‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3584					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			Žs‚Å‚ÍA–@—ß‚É‚Ì‚Á‚Æ‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‚¨‚¢‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3585					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚Ì‚Á‚Æ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚¨‚¢‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3586					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -ninottotte"			‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚É‚Ì‚Á‚Æ‚Á‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B	‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚Å³X“°X‚ÆƒvƒŒ[‚µ‚½B														
+CP3587					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -ninottotte"			‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚É‚Ì‚Á‚Æ‚Á‚Äs‚í‚ê‚éB	‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚Ås‚í‚ê‚éB														
+CP3588					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -ninottotte"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚Ì‚Á‚Æ‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚Å—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3589					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -ninottotte"			Žs‚Å‚ÍA–@—ß‚É‚Ì‚Á‚Æ‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚Å”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3590					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -ninottotte"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚Ì‚Á‚Æ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚ÅlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3591					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -ninottotte"			‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚É‚Ì‚Á‚Æ‚Á‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B	‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚É‘Î‚µ‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B														
+CP3592					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -ninottotte"			‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚É‚Ì‚Á‚Æ‚Á‚Äs‚í‚ê‚éB	‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚É‘Î‚µ‚Äs‚í‚ê‚éB														
+CP3593					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -ninottotte"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚Ì‚Á‚Æ‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‘Î‚µ‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3594					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			Žs‚Å‚ÍA–@—ß‚É‚Ì‚Á‚Æ‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‘Î‚µ‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3595					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -ninottotte"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚Ì‚Á‚Æ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‘Î‚µ‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3596					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚É‚Ì‚Á‚Æ‚Á‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B	‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚É]‚Á‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B														
+CP3597					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚É‚Ì‚Á‚Æ‚Á‚Äs‚í‚ê‚éB	‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚É]‚Á‚Äs‚í‚ê‚éB														
+CP3598					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚Ì‚Á‚Æ‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É]‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3599					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		Žs‚Å‚ÍA–@—ß‚É‚Ì‚Á‚Æ‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É]‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3600					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚Ì‚Á‚Æ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É]‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3601					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚É‚Ì‚Á‚Æ‚Á‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B	‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚É‡‚í‚¹‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B														
+CP3602					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚É‚Ì‚Á‚Æ‚Á‚Äs‚í‚ê‚éB	‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚É‡‚í‚¹‚Äs‚í‚ê‚éB														
+CP3603					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚Ì‚Á‚Æ‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‡‚í‚¹‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3604					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			Žs‚Å‚ÍA–@—ß‚É‚Ì‚Á‚Æ‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‡‚í‚¹‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3605					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚Ì‚Á‚Æ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‡‚í‚¹‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3606					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚É‚Ì‚Á‚Æ‚Á‚Ä³X“°X‚ÆƒvƒŒ[‚µ‚½B	‘IŽè‚½‚¿‚ÍAƒXƒ|[ƒcƒ}ƒ“ƒVƒbƒv‚Ì‚Æ‚¨‚è‚É³X“°X‚ÆƒvƒŒ[‚µ‚½B														
+CP3607					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚É‚Ì‚Á‚Æ‚Á‚Äs‚í‚ê‚éB	‹³‰È‘‚ÌŒŸ’è‚ÍŠwKŽw“±—v—Ì‚Ì‚Æ‚¨‚è‚És‚í‚ê‚éB														
+CP3608					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚Ì‚Á‚Æ‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚Ì‚Æ‚¨‚è‚É—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3609					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -ninottotte"			Žs‚Å‚ÍA–@—ß‚É‚Ì‚Á‚Æ‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚Ì‚Æ‚¨‚è‚É”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3610					sŠî€‚ð•\‚·u‚É‚Ì‚Á‚Æ‚Á‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -ninottotte"	entailment		‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚Ì‚Á‚Æ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚Ì‚Æ‚¨‚è‚ÉlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3611					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nimotozuite"	entailment		‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚ÉŠî‚Ã‚¢‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‘¦‚µ‚Ä‘‚©‚ê‚Ä‚¢‚éB														
+CP3612					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nimotozuite"	entailment		‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚ÉŠî‚Ã‚¢‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‘¦‚µ‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3613					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nimotozuite"	entailment		Žs‚Å‚ÍA–@—ß‚ÉŠî‚Ã‚¢‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‘¦‚µ‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3614					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nimotozuite"	entailment		Œ»ó‚ÉŠî‚Ã‚¢‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚É‘¦‚µ‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3615					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nimotozuite"	entailment		‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚ÉŠî‚Ã‚¢‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‘¦‚µ‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3616					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nimotozuite"	entailment		‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚ÉŠî‚Ã‚¢‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‚Ì‚Á‚Æ‚Á‚Ä‘‚©‚ê‚Ä‚¢‚éB														
+CP3617					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nimotozuite"	entailment		‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚ÉŠî‚Ã‚¢‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚Ì‚Á‚Æ‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3618					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nimotozuite"	entailment		Žs‚Å‚ÍA–@—ß‚ÉŠî‚Ã‚¢‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‚Ì‚Á‚Æ‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3619					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			Œ»ó‚ÉŠî‚Ã‚¢‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚É‚Ì‚Á‚Æ‚Á‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3620					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nimotozuite"	entailment		‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚ÉŠî‚Ã‚¢‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚Ì‚Á‚Æ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3621					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚ÉŠî‚Ã‚¢‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‚æ‚Á‚Ä‘‚©‚ê‚Ä‚¢‚éB														
+CP3622					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚ÉŠî‚Ã‚¢‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚æ‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3623					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			Žs‚Å‚ÍA–@—ß‚ÉŠî‚Ã‚¢‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‚æ‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3624					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			Œ»ó‚ÉŠî‚Ã‚¢‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚É‚æ‚Á‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3625					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚ÉŠî‚Ã‚¢‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚æ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3626					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚ÉŠî‚Ã‚¢‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‰ž‚¶‚Ä‘‚©‚ê‚Ä‚¢‚éB														
+CP3627					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚ÉŠî‚Ã‚¢‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‰ž‚¶‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3628					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			Žs‚Å‚ÍA–@—ß‚ÉŠî‚Ã‚¢‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‰ž‚¶‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3629					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nimotozuite"	entailment		Œ»ó‚ÉŠî‚Ã‚¢‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚É‰ž‚¶‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3630					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚ÉŠî‚Ã‚¢‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‰ž‚¶‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3631					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚ÉŠî‚Ã‚¢‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‚¨‚¢‚Ä‘‚©‚ê‚Ä‚¢‚éB														
+CP3632					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚ÉŠî‚Ã‚¢‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‚¨‚¢‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3633					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			Žs‚Å‚ÍA–@—ß‚ÉŠî‚Ã‚¢‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‚¨‚¢‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3634					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			Œ»ó‚ÉŠî‚Ã‚¢‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚É‚¨‚¢‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3635					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚ÉŠî‚Ã‚¢‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚¨‚¢‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3636					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nimotozuite"			‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚ÉŠî‚Ã‚¢‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚Å‘‚©‚ê‚Ä‚¢‚éB														
+CP3637					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nimotozuite"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚ÉŠî‚Ã‚¢‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚Å—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3638					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nimotozuite"			Žs‚Å‚ÍA–@—ß‚ÉŠî‚Ã‚¢‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚Å”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3639					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nimotozuite"			Œ»ó‚ÉŠî‚Ã‚¢‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚ÅAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3640					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nimotozuite"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚ÉŠî‚Ã‚¢‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚ÅlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3641					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nimotozuite"			‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚ÉŠî‚Ã‚¢‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‘Î‚µ‚Ä‘‚©‚ê‚Ä‚¢‚éB														
+CP3642					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nimotozuite"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚ÉŠî‚Ã‚¢‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‘Î‚µ‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3643					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nimotozuite"			Žs‚Å‚ÍA–@—ß‚ÉŠî‚Ã‚¢‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‘Î‚µ‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3644					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			Œ»ó‚ÉŠî‚Ã‚¢‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚É‘Î‚µ‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3645					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nimotozuite"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚ÉŠî‚Ã‚¢‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‘Î‚µ‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3646					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚ÉŠî‚Ã‚¢‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É]‚Á‚Ä‘‚©‚ê‚Ä‚¢‚éB														
+CP3647					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nimotozuite"	entailment		‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚ÉŠî‚Ã‚¢‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É]‚Á‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3648					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nimotozuite"	entailment		Žs‚Å‚ÍA–@—ß‚ÉŠî‚Ã‚¢‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É]‚Á‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3649					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nimotozuite"	entailment		Œ»ó‚ÉŠî‚Ã‚¢‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚É]‚Á‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3650					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nimotozuite"	entailment		‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚ÉŠî‚Ã‚¢‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É]‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3651					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚ÉŠî‚Ã‚¢‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚É‡‚í‚¹‚Ä‘‚©‚ê‚Ä‚¢‚éB														
+CP3652					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚ÉŠî‚Ã‚¢‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚É‡‚í‚¹‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3653					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			Žs‚Å‚ÍA–@—ß‚ÉŠî‚Ã‚¢‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚É‡‚í‚¹‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3654					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			Œ»ó‚ÉŠî‚Ã‚¢‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚É‡‚í‚¹‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3655					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚ÉŠî‚Ã‚¢‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‡‚í‚¹‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3656					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nimotozuite"	entailment		‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚ÉŠî‚Ã‚¢‚Ä‘‚©‚ê‚Ä‚¢‚éB	‚±‚Ì¬à‚Í‚Ù‚ÚŽjŽÀ‚Ì‚Æ‚¨‚è‚É‘‚©‚ê‚Ä‚¢‚éB														
+CP3657					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚ÉŠî‚Ã‚¢‚Ä—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B	‚»‚Ì_ŽÐ‚Å‚ÍA“`“‚Ì‚Æ‚¨‚è‚É—§t‚Ì‹VŽ®‚ªs‚í‚ê‚½B														
+CP3658					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nimotozuite"	entailment		Žs‚Å‚ÍA–@—ß‚ÉŠî‚Ã‚¢‚Ä”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB	Žs‚Å‚ÍA–@—ß‚Ì‚Æ‚¨‚è‚É”ð“ïŠ‚ðŽw’è‚µ‚Ä‚¢‚éB														
+CP3659					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nimotozuite"			Œ»ó‚ÉŠî‚Ã‚¢‚ÄAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB	Œ»ó‚Ì‚Æ‚¨‚è‚ÉAŒv‰æ‚ðŒ©’¼‚·•K—v‚ª‚ ‚éB														
+CP3660					sŠî€‚ð•\‚·u‚ÉŠî‚Ã‚¢‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nimotozuite"	entailment		‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚ÉŠî‚Ã‚¢‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚Ì‚Æ‚¨‚è‚ÉlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3661					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‰ˆ‚Á‚Ä‘—Þ‚ð’ño‚µ‚½B	‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚ÉŠî‚Ã‚¢‚Ä‘—Þ‚ð’ño‚µ‚½B														
+CP3662					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‰ˆ‚Á‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB	‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚ÉŠî‚Ã‚¢‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB														
+CP3663					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‰ˆ‚Á‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B	‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚ÉŠî‚Ã‚¢‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B														
+CP3664					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‰ˆ‚Á‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B	‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚ÉŠî‚Ã‚¢‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B														
+CP3665					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‰ˆ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚ÉŠî‚Ã‚¢‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3666					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‰ˆ‚Á‚Ä‘—Þ‚ð’ño‚µ‚½B	‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‘¦‚µ‚Ä‘—Þ‚ð’ño‚µ‚½B														
+CP3667					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‰ˆ‚Á‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB	‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‘¦‚µ‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB														
+CP3668					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‰ˆ‚Á‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B	‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‘¦‚µ‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B														
+CP3669					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‰ˆ‚Á‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B	‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‘¦‚µ‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B														
+CP3670					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‰ˆ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‘¦‚µ‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3671					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‰ˆ‚Á‚Ä‘—Þ‚ð’ño‚µ‚½B	‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‚Ì‚Á‚Æ‚Á‚Ä‘—Þ‚ð’ño‚µ‚½B														
+CP3672					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‰ˆ‚Á‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB	‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‚Ì‚Á‚Æ‚Á‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB														
+CP3673					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‰ˆ‚Á‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B	‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‚Ì‚Á‚Æ‚Á‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B														
+CP3674					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‰ˆ‚Á‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B	‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‚Ì‚Á‚Æ‚Á‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B														
+CP3675					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‰ˆ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚Ì‚Á‚Æ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3676					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É•Às‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‰ˆ‚Á‚Ä‘—Þ‚ð’ño‚µ‚½B	‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É•Às‚É‘—Þ‚ð’ño‚µ‚½B														
+CP3677					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É•Às‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‰ˆ‚Á‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB	‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É•Às‚ÉŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB														
+CP3678					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É•Às‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‰ˆ‚Á‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B	‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É•Às‚ÉŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B														
+CP3679					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É•Às‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‰ˆ‚Á‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B	‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É•Às‚ÉŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B														
+CP3680					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É•Às‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‰ˆ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É•Às‚ÉlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3681					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‰ˆ‚Á‚Ä‘—Þ‚ð’ño‚µ‚½B	‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‚æ‚Á‚Ä‘—Þ‚ð’ño‚µ‚½B														
+CP3682					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‰ˆ‚Á‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB	‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‚æ‚Á‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB														
+CP3683					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‰ˆ‚Á‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B	‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‚æ‚Á‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B														
+CP3684					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‰ˆ‚Á‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B	‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‚æ‚Á‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B														
+CP3685					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‰ˆ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚æ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3686					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‰ˆ‚Á‚Ä‘—Þ‚ð’ño‚µ‚½B	‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‰ž‚¶‚Ä‘—Þ‚ð’ño‚µ‚½B														
+CP3687					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‰ˆ‚Á‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB	‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‰ž‚¶‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB														
+CP3688					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‰ˆ‚Á‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B	‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‰ž‚¶‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B														
+CP3689					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‰ˆ‚Á‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B	‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‰ž‚¶‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B														
+CP3690					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‰ˆ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‰ž‚¶‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3691					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‰ˆ‚Á‚Ä‘—Þ‚ð’ño‚µ‚½B	‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‚¨‚¢‚Ä‘—Þ‚ð’ño‚µ‚½B														
+CP3692					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‰ˆ‚Á‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB	‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‚¨‚¢‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB														
+CP3693					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‰ˆ‚Á‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B	‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‚¨‚¢‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B														
+CP3694					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‰ˆ‚Á‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B	‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‚¨‚¢‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B														
+CP3695					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‰ˆ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‚¨‚¢‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3696					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‰ˆ‚Á‚Ä‘—Þ‚ð’ño‚µ‚½B	‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚Å‘—Þ‚ð’ño‚µ‚½B														
+CP3697					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‰ˆ‚Á‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB	‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚ÅŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB														
+CP3698					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‰ˆ‚Á‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B	‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚ÅŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B														
+CP3699					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‰ˆ‚Á‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B	‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚ÅŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B														
+CP3700					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‰ˆ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚ÅlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3701					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‰ˆ‚Á‚Ä‘—Þ‚ð’ño‚µ‚½B	‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‘Î‚µ‚Ä‘—Þ‚ð’ño‚µ‚½B														
+CP3702					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‰ˆ‚Á‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB	‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‘Î‚µ‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB														
+CP3703					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‰ˆ‚Á‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B	‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‘Î‚µ‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B														
+CP3704					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‰ˆ‚Á‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B	‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‘Î‚µ‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B														
+CP3705					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‰ˆ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‘Î‚µ‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3706					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‰ˆ‚Á‚Ä‘—Þ‚ð’ño‚µ‚½B	‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É]‚Á‚Ä‘—Þ‚ð’ño‚µ‚½B														
+CP3707					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‰ˆ‚Á‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB	‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É]‚Á‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB														
+CP3708					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‰ˆ‚Á‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B	‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É]‚Á‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B														
+CP3709					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‰ˆ‚Á‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B	‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É]‚Á‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B														
+CP3710					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‰ˆ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É]‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3711					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‰ˆ‚Á‚Ä‘—Þ‚ð’ño‚µ‚½B	‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‡‚í‚¹‚Ä‘—Þ‚ð’ño‚µ‚½B														
+CP3712					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‰ˆ‚Á‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB	‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‡‚í‚¹‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB														
+CP3713					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‰ˆ‚Á‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B	‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‡‚í‚¹‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B														
+CP3714					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‰ˆ‚Á‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B	‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‡‚í‚¹‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B														
+CP3715					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‰ˆ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‡‚í‚¹‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3716					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚É‰ˆ‚Á‚Ä‘—Þ‚ð’ño‚µ‚½B	‰ÔŽq‚Í‰ïŽÐ‚Ì•ûj‚Ì‚Æ‚¨‚è‚É‘—Þ‚ð’ño‚µ‚½B														
+CP3717					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚É‰ˆ‚Á‚ÄŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB	‚»‚Ì‰ïŽÐ‚Å‚ÍAŠÖ˜A‚·‚é–@—ß‚ÌŽïŽ|‚Ì‚Æ‚¨‚è‚ÉŒÂlî•ñ‚ðŽæ‚èˆµ‚Á‚Ä‚¢‚éB														
+CP3718					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚É‰ˆ‚Á‚ÄŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B	‘¾˜Y‚Íƒ}ƒjƒ…ƒAƒ‹‚Ì‚Æ‚¨‚è‚ÉŒÚ‹q‚©‚ç‚Ì–â‚¢‡‚í‚¹‚É‘Î‰ž‚µ‚½B														
+CP3719					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚É‰ˆ‚Á‚ÄŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B	‚»‚Ì’¬‚Å‚ÍAŽO”N‘O‚Éô’è‚µ‚½Œv‰æ‚Ì‚Æ‚¨‚è‚ÉŠX‚Ã‚­‚è‚ð„i‚µ‚Ä‚«‚½B														
+CP3720					sŠî€‚É‡‚í‚¹‚é‚±‚Æ‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚É‰ˆ‚Á‚ÄlÞ‚ðˆç¬‚µ‚Ä‚«‚½B	‰ä‚ªŽÐ‚ÍA‘n‹ÆŽÒ‚Ì—”O‚Ì‚Æ‚¨‚è‚ÉlÞ‚ðˆç¬‚µ‚Ä‚«‚½B														
+CP3721					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É•Às‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‘D‚ÍŠCŠÝü‚É‰ˆ‚Á‚Äi‚ñ‚¾B	‘D‚ÍŠCŠÝü‚É•Às‚Éi‚ñ‚¾B														
+CP3722					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É•Às‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		’Ê‚è‚É‰ˆ‚Á‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB	’Ê‚è‚É•Às‚ÉÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB														
+CP3723					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É•Às‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‰ÔŽq‚Í”’ü‚É‰ˆ‚Á‚ÄŽÔ‚ðŽ~‚ß‚½B	‰ÔŽq‚Í”’ü‚É•Às‚ÉŽÔ‚ðŽ~‚ß‚½B														
+CP3724					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É•Às‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‘¾˜Y‚Íì‚É‰ˆ‚Á‚Ä•à‚¢‚½B	‘¾˜Y‚Íì‚É•Às‚É•à‚¢‚½B														
+CP3725					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É•Às‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‰ˆ‚Á‚Ä”–Ø‚è‚É‚·‚éB	‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É•Às‚É”–Ø‚è‚É‚·‚éB														
+CP3726					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘D‚ÍŠCŠÝü‚É‰ˆ‚Á‚Äi‚ñ‚¾B	‘D‚ÍŠCŠÝü‚ÉŠî‚Ã‚¢‚Äi‚ñ‚¾B														
+CP3727					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			’Ê‚è‚É‰ˆ‚Á‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB	’Ê‚è‚ÉŠî‚Ã‚¢‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB														
+CP3728					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‰ÔŽq‚Í”’ü‚É‰ˆ‚Á‚ÄŽÔ‚ðŽ~‚ß‚½B	‰ÔŽq‚Í”’ü‚ÉŠî‚Ã‚¢‚ÄŽÔ‚ðŽ~‚ß‚½B														
+CP3729					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘¾˜Y‚Íì‚É‰ˆ‚Á‚Ä•à‚¢‚½B	‘¾˜Y‚Íì‚ÉŠî‚Ã‚¢‚Ä•à‚¢‚½B														
+CP3730					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚ÉŠî‚Ã‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‰ˆ‚Á‚Ä”–Ø‚è‚É‚·‚éB	‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚ÉŠî‚Ã‚¢‚Ä”–Ø‚è‚É‚·‚éB														
+CP3731					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘D‚ÍŠCŠÝü‚É‰ˆ‚Á‚Äi‚ñ‚¾B	‘D‚ÍŠCŠÝü‚É‘¦‚µ‚Äi‚ñ‚¾B														
+CP3732					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			’Ê‚è‚É‰ˆ‚Á‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB	’Ê‚è‚É‘¦‚µ‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB														
+CP3733					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‰ÔŽq‚Í”’ü‚É‰ˆ‚Á‚ÄŽÔ‚ðŽ~‚ß‚½B	‰ÔŽq‚Í”’ü‚É‘¦‚µ‚ÄŽÔ‚ðŽ~‚ß‚½B														
+CP3734					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘¾˜Y‚Íì‚É‰ˆ‚Á‚Ä•à‚¢‚½B	‘¾˜Y‚Íì‚É‘¦‚µ‚Ä•à‚¢‚½B														
+CP3735					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘¦‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‰ˆ‚Á‚Ä”–Ø‚è‚É‚·‚éB	‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‘¦‚µ‚Ä”–Ø‚è‚É‚·‚éB														
+CP3736					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘D‚ÍŠCŠÝü‚É‰ˆ‚Á‚Äi‚ñ‚¾B	‘D‚ÍŠCŠÝü‚É‚Ì‚Á‚Æ‚Á‚Äi‚ñ‚¾B														
+CP3737					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			’Ê‚è‚É‰ˆ‚Á‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB	’Ê‚è‚É‚Ì‚Á‚Æ‚Á‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB														
+CP3738					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‰ÔŽq‚Í”’ü‚É‰ˆ‚Á‚ÄŽÔ‚ðŽ~‚ß‚½B	‰ÔŽq‚Í”’ü‚É‚Ì‚Á‚Æ‚Á‚ÄŽÔ‚ðŽ~‚ß‚½B														
+CP3739					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘¾˜Y‚Íì‚É‰ˆ‚Á‚Ä•à‚¢‚½B	‘¾˜Y‚Íì‚É‚Ì‚Á‚Æ‚Á‚Ä•à‚¢‚½B														
+CP3740					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚Ì‚Á‚Æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‰ˆ‚Á‚Ä”–Ø‚è‚É‚·‚éB	‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‚Ì‚Á‚Æ‚Á‚Ä”–Ø‚è‚É‚·‚éB														
+CP3741					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘D‚ÍŠCŠÝü‚É‰ˆ‚Á‚Äi‚ñ‚¾B	‘D‚ÍŠCŠÝü‚É‚æ‚Á‚Äi‚ñ‚¾B														
+CP3742					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			’Ê‚è‚É‰ˆ‚Á‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB	’Ê‚è‚É‚æ‚Á‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB														
+CP3743					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‰ÔŽq‚Í”’ü‚É‰ˆ‚Á‚ÄŽÔ‚ðŽ~‚ß‚½B	‰ÔŽq‚Í”’ü‚É‚æ‚Á‚ÄŽÔ‚ðŽ~‚ß‚½B														
+CP3744					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘¾˜Y‚Íì‚É‰ˆ‚Á‚Ä•à‚¢‚½B	‘¾˜Y‚Íì‚É‚æ‚Á‚Ä•à‚¢‚½B														
+CP3745					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚æ‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‰ˆ‚Á‚Ä”–Ø‚è‚É‚·‚éB	‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‚æ‚Á‚Ä”–Ø‚è‚É‚·‚éB														
+CP3746					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘D‚ÍŠCŠÝü‚É‰ˆ‚Á‚Äi‚ñ‚¾B	‘D‚ÍŠCŠÝü‚É‰ž‚¶‚Äi‚ñ‚¾B														
+CP3747					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			’Ê‚è‚É‰ˆ‚Á‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB	’Ê‚è‚É‰ž‚¶‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB														
+CP3748					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‰ÔŽq‚Í”’ü‚É‰ˆ‚Á‚ÄŽÔ‚ðŽ~‚ß‚½B	‰ÔŽq‚Í”’ü‚É‰ž‚¶‚ÄŽÔ‚ðŽ~‚ß‚½B														
+CP3749					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘¾˜Y‚Íì‚É‰ˆ‚Á‚Ä•à‚¢‚½B	‘¾˜Y‚Íì‚É‰ž‚¶‚Ä•à‚¢‚½B														
+CP3750					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‰ž‚¶‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‰ˆ‚Á‚Ä”–Ø‚è‚É‚·‚éB	‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‰ž‚¶‚Ä”–Ø‚è‚É‚·‚éB														
+CP3751					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘D‚ÍŠCŠÝü‚É‰ˆ‚Á‚Äi‚ñ‚¾B	‘D‚ÍŠCŠÝü‚É‚¨‚¢‚Äi‚ñ‚¾B														
+CP3752					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			’Ê‚è‚É‰ˆ‚Á‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB	’Ê‚è‚É‚¨‚¢‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB														
+CP3753					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‰ÔŽq‚Í”’ü‚É‰ˆ‚Á‚ÄŽÔ‚ðŽ~‚ß‚½B	‰ÔŽq‚Í”’ü‚É‚¨‚¢‚ÄŽÔ‚ðŽ~‚ß‚½B														
+CP3754					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘¾˜Y‚Íì‚É‰ˆ‚Á‚Ä•à‚¢‚½B	‘¾˜Y‚Íì‚É‚¨‚¢‚Ä•à‚¢‚½B														
+CP3755					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‰ˆ‚Á‚Ä”–Ø‚è‚É‚·‚éB	‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‚¨‚¢‚Ä”–Ø‚è‚É‚·‚éB														
+CP3756					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘D‚ÍŠCŠÝü‚É‰ˆ‚Á‚Äi‚ñ‚¾B	‘D‚ÍŠCŠÝü‚Åi‚ñ‚¾B														
+CP3757					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			’Ê‚è‚É‰ˆ‚Á‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB	’Ê‚è‚ÅÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB														
+CP3758					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‰ÔŽq‚Í”’ü‚É‰ˆ‚Á‚ÄŽÔ‚ðŽ~‚ß‚½B	‰ÔŽq‚Í”’ü‚ÅŽÔ‚ðŽ~‚ß‚½B														
+CP3759					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘¾˜Y‚Íì‚É‰ˆ‚Á‚Ä•à‚¢‚½B	‘¾˜Y‚Íì‚Å•à‚¢‚½B														
+CP3760					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‰ˆ‚Á‚Ä”–Ø‚è‚É‚·‚éB	‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚Å”–Ø‚è‚É‚·‚éB														
+CP3761					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisotte"	entailment		‘D‚ÍŠCŠÝü‚É‰ˆ‚Á‚Äi‚ñ‚¾B	‘D‚ÍŠCŠÝü‚É‘Î‚µ‚Äi‚ñ‚¾B														
+CP3762					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisotte"	entailment		’Ê‚è‚É‰ˆ‚Á‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB	’Ê‚è‚É‘Î‚µ‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB														
+CP3763					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisotte"	entailment		‰ÔŽq‚Í”’ü‚É‰ˆ‚Á‚ÄŽÔ‚ðŽ~‚ß‚½B	‰ÔŽq‚Í”’ü‚É‘Î‚µ‚ÄŽÔ‚ðŽ~‚ß‚½B														
+CP3764					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisotte"	entailment		‘¾˜Y‚Íì‚É‰ˆ‚Á‚Ä•à‚¢‚½B	‘¾˜Y‚Íì‚É‘Î‚µ‚Ä•à‚¢‚½B														
+CP3765					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisotte"	entailment		‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‰ˆ‚Á‚Ä”–Ø‚è‚É‚·‚éB	‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‘Î‚µ‚Ä”–Ø‚è‚É‚·‚éB														
+CP3766					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚ÉŒü‚©‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisotte"	entailment		‘D‚ÍŠCŠÝü‚É‰ˆ‚Á‚Äi‚ñ‚¾B	‘D‚ÍŠCŠÝü‚ÉŒü‚©‚Á‚Äi‚ñ‚¾B														
+CP3767					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚ÉŒü‚©‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		’Ê‚è‚É‰ˆ‚Á‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB	’Ê‚è‚ÉŒü‚©‚Á‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB														
+CP3768					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚ÉŒü‚©‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisotte"	entailment		‰ÔŽq‚Í”’ü‚É‰ˆ‚Á‚ÄŽÔ‚ðŽ~‚ß‚½B	‰ÔŽq‚Í”’ü‚ÉŒü‚©‚Á‚ÄŽÔ‚ðŽ~‚ß‚½B														
+CP3769					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚ÉŒü‚©‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisotte"	entailment		‘¾˜Y‚Íì‚É‰ˆ‚Á‚Ä•à‚¢‚½B	‘¾˜Y‚Íì‚ÉŒü‚©‚Á‚Ä•à‚¢‚½B														
+CP3770					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚ÉŒü‚©‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		no	"Case Particle, -nisotte"	entailment		‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‰ˆ‚Á‚Ä”–Ø‚è‚É‚·‚éB	‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚ÉŒü‚©‚Á‚Ä”–Ø‚è‚É‚·‚éB														
+CP3771					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‘D‚ÍŠCŠÝü‚É‰ˆ‚Á‚Äi‚ñ‚¾B	‘D‚ÍŠCŠÝü‚É]‚Á‚Äi‚ñ‚¾B														
+CP3772					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		’Ê‚è‚É‰ˆ‚Á‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB	’Ê‚è‚É]‚Á‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB														
+CP3773					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‰ÔŽq‚Í”’ü‚É‰ˆ‚Á‚ÄŽÔ‚ðŽ~‚ß‚½B	‰ÔŽq‚Í”’ü‚É]‚Á‚ÄŽÔ‚ðŽ~‚ß‚½B														
+CP3774					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‘¾˜Y‚Íì‚É‰ˆ‚Á‚Ä•à‚¢‚½B	‘¾˜Y‚Íì‚É]‚Á‚Ä•à‚¢‚½B														
+CP3775					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É]‚Á‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -nisotte"	entailment		‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‰ˆ‚Á‚Ä”–Ø‚è‚É‚·‚éB	‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É]‚Á‚Ä”–Ø‚è‚É‚·‚éB														
+CP3776					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘D‚ÍŠCŠÝü‚É‰ˆ‚Á‚Äi‚ñ‚¾B	‘D‚ÍŠCŠÝü‚É‡‚í‚¹‚Äi‚ñ‚¾B														
+CP3777					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			’Ê‚è‚É‰ˆ‚Á‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB	’Ê‚è‚É‡‚í‚¹‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB														
+CP3778					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‰ÔŽq‚Í”’ü‚É‰ˆ‚Á‚ÄŽÔ‚ðŽ~‚ß‚½B	‰ÔŽq‚Í”’ü‚É‡‚í‚¹‚ÄŽÔ‚ðŽ~‚ß‚½B														
+CP3779					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‘¾˜Y‚Íì‚É‰ˆ‚Á‚Ä•à‚¢‚½B	‘¾˜Y‚Íì‚É‡‚í‚¹‚Ä•à‚¢‚½B														
+CP3780					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚É‡‚í‚¹‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -nisotte"			‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‰ˆ‚Á‚Ä”–Ø‚è‚É‚·‚éB	‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‡‚í‚¹‚Ä”–Ø‚è‚É‚·‚éB														
+CP3781					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‘D‚ÍŠCŠÝü‚É‰ˆ‚Á‚Äi‚ñ‚¾B	‘D‚ÍŠCŠÝü‚Ì‚Æ‚¨‚è‚Éi‚ñ‚¾B														
+CP3782					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			’Ê‚è‚É‰ˆ‚Á‚ÄÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB	’Ê‚è‚Ì‚Æ‚¨‚è‚ÉÌ‚È‚ª‚ç‚Ì¤“X‚ª•À‚ñ‚Å‚¢‚éB														
+CP3783					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‰ÔŽq‚Í”’ü‚É‰ˆ‚Á‚ÄŽÔ‚ðŽ~‚ß‚½B	‰ÔŽq‚Í”’ü‚Ì‚Æ‚¨‚è‚ÉŽÔ‚ðŽ~‚ß‚½B														
+CP3784					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‘¾˜Y‚Íì‚É‰ˆ‚Á‚Ä•à‚¢‚½B	‘¾˜Y‚Íì‚Ì‚Æ‚¨‚è‚É•à‚¢‚½B														
+CP3785					süó‚Ì‚à‚Ì‚É•Às‚·‚é“®ì‚ð•\‚·u‚É‰ˆ‚Á‚ÄvFu‚Ì‚Æ‚¨‚è‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -nisotte"			‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚É‰ˆ‚Á‚Ä”–Ø‚è‚É‚·‚éB	‚±‚Ì—¿—‚Å‚ÍA‹Ê‚Ë‚¬‚ð‘@ˆÛ‚Ì‚Æ‚¨‚è‚É”–Ø‚è‚É‚·‚éB														
+CP3786					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚ð‚ß‚®‚Á‚ÄA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB	¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚ÉŠÖ‚µ‚ÄA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB														
+CP3787					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		­•{‚Ì‘Î‰ž‚ð‚ß‚®‚Á‚ÄAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B	­•{‚Ì‘Î‰ž‚ÉŠÖ‚µ‚ÄAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B														
+CP3788					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		’˜–¼l‚Ì·•Ê”­Œ¾‚ð‚ß‚®‚Á‚ÄA”á”»‚Ìº‚ªã‚ª‚Á‚½B	’˜–¼l‚Ì·•Ê”­Œ¾‚ÉŠÖ‚µ‚ÄA”á”»‚Ìº‚ªã‚ª‚Á‚½B														
+CP3789					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚ð‚ß‚®‚Á‚ÄAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B	‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚ÉŠÖ‚µ‚ÄAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B														
+CP3790					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚ð‚ß‚®‚Á‚ÄAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB	ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚ÉŠÖ‚µ‚ÄAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB														
+CP3791					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚ð‚ß‚®‚Á‚ÄA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB	¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚É‚Â‚¢‚ÄA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB														
+CP3792					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		­•{‚Ì‘Î‰ž‚ð‚ß‚®‚Á‚ÄAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B	­•{‚Ì‘Î‰ž‚É‚Â‚¢‚ÄAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B														
+CP3793					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		’˜–¼l‚Ì·•Ê”­Œ¾‚ð‚ß‚®‚Á‚ÄA”á”»‚Ìº‚ªã‚ª‚Á‚½B	’˜–¼l‚Ì·•Ê”­Œ¾‚É‚Â‚¢‚ÄA”á”»‚Ìº‚ªã‚ª‚Á‚½B														
+CP3794					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚ð‚ß‚®‚Á‚ÄAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B	‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚É‚Â‚¢‚ÄAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B														
+CP3795					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚ð‚ß‚®‚Á‚ÄAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB	ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚É‚Â‚¢‚ÄAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB														
+CP3796					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚ð‚ß‚®‚Á‚ÄA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB	¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚É‘Î‚µ‚ÄA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB														
+CP3797					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		­•{‚Ì‘Î‰ž‚ð‚ß‚®‚Á‚ÄAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B	­•{‚Ì‘Î‰ž‚É‘Î‚µ‚ÄAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B														
+CP3798					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		’˜–¼l‚Ì·•Ê”­Œ¾‚ð‚ß‚®‚Á‚ÄA”á”»‚Ìº‚ªã‚ª‚Á‚½B	’˜–¼l‚Ì·•Ê”­Œ¾‚É‘Î‚µ‚ÄA”á”»‚Ìº‚ªã‚ª‚Á‚½B														
+CP3799					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚ð‚ß‚®‚Á‚ÄAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B	‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚É‘Î‚µ‚ÄAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B														
+CP3800					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omegutte"			ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚ð‚ß‚®‚Á‚ÄAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB	ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚É‘Î‚µ‚ÄAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB														
+CP3801					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omegutte"			¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚ð‚ß‚®‚Á‚ÄA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB	¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚ÉA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB														
+CP3802					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omegutte"			­•{‚Ì‘Î‰ž‚ð‚ß‚®‚Á‚ÄAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B	­•{‚Ì‘Î‰ž‚ÉAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B														
+CP3803					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		’˜–¼l‚Ì·•Ê”­Œ¾‚ð‚ß‚®‚Á‚ÄA”á”»‚Ìº‚ªã‚ª‚Á‚½B	’˜–¼l‚Ì·•Ê”­Œ¾‚ÉA”á”»‚Ìº‚ªã‚ª‚Á‚½B														
+CP3804					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚ð‚ß‚®‚Á‚ÄAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B	‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚ÉAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B														
+CP3805					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚ð‚ß‚®‚Á‚ÄAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB	ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚ÉAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB														
+CP3806					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚ð‚ß‚®‚Á‚ÄA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB	¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚ðA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB														
+CP3807					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			­•{‚Ì‘Î‰ž‚ð‚ß‚®‚Á‚ÄAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B	­•{‚Ì‘Î‰ž‚ðAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B														
+CP3808					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			’˜–¼l‚Ì·•Ê”­Œ¾‚ð‚ß‚®‚Á‚ÄA”á”»‚Ìº‚ªã‚ª‚Á‚½B	’˜–¼l‚Ì·•Ê”­Œ¾‚ðA”á”»‚Ìº‚ªã‚ª‚Á‚½B														
+CP3809					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚ð‚ß‚®‚Á‚ÄAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B	‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚ðAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B														
+CP3810					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚ð‚ß‚®‚Á‚ÄAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB	ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚ðAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB														
+CP3811					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omegutte"			¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚ð‚ß‚®‚Á‚ÄA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB	¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚ÅA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB														
+CP3812					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omegutte"			­•{‚Ì‘Î‰ž‚ð‚ß‚®‚Á‚ÄAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B	­•{‚Ì‘Î‰ž‚ÅAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B														
+CP3813					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		’˜–¼l‚Ì·•Ê”­Œ¾‚ð‚ß‚®‚Á‚ÄA”á”»‚Ìº‚ªã‚ª‚Á‚½B	’˜–¼l‚Ì·•Ê”­Œ¾‚ÅA”á”»‚Ìº‚ªã‚ª‚Á‚½B														
+CP3814					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚ð‚ß‚®‚Á‚ÄAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B	‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚ÅAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B														
+CP3815					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omegutte"			ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚ð‚ß‚®‚Á‚ÄAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB	ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚ÅAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB														
+CP3816					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Ì‚±‚Æ‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚ð‚ß‚®‚Á‚ÄA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB	¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚Ì‚±‚Æ‚ÅA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB														
+CP3817					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Ì‚±‚Æ‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		­•{‚Ì‘Î‰ž‚ð‚ß‚®‚Á‚ÄAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B	­•{‚Ì‘Î‰ž‚Ì‚±‚Æ‚ÅAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B														
+CP3818					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Ì‚±‚Æ‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		’˜–¼l‚Ì·•Ê”­Œ¾‚ð‚ß‚®‚Á‚ÄA”á”»‚Ìº‚ªã‚ª‚Á‚½B	’˜–¼l‚Ì·•Ê”­Œ¾‚Ì‚±‚Æ‚ÅA”á”»‚Ìº‚ªã‚ª‚Á‚½B														
+CP3819					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Ì‚±‚Æ‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚ð‚ß‚®‚Á‚ÄAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B	‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚Ì‚±‚Æ‚ÅAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B														
+CP3820					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Ì‚±‚Æ‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omegutte"			ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚ð‚ß‚®‚Á‚ÄAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB	ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚Ì‚±‚Æ‚ÅAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB														
+CP3821					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚ð‚ß‚®‚Á‚ÄA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB	¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚É‚¨‚¢‚ÄA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB														
+CP3822					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		­•{‚Ì‘Î‰ž‚ð‚ß‚®‚Á‚ÄAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B	­•{‚Ì‘Î‰ž‚É‚¨‚¢‚ÄAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B														
+CP3823					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		’˜–¼l‚Ì·•Ê”­Œ¾‚ð‚ß‚®‚Á‚ÄA”á”»‚Ìº‚ªã‚ª‚Á‚½B	’˜–¼l‚Ì·•Ê”­Œ¾‚É‚¨‚¢‚ÄA”á”»‚Ìº‚ªã‚ª‚Á‚½B														
+CP3824					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚ð‚ß‚®‚Á‚ÄAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B	‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚É‚¨‚¢‚ÄAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B														
+CP3825					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚ð‚ß‚®‚Á‚ÄAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB	ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚É‚¨‚¢‚ÄAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB														
+CP3826					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðŽè‚É“ü‚ê‚é‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚ð‚ß‚®‚Á‚ÄA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB	¡Œã‚Ìˆã—Ã‚Ì‚ ‚è•û‚ðŽè‚É“ü‚ê‚é‚½‚ß‚ÉA—LŽ¯ŽÒ‚½‚¿‚ÌˆÓŒ©‚Í“ñ‚Â‚É•ª‚©‚ê‚Ä‚¢‚éB														
+CP3827					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðŽè‚É“ü‚ê‚é‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			­•{‚Ì‘Î‰ž‚ð‚ß‚®‚Á‚ÄAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B	­•{‚Ì‘Î‰ž‚ðŽè‚É“ü‚ê‚é‚½‚ß‚ÉAê–å‰Æ‚ÌŠÔ‚Å˜_í‚ªŒð‚í‚³‚ê‚½B														
+CP3828					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðŽè‚É“ü‚ê‚é‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			’˜–¼l‚Ì·•Ê”­Œ¾‚ð‚ß‚®‚Á‚ÄA”á”»‚Ìº‚ªã‚ª‚Á‚½B	’˜–¼l‚Ì·•Ê”­Œ¾‚ðŽè‚É“ü‚ê‚é‚½‚ß‚ÉA”á”»‚Ìº‚ªã‚ª‚Á‚½B														
+CP3829					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðŽè‚É“ü‚ê‚é‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚ð‚ß‚®‚Á‚ÄAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B	‚»‚Ì‰ïŽÐ‚Ì•sËŽ–‚ðŽè‚É“ü‚ê‚é‚½‚ß‚ÉAˆê•”‚ÌŠ”Žå‚ª‘i×‚ð‹N‚±‚µ‚½B														
+CP3830					s‹c˜_‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðŽè‚É“ü‚ê‚é‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚ð‚ß‚®‚Á‚ÄAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB	ƒ_ƒ€ŒšÝ‚ÌŽ^”Û‚ðŽè‚É“ü‚ê‚é‚½‚ß‚ÉAŠÖŒWŽÒ‚ÌŠÔ‚Å‘Î—§‚ª‘±‚¢‚Ä‚¢‚éB														
+CP3831					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðŽè‚É“ü‚ê‚é‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚ð‚ß‚®‚Á‚Äe‘°‚ª‘Î—§‚µ‚½B	Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚ðŽè‚É“ü‚ê‚é‚½‚ß‚Ée‘°‚ª‘Î—§‚µ‚½B														
+CP3832					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðŽè‚É“ü‚ê‚é‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚ð‚ß‚®‚Á‚Ä‹£‚¢‡‚¤B	‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚ðŽè‚É“ü‚ê‚é‚½‚ß‚É‹£‚¢‡‚¤B														
+CP3833					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðŽè‚É“ü‚ê‚é‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚ð‚ß‚®‚Á‚Ä‘ˆ‚Á‚Ä‚¢‚éB	‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚ðŽè‚É“ü‚ê‚é‚½‚ß‚É‘ˆ‚Á‚Ä‚¢‚éB														
+CP3834					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðŽè‚É“ü‚ê‚é‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚ð‚ß‚®‚Á‚ÄŒ–‰Ü‚µ‚Ä‚¢‚éB	Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚ðŽè‚É“ü‚ê‚é‚½‚ß‚ÉŒ–‰Ü‚µ‚Ä‚¢‚éB														
+CP3835					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðŽè‚É“ü‚ê‚é‚½‚ß‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚ð‚ß‚®‚Á‚ÄŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B	‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚ðŽè‚É“ü‚ê‚é‚½‚ß‚ÉŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B														
+CP3836					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚ð‚ß‚®‚Á‚Äe‘°‚ª‘Î—§‚µ‚½B	Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚ÉŠÖ‚µ‚Äe‘°‚ª‘Î—§‚µ‚½B														
+CP3837					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚ð‚ß‚®‚Á‚Ä‹£‚¢‡‚¤B	‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚ÉŠÖ‚µ‚Ä‹£‚¢‡‚¤B														
+CP3838					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚ð‚ß‚®‚Á‚Ä‘ˆ‚Á‚Ä‚¢‚éB	‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚ÉŠÖ‚µ‚Ä‘ˆ‚Á‚Ä‚¢‚éB														
+CP3839					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚ð‚ß‚®‚Á‚ÄŒ–‰Ü‚µ‚Ä‚¢‚éB	Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚ÉŠÖ‚µ‚ÄŒ–‰Ü‚µ‚Ä‚¢‚éB														
+CP3840					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ÉŠÖ‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚ð‚ß‚®‚Á‚ÄŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B	‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚ÉŠÖ‚µ‚ÄŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B														
+CP3841					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚ð‚ß‚®‚Á‚Äe‘°‚ª‘Î—§‚µ‚½B	Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚É‚Â‚¢‚Äe‘°‚ª‘Î—§‚µ‚½B														
+CP3842					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚ð‚ß‚®‚Á‚Ä‹£‚¢‡‚¤B	‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚É‚Â‚¢‚Ä‹£‚¢‡‚¤B														
+CP3843					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omegutte"			‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚ð‚ß‚®‚Á‚Ä‘ˆ‚Á‚Ä‚¢‚éB	‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚É‚Â‚¢‚Ä‘ˆ‚Á‚Ä‚¢‚éB														
+CP3844					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omegutte"			Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚ð‚ß‚®‚Á‚ÄŒ–‰Ü‚µ‚Ä‚¢‚éB	Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚É‚Â‚¢‚ÄŒ–‰Ü‚µ‚Ä‚¢‚éB														
+CP3845					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚Â‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚ð‚ß‚®‚Á‚ÄŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B	‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚É‚Â‚¢‚ÄŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B														
+CP3846					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚ð‚ß‚®‚Á‚Äe‘°‚ª‘Î—§‚µ‚½B	Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚É‘Î‚µ‚Äe‘°‚ª‘Î—§‚µ‚½B														
+CP3847					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚ð‚ß‚®‚Á‚Ä‹£‚¢‡‚¤B	‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚É‘Î‚µ‚Ä‹£‚¢‡‚¤B														
+CP3848					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚ð‚ß‚®‚Á‚Ä‘ˆ‚Á‚Ä‚¢‚éB	‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚É‘Î‚µ‚Ä‘ˆ‚Á‚Ä‚¢‚éB														
+CP3849					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚ð‚ß‚®‚Á‚ÄŒ–‰Ü‚µ‚Ä‚¢‚éB	Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚É‘Î‚µ‚ÄŒ–‰Ü‚µ‚Ä‚¢‚éB														
+CP3850					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‘Î‚µ‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚ð‚ß‚®‚Á‚ÄŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B	‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚É‘Î‚µ‚ÄŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B														
+CP3851					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚ð‚ß‚®‚Á‚Äe‘°‚ª‘Î—§‚µ‚½B	Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚Ée‘°‚ª‘Î—§‚µ‚½B														
+CP3852					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚ð‚ß‚®‚Á‚Ä‹£‚¢‡‚¤B	‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚É‹£‚¢‡‚¤B														
+CP3853					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚ð‚ß‚®‚Á‚Ä‘ˆ‚Á‚Ä‚¢‚éB	‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚É‘ˆ‚Á‚Ä‚¢‚éB														
+CP3854					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚ð‚ß‚®‚Á‚ÄŒ–‰Ü‚µ‚Ä‚¢‚éB	Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚ÉŒ–‰Ü‚µ‚Ä‚¢‚éB														
+CP3855					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Év‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚ð‚ß‚®‚Á‚ÄŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B	‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚ÉŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B														
+CP3856					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚ð‚ß‚®‚Á‚Äe‘°‚ª‘Î—§‚µ‚½B	Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚ðe‘°‚ª‘Î—§‚µ‚½B														
+CP3857					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omegutte"			‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚ð‚ß‚®‚Á‚Ä‹£‚¢‡‚¤B	‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚ð‹£‚¢‡‚¤B														
+CP3858					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omegutte"			‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚ð‚ß‚®‚Á‚Ä‘ˆ‚Á‚Ä‚¢‚éB	‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚ð‘ˆ‚Á‚Ä‚¢‚éB														
+CP3859					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚ð‚ß‚®‚Á‚ÄŒ–‰Ü‚µ‚Ä‚¢‚éB	Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚ðŒ–‰Ü‚µ‚Ä‚¢‚éB														
+CP3860					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚ðv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚ð‚ß‚®‚Á‚ÄŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B	‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚ðŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B														
+CP3861					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omegutte"			Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚ð‚ß‚®‚Á‚Äe‘°‚ª‘Î—§‚µ‚½B	Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚Åe‘°‚ª‘Î—§‚µ‚½B														
+CP3862					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚ð‚ß‚®‚Á‚Ä‹£‚¢‡‚¤B	‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚Å‹£‚¢‡‚¤B														
+CP3863					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚ð‚ß‚®‚Á‚Ä‘ˆ‚Á‚Ä‚¢‚éB	‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚Å‘ˆ‚Á‚Ä‚¢‚éB														
+CP3864					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚ð‚ß‚®‚Á‚ÄŒ–‰Ü‚µ‚Ä‚¢‚éB	Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚ÅŒ–‰Ü‚µ‚Ä‚¢‚éB														
+CP3865					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚ð‚ß‚®‚Á‚ÄŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B	‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚ÅŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B														
+CP3866					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Ì‚±‚Æ‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚ð‚ß‚®‚Á‚Äe‘°‚ª‘Î—§‚µ‚½B	Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚Ì‚±‚Æ‚Åe‘°‚ª‘Î—§‚µ‚½B														
+CP3867					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Ì‚±‚Æ‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚ð‚ß‚®‚Á‚Ä‹£‚¢‡‚¤B	‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚Ì‚±‚Æ‚Å‹£‚¢‡‚¤B														
+CP3868					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Ì‚±‚Æ‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚ð‚ß‚®‚Á‚Ä‘ˆ‚Á‚Ä‚¢‚éB	‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚Ì‚±‚Æ‚Å‘ˆ‚Á‚Ä‚¢‚éB														
+CP3869					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Ì‚±‚Æ‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Case Particle, -omegutte"	entailment		Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚ð‚ß‚®‚Á‚ÄŒ–‰Ü‚µ‚Ä‚¢‚éB	Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚Ì‚±‚Æ‚ÅŒ–‰Ü‚µ‚Ä‚¢‚éB														
+CP3870					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚Ì‚±‚Æ‚Åv‚Ö‚ÌŒ¾‚¢Š·‚¦t		weakacceptable	"Case Particle, -omegutte"			‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚ð‚ß‚®‚Á‚ÄŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B	‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚Ì‚±‚Æ‚ÅŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B														
+CP3871					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚ð‚ß‚®‚Á‚Äe‘°‚ª‘Î—§‚µ‚½B	Ž‘ŽY‰Æ‚ÌŽ€ŒãA‚»‚ÌˆâŽY‚É‚¨‚¢‚Äe‘°‚ª‘Î—§‚µ‚½B														
+CP3872					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚ð‚ß‚®‚Á‚Ä‹£‚¢‡‚¤B	‚±‚Ì‘å‰ï‚Å‚ÍAƒgƒbƒv‘IŽè‚½‚¿‚ª“ú–{ˆê‚ÌÀ‚É‚¨‚¢‚Ä‹£‚¢‡‚¤B														
+CP3873					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚ð‚ß‚®‚Á‚Ä‘ˆ‚Á‚Ä‚¢‚éB	‚»‚Ì•v•w‚ÍŽq‹Ÿ‚ÌeŒ ‚É‚¨‚¢‚Ä‘ˆ‚Á‚Ä‚¢‚éB														
+CP3874					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚ð‚ß‚®‚Á‚ÄŒ–‰Ü‚µ‚Ä‚¢‚éB	Žq‹Ÿ‚½‚¿‚ªˆê‚Â‚µ‚©‚È‚¢‚¨‚à‚¿‚á‚É‚¨‚¢‚ÄŒ–‰Ü‚µ‚Ä‚¢‚éB														
+CP3875					s‘ˆ’D‚Ì‘ÎÛ‚ð’ñŽ¦‚·‚éu‚ð‚ß‚®‚Á‚ÄvFu‚É‚¨‚¢‚Äv‚Ö‚ÌŒ¾‚¢Š·‚¦t		unacceptable	"Case Particle, -omegutte"			‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚ð‚ß‚®‚Á‚ÄŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B	‚»‚Ì‘‚Å‚ÍA‘‰¤‚Ì’nˆÊ‚É‚¨‚¢‚ÄŒ —ÍŽÒ‚½‚¿‚Ì‘ˆ‚¢‚ªŒJ‚èL‚°‚ç‚ê‚½B																
