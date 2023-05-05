@@ -1,0 +1,2845 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE jsem-dataset SYSTEM "jsem.dtd">
+<?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
+<jsem-dataset>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA1"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「〜するのが容易だ」への言い換え》</description>
+    <p idx="1">
+      <script>この車は運転しやすい。</script>
+    </p>
+    <h>
+      <script>この車は運転するのが容易だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA2"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「〜するのが容易だ」への言い換え》</description>
+    <p idx="1">
+      <script>この植物は園芸初心者でも育てやすい。</script>
+    </p>
+    <h>
+      <script>この植物は園芸初心者でも育てるのが容易だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA3"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「〜するのが容易だ」への言い換え》</description>
+    <p idx="1">
+      <script>短い文で書かれた文章は読みやすい。</script>
+    </p>
+    <h>
+      <script>短い文で書かれた文章は読むのが容易だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA4"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「〜するのが容易だ」への言い換え》</description>
+    <p idx="1">
+      <script>花子の説明は理解しやすい。</script>
+    </p>
+    <h>
+      <script>花子の説明は理解するのが容易だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA5"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「〜するのが容易だ」への言い換え》</description>
+    <p idx="1">
+      <script>このレジ袋はリサイクルしやすい。</script>
+    </p>
+    <h>
+      <script>このレジ袋はリサイクルするのが容易だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA6"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>この車は運転しやすい。</script>
+    </p>
+    <h>
+      <script>この車は運転できる。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA7"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>この植物は園芸初心者でも育てやすい。</script>
+    </p>
+    <h>
+      <script>この植物は園芸初心者でも育てられる。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA8"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>短い文で書かれた文章は読みやすい。</script>
+    </p>
+    <h>
+      <script>短い文で書かれた文章は読める。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA9"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>花子の説明は理解しやすい。</script>
+    </p>
+    <h>
+      <script>花子の説明は理解できる。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA10"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>このレジ袋はリサイクルしやすい。</script>
+    </p>
+    <h>
+      <script>このレジ袋はリサイクルできる。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA11"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「ことが多い」への言い換え》</description>
+    <p idx="1">
+      <script>この車は運転しやすい。</script>
+    </p>
+    <h>
+      <script>この車は運転することが多い。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA12"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「ことが多い」への言い換え》</description>
+    <p idx="1">
+      <script>この植物は園芸初心者でも育てやすい。</script>
+    </p>
+    <h>
+      <script>この植物は園芸初心者でも育てることが多い。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA13"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「ことが多い」への言い換え》</description>
+    <p idx="1">
+      <script>短い文で書かれた文章は読みやすい。</script>
+    </p>
+    <h>
+      <script>短い文で書かれた文章は読むことが多い。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA14"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「ことが多い」への言い換え》</description>
+    <p idx="1">
+      <script>花子の説明は理解しやすい。</script>
+    </p>
+    <h>
+      <script>花子の説明は理解することが多い。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA15"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「ことが多い」への言い換え》</description>
+    <p idx="1">
+      <script>このレジ袋はリサイクルしやすい。</script>
+    </p>
+    <h>
+      <script>このレジ袋はリサイクルすることが多い。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA16"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>この車は運転しやすい。</script>
+    </p>
+    <h>
+      <script>この車は運転しにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA17"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>この植物は園芸初心者でも育てやすい。</script>
+    </p>
+    <h>
+      <script>この植物は園芸初心者には育てにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA18"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>短い文で書かれた文章は読みやすい。</script>
+    </p>
+    <h>
+      <script>短い文で書かれた文章は読みにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA19"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>花子の説明は理解しやすい。</script>
+    </p>
+    <h>
+      <script>花子の説明は理解しにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA20"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>このレジ袋はリサイクルしやすい。</script>
+    </p>
+    <h>
+      <script>このレジ袋はリサイクルしにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA21"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>この車は運転しやすい。</script>
+    </p>
+    <h>
+      <script>この車は運転しづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA22"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>この植物は園芸初心者でも育てやすい。</script>
+    </p>
+    <h>
+      <script>この植物は園芸初心者には育てづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA23"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>短い文で書かれた文章は読みやすい。</script>
+    </p>
+    <h>
+      <script>短い文で書かれた文章は読みづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA24"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>花子の説明は理解しやすい。</script>
+    </p>
+    <h>
+      <script>花子の説明は理解しづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA25"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>このレジ袋はリサイクルしやすい。</script>
+    </p>
+    <h>
+      <script>このレジ袋はリサイクルしづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA26"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>この車は運転しやすい。</script>
+    </p>
+    <h>
+      <script>この車は運転しがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA27"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>この植物は園芸初心者でも育てやすい。</script>
+    </p>
+    <h>
+      <script>この植物は園芸初心者には育てがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA28"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>短い文で書かれた文章は読みやすい。</script>
+    </p>
+    <h>
+      <script>短い文で書かれた文章は読みがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA29"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>花子の説明は理解しやすい。</script>
+    </p>
+    <h>
+      <script>花子の説明は理解しがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA30"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：行為の容易さを表す「しやすい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>このレジ袋はリサイクルしやすい。</script>
+    </p>
+    <h>
+      <script>このレジ袋はリサイクルしがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA31"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「〜するのが容易だ」への言い換え》</description>
+    <p idx="1">
+      <script>この食品は常温で置いておくと痛みやすい。</script>
+    </p>
+    <h>
+      <script>この食品は常温で置いておくと痛むのが容易だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA32"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「〜するのが容易だ」への言い換え》</description>
+    <p idx="1">
+      <script>このあたりは昔から土砂崩れが起こりやすい。</script>
+    </p>
+    <h>
+      <script>このあたりは昔から土砂崩れが起こるのが容易だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA33"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「〜するのが容易だ」への言い換え》</description>
+    <p idx="1">
+      <script>花子の発言は誤解を受けやすい。</script>
+    </p>
+    <h>
+      <script>花子の発言は誤解を受けるのが容易だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA34"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「〜するのが容易だ」への言い換え》</description>
+    <p idx="1">
+      <script>ヘモグロビンは酸素と結合しやすい。</script>
+    </p>
+    <h>
+      <script>ヘモグロビンは酸素と結合するのが容易だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA35"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「〜するのが容易だ」への言い換え》</description>
+    <p idx="1">
+      <script>太郎は昔から風邪を引きやすい。</script>
+    </p>
+    <h>
+      <script>太郎は昔から風邪を引くのが容易だ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA36"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「〜ことが多い」への言い換え》</description>
+    <p idx="1">
+      <script>この食品は常温で置いておくと痛みやすい。</script>
+    </p>
+    <h>
+      <script>この食品は常温で置いておくと痛むことが多い。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA37"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「〜ことが多い」への言い換え》</description>
+    <p idx="1">
+      <script>このあたりは昔から土砂崩れが起こりやすい。</script>
+    </p>
+    <h>
+      <script>このあたりは昔から土砂崩れが起こることが多い。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA38"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「〜ことが多い」への言い換え》</description>
+    <p idx="1">
+      <script>花子の発言は誤解を受けやすい。</script>
+    </p>
+    <h>
+      <script>花子の発言は誤解を受けることが多い。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA39"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「〜ことが多い」への言い換え》</description>
+    <p idx="1">
+      <script>ヘモグロビンは酸素と結合しやすい。</script>
+    </p>
+    <h>
+      <script>ヘモグロビンは酸素と結合することが多い。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA40"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「〜ことが多い」への言い換え》</description>
+    <p idx="1">
+      <script>太郎は昔から風邪を引きやすい。</script>
+    </p>
+    <h>
+      <script>太郎は昔から風邪を引くことが多い。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA41"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>この食品は常温で置いておくと痛みやすい。</script>
+    </p>
+    <h>
+      <script>この食品は常温で置いておくと痛みにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA42"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>このあたりは昔から土砂崩れが起こりやすい。</script>
+    </p>
+    <h>
+      <script>このあたりは昔から土砂崩れが起こりにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA43"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>花子の発言は誤解を受けやすい。</script>
+    </p>
+    <h>
+      <script>花子の発言は誤解を受けにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA44"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>ヘモグロビンは酸素と結合しやすい。</script>
+    </p>
+    <h>
+      <script>ヘモグロビンは酸素と結合しにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA45"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>太郎は昔から風邪を引きやすい。</script>
+    </p>
+    <h>
+      <script>太郎は昔から風邪を引きにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA46"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>この食品は常温で置いておくと痛みやすい。</script>
+    </p>
+    <h>
+      <script>この食品は常温で置いておくと痛みづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA47"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>このあたりは昔から土砂崩れが起こりやすい。</script>
+    </p>
+    <h>
+      <script>このあたりは昔から土砂崩れが起こりづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA48"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>花子の発言は誤解を受けやすい。</script>
+    </p>
+    <h>
+      <script>花子の発言は誤解を受けづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA49"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>ヘモグロビンは酸素と結合しやすい。</script>
+    </p>
+    <h>
+      <script>ヘモグロビンは酸素と結合しづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA50"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>太郎は昔から風邪を引きやすい。</script>
+    </p>
+    <h>
+      <script>太郎は昔から風邪を引きづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unacceptable" inference_type="" jsem_id="CA51"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>この食品は常温で置いておくと痛みやすい。</script>
+    </p>
+    <h>
+      <script>この食品は常温で置いておくと痛みがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unacceptable" inference_type="" jsem_id="CA52"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>このあたりは昔から土砂崩れが起こりやすい。</script>
+    </p>
+    <h>
+      <script>このあたりは昔から土砂崩れが起こりがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unacceptable" inference_type="" jsem_id="CA53"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>花子の発言は誤解を受けやすい。</script>
+    </p>
+    <h>
+      <script>花子の発言は誤解を受けがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unacceptable" inference_type="" jsem_id="CA54"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>ヘモグロビンは酸素と結合しやすい。</script>
+    </p>
+    <h>
+      <script>ヘモグロビンは酸素と結合しがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unacceptable" inference_type="" jsem_id="CA55"
+  language="jp" phenomena="Compound verb, -siyasui">
+    <description>
+    《「しやすい」：状態の出現しやすさを表す「しやすい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>太郎は昔から風邪を引きやすい。</script>
+    </p>
+    <h>
+      <script>太郎は昔から風邪を引きがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA56"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>この肉は硬くて食べにくい。</script>
+    </p>
+    <h>
+      <script>この肉は硬くて食べるのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA57"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>太郎の住んでいる地域は公共交通機関で行きにくい。</script>
+    </p>
+    <h>
+      <script>太郎の住んでいる地域は公共交通機関で行くのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA58"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>花子の英語は聞き取りにくい。</script>
+    </p>
+    <h>
+      <script>花子の英語は聞き取るのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA59"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>この家は、年寄りには住みにくい。</script>
+    </p>
+    <h>
+      <script>この家は、年寄りには住むのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA60"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>この商品は入手しにくい。</script>
+    </p>
+    <h>
+      <script>この商品は入手するのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA61"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>この肉は硬くて食べにくい。</script>
+    </p>
+    <h>
+      <script>この肉は硬くても食べられる。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA62"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>太郎の住んでいる地域は公共交通機関で行きにくい。</script>
+    </p>
+    <h>
+      <script>太郎の住んでいる地域は公共交通機関で行ける。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA63"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>花子の英語は聞き取りにくい。</script>
+    </p>
+    <h>
+      <script>花子の英語は聞き取れる。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA64"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>この家は、年寄りには住みにくい。</script>
+    </p>
+    <h>
+      <script>この家は、年寄りにも住める。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA65"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>この商品は入手しにくい。</script>
+    </p>
+    <h>
+      <script>この商品は入手できる。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA66"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「〜できない/られない」への言い換え》</description>
+    <p idx="1">
+      <script>この肉は硬くて食べにくい。</script>
+    </p>
+    <h>
+      <script>この肉は硬くて食べられない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA67"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「〜できない/られない」への言い換え》</description>
+    <p idx="1">
+      <script>太郎の住んでいる地域は公共交通機関で行きにくい。</script>
+    </p>
+    <h>
+      <script>太郎の住んでいる地域は公共交通機関で行けない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA68"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「〜できない/られない」への言い換え》</description>
+    <p idx="1">
+      <script>花子の英語は聞き取りにくい。</script>
+    </p>
+    <h>
+      <script>花子の英語は聞き取れない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA69"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「〜できない/られない」への言い換え》</description>
+    <p idx="1">
+      <script>この家は、年寄りには住みにくい。</script>
+    </p>
+    <h>
+      <script>この家は、年寄りには住めない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA70"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「〜できない/られない」への言い換え》</description>
+    <p idx="1">
+      <script>この商品は入手しにくい。</script>
+    </p>
+    <h>
+      <script>この商品は入手できない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA71"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「なかなか〜しない」への言い換え》</description>
+    <p idx="1">
+      <script>この肉は硬くて食べにくい。</script>
+    </p>
+    <h>
+      <script>この肉は硬くてなかなか食べない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA72"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「なかなか〜しない」への言い換え》</description>
+    <p idx="1">
+      <script>太郎の住んでいる地域は公共交通機関で行きにくい。</script>
+    </p>
+    <h>
+      <script>太郎の住んでいる地域はなかなか公共交通機関で行かない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA73"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「なかなか〜しない」への言い換え》</description>
+    <p idx="1">
+      <script>花子の英語は聞き取りにくい。</script>
+    </p>
+    <h>
+      <script>花子の英語はなかなか聞き取らない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA74"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「なかなか〜しない」への言い換え》</description>
+    <p idx="1">
+      <script>この家は、年寄りには住みにくい。</script>
+    </p>
+    <h>
+      <script>この家は、年寄りはなかなか住まない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA75"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「なかなか〜しない」への言い換え》</description>
+    <p idx="1">
+      <script>この商品は入手しにくい。</script>
+    </p>
+    <h>
+      <script>この商品はなかなか入手しない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA76"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>この肉は硬くて食べにくい。</script>
+    </p>
+    <h>
+      <script>この肉は硬くて食べやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA77"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>太郎の住んでいる地域は公共交通機関で行きにくい。</script>
+    </p>
+    <h>
+      <script>太郎の住んでいる地域は公共交通機関で行きやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA78"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>花子の英語は聞き取りにくい。</script>
+    </p>
+    <h>
+      <script>花子の英語は聞き取りやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA79"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>この家は、年寄りには住みにくい。</script>
+    </p>
+    <h>
+      <script>この家は、年寄りには住みやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA80"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>この商品は入手しにくい。</script>
+    </p>
+    <h>
+      <script>この商品は入手しやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA81"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>この肉は硬くて食べにくい。</script>
+    </p>
+    <h>
+      <script>この肉は硬くて食べづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA82"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>太郎の住んでいる地域は公共交通機関で行きにくい。</script>
+    </p>
+    <h>
+      <script>太郎の住んでいる地域は公共交通機関で行きづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA83"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>花子の英語は聞き取りにくい。</script>
+    </p>
+    <h>
+      <script>花子の英語は聞き取りづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA84"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>この家は、年寄りには住みにくい。</script>
+    </p>
+    <h>
+      <script>この家は、年寄りには住みづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA85"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>この商品は入手しにくい。</script>
+    </p>
+    <h>
+      <script>この商品は入手しづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA86"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>この肉は硬くて食べにくい。</script>
+    </p>
+    <h>
+      <script>この肉は硬くて食べがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA87"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>太郎の住んでいる地域は公共交通機関で行きにくい。</script>
+    </p>
+    <h>
+      <script>太郎の住んでいる地域は公共交通機関で行きがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA88"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>花子の英語は聞き取りにくい。</script>
+    </p>
+    <h>
+      <script>花子の英語は聞き取りがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA89"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>この家は、年寄りには住みにくい。</script>
+    </p>
+    <h>
+      <script>この家は、年寄りには住みがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA90"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：行為の困難さを表す「しにくい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>この商品は入手しにくい。</script>
+    </p>
+    <h>
+      <script>この商品は入手しがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA91"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>梅雨の時期は洗濯物が乾きにくい。</script>
+    </p>
+    <h>
+      <script>梅雨の時期は洗濯物が乾くのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA92"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>十分な筋肉量がある人は脂肪がつきにくい。</script>
+    </p>
+    <h>
+      <script>十分な筋肉量がある人は脂肪がつくのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA93"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>この物質は水に溶けにくい。</script>
+    </p>
+    <h>
+      <script>この物質は水に溶けるのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA94"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>この建材は火事が起きても燃えにくい。</script>
+    </p>
+    <h>
+      <script>この建材は火事が起きても燃えるのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type="" jsem_id="CA95"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>風呂釜に蓋をしておけば、お湯が冷めにくい。</script>
+    </p>
+    <h>
+      <script>風呂釜に蓋をしておけば、お湯が冷めるのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA96"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「なかなか〜ない」への言い換え》</description>
+    <p idx="1">
+      <script>梅雨の時期は洗濯物が乾きにくい。</script>
+    </p>
+    <h>
+      <script>梅雨の時期はなかなか洗濯物が乾かない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA97"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「なかなか〜ない」への言い換え》</description>
+    <p idx="1">
+      <script>十分な筋肉量がある人は脂肪がつきにくい。</script>
+    </p>
+    <h>
+      <script>十分な筋肉量がある人はなかなか脂肪がつかない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA98"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「なかなか〜ない」への言い換え》</description>
+    <p idx="1">
+      <script>この物質は水に溶けにくい。</script>
+    </p>
+    <h>
+      <script>この物質はなかなか水に溶けない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA99"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「なかなか〜ない」への言い換え》</description>
+    <p idx="1">
+      <script>この建材は火事が起きても燃えにくい。</script>
+    </p>
+    <h>
+      <script>この建材は火事が起きてもなかなか燃えない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA100"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「なかなか〜ない」への言い換え》</description>
+    <p idx="1">
+      <script>風呂釜に蓋をしておけば、お湯が冷めにくい。</script>
+    </p>
+    <h>
+      <script>風呂釜に蓋をしておけば、お湯がなかなか冷めない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA101"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>梅雨の時期は洗濯物が乾きにくい。</script>
+    </p>
+    <h>
+      <script>梅雨の時期は洗濯物が乾きやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA102"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>十分な筋肉量がある人は脂肪がつきにくい。</script>
+    </p>
+    <h>
+      <script>十分な筋肉量がある人は脂肪がつきやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA103"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>この物質は水に溶けにくい。</script>
+    </p>
+    <h>
+      <script>この物質は水に溶けやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA104"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>この建材は火事が起きても燃えにくい。</script>
+    </p>
+    <h>
+      <script>この建材は火事が起きても燃えやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA105"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>風呂釜に蓋をしておけば、お湯が冷めにくい。</script>
+    </p>
+    <h>
+      <script>風呂釜に蓋をしておけば、お湯が冷めやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA106" language="jp"
+  phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>梅雨の時期は洗濯物が乾きにくい。</script>
+    </p>
+    <h>
+      <script>梅雨の時期は洗濯物が乾きづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA107" language="jp"
+  phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>十分な筋肉量がある人は脂肪がつきにくい。</script>
+    </p>
+    <h>
+      <script>十分な筋肉量がある人は脂肪がつきづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA108" language="jp"
+  phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>この物質は水に溶けにくい。</script>
+    </p>
+    <h>
+      <script>この物質は水に溶けづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA109" language="jp"
+  phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>この建材は火事が起きても燃えにくい。</script>
+    </p>
+    <h>
+      <script>この建材は火事が起きても燃えづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA110" language="jp"
+  phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>風呂釜に蓋をしておけば、お湯が冷めにくい。</script>
+    </p>
+    <h>
+      <script>風呂釜に蓋をしておけば、お湯が冷めづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unacceptable" inference_type="" jsem_id="CA111"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>梅雨の時期は洗濯物が乾きにくい。</script>
+    </p>
+    <h>
+      <script>梅雨の時期は洗濯物が乾きがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unacceptable" inference_type="" jsem_id="CA112"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>十分な筋肉量がある人は脂肪がつきにくい。</script>
+    </p>
+    <h>
+      <script>十分な筋肉量がある人は脂肪がつきがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unacceptable" inference_type="" jsem_id="CA113"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>この物質は水に溶けにくい。</script>
+    </p>
+    <h>
+      <script>この物質は水に溶けがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unacceptable" inference_type="" jsem_id="CA114"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>この建材は火事が起きても燃えにくい。</script>
+    </p>
+    <h>
+      <script>この建材は火事が起きても燃えがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unacceptable" inference_type="" jsem_id="CA115"
+  language="jp" phenomena="Compound verb, -sinikui">
+    <description>
+    《「しにくい」：状態の出現しにくさを表す「しにくい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>風呂釜に蓋をしておけば、お湯が冷めにくい。</script>
+    </p>
+    <h>
+      <script>風呂釜に蓋をしておけば、お湯が冷めがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA116"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>プライベートなことは他人に相談しづらい。</script>
+    </p>
+    <h>
+      <script>プライベートなことは他人に相談するのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA117"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>この本は字が小さくて読みづらい。</script>
+    </p>
+    <h>
+      <script>この本は字が小さくて読むのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA118"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>あの店は外から中が見えないので入りづらい。</script>
+    </p>
+    <h>
+      <script>あの店は外から中が見えないので入るのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA119"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>このスマートフォンは操作しづらい。</script>
+    </p>
+    <h>
+      <script>このスマートフォンは操作するのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA120"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>的を得ていない質問には答えづらい。</script>
+    </p>
+    <h>
+      <script>的を得ていない質問には答えるのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA121"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>プライベートなことは他人に相談しづらい。</script>
+    </p>
+    <h>
+      <script>プライベートなことは他人に相談できる。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA122"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>この本は字が小さくて読みづらい。</script>
+    </p>
+    <h>
+      <script>この本は字が小さくても読める。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA123"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>あの店は外から中が見えないので入りづらい。</script>
+    </p>
+    <h>
+      <script>あの店は外から中が見えないので入れる。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA124"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>このスマートフォンは操作しづらい。</script>
+    </p>
+    <h>
+      <script>このスマートフォンは操作できる。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA125"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>的を得ていない質問には答えづらい。</script>
+    </p>
+    <h>
+      <script>的を得ていない質問には答えられる。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA126"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「〜できない/られない」への言い換え》</description>
+    <p idx="1">
+      <script>プライベートなことは他人に相談しづらい。</script>
+    </p>
+    <h>
+      <script>プライベートなことは他人に相談できない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA127"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「〜できない/られない」への言い換え》</description>
+    <p idx="1">
+      <script>この本は字が小さくて読みづらい。</script>
+    </p>
+    <h>
+      <script>この本は字が小さくて読めない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA128"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「〜できない/られない」への言い換え》</description>
+    <p idx="1">
+      <script>あの店は外から中が見えないので入りづらい。</script>
+    </p>
+    <h>
+      <script>あの店は外から中が見えないので入れない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA129"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「〜できない/られない」への言い換え》</description>
+    <p idx="1">
+      <script>このスマートフォンは操作しづらい。</script>
+    </p>
+    <h>
+      <script>このスマートフォンは操作できない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA130"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「〜できない/られない」への言い換え》</description>
+    <p idx="1">
+      <script>的を得ていない質問には答えづらい。</script>
+    </p>
+    <h>
+      <script>的を得ていない質問には答えられない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA131"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「なかなか〜しない」への言い換え》</description>
+    <p idx="1">
+      <script>プライベートなことは他人に相談しづらい。</script>
+    </p>
+    <h>
+      <script>プライベートなことはなかなか他人に相談しない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA132" language="jp"
+  phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「なかなか〜しない」への言い換え》</description>
+    <p idx="1">
+      <script>この本は字が小さくて読みづらい。</script>
+    </p>
+    <h>
+      <script>この本は字が小さくてなかなか読まない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA133" language="jp"
+  phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「なかなか〜しない」への言い換え》</description>
+    <p idx="1">
+      <script>あの店は外から中が見えないので入りづらい。</script>
+    </p>
+    <h>
+      <script>あの店は外から中が見えないのでなかなか入らない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA134" language="jp"
+  phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「なかなか〜しない」への言い換え》</description>
+    <p idx="1">
+      <script>このスマートフォンは操作しづらい。</script>
+    </p>
+    <h>
+      <script>このスマートフォンはなかなか操作しない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA135" language="jp"
+  phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「なかなか〜しない」への言い換え》</description>
+    <p idx="1">
+      <script>的を得ていない質問には答えづらい。</script>
+    </p>
+    <h>
+      <script>的を得ていない質問にはなかなか答えない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA136"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>プライベートなことは他人に相談しづらい。</script>
+    </p>
+    <h>
+      <script>プライベートなことは他人に相談しやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA137"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>この本は字が小さくて読みづらい。</script>
+    </p>
+    <h>
+      <script>この本は字が小さくて読みやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA138"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>あの店は外から中が見えないので入りづらい。</script>
+    </p>
+    <h>
+      <script>あの店は外から中が見えないので入りやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA139"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>このスマートフォンは操作しづらい。</script>
+    </p>
+    <h>
+      <script>このスマートフォンは操作しやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA140"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>的を得ていない質問には答えづらい。</script>
+    </p>
+    <h>
+      <script>的を得ていない質問には答えやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA141"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>プライベートなことは他人に相談しづらい。</script>
+    </p>
+    <h>
+      <script>プライベートなことは他人に相談しにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA142"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>この本は字が小さくて読みづらい。</script>
+    </p>
+    <h>
+      <script>この本は字が小さくて読みにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA143"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>あの店は外から中が見えないので入りづらい。</script>
+    </p>
+    <h>
+      <script>あの店は外から中が見えないので入りにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA144"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>このスマートフォンは操作しづらい。</script>
+    </p>
+    <h>
+      <script>このスマートフォンは操作しにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA145"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>的を得ていない質問には答えづらい。</script>
+    </p>
+    <h>
+      <script>的を得ていない質問には答えにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA146"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>プライベートなことは他人に相談しづらい。</script>
+    </p>
+    <h>
+      <script>プライベートなことは他人に相談しがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA147" language="jp"
+  phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>この本は字が小さくて読みづらい。</script>
+    </p>
+    <h>
+      <script>この本は字が小さくて読みがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA148" language="jp"
+  phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>あの店は外から中が見えないので入りづらい。</script>
+    </p>
+    <h>
+      <script>あの店は外から中が見えないので入りがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA149" language="jp"
+  phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>このスマートフォンは操作しづらい。</script>
+    </p>
+    <h>
+      <script>このスマートフォンは操作しがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA150"
+  language="jp" phenomena="Compound verb, -sidurai">
+    <description>
+    《「しづらい」：行為者の負担の大きさを表す「しづらい」：「しがたい」への言い換え》</description>
+    <p idx="1">
+      <script>的を得ていない質問には答えづらい。</script>
+    </p>
+    <h>
+      <script>的を得ていない質問には答えがたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA151"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>彼の裏切りは許しがたい。</script>
+    </p>
+    <h>
+      <script>彼の裏切りは許すのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA152"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>自分の欠点というのは認めがたい。</script>
+    </p>
+    <h>
+      <script>自分の欠点というのは認めるのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA153"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>あの人は愛想がなくて近寄りがたい。</script>
+    </p>
+    <h>
+      <script>あの人は愛想がなくて近寄るのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA154"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>太郎が犯人だということは信じがたい。</script>
+    </p>
+    <h>
+      <script>太郎が犯人だということは信じるのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA155"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「〜するのが難しい」への言い換え》</description>
+    <p idx="1">
+      <script>自分の好きなものをすべて否定されるのは耐えがたい。</script>
+    </p>
+    <h>
+      <script>自分の好きなものをすべて否定されるのは耐えるのが難しい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA156"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>彼の裏切りは許しがたい。</script>
+    </p>
+    <h>
+      <script>彼の裏切りは許せる。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA157"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>自分の欠点というのは認めがたい。</script>
+    </p>
+    <h>
+      <script>自分の欠点というのは認められる。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA158"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>あの人は愛想がなくて近寄りがたい。</script>
+    </p>
+    <h>
+      <script>あの人は愛想がなくて近寄れる。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA159"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>太郎が犯人だということは信じがたい。</script>
+    </p>
+    <h>
+      <script>太郎が犯人だということは信じられる。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA160"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「〜できる/られる」への言い換え》</description>
+    <p idx="1">
+      <script>自分の好きなものをすべて否定されるのは耐えがたい。</script>
+    </p>
+    <h>
+      <script>自分の好きなものをすべて否定されるのは耐えられる。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA161"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「〜できない/られない」への言い換え》</description>
+    <p idx="1">
+      <script>彼の裏切りは許しがたい。</script>
+    </p>
+    <h>
+      <script>彼の裏切りは許せない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA162"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「〜できない/られない」への言い換え》</description>
+    <p idx="1">
+      <script>自分の欠点というのは認めがたい。</script>
+    </p>
+    <h>
+      <script>自分の欠点というのは認められない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA163"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「〜できない/られない」への言い換え》</description>
+    <p idx="1">
+      <script>あの人は愛想がなくて近寄りがたい。</script>
+    </p>
+    <h>
+      <script>あの人は愛想がなくて近寄れない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA164"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「〜できない/られない」への言い換え》</description>
+    <p idx="1">
+      <script>太郎が犯人だということは信じがたい。</script>
+    </p>
+    <h>
+      <script>太郎が犯人だということは信じられない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA165"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「〜できない/られない」への言い換え》</description>
+    <p idx="1">
+      <script>自分の好きなものをすべて否定されるのは耐えがたい。</script>
+    </p>
+    <h>
+      <script>自分の好きなものをすべて否定されるのは耐えられない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA166" language="jp"
+  phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「なかなか〜しない」への言い換え》</description>
+    <p idx="1">
+      <script>彼の裏切りは許しがたい。</script>
+    </p>
+    <h>
+      <script>彼の裏切りはなかなか許さない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA167" language="jp"
+  phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「なかなか〜しない」への言い換え》</description>
+    <p idx="1">
+      <script>自分の欠点というのは認めがたい。</script>
+    </p>
+    <h>
+      <script>自分の欠点というのはなかなか認めない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA168" language="jp"
+  phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「なかなか〜しない」への言い換え》</description>
+    <p idx="1">
+      <script>あの人は愛想がなくて近寄りがたい。</script>
+    </p>
+    <h>
+      <script>あの人は愛想がなくてなかなか近寄らない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA169" language="jp"
+  phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「なかなか〜しない」への言い換え》</description>
+    <p idx="1">
+      <script>太郎が犯人だということは信じがたい。</script>
+    </p>
+    <h>
+      <script>太郎が犯人だということはなかなか信じない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA170" language="jp"
+  phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「なかなか〜しない」への言い換え》</description>
+    <p idx="1">
+      <script>自分の好きなものをすべて否定されるのは耐えがたい。</script>
+    </p>
+    <h>
+      <script>自分の好きなものをすべて否定されるのはなかなか耐えない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA171"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>彼の裏切りは許しがたい。</script>
+    </p>
+    <h>
+      <script>彼の裏切りは許しやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA172"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>自分の欠点というのは認めがたい。</script>
+    </p>
+    <h>
+      <script>自分の欠点というのは認めやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA173"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>あの人は愛想がなくて近寄りがたい。</script>
+    </p>
+    <h>
+      <script>あの人は愛想がなくて近寄りやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA174"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>太郎が犯人だということは信じがたい。</script>
+    </p>
+    <h>
+      <script>太郎が犯人だということは信じやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA175"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「しやすい」への言い換え》</description>
+    <p idx="1">
+      <script>自分の好きなものをすべて否定されるのは耐えがたい。</script>
+    </p>
+    <h>
+      <script>自分の好きなものをすべて否定されるのは耐えやすい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA176" language="jp"
+  phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>彼の裏切りは許しがたい。</script>
+    </p>
+    <h>
+      <script>彼の裏切りは許しにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA177"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>自分の欠点というのは認めがたい。</script>
+    </p>
+    <h>
+      <script>自分の欠点というのは認めにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA178"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>あの人は愛想がなくて近寄りがたい。</script>
+    </p>
+    <h>
+      <script>あの人は愛想がなくて近寄りにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA179"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>太郎が犯人だということは信じがたい。</script>
+    </p>
+    <h>
+      <script>太郎が犯人だということは信じにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA180" language="jp"
+  phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「しにくい」への言い換え》</description>
+    <p idx="1">
+      <script>自分の好きなものをすべて否定されるのは耐えがたい。</script>
+    </p>
+    <h>
+      <script>自分の好きなものをすべて否定されるのは耐えにくい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA181"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>彼の裏切りは許しがたい。</script>
+    </p>
+    <h>
+      <script>彼の裏切りは許しづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA182"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>自分の欠点というのは認めがたい。</script>
+    </p>
+    <h>
+      <script>自分の欠点というのは認めづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA183"
+  language="jp" phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>あの人は愛想がなくて近寄りがたい。</script>
+    </p>
+    <h>
+      <script>あの人は愛想がなくて近寄りづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA184" language="jp"
+  phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>太郎が犯人だということは信じがたい。</script>
+    </p>
+    <h>
+      <script>太郎が犯人だということは信じづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA185" language="jp"
+  phenomena="Compound verb, -sigatai">
+    <description>
+    《「しがたい」：行為者の精神的負担の大きさを表す「しがたい」：「しづらい」への言い換え》</description>
+    <p idx="1">
+      <script>自分の好きなものをすべて否定されるのは耐えがたい。</script>
+    </p>
+    <h>
+      <script>自分の好きなものをすべて否定されるのは耐えづらい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA186"
+  language="jp" phenomena="Compound verb, -sitarinai">
+    <description>
+    《「し足りない」：行為者の不満足を表す「し足りない」：「していない」への言い換え》</description>
+    <p idx="1">
+      <script>うちの子供たちはまだ遊び足りない。</script>
+    </p>
+    <h>
+      <script>うちの子供たちはまだ遊んでいない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA187"
+  language="jp" phenomena="Compound verb, -sitarinai">
+    <description>
+    《「し足りない」：行為者の不満足を表す「し足りない」：「していない」への言い換え》</description>
+    <p idx="1">
+      <script>私はまだ飲み足りない。</script>
+    </p>
+    <h>
+      <script>私はまだ飲んでいない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA188"
+  language="jp" phenomena="Compound verb, -sitarinai">
+    <description>
+    《「し足りない」：行為者の不満足を表す「し足りない」：「していない」への言い換え》</description>
+    <p idx="1">
+      <script>久しぶりに会った友人とまだ話し足りない。</script>
+    </p>
+    <h>
+      <script>久しぶりに会った友人とまだ話していない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA189"
+  language="jp" phenomena="Compound verb, -sitarinai">
+    <description>
+    《「し足りない」：行為者の不満足を表す「し足りない」：「していない」への言い換え》</description>
+    <p idx="1">
+      <script>見たい映画をまだ見足りない。</script>
+    </p>
+    <h>
+      <script>見たい映画をまだ見ていない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA190"
+  language="jp" phenomena="Compound verb, -sitarinai">
+    <description>
+    《「し足りない」：行為者の不満足を表す「し足りない」：「していない」への言い換え》</description>
+    <p idx="1">
+      <script>お世話になった人には感謝し足りない。</script>
+    </p>
+    <h>
+      <script>お世話になった人に感謝していない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA191"
+  language="jp" phenomena="Compound verb, -sitarinai">
+    <description>
+    《「し足りない」：行為者の不満足を表す「し足りない」：「十分に〜した」への言い換え》</description>
+    <p idx="1">
+      <script>うちの子供たちはまだ遊び足りない。</script>
+    </p>
+    <h>
+      <script>うちの子供たちは十分に遊んだ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA192"
+  language="jp" phenomena="Compound verb, -sitarinai">
+    <description>
+    《「し足りない」：行為者の不満足を表す「し足りない」：「十分に〜した」への言い換え》</description>
+    <p idx="1">
+      <script>私はまだ飲み足りない。</script>
+    </p>
+    <h>
+      <script>私は十分に飲んだ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA193"
+  language="jp" phenomena="Compound verb, -sitarinai">
+    <description>
+    《「し足りない」：行為者の不満足を表す「し足りない」：「十分に〜した」への言い換え》</description>
+    <p idx="1">
+      <script>久しぶりに会った友人とまだ話し足りない。</script>
+    </p>
+    <h>
+      <script>久しぶりに会った友人と十分に話した。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA194"
+  language="jp" phenomena="Compound verb, -sitarinai">
+    <description>
+    《「し足りない」：行為者の不満足を表す「し足りない」：「十分に〜した」への言い換え》</description>
+    <p idx="1">
+      <script>見たい映画をまだ見足りない。</script>
+    </p>
+    <h>
+      <script>見たい映画を十分に見た。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA195"
+  language="jp" phenomena="Compound verb, -sitarinai">
+    <description>
+    《「し足りない」：行為者の不満足を表す「し足りない」：「十分に〜した」への言い換え》</description>
+    <p idx="1">
+      <script>お世話になった人には感謝し足りない。</script>
+    </p>
+    <h>
+      <script>お世話になった人に十分に感謝した。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA196" language="jp"
+  phenomena="Compound verb, -sitarinai">
+    <description>
+    《「し足りない」：行為者の不満足を表す「し足りない」：「しきれない」への言い換え》</description>
+    <p idx="1">
+      <script>うちの子供たちはまだ遊び足りない。</script>
+    </p>
+    <h>
+      <script>うちの子供たちはまだ遊びきれない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA197" language="jp"
+  phenomena="Compound verb, -sitarinai">
+    <description>
+    《「し足りない」：行為者の不満足を表す「し足りない」：「しきれない」への言い換え》</description>
+    <p idx="1">
+      <script>私はまだ飲み足りない。</script>
+    </p>
+    <h>
+      <script>私はまだ飲みきれない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA198" language="jp"
+  phenomena="Compound verb, -sitarinai">
+    <description>
+    《「し足りない」：行為者の不満足を表す「し足りない」：「しきれない」への言い換え》</description>
+    <p idx="1">
+      <script>久しぶりに会った友人とまだ話し足りない。</script>
+    </p>
+    <h>
+      <script>久しぶりに会った友人とまだ話しきれない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="weakacceptable" inference_type=""
+  jsem_id="CA199" language="jp"
+  phenomena="Compound verb, -sitarinai">
+    <description>
+    《「し足りない」：行為者の不満足を表す「し足りない」：「しきれない」への言い換え》</description>
+    <p idx="1">
+      <script>見たい映画をまだ見足りない。</script>
+    </p>
+    <h>
+      <script>見たい映画をまだ見きれない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA200"
+  language="jp" phenomena="Compound verb, -sitarinai">
+    <description>
+    《「し足りない」：行為者の不満足を表す「し足りない」：「しきれない」への言い換え》</description>
+    <p idx="1">
+      <script>お世話になった人には感謝し足りない。</script>
+    </p>
+    <h>
+      <script>お世話になった人には感謝しきれない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA201"
+  language="jp" phenomena="Compound verb, -sitarinai">
+    <description>《「し足りない」：行為者の不満足を表す「し足りない」：欲求の含意》</description>
+    <p idx="1">
+      <script>うちの子供たちはまだ遊び足りない。</script>
+    </p>
+    <h>
+      <script>うちの子供たちはもっと遊びたがっている。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA202"
+  language="jp" phenomena="Compound verb, -sitarinai">
+    <description>《「し足りない」：行為者の不満足を表す「し足りない」：欲求の含意》</description>
+    <p idx="1">
+      <script>私はまだ飲み足りない。</script>
+    </p>
+    <h>
+      <script>私はもっと飲みたい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA203"
+  language="jp" phenomena="Compound verb, -sitarinai">
+    <description>《「し足りない」：行為者の不満足を表す「し足りない」：欲求の含意》</description>
+    <p idx="1">
+      <script>久しぶりに会った友人とまだ話し足りない。</script>
+    </p>
+    <h>
+      <script>久しぶりに会った友人ともっと話したい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA204"
+  language="jp" phenomena="Compound verb, -sitarinai">
+    <description>《「し足りない」：行為者の不満足を表す「し足りない」：欲求の含意》</description>
+    <p idx="1">
+      <script>見たい映画をまだ見足りない。</script>
+    </p>
+    <h>
+      <script>見たい映画をもっと見たい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA205"
+  language="jp" phenomena="Compound verb, -sitarinai">
+    <description>《「し足りない」：行為者の不満足を表す「し足りない」：欲求の含意》</description>
+    <p idx="1">
+      <script>お世話になった人には感謝し足りない。</script>
+    </p>
+    <h>
+      <script>お世話になった人にもっと感謝したい。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA206"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全く〜していない」への言い換え》</description>
+    <p idx="1">
+      <script>図書館から借りてきた本を読みきれない。</script>
+    </p>
+    <h>
+      <script>図書館から借りてきた本をまったく読んでいない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA207"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全く〜していない」への言い換え》</description>
+    <p idx="1">
+      <script>限られた時間内では難しい問題を解ききれない。</script>
+    </p>
+    <h>
+      <script>限られた時間内で難しい問題をまったく解いていない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA208"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全く〜していない」への言い換え》</description>
+    <p idx="1">
+      <script>太郎は車のローンを払いきれない。</script>
+    </p>
+    <h>
+      <script>太郎は車のローンをまったく払っていない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA209"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全く〜していない」への言い換え》</description>
+    <p idx="1">
+      <script>その客は注文した料理を食べきれない。</script>
+    </p>
+    <h>
+      <script>その客は注文した料理をまったく食べていない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA210"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全く〜していない」への言い換え》</description>
+    <p idx="1">
+      <script>花子はフルマラソンを走りきれない。</script>
+    </p>
+    <h>
+      <script>花子はフルマラソンをまったく走っていない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA211"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全部/最後まで/完全に〜した」への言い換え》</description>
+    <p idx="1">
+      <script>図書館から借りてきた本を読みきれない。</script>
+    </p>
+    <h>
+      <script>図書館から借りてきた本を全部読んだ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA212"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全部/最後まで/完全に〜した」への言い換え》</description>
+    <p idx="1">
+      <script>限られた時間内では難しい問題を解ききれない。</script>
+    </p>
+    <h>
+      <script>限られた時間内で難しい問題を完全に解いた。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA213"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全部/最後まで/完全に〜した」への言い換え》</description>
+    <p idx="1">
+      <script>太郎は車のローンを払いきれない。</script>
+    </p>
+    <h>
+      <script>太郎は車のローンを全部払った。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA214"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全部/最後まで/完全に〜した」への言い換え》</description>
+    <p idx="1">
+      <script>その客は注文した料理を食べきれない。</script>
+    </p>
+    <h>
+      <script>その客は注文した料理を全部食べた。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA215"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全部/最後まで/完全に〜した」への言い換え》</description>
+    <p idx="1">
+      <script>花子はフルマラソンを走りきれない。</script>
+    </p>
+    <h>
+      <script>花子はフルマラソンを最後まで走った。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA216"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「できない」への言い換え》</description>
+    <p idx="1">
+      <script>図書館から借りてきた本を読みきれない。</script>
+    </p>
+    <h>
+      <script>図書館から借りてきた本を読めない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA217"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「できない」への言い換え》</description>
+    <p idx="1">
+      <script>限られた時間内では難しい問題を解ききれない。</script>
+    </p>
+    <h>
+      <script>限られた時間内では難しい問題を解けない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA218"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「できない」への言い換え》</description>
+    <p idx="1">
+      <script>太郎は車のローンを払いきれない。</script>
+    </p>
+    <h>
+      <script>太郎は車のローンを払えない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA219"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「できない」への言い換え》</description>
+    <p idx="1">
+      <script>その客は注文した料理を食べきれない。</script>
+    </p>
+    <h>
+      <script>その客は注文した料理を食べられない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA220"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「できない」への言い換え》</description>
+    <p idx="1">
+      <script>花子はフルマラソンを走りきれない。</script>
+    </p>
+    <h>
+      <script>花子はフルマラソンを走れない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA221"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全く〜していない」への言い換え》</description>
+    <p idx="1">
+      <script>図書館から借りてきた本を読みきれない。</script>
+    </p>
+    <h>
+      <script>図書館から借りてきた本をまったく読んでいない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA222"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全く〜していない」への言い換え》</description>
+    <p idx="1">
+      <script>限られた時間内では難しい問題を解ききれない。</script>
+    </p>
+    <h>
+      <script>限られた時間内で難しい問題をまったく解いていない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA223"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全く〜していない」への言い換え》</description>
+    <p idx="1">
+      <script>太郎は車のローンを払いきれない。</script>
+    </p>
+    <h>
+      <script>太郎は車のローンをまったく払っていない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA224"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全く〜していない」への言い換え》</description>
+    <p idx="1">
+      <script>その客は注文した料理を食べきれない。</script>
+    </p>
+    <h>
+      <script>その客は注文した料理をまったく食べていない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="unknown" inference_type="" jsem_id="CA225"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全く〜していない」への言い換え》</description>
+    <p idx="1">
+      <script>花子はフルマラソンを走りきれない。</script>
+    </p>
+    <h>
+      <script>花子はフルマラソンをまったく走っていない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA226"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全部/最後まで/完全に〜した」への言い換え》</description>
+    <p idx="1">
+      <script>図書館から借りてきた本を読みきれない。</script>
+    </p>
+    <h>
+      <script>図書館から借りてきた本を全部読んだ。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA227"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全部/最後まで/完全に〜した」への言い換え》</description>
+    <p idx="1">
+      <script>限られた時間内では難しい問題を解ききれない。</script>
+    </p>
+    <h>
+      <script>限られた時間内で難しい問題を完全に解いた。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA228"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全部/最後まで/完全に〜した」への言い換え》</description>
+    <p idx="1">
+      <script>太郎は車のローンを払いきれない。</script>
+    </p>
+    <h>
+      <script>太郎は車のローンを全部払った。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA229"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全部/最後まで/完全に〜した」への言い換え》</description>
+    <p idx="1">
+      <script>その客は注文した料理を食べきれない。</script>
+    </p>
+    <h>
+      <script>その客は注文した料理を全部食べた。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="no" inference_type="entailment" jsem_id="CA230"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「全部/最後まで/完全に〜した」への言い換え》</description>
+    <p idx="1">
+      <script>花子はフルマラソンを走りきれない。</script>
+    </p>
+    <h>
+      <script>花子はフルマラソンを最後まで走った。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA231"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「できない」への言い換え》</description>
+    <p idx="1">
+      <script>図書館から借りてきた本を読みきれない。</script>
+    </p>
+    <h>
+      <script>図書館から借りてきた本を読めない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA232"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「できない」への言い換え》</description>
+    <p idx="1">
+      <script>限られた時間内では難しい問題を解ききれない。</script>
+    </p>
+    <h>
+      <script>限られた時間内では難しい問題を解けない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA233"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「できない」への言い換え》</description>
+    <p idx="1">
+      <script>太郎は車のローンを払いきれない。</script>
+    </p>
+    <h>
+      <script>太郎は車のローンを払えない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA234"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「できない」への言い換え》</description>
+    <p idx="1">
+      <script>その客は注文した料理を食べきれない。</script>
+    </p>
+    <h>
+      <script>その客は注文した料理を食べられない。</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="yes" inference_type="entailment" jsem_id="CA235"
+  language="jp" phenomena="Compound verb, -sikirenai">
+    <description>
+    《「しきれない」：完了できないことを表す「しきれない」：「できない」への言い換え》</description>
+    <p idx="1">
+      <script>花子はフルマラソンを走りきれない。</script>
+    </p>
+    <h>
+      <script>花子はフルマラソンを走れない。</script>
+    </h>
+    <note></note>
+  </problem>
+</jsem-dataset>

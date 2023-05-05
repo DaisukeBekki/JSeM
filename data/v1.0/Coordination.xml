@@ -802,7 +802,7 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Coo65"
+  <problem answer="yes" inference_type="entailment" jsem_id="Coo65"
   language="jp"
   phenomena="Coordination, -ka (parallel marker), -ya (parallel marker)">
 
@@ -1026,7 +1026,7 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Coo84"
+  <problem answer="yes" inference_type="entailment" jsem_id="Coo84"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
     <description>《「か」のconjunction reduction》</description>
     <p idx="1">
@@ -1051,7 +1051,7 @@
     参考の例文は(5)(6)（ただし英語のandについての例文）。「か」がset-union
     operatorと考えられる例。"</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Coo86"
+  <problem answer="yes" inference_type="entailment" jsem_id="Coo86"
   language="jp" phenomena="Coordination, -ka (parallel marker)">
     <description>《set-union operatorとしての「か」》</description>
     <p idx="1">
@@ -1475,8 +1475,8 @@
     </h>
     <note>窪田悠介「範疇文法による非構成素東夷接続の分析」。Pは(8)からの引用。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Coo122"
-  language="jp"
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="Coo122" language="jp"
   phenomena="Coordination, RNR, nominal anaphora, jibun">
     <description>《非構成素等位接続：削除分析で説明できない例：「自分」の解釈》</description>
     <p idx="1">
@@ -1487,8 +1487,8 @@
     </h>
     <note>窪田悠介「範疇文法による非構成素東夷接続の分析」。Pは(8)からの引用。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Coo123"
-  language="jp"
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="Coo123" language="jp"
   phenomena="Coordination, RNR, nominal anaphora, jibun">
     <description>《非構成素等位接続：削除分析で説明できない例：「自分」の解釈》</description>
     <p idx="1">
@@ -1499,8 +1499,8 @@
     </h>
     <note>窪田悠介「範疇文法による非構成素東夷接続の分析」。Pは(8)からの引用。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Coo124"
-  language="jp"
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="Coo124" language="jp"
   phenomena="Coordination, RNR, nominal anaphora, jibun">
     <description>《非構成素等位接続：削除分析で説明できない例：「自分」の解釈》</description>
     <p idx="1">
@@ -1511,8 +1511,8 @@
     </h>
     <note>窪田悠介「範疇文法による非構成素東夷接続の分析」。Pは(8)からの引用。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Coo125"
-  language="jp"
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="Coo125" language="jp"
   phenomena="Coordination, RNR, nominal anaphora, jibun">
     <description>《非構成素等位接続：削除分析で説明できない例：「自分」の解釈》</description>
     <p idx="1">
@@ -1935,8 +1935,8 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Coo158"
-  language="jp" phenomena="Coordination, RNR">
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="Coo158" language="jp" phenomena="Coordination, RNR">
     <description>《構成素の等位接続（並列読み）→非構成素等位接続》</description>
     <p idx="1">
       <script>ジョンとビルはそれぞれメアリーとスーザンに会った。</script>
@@ -1946,8 +1946,8 @@
     </h>
     <note>可能な解釈の一つ。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Coo159"
-  language="jp" phenomena="Coordination, RNR">
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="Coo159" language="jp" phenomena="Coordination, RNR">
     <description>《構成素の等位接続（並列読み）→非構成素等位接続》</description>
     <p idx="1">
       <script>ジョンと花子はそれぞれメアリーと太郎に次郎を紹介した。</script>
@@ -1957,8 +1957,8 @@
     </h>
     <note>可能な解釈の一つ。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Coo160"
-  language="jp" phenomena="Coordination, RNR">
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="Coo160" language="jp" phenomena="Coordination, RNR">
     <description>《構成素の等位接続（並列読み）→非構成素等位接続》</description>
     <p idx="1">
       <script>太郎は花子とメアリーにそれぞれ次郎とスーザンを紹介した。</script>
@@ -1990,8 +1990,8 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Coo163"
-  language="jp" phenomena="Coordination, RNR">
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="Coo163" language="jp" phenomena="Coordination, RNR">
     <description>
     《構成素の等位接続（並列読み）→非構成素等位接続（名詞句境界を超える例）》</description>
     <p idx="1">
@@ -2002,8 +2002,8 @@
     </h>
     <note>可能な解釈の一つ。</note>
   </problem>
-  <problem answer="" inference_type="entailment" jsem_id="Coo164"
-  language="jp" phenomena="Coordination, RNR">
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="Coo164" language="jp" phenomena="Coordination, RNR">
     <description>
     《構成素の等位接続（並列読み）→非構成素等位接続（名詞句境界を超える例）》</description>
     <p idx="1">

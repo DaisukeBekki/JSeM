@@ -1113,4 +1113,3 @@ CV1112					su‚µ‚Â‚Â‚ ‚évFŒXŒü‚ğ•\‚·u‚µ‚Â‚Â‚ ‚évFu`‚·‚éŒXŒü‚É‚ ‚év‚Ö‚ÌŒ
 CV1113					su‚µ‚Â‚Â‚ ‚évFŒXŒü‚ğ•\‚·u‚µ‚Â‚Â‚ ‚évFu`‚·‚éŒXŒü‚É‚ ‚év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Compound verb, -situtuaru"	entailment		‘¾˜Y‚ÌƒsƒAƒm‚Íã’B‚µ‚Â‚Â‚ ‚éB	‘¾˜Y‚ÌƒsƒAƒm‚Íã’B‚·‚éŒXŒü‚É‚ ‚éB														
 CV1114					su‚µ‚Â‚Â‚ ‚évFŒXŒü‚ğ•\‚·u‚µ‚Â‚Â‚ ‚évFu`‚·‚éŒXŒü‚É‚ ‚év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Compound verb, -situtuaru"	entailment		•”‰®‚Ì‰·“x‚ª‰º‚ª‚è‚Â‚Â‚ ‚éB	•”‰®‚Ì‰·“x‚Í‰º‚ª‚éŒXŒü‚É‚ ‚éB														
 CV1115					su‚µ‚Â‚Â‚ ‚évFŒXŒü‚ğ•\‚·u‚µ‚Â‚Â‚ ‚évFu`‚·‚éŒXŒü‚É‚ ‚év‚Ö‚ÌŒ¾‚¢Š·‚¦t		yes	"Compound verb, -situtuaru"	entailment		‹Æ–±‚Ì’†‚Å‰pŒê‚ğg‚¤ê–Ê‚ª‘‚¦‚Â‚Â‚ ‚éB	‹Æ–±‚Ì’†‚Å‰pŒê‚ğg‚¤ê–Ê‚Í‘‚¦‚éŒXŒü‚É‚ ‚éB				
-																										
