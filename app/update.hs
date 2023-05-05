@@ -1,25 +1,22 @@
 {-# LANGUAGE OverloadedStrings #-}
 
--- | tsvフォルダのtsvファイルのうち、同名のxmlが存在しないものについてxmlに変換。
--- | statを実行
--- | README.mdを更新
--- | Usage: stack exec update -- data/v1.0
-
 import Control.Monad (forM_,when)   --base
-import System.FilePath ((</>),isExtensionOf,replaceExtensions) --filepath
-import System.Environment (getArgs)      --base
+import System.FilePath (replaceExtensions) --filepath
 import qualified System.Directory as D   --directory
 import qualified Data.Text.IO as StrictT --text
+import JSeM.Directory (findFilesFromDirectory) --jsem
 import qualified JSeM.XML as J           --jsem
 import qualified JSeM.TSV as J           --jsem
 import qualified JSeM.Cmd as J           --jsem
 
--- | dataFolderにある拡張子.txtファイルのすべてについて、
+-- | 与えられたフォルダ（新データ用）にある（拡張子.txtの）TSVファイルのうち
+-- | 同名のxmlが存在しないものについてxmlに変換し、同フォルダに保存する。
+-- | その後、statを実行し、
+-- | README.mdを更新？
+-- | Usage:   stack run update -- data/v1.0
 main :: IO()
 main = do
-  (dataFolder:_) <- getArgs
-  _ <- D.doesDirectoryExist dataFolder 
-  tsvFiles <- map (dataFolder </>) <$> filter (isExtensionOf "txt") <$> D.listDirectory dataFolder
+  (dataFolder,tsvFiles) <- findFilesFromDirectory "txt"
   -- | TSVデータの整合性をチェック。エラーがあれば終了する。
   J.validateTsvFiles tsvFiles
   -- | XMLデータへの変換
