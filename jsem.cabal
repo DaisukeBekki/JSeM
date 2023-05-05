@@ -1,10 +1,10 @@
 cabal-version: 1.12
 
--- This file has been generated from package.yaml by hpack version 0.34.4.
+-- This file has been generated from package.yaml by hpack version 0.35.1.
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 7c318ca73b84ccc84cff4cb7cdb1594b69fe2d35467a9397ba4461614ea0a71c
+-- hash: ac63cf6bef99388a3994738a8891f94a55ea63e24202563bbbf87ff1e57fa1d2
 
 name:           jsem
 version:        0.1.5
@@ -31,6 +31,7 @@ source-repository head
 library
   exposed-modules:
       JSeM
+      JSeM.Directory
       JSeM.TSV
       JSeM.XML
       JSeM.Cmd
