@@ -14,6 +14,7 @@ module JSeM (
   readYesNo,
   JSeMLabel(..),
   readJSeMLabel,
+  jsemLabel2YesNo,
   jsemData2stat
 ) where
 
@@ -44,7 +45,7 @@ data JSeMLink = Link {
   deriving (Eq, Show)
 
 -- | A data type for {"yes" | "no"}
-data YesNo = Yes | No | Unk | Other deriving (Eq)
+data YesNo = Yes | No | Unk | Other deriving (Eq, Enum, Bounded)
 instance Show YesNo where
   show Yes = "yes"
   show No = "no"
@@ -60,9 +61,9 @@ readYesNo yn =
     _ -> Other
 
 -- | Three labels as answers to a given inference data (yes, no, unknown)
--- plus four extra labels (undef, unacceptable, weaklyaceptable, infelicitous)
--- for syntactic, semantic and pragmatic anomaly (respectively).
-data JSeMLabel = YES | NO | UNKNOWN | UNDEF | UNACCEPTABLE | WEAKACCEPTABLE | INFELICITOUS | OTHER deriving (Eq)
+-- | plus four extra labels (undef, unacceptable, weaklyaceptable, infelicitous)
+-- | for syntactic, semantic and pragmatic anomaly (respectively).
+data JSeMLabel = YES | NO | UNKNOWN | UNDEF | UNACCEPTABLE | WEAKACCEPTABLE | INFELICITOUS | OTHER deriving (Eq, Enum, Bounded)
 
 instance Show JSeMLabel where
   show YES = "yes"
@@ -88,6 +89,16 @@ readJSeMLabel j =
     "infelicitous" -> INFELICITOUS
     "#" -> INFELICITOUS
     _ -> OTHER
+
+jsemLabel2YesNo :: JSeMLabel -> YesNo
+jsemLabel2YesNo YES = Yes
+jsemLabel2YesNo NO = No
+jsemLabel2YesNo UNKNOWN = Unk
+jsemLabel2YesNo UNDEF = Other
+jsemLabel2YesNo UNACCEPTABLE = Other
+jsemLabel2YesNo WEAKACCEPTABLE = Other
+jsemLabel2YesNo INFELICITOUS = Other
+jsemLabel2YesNo OTHER = Other
 
 -- | takes a list of "problem" nodes and returns a statistics (in a text format).
 jsemData2stat :: [JSeMData] -> StrictT.Text
