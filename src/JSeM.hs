@@ -47,10 +47,10 @@ data JSeMLink = Link {
 -- | A data type for {"yes" | "no"}
 data YesNo = Yes | No | Unk | Other deriving (Eq, Enum, Bounded)
 instance Show YesNo where
-  show Yes = "yes"
-  show No = "no"
-  show Unk = "unknown"
-  show Other = ""
+  show Yes = "Yes"
+  show No = "No"
+  show Unk = "Unk"
+  show Other = "Other"
 
 readYesNo :: StrictT.Text -> YesNo
 readYesNo yn =
