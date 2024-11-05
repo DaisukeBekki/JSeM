@@ -4,10 +4,10 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 50a035f0d79f89bf48a80efe291ef3624f0718102ab9e569e7a5e2e4d69bc35f
+-- hash: 43bd02ca6101c27774e925b5a228ce2be12ba71dcdf9915b7dbf257bb75bcce2
 
 name:           jsem
-version:        1.0
+version:        1.1
 synopsis:       Japanese (FraCaS-style) semantic test suit and Haskell tools
 description:    Please see the README on Github at <https://github.com/DaisukeBekki/JSeM#readme>
 homepage:       https://github.com/DaisukeBekki/JSeM#readme
