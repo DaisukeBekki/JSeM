@@ -1,0 +1,9 @@
+D01			unknown								Either a woman walked in or she sat dawn.	John sat down.
+D01c			yes								A woman walked in and she sat down.	John sat down.
+D02-a			unknown								Either a woman walked in or John sat down.	She smiled.
+D02-ac			yes								A woman walked in and John sat down.	She smiled.
+D02-b			unknown								Either John sat down or a woman walked in.	She smiled.
+D02-bc			yes								John sat down and a woman walked in.	She smiled.
+D03			yes								A professor or an assistant professor will attend the meeting.	She will report to the faculty.
+D05			yes								Either it is a holiday or a customer will come in.	"If it is not a holiday, they will want to be served."
+D05c			unknown								Either it is a holiday or a customer will come in.	They will want to be served.

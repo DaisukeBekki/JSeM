@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE jsem-dataset SYSTEM "jsem.dtd">
+<?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
+<jsem-dataset>
+  <problem answer="" inference_type="" jsem_id="D01" language="jp"
+  phenomena="">
+    <description></description>
+    <p idx="1">
+      <script>Either a woman walked in or she sat dawn.</script>
+    </p>
+    <h>
+      <script>John sat down.</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="" inference_type="" jsem_id="D01c" language="jp"
+  phenomena="">
+    <description></description>
+    <p idx="1">
+      <script>A woman walked in and she sat down.</script>
+    </p>
+    <h>
+      <script>John sat down.</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="" inference_type="" jsem_id="D02-a"
+  language="jp" phenomena="">
+    <description></description>
+    <p idx="1">
+      <script>Either a woman walked in or John sat down.</script>
+    </p>
+    <h>
+      <script>She smiled.</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="" inference_type="" jsem_id="D02-ac"
+  language="jp" phenomena="">
+    <description></description>
+    <p idx="1">
+      <script>A woman walked in and John sat down.</script>
+    </p>
+    <h>
+      <script>She smiled.</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="" inference_type="" jsem_id="D02-b"
+  language="jp" phenomena="">
+    <description></description>
+    <p idx="1">
+      <script>Either John sat down or a woman walked in.</script>
+    </p>
+    <h>
+      <script>She smiled.</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="" inference_type="" jsem_id="D02-bc"
+  language="jp" phenomena="">
+    <description></description>
+    <p idx="1">
+      <script>John sat down and a woman walked in.</script>
+    </p>
+    <h>
+      <script>She smiled.</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="" inference_type="" jsem_id="D03" language="jp"
+  phenomena="">
+    <description></description>
+    <p idx="1">
+      <script>A professor or an assistant professor will attend the
+      meeting.</script>
+    </p>
+    <h>
+      <script>She will report to the faculty.</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="" inference_type="" jsem_id="D05" language="jp"
+  phenomena="">
+    <description></description>
+    <p idx="1">
+      <script>Either it is a holiday or a customer will come
+      in.</script>
+    </p>
+    <h>
+      <script>"If it is not a holiday, they will want to be
+      served."</script>
+    </h>
+    <note></note>
+  </problem>
+  <problem answer="" inference_type="" jsem_id="D05c" language="jp"
+  phenomena="">
+    <description></description>
+    <p idx="1">
+      <script>Either it is a holiday or a customer will come
+      in.</script>
+    </p>
+    <h>
+      <script>They will want to be served.</script>
+    </h>
+    <note></note>
+  </problem>
+</jsem-dataset>
+
