@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE jsem-dataset SYSTEM "jsem.dtd">
+<?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
+<jsem-dataset>
+  <problem answer="yes" inference_type="entailment"
+  jsem_id="b01" language="jp"
+  phenomena="Modifier">
+    <description>《basic example》</description>
+    <p idx="1">
+      <script>太郎が緑色の茶を飲んだ。</script>
+    </p>
+    <h>
+      <script>太郎が茶を飲んだ。</script>
+    </h>
+    <note></note>
+  </problem>
+</jsem-dataset>
