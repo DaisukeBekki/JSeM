@@ -57,7 +57,7 @@ main = do
   let parsedAnswers = Y.decodeEither' geminiAnswers :: Either Y.ParseException [LLManswer]
   parsedAnswers' <- case parsedAnswers of
                       Left parse_exception -> 
-                        error $ "Could not parse yaml file for " ++ (show fileName) ++ ": " ++ (show parse_exception)
+                        error $ "Could not parse yaml file for level" ++ (show fileName) ++ ": " ++ (show parse_exception)
                       Right infData -> return infData
   -- print answers
   jsemXML <- T.readFile $ basePath ++ "level" ++ fileName ++ ".xml"
@@ -71,4 +71,3 @@ main = do
       predictions = map (label . output . inference) parsedAnswers' 
   let pairs = zip predictions groundTruth 
   T.putStrLn $ T.fromStrict $ NLP.showClassificationReport pairs
-  print "Finished."  

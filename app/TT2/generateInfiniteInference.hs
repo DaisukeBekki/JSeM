@@ -14,15 +14,13 @@ basePath = "./app/TT2/log/"
 main :: IO ()
 main = do
   (depthString:_) <- E.getArgs
-  let depth = int2nat $ ((read depthString)::Int)
+  let dataset = take 100 $ infOf $ int2nat $ ((read depthString)::Int)
       jsemFilePath = basePath ++ "level" ++ depthString ++ ".xml"
       promptPath = basePath ++ "level" ++ depthString ++ ".prompt"
-  -- | print as JSeM data
-  S.withFile jsemFilePath S.WriteMode $ \h -> do
+  S.withFile jsemFilePath S.WriteMode $ \h -> do -- | print as JSeM data
     T.hPutStrLn h jsemHeader
-    mapM_ (T.hPutStrLn h . inference2jsem) $ take 100 $ infOf depth
+    mapM_ (T.hPutStrLn h . inference2jsem) dataset
     T.hPutStrLn h jsemFooter
-  -- | print as prompt
-  S.withFile promptPath S.WriteMode $ \h -> do
-    S.hPutStrLn h prompt
-    mapM_ (T.hPutStrLn h . inference2prompt) $ take 100 $ infOf depth
+  S.withFile promptPath S.WriteMode $ \h -> do   -- | print as prompt
+    S.hPutStr h prompt
+    mapM_ (T.hPutStrLn h . inference2prompt) dataset

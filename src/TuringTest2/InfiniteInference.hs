@@ -97,7 +97,7 @@ data Rel = Rel {
 
 relations :: [Rel]
 relations = [
-  Rel "built" FARMER HOUSE
+  Rel "inhabited by" HOUSE FARMER
   , Rel "lay in" MALT HOUSE
   , Rel "ate" RAT MALT
   , Rel "killed" CAT RAT
@@ -108,7 +108,7 @@ relations = [
   , Rel "married" PRIEST MAN
   , Rel "waked" COCK PRIEST
   , Rel "kept" CONE COCK
-  , Rel "SEW" FARMER CONE
+  , Rel "sew" FARMER CONE
   ]
 
 data Monotonicity = Upward | Downward deriving (Eq, Show)
@@ -116,10 +116,10 @@ data QMon = QMon T.Text Monotonicity Monotonicity deriving (Eq, Show)
 
 quantifiers :: [QMon]
 quantifiers = [
-  QMon "every" Upward Downward
-  , QMon "some" Downward Downward
-  , QMon "no" Downward Upward
-  , QMon "not every" Downward Upward
+  QMon "every"     Downward Upward,
+  QMon "some"      Upward   Upward,
+  QMon "no"        Downward Downward,
+  QMon "not every" Upward   Downward
   ]
 
 infOf :: Nat -> [Inference]
@@ -131,10 +131,8 @@ infOf (S n) = do
   guard $ o == gapCN inf
   QMon qname left _ <- quantifiers
   let (premiseTokens, conclusionTokens) = case left of
-        Upward   -> (conclusion inf, premise inf)
-          -- | label inf == True  -> (conclusion inf, premise inf)
-          -- | label inf == False -> (premise inf, conclusion inf)
-        Downward -> (premise inf, conclusion inf)
+        Downward -> (conclusion inf, premise inf)
+        Upward   -> (premise inf, conclusion inf)
   let premiseN    = (relName rel):qname:(cn2text o):("that"):premiseTokens
       conclusionN = (relName rel):qname:(cn2text o):("that"):conclusionTokens
   return $ Inf (S $ lvl inf) (pheno inf) (sbjCN rel) premiseN conclusionN 
@@ -183,22 +181,25 @@ prompt :: String
 prompt = [r|
 You are an expert in Natural Language Processing (NLP) and logical reasoning.
 
-Your task is to perform a Natural Language Inference (NLI) task. Based strictly on the provided "Premise", determine whether the "Hypothesis" logically holds true.
+Your task is to perform a Natural Language Inference (NLI) task. Based strictly on the provided "premise", determine whether the "hypothesis" logically holds true.
 
 Restrict your output label to one of the following two options:
 - YES: The premise entails the hypothesis (i.e., if the premise is true, the hypothesis is undeniably true).
 - UNK: The premise does not provide enough information to definitively prove the hypothesis is true. (This includes neutral cases where information is missing, as well as cases where the hypothesis contradicts the premise).
 
 [Important Rules]
-1. Do not use any external or prior knowledge. Rely completely and solely on the information explicitly stated in the "Premise".
+1. Do not use any external or prior knowledge. Rely completely and solely on the information explicitly stated in the "premise".
 2. To maximize accuracy, you must write out your step-by-step logical reasoning process before stating the final label.
 
 [Output Format]
 You must output strictly in the following YAML format:
 
-  Output:
-    reasoning: "Step-by-step logical verification of whether the hypothesis can be derived from the premise.",
-    label: "YES" or "UNK"
+- inference:
+    premise: The given premise sentence.  
+    hypothesis: The given hypothesis sentence.
+    output: 
+      reasoning: Step-by-step logical verification of whether the hypothesis can be derived from the premise.
+      label: "YES" or "UNK"
 
 [Examples]
 - inference:
@@ -223,55 +224,4 @@ You must output strictly in the following YAML format:
       label: "UNK"
 
 [Input Data]
-- inference:
-    premise: A cow tossed every dog that chased John or Mary
-    hypothesis: A cow tossed every dog that chased John
-    Output:
-      reasoning:
-      label:
-
-- inference:
-    premise: A cow tossed some dog that chased John or Mary
-    hypothesis: A cow tossed some dog that chased John
-    output:
-      reasoning:
-      label:
-
-- inference:
-    premise: A cow tossed no dog that chased John
-    hypothesis: A cow tossed no dog that chased John or Mary
-    output:
-      reasoning:
-      label:
-
-- inference:
-    premise: A cow tossed not every dog that chased John
-    hypothesis: A cow tossed not every dog that chased John or Mary
-    output:
-      reasoning:
-      label:
 |]
-
-
--- inference2Subsumption :: Inference -> [Token]
--- inference2Subsumption Inf{..} = Inf gapCN (map (token2Word gapCN) premise) (map (token2Word gapCN) conclusion)
-
--- entailmentData :: [Inference]
--- entailmentData = [
---   Inf (0, SharedNP "Mary" PERSON)
---       [Trace 0, Word "met John and Bill"] 
---       [Trace 0, Word "met John"]
---   ]
-
--- monotonicityData :: [Token]
--- monotonicityData = [Word "Every", Downward "student" PERSON, Word "greeted Alex"]
-
--- entailment2inclusion :: Inference -> Inclusion
--- entailment2inclusion Inference{..} = 
---   let mapping = M.fromList sharednp in {
---   premise' = sentence2relclause mapping premise
---   , conclusion' = sentence2relclause mapping conclusion 
---   }
-
--- sentence2relclause :: (M.Map Int SharedNP) -> [Token] -> [Token]
--- sentence2relclause m ts = T.concat [Word (CommonNoun2noun ), 
