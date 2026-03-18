@@ -2,6 +2,10 @@ resolver: lts-18.28
 
 flags: {}
 
+extra-deps:
+- git: http://github.com/DaisukeBekki/nlp-tools
+  commit: e4bd3783f4e872b8df29538d9219e41f40378363
+
 system-ghc: true
 
 build:
