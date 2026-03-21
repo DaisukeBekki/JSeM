@@ -43,6 +43,7 @@ library:
     - JSeM.XML
     - JSeM.Cmd
     - TuringTest2.InfiniteInference
+    - TuringTest2.Prompt
   other-modules: []
 
 executables:
