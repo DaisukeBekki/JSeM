@@ -2,18 +2,18 @@
 <!DOCTYPE jsem-dataset SYSTEM "jsem.dtd">
 <?xml-stylesheet type="text/xsl" href="jsem.xsl"?>
 <jsem-dataset>
-  <problem answer="" inference_type="" jsem_id="D01" language="jp"
+  <problem answer="other" inference_type="" jsem_id="D01" language="jp"
   phenomena="">
     <description></description>
     <p idx="1">
-      <script>Either a woman walked in or she sat dawn.</script>
+      <script>Either a woman walked in or she sat down.</script>
     </p>
     <h>
       <script>John sat down.</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="" inference_type="" jsem_id="D01c" language="jp"
+  <problem answer="unk" inference_type="" jsem_id="D01c" language="jp"
   phenomena="">
     <description></description>
     <p idx="1">
@@ -24,7 +24,7 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="" inference_type="" jsem_id="D02-a"
+  <problem answer="other" inference_type="" jsem_id="D02-a"
   language="jp" phenomena="">
     <description></description>
     <p idx="1">
@@ -35,7 +35,7 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="" inference_type="" jsem_id="D02-ac"
+  <problem answer="unk" inference_type="" jsem_id="D02-ac"
   language="jp" phenomena="">
     <description></description>
     <p idx="1">
@@ -46,7 +46,7 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="" inference_type="" jsem_id="D02-b"
+  <problem answer="other" inference_type="" jsem_id="D02-b"
   language="jp" phenomena="">
     <description></description>
     <p idx="1">
@@ -57,7 +57,7 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="" inference_type="" jsem_id="D02-bc"
+  <problem answer="unk" inference_type="" jsem_id="D02-bc"
   language="jp" phenomena="">
     <description></description>
     <p idx="1">
@@ -68,7 +68,7 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="" inference_type="" jsem_id="D03" language="jp"
+  <problem answer="unk" inference_type="" jsem_id="D03" language="jp"
   phenomena="">
     <description></description>
     <p idx="1">
@@ -80,7 +80,7 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="" inference_type="" jsem_id="D05" language="jp"
+  <problem answer="unk" inference_type="" jsem_id="D05" language="jp"
   phenomena="">
     <description></description>
     <p idx="1">
@@ -88,12 +88,12 @@
       in.</script>
     </p>
     <h>
-      <script>"If it is not a holiday, they will want to be
+      <script>"If it is not a holiday, the customer will want to be
       served."</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="" inference_type="" jsem_id="D05c" language="jp"
+  <problem answer="other" inference_type="" jsem_id="D05c" language="jp"
   phenomena="">
     <description></description>
     <p idx="1">
@@ -101,7 +101,7 @@
       in.</script>
     </p>
     <h>
-      <script>They will want to be served.</script>
+      <script>The customer will want to be served.</script>
     </h>
     <note></note>
   </problem>
