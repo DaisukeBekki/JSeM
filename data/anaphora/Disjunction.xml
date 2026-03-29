@@ -13,7 +13,7 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="unk" inference_type="" jsem_id="D01c" language="jp"
+  <problem answer="unknown" inference_type="" jsem_id="D01c" language="jp"
   phenomena="">
     <description></description>
     <p idx="1">
@@ -35,7 +35,7 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="unk" inference_type="" jsem_id="D02-ac"
+  <problem answer="unknown" inference_type="" jsem_id="D02-ac"
   language="jp" phenomena="">
     <description></description>
     <p idx="1">
@@ -57,7 +57,7 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="unk" inference_type="" jsem_id="D02-bc"
+  <problem answer="unknown" inference_type="" jsem_id="D02-bc"
   language="jp" phenomena="">
     <description></description>
     <p idx="1">
@@ -68,28 +68,25 @@
     </h>
     <note></note>
   </problem>
-  <problem answer="unk" inference_type="" jsem_id="D03" language="jp"
+  <problem answer="unknown" inference_type="" jsem_id="D03" language="jp"
   phenomena="">
     <description></description>
     <p idx="1">
-      <script>A professor or an assistant professor will attend the
-      meeting.</script>
+      <script>A professor or an assistant professor will attend the meeting.</script>
     </p>
     <h>
       <script>She will report to the faculty.</script>
     </h>
     <note></note>
   </problem>
-  <problem answer="unk" inference_type="" jsem_id="D05" language="jp"
+  <problem answer="unknown" inference_type="" jsem_id="D05" language="jp"
   phenomena="">
     <description></description>
     <p idx="1">
-      <script>Either it is a holiday or a customer will come
-      in.</script>
+      <script>Either it is a holiday or a customer will come in.</script>
     </p>
     <h>
-      <script>"If it is not a holiday, the customer will want to be
-      served."</script>
+      <script>"If it is not a holiday, the customer will want to be served."</script>
     </h>
     <note></note>
   </problem>
@@ -97,8 +94,7 @@
   phenomena="">
     <description></description>
     <p idx="1">
-      <script>Either it is a holiday or a customer will come
-      in.</script>
+      <script>Either it is a holiday or a customer will come in.</script>
     </p>
     <h>
       <script>The customer will want to be served.</script>
